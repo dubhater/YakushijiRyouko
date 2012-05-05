@@ -17,274 +17,274 @@ Style: Yaku Note,Franklin Gothic Demi Cond,32,&H00F7F0E9,&H0065380B,&H0065380B,&
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 
 Dialogue: 0,0:01:39.91,0:01:43.90,Yaku Note,Note,0,0,0,,{\be1\3a&H30&}{\t(2984,3985,\alphaff}[Note: The song being sung in the background is an Okinawan folk song.]
-Dialogue: 0,0:01:51.62,0:01:55.05,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Why is Sanpin Tea the only tea all those vending machines are carrying?
-Dialogue: 0,0:01:56.06,0:01:57.38,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Izumida-kun!
-Dialogue: 0,0:02:02.05,0:02:05.51,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Geez, where did he wander off to?
-Dialogue: 0,0:02:19.04,0:02:21.39,Yaku T,Jun,0,0,0,,{\be1\3a&H30&\fscx110}My name is Izumida Jun'ichirou.
-Dialogue: 0,0:02:21.39,0:02:23.81,Yaku T,Jun,0,0,0,,{\be1\3a&H30&\fscx110}During the fifteen minute boat trip,
-Dialogue: 0,0:02:23.81,0:02:27.36,Yaku T,Jun,0,0,0,,{\be1\3a&H30&\fscx110}I was fortunate enough to have some time to myself in the car.
-Dialogue: 0,0:02:28.10,0:02:30.04,Yaku T,Jun,0,0,0,,{\be1\3a&H30&\fscx110}That's more than I can say for the man in bandages.
-Dialogue: 0,0:02:32.94,0:02:35.94,Yaku T,Jun,0,0,0,,{\be1\3a&H30&\fscx110}He didn't know that Yakushiji Ryoko's scarf included
-Dialogue: 0,0:02:35.94,0:02:42.01,Yaku T,Jun,0,0,0,,{\be1\3a&H30&\fscx110}a thread as tough as a diamond, a thread made from carbon fiber.
-Dialogue: 0,0:02:54.50,0:02:56.48,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}It would have been a perfect crime
-Dialogue: 0,0:02:56.48,0:03:00.83,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}if I had just "tripped" on the fire\Nextinguisher and "fallen" off the ferry.
-Dialogue: 0,0:03:00.83,0:03:01.78,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Too bad.
-Dialogue: 0,0:03:02.67,0:03:05.54,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}You still did this even after knowing that I'm Counselor
-Dialogue: 0,0:03:05.54,0:03:08.00,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Yakushiji Ryoko of the Metropolitan Police\NDepartment's Criminal Investigation Division?
-Dialogue: 0,0:03:20.24,0:03:21.43,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Transformation Technique?
-Dialogue: 0,0:03:48.59,0:03:49.62,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Move!
-Dialogue: 0,0:03:50.56,0:03:51.41,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Superintendent!
-Dialogue: 0,0:03:51.99,0:03:52.89,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Assault.
-Dialogue: 0,0:03:52.89,0:03:54.79,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}The attempted murderer was caught red-handed.
-Dialogue: 0,0:03:54.79,0:03:57.42,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Attempted murder?  You did?
-Dialogue: 0,0:03:58.01,0:04:01.21,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Does it look like I'm trying to kill the witness?
-Dialogue: 0,0:04:02.77,0:04:05.14,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Why did you park all the way back here?!
-Dialogue: 0,0:04:05.14,0:04:08.01,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}You told me to go in first.
-Dialogue: 0,0:04:09.49,0:04:11.02,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}We're going out first too!
-Dialogue: 0,0:04:11.26,0:04:12.35,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}I'm first!
-Dialogue: 0,0:04:13.07,0:04:14.35,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}S-Superintendent!
-Dialogue: 0,0:04:37.55,0:04:41.32,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}By the way, Superintendent, are you really here on vacation?
-Dialogue: 0,0:04:41.32,0:04:42.94,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}You sure are persistent.
-Dialogue: 0,0:04:42.94,0:04:47.10,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}It's not that.  Wouldn't I just be a nuisance if that was the case?
-Dialogue: 0,0:04:47.88,0:04:48.91,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}My.
-Dialogue: 0,0:04:48.91,0:04:53.06,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Isn't ensuring your boss's safety during a vacation a part of the job description too?
-Dialogue: 0,0:05:00.23,0:05:02.07,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}So this is the mangrove.
-Dialogue: 0,0:05:02.07,0:05:04.45,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}It sure does come in various shapes.
-Dialogue: 0,0:05:04.89,0:05:09.19,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Mangrove is a general term used to describe the plants and vegetation that grow in brackish water.
-Dialogue: 0,0:05:09.19,0:05:11.76,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}This water, for example, exists in the mouths of rivers
-Dialogue: 0,0:05:11.76,0:05:13.50,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}where the fresh water from swamps mixes with salt water.
-Dialogue: 0,0:05:14.24,0:05:17.25,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Even a palm tree would be considered a mangrove if it grew here.
-Dialogue: 0,0:05:18.19,0:05:19.57,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}I see.
-Dialogue: 0,0:05:22.40,0:05:23.42,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}What was that just now?
-Dialogue: 0,0:05:23.42,0:05:27.40,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Mangrove seeds germinate while still on the tree.
-Dialogue: 0,0:05:27.40,0:05:31.01,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}When they fall, they get embedded in the mud.
-Dialogue: 0,0:05:31.01,0:05:33.21,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}It's called a vivipary seed.
-Dialogue: 0,0:05:33.21,0:05:34.19,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}That's probably what made the sound.
-Dialogue: 0,0:05:34.19,0:05:35.14,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}I see...
-Dialogue: 0,0:05:42.40,0:05:44.73,Yaku M,Ppl,0,0,0,,{\be1\3a&H30&\fscx110}Tadomura Family, stop destroying nature!
-Dialogue: 0,0:05:43.87,0:05:44.73,Yaku 2on,Gal,0,0,0,,{\be1\3a&H30&\fscx110}Yeah, stop it!
-Dialogue: 0,0:05:44.73,0:05:46.95,Yaku M,Guy,0,0,0,,{\be1\3a&H30&\fscx110}Stop the destruction!
-Dialogue: 0,0:05:46.95,0:05:50.05,Yaku M,Guy,0,0,0,,{\be1\3a&H30&\fscx110}The mangrove is an important place where we make offers to God!
-Dialogue: 0,0:05:50.05,0:05:52.16,Yaku M,Guy,0,0,0,,{\be1\3a&H30&\fscx110}Don't destroy it with your selfish construction!
-Dialogue: 0,0:05:52.79,0:05:56.87,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Oh my.  With this, the tourist spot is ruined.
-Dialogue: 0,0:05:57.30,0:06:00.00,Yaku M,Man,0,0,0,,{\be1\3a&H30&\fscx110}Stop screaming on private property.
-Dialogue: 0,0:06:00.00,0:06:04.01,Yaku M,Man,0,0,0,,{\be1\3a&H30&\fscx110}You bought the local government and used force to build this!
-Dialogue: 0,0:06:04.01,0:06:05.94,Yaku M,Ppl,0,0,0,,{\be1\3a&H30&\fscx110}That's right.  That's right.
-Dialogue: 0,0:06:04.44,0:06:05.94,Yaku 2on,Man,0,0,0,,{\be1\3a&H30&\fscx110}We are abiding by the law.
-Dialogue: 0,0:06:05.94,0:06:07.80,Yaku M,Man,0,0,0,,{\be1\3a&H30&\fscx110}We aren't destroying nature.
-Dialogue: 0,0:06:07.80,0:06:11.72,Yaku M,Guy,0,0,0,,{\be1\3a&H30&\fscx110}People from the mainland are building hotels and villas that don't fit the area.
-Dialogue: 0,0:06:11.72,0:06:14.31,Yaku M,Guy,0,0,0,,{\be1\3a&H30&\fscx110}That in itself is destroying the island!
-Dialogue: 0,0:06:14.70,0:06:17.27,Yaku M,Guy,0,0,0,,{\be1\3a&H30&\fscx110}The mangrove doesn't only belong to the Tadomura Family!
-Dialogue: 0,0:06:15.70,0:06:17.27,Yaku 2on,Guy,0,0,0,,{\be1\3a&H30&\fscx110}Bring us to Mr. Tadomura!
-Dialogue: 0,0:06:17.27,0:06:17.86,Yaku M,Gal,0,0,0,,{\be1\3a&H30&\fscx110}Bring us to him!
-Dialogue: 0,0:06:17.86,0:06:19.63,Yaku M,,0,0,0,,{\be1\3a&H30&\fscx110}Bring us to Mr. Tadomura!
-Dialogue: 0,0:06:19.63,0:06:20.42,Yaku M,,0,0,0,,{\be1\3a&H30&\fscx110}Bring us to him!
-Dialogue: 0,0:06:31.76,0:06:33.46,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}What are you doing?
-Dialogue: 0,0:06:33.46,0:06:34.87,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}That was just too rough!
-Dialogue: 0,0:06:34.87,0:06:35.64,Yaku M,Man,0,0,0,,{\be1\3a&H30&\fscx110}He's right!  It was rough!
-Dialogue: 0,0:06:35.64,0:06:36.71,Yaku M,Guy,0,0,0,,{\be1\3a&H30&\fscx110}A tourist?
-Dialogue: 0,0:06:38.01,0:06:41.39,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}You're... um...
-Dialogue: 0,0:06:41.39,0:06:44.34,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}We met at Aoyama Broadway.
-Dialogue: 0,0:06:44.34,0:06:44.88,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}What?
-Dialogue: 0,0:06:54.90,0:06:56.89,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}You're still alive?
-Dialogue: 0,0:06:59.58,0:06:59.90,Yaku M,Guy,0,0,0,,{\be1\3a&H30&\fscx110}Hey.
-Dialogue: 0,0:07:04.47,0:07:07.61,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}He's the one who attacked me on the ferry.
-Dialogue: 0,0:07:07.61,0:07:08.40,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}No way!
+Dialogue: 0,0:01:51.62,0:01:55.05,Yaku M,Ryo,0,0,0,,Why is Sanpin Tea the only tea all those vending machines are carrying?
+Dialogue: 0,0:01:56.06,0:01:57.38,Yaku M,Ryo,0,0,0,,Izumida-kun!
+Dialogue: 0,0:02:02.05,0:02:05.51,Yaku M,Ryo,0,0,0,,Geez, where did he wander off to?
+Dialogue: 0,0:02:19.04,0:02:21.39,Yaku T,Jun,0,0,0,,My name is Izumida Jun'ichirou.
+Dialogue: 0,0:02:21.39,0:02:23.81,Yaku T,Jun,0,0,0,,During the fifteen minute boat trip,
+Dialogue: 0,0:02:23.81,0:02:27.36,Yaku T,Jun,0,0,0,,I was fortunate enough to have some time to myself in the car.
+Dialogue: 0,0:02:28.10,0:02:30.04,Yaku T,Jun,0,0,0,,That's more than I can say for the man in bandages.
+Dialogue: 0,0:02:32.94,0:02:35.94,Yaku T,Jun,0,0,0,,He didn't know that Yakushiji Ryoko's scarf included
+Dialogue: 0,0:02:35.94,0:02:42.01,Yaku T,Jun,0,0,0,,a thread as tough as a diamond, a thread made from carbon fiber.
+Dialogue: 0,0:02:54.50,0:02:56.48,Yaku M,Ryo,0,0,0,,It would have been a perfect crime
+Dialogue: 0,0:02:56.48,0:03:00.83,Yaku M,Ryo,0,0,0,,if I had just "tripped" on the fire\Nextinguisher and "fallen" off the ferry.
+Dialogue: 0,0:03:00.83,0:03:01.78,Yaku M,Ryo,0,0,0,,Too bad.
+Dialogue: 0,0:03:02.67,0:03:05.54,Yaku M,Ryo,0,0,0,,You still did this even after knowing that I'm Counselor
+Dialogue: 0,0:03:05.54,0:03:08.00,Yaku M,Ryo,0,0,0,,Yakushiji Ryoko of the Metropolitan Police\NDepartment's Criminal Investigation Division?
+Dialogue: 0,0:03:20.24,0:03:21.43,Yaku M,Ryo,0,0,0,,Transformation Technique?
+Dialogue: 0,0:03:48.59,0:03:49.62,Yaku M,Ryo,0,0,0,,Move!
+Dialogue: 0,0:03:50.56,0:03:51.41,Yaku M,Jun,0,0,0,,Superintendent!
+Dialogue: 0,0:03:51.99,0:03:52.89,Yaku M,Ryo,0,0,0,,Assault.
+Dialogue: 0,0:03:52.89,0:03:54.79,Yaku M,Ryo,0,0,0,,The attempted murderer was caught red-handed.
+Dialogue: 0,0:03:54.79,0:03:57.42,Yaku M,Jun,0,0,0,,Attempted murder?  You did?
+Dialogue: 0,0:03:58.01,0:04:01.21,Yaku M,Ryo,0,0,0,,Does it look like I'm trying to kill the witness?
+Dialogue: 0,0:04:02.77,0:04:05.14,Yaku M,Ryo,0,0,0,,Why did you park all the way back here?!
+Dialogue: 0,0:04:05.14,0:04:08.01,Yaku M,Jun,0,0,0,,You told me to go in first.
+Dialogue: 0,0:04:09.49,0:04:11.02,Yaku M,Ryo,0,0,0,,We're going out first too!
+Dialogue: 0,0:04:11.26,0:04:12.35,Yaku M,Ryo,0,0,0,,I'm first!
+Dialogue: 0,0:04:13.07,0:04:14.35,Yaku M,Jun,0,0,0,,S-Superintendent!
+Dialogue: 0,0:04:37.55,0:04:41.32,Yaku M,Jun,0,0,0,,By the way, Superintendent, are you really here on vacation?
+Dialogue: 0,0:04:41.32,0:04:42.94,Yaku M,Ryo,0,0,0,,You sure are persistent.
+Dialogue: 0,0:04:42.94,0:04:47.10,Yaku M,Jun,0,0,0,,It's not that.  Wouldn't I just be a nuisance if that was the case?
+Dialogue: 0,0:04:47.88,0:04:48.91,Yaku M,Ryo,0,0,0,,My.
+Dialogue: 0,0:04:48.91,0:04:53.06,Yaku M,Ryo,0,0,0,,Isn't ensuring your boss's safety during a vacation a part of the job description too?
+Dialogue: 0,0:05:00.23,0:05:02.07,Yaku M,Jun,0,0,0,,So this is the mangrove.
+Dialogue: 0,0:05:02.07,0:05:04.45,Yaku M,Jun,0,0,0,,It sure does come in various shapes.
+Dialogue: 0,0:05:04.89,0:05:09.19,Yaku M,Ryo,0,0,0,,Mangrove is a general term used to describe the plants and vegetation that grow in brackish water.
+Dialogue: 0,0:05:09.19,0:05:11.76,Yaku M,Ryo,0,0,0,,This water, for example, exists in the mouths of rivers
+Dialogue: 0,0:05:11.76,0:05:13.50,Yaku M,Ryo,0,0,0,,where the fresh water from swamps mixes with salt water.
+Dialogue: 0,0:05:14.24,0:05:17.25,Yaku M,Ryo,0,0,0,,Even a palm tree would be considered a mangrove if it grew here.
+Dialogue: 0,0:05:18.19,0:05:19.57,Yaku M,Jun,0,0,0,,I see.
+Dialogue: 0,0:05:22.40,0:05:23.42,Yaku M,Jun,0,0,0,,What was that just now?
+Dialogue: 0,0:05:23.42,0:05:27.40,Yaku M,Ryo,0,0,0,,Mangrove seeds germinate while still on the tree.
+Dialogue: 0,0:05:27.40,0:05:31.01,Yaku M,Ryo,0,0,0,,When they fall, they get embedded in the mud.
+Dialogue: 0,0:05:31.01,0:05:33.21,Yaku M,Ryo,0,0,0,,It's called a vivipary seed.
+Dialogue: 0,0:05:33.21,0:05:34.19,Yaku M,Ryo,0,0,0,,That's probably what made the sound.
+Dialogue: 0,0:05:34.19,0:05:35.14,Yaku M,Jun,0,0,0,,I see...
+Dialogue: 0,0:05:42.40,0:05:44.73,Yaku M,Ppl,0,0,0,,Tadomura Family, stop destroying nature!
+Dialogue: 0,0:05:43.87,0:05:44.73,Yaku 2on,Gal,0,0,0,,Yeah, stop it!
+Dialogue: 0,0:05:44.73,0:05:46.95,Yaku M,Guy,0,0,0,,Stop the destruction!
+Dialogue: 0,0:05:46.95,0:05:50.05,Yaku M,Guy,0,0,0,,The mangrove is an important place where we make offers to God!
+Dialogue: 0,0:05:50.05,0:05:52.16,Yaku M,Guy,0,0,0,,Don't destroy it with your selfish construction!
+Dialogue: 0,0:05:52.79,0:05:56.87,Yaku M,Ryo,0,0,0,,Oh my.  With this, the tourist spot is ruined.
+Dialogue: 0,0:05:57.30,0:06:00.00,Yaku M,Man,0,0,0,,Stop screaming on private property.
+Dialogue: 0,0:06:00.00,0:06:04.01,Yaku M,Man,0,0,0,,You bought the local government and used force to build this!
+Dialogue: 0,0:06:04.01,0:06:05.94,Yaku M,Ppl,0,0,0,,That's right.  That's right.
+Dialogue: 0,0:06:04.44,0:06:05.94,Yaku 2on,Man,0,0,0,,We are abiding by the law.
+Dialogue: 0,0:06:05.94,0:06:07.80,Yaku M,Man,0,0,0,,We aren't destroying nature.
+Dialogue: 0,0:06:07.80,0:06:11.72,Yaku M,Guy,0,0,0,,People from the mainland are building hotels and villas that don't fit the area.
+Dialogue: 0,0:06:11.72,0:06:14.31,Yaku M,Guy,0,0,0,,That in itself is destroying the island!
+Dialogue: 0,0:06:14.70,0:06:17.27,Yaku M,Guy,0,0,0,,The mangrove doesn't only belong to the Tadomura Family!
+Dialogue: 0,0:06:15.70,0:06:17.27,Yaku 2on,Guy,0,0,0,,Bring us to Mr. Tadomura!
+Dialogue: 0,0:06:17.27,0:06:17.86,Yaku M,Gal,0,0,0,,Bring us to him!
+Dialogue: 0,0:06:17.86,0:06:19.63,Yaku M,,0,0,0,,Bring us to Mr. Tadomura!
+Dialogue: 0,0:06:19.63,0:06:20.42,Yaku M,,0,0,0,,Bring us to him!
+Dialogue: 0,0:06:31.76,0:06:33.46,Yaku M,Jun,0,0,0,,What are you doing?
+Dialogue: 0,0:06:33.46,0:06:34.87,Yaku M,Jun,0,0,0,,That was just too rough!
+Dialogue: 0,0:06:34.87,0:06:35.64,Yaku M,Man,0,0,0,,He's right!  It was rough!
+Dialogue: 0,0:06:35.64,0:06:36.71,Yaku M,Guy,0,0,0,,A tourist?
+Dialogue: 0,0:06:38.01,0:06:41.39,Yaku M,Jun,0,0,0,,You're... um...
+Dialogue: 0,0:06:41.39,0:06:44.34,Yaku M,Ryo,0,0,0,,We met at Aoyama Broadway.
+Dialogue: 0,0:06:44.34,0:06:44.88,Yaku M,Jun,0,0,0,,What?
+Dialogue: 0,0:06:54.90,0:06:56.89,Yaku M,Jun,0,0,0,,You're still alive?
+Dialogue: 0,0:06:59.58,0:06:59.90,Yaku M,Guy,0,0,0,,Hey.
+Dialogue: 0,0:07:04.47,0:07:07.61,Yaku M,Ryo,0,0,0,,He's the one who attacked me on the ferry.
+Dialogue: 0,0:07:07.61,0:07:08.40,Yaku M,Jun,0,0,0,,No way!
 Dialogue: 0,0:07:08.96,0:07:15.10,Yaku Note,Note,0,0,0,,{\be1\3a&H30&}[Note: The N in NPP stands for Nippon, another word for Japan.]
-Dialogue: 0,0:07:08.96,0:07:15.10,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}This villa belongs to Tadomura Ryoujun, the founder of NPP, the Japanese Private Police.
-Dialogue: 0,0:07:15.10,0:07:17.75,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}It's not surprising to see NPP security guards.
-Dialogue: 0,0:07:17.75,0:07:22.14,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Superintendent, did you intend to investigate this place all along?
-Dialogue: 0,0:07:23.05,0:07:23.75,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Superintendent!
-Dialogue: 0,0:07:25.11,0:07:28.76,Yaku T,Kin,0,0,0,,{\be1\3a&H30&\fscx110}{\t(1170,3631,\1c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&\alpha&HFF}It seems NPP is planning something.
-Dialogue: 0,0:07:31.38,0:07:37.91,Yaku T,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Sis, the government has sponsored the creation of a company called NPP to take away JACES's market share.
-Dialogue: 0,0:07:37.91,0:07:40.89,Yaku T,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}They envy our success.
-Dialogue: 0,0:07:41.74,0:07:44.29,Yaku T,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Tadomura is a former Diet member.
-Dialogue: 0,0:07:44.29,0:07:46.75,Yaku T,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}They've meddled with us before.
-Dialogue: 0,0:07:49.41,0:07:50.49,Yaku T,Kin,0,0,0,,{\be1\3a&H30&\fscx110}Have you heard?
-Dialogue: 0,0:07:50.99,0:07:55.43,Yaku T,Kin,0,0,0,,{\be1\3a&H30&\fscx110}Tadomura Ryoujun locked himself up in his villa in Okinawa
-Dialogue: 0,0:07:55.43,0:07:58.95,Yaku T,Kin,0,0,0,,{\be1\3a&H30&\fscx110}and hasn't come out of hiding for six months now.
-Dialogue: 0,0:08:00.08,0:08:04.36,Yaku T,Kin,0,0,0,,{\be1\3a&H30&\fscx110}I also hear he's causing trouble for the environmentalists on the island.
-Dialogue: 0,0:08:05.05,0:08:08.15,Yaku T,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}If we find out why Tadomura locked himself up,
-Dialogue: 0,0:08:08.15,0:08:11.13,Yaku T,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}we might get our hands on NPP's weakness.
-Dialogue: 0,0:08:11.49,0:08:13.23,Yaku T,Sis,0,0,0,,{\be1\3a&H30&\fscx110}Oh my.  You're scary.
-Dialogue: 0,0:08:13.23,0:08:15.85,Yaku T,Sis,0,0,0,,{\be1\3a&H30&\fscx110}I didn't even think of that.
-Dialogue: 0,0:08:17.81,0:08:23.09,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}That said, I get the feeling Okinu is just using me to her advantage.
-Dialogue: 0,0:08:23.09,0:08:26.90,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}But yes, this is a good opportunity to get our hands on NPP's weakness.
-Dialogue: 0,0:08:33.44,0:08:34.81,Yaku M,Yuk,0,0,0,,{\be1\3a&H30&\fscx110}Oryo!
-Dialogue: 0,0:08:34.81,0:08:35.74,Yaku M,Nis,0,0,0,,{\be1\3a&H30&\fscx110}Oryo-sama!
-Dialogue: 0,0:08:35.74,0:08:38.02,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Oh my Oyuki,
-Dialogue: 0,0:08:38.02,0:08:41.84,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}did you get transferred to the Okinawa Police Station
-Dialogue: 0,0:08:41.84,0:08:44.58,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}because you became useless in the Metropolitan Police Department's Security Division?
-Dialogue: 0,0:08:45.13,0:08:46.68,Yaku M,Yuk,0,0,0,,{\be1\3a&H30&\fscx110}Unfortunately not.
-Dialogue: 0,0:08:46.68,0:08:52.49,Yaku M,Yuk,0,0,0,,{\be1\3a&H30&\fscx110}The Superintendent General has been invited to an informal conference, hosted here next month.
-Dialogue: 0,0:08:52.49,0:08:54.34,Yaku M,Yuk,0,0,0,,{\be1\3a&H30&\fscx110}I'm here for the preliminary planning session.
-Dialogue: 0,0:08:54.34,0:08:56.93,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Chairman Tadomura and the Superintendent General?
-Dialogue: 0,0:08:56.93,0:09:04.30,Yaku M,Nis,0,0,0,,{\be1\3a&H30&\fscx110}Yes, it was originally planned to have NPP handle VIP bodyguard duties.
-Dialogue: 0,0:09:04.30,0:09:05.65,Yaku M,Nis,0,0,0,,{\be1\3a&H30&\fscx110}I'm sorry, Oryo-sama.
-Dialogue: 0,0:09:05.98,0:09:10.53,Yaku M,Nis,0,0,0,,{\be1\3a&H30&\fscx110}To be honest, I would have liked to use your family business, JACES, but...
-Dialogue: 0,0:09:10.94,0:09:13.68,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Dirty money's been used, right?
-Dialogue: 0,0:09:13.68,0:09:16.33,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110} To be here for a preliminary planning session for something like that...
-Dialogue: 0,0:09:16.33,0:09:19.74,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}The job's perfect for you since you like illegal things.
-Dialogue: 0,0:09:19.74,0:09:22.48,Yaku M,Yuk,0,0,0,,{\be1\3a&H30&\fscx110}Who did you say likes illegal things?
-Dialogue: 0,0:09:22.48,0:09:25.46,Yaku M,Yuk,0,0,0,,{\be1\3a&H30&\fscx110}You're far more knowledgeable about underground matters.
-Dialogue: 0,0:09:25.46,0:09:26.42,Yaku M,Nis,0,0,0,,{\be1\3a&H30&\fscx110}Now, now.
-Dialogue: 0,0:09:26.42,0:09:29.09,Yaku M,Nis,0,0,0,,{\be1\3a&H30&\fscx110}And?  Why are you here on this island, Oryo-sama?
-Dialogue: 0,0:09:31.07,0:09:35.76,Yaku M,Yuk,0,0,0,,{\be1\3a&H30&\fscx110}I hope you don't intend to bring harm to Chairman Tadomura.
-Dialogue: 0,0:09:36.92,0:09:37.93,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Visiting.
-Dialogue: 0,0:09:38.20,0:09:39.43,Yaku M,Yuk,0,0,0,,{\be1\3a&H30&\fscx110}Lies.
-Dialogue: 0,0:09:42.86,0:09:44.39,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Izumida-kun, let's go.
-Dialogue: 0,0:09:53.20,0:09:58.24,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}So basically, it's a battle for market share between two companies that make up 80% of Japan's security industry:
-Dialogue: 0,0:09:58.24,0:10:03.89,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Yakushiji's JACES and Tadomura's Japanese Private Police.
-Dialogue: 0,0:10:03.89,0:10:05.92,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}I told you that I'm just visiting.
-Dialogue: 0,0:10:06.27,0:10:11.59,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Didn't you come here to investigate the chairman of NPP, which is growing its share?
-Dialogue: 0,0:10:12.30,0:10:16.79,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}What if I told you that they went out of their way to build a villa in the environmentally valuable mangrove forest
-Dialogue: 0,0:10:16.79,0:10:21.48,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}and that numerous environmentalists have gone missing there?
-Dialogue: 0,0:10:21.48,0:10:22.52,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Is that true?
-Dialogue: 0,0:10:22.91,0:10:25.39,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Anyway, why don't you take a swim?
-Dialogue: 0,0:10:25.39,0:10:27.92,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}I'll go stay at some guest house.
-Dialogue: 0,0:10:29.45,0:10:33.61,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}To be honest, resort hotels like this don't suit me.
-Dialogue: 0,0:10:34.13,0:10:39.78,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}The environment here is beautiful, yet they build such artificial and unnatural buildings.
-Dialogue: 0,0:10:39.78,0:10:45.04,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Appreciate the environment in a comfortable room that's air-conditioned and clean.
-Dialogue: 0,0:10:45.69,0:10:48.79,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Isn't this the sight of man winning against nature?
-Dialogue: 0,0:10:49.42,0:10:51.75,Yaku M,Gal,0,0,0,,{\be1\3a&H30&\fscx110}Um, I've brought champagne.
-Dialogue: 0,0:10:54.39,0:10:54.96,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}You're...!
-Dialogue: 0,0:10:59.21,0:11:00.97,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Hey, you!
-Dialogue: 0,0:11:18.40,0:11:20.33,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}W-Why are you running away?
-Dialogue: 0,0:11:20.33,0:11:22.01,Yaku M,Gal,0,0,0,,{\be1\3a&H30&\fscx110}For before...
-Dialogue: 0,0:11:22.01,0:11:23.89,Yaku M,Gal,0,0,0,,{\be1\3a&H30&\fscx110}Thank you.
-Dialogue: 0,0:11:23.89,0:11:25.33,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}No, it's okay.
-Dialogue: 0,0:11:27.60,0:11:29.01,Yaku M,Gal,0,0,0,,{\be1\3a&H30&\fscx110}I'm embarrassed.
-Dialogue: 0,0:11:29.01,0:11:31.34,Yaku M,Gal,0,0,0,,{\be1\3a&H30&\fscx110}I take part in environmental conservation activities,
-Dialogue: 0,0:11:31.34,0:11:36.01,Yaku M,Gal,0,0,0,,{\be1\3a&H30&\fscx110}yet I work part-time for a place that arose from nature's destruction.
-Dialogue: 0,0:11:39.72,0:11:43.22,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}I heard your comrades have gone missing at Tadomura's villa.
-Dialogue: 0,0:11:44.07,0:11:46.18,Yaku M,Gal,0,0,0,,{\be1\3a&H30&\fscx110}You know about my father?
-Dialogue: 0,0:11:46.65,0:11:47.68,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Your father did?
-Dialogue: 0,0:11:49.05,0:11:50.00,Yaku M,Gal,0,0,0,,{\be1\3a&H30&\fscx110}Yes.
-Dialogue: 0,0:11:50.00,0:11:52.36,Yaku M,Gal,0,0,0,,{\be1\3a&H30&\fscx110}We have no proof.
-Dialogue: 0,0:11:52.36,0:11:56.03,Yaku M,Gal,0,0,0,,{\be1\3a&H30&\fscx110}The police decided that he just ran away.
-Dialogue: 0,0:11:56.72,0:12:01.00,Yaku M,Gal,0,0,0,,{\be1\3a&H30&\fscx110}But there's no way my father and the others would abandon this island and leave.
-Dialogue: 0,0:12:01.88,0:12:05.13,Yaku M,Gal,0,0,0,,{\be1\3a&H30&\fscx110}He was supposed to have gone to the villa to negotiate that day too.
-Dialogue: 0,0:12:07.63,0:12:08.82,Yaku T,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Father, eh?
-Dialogue: 0,0:12:09.50,0:12:13.08,Yaku T,Jun,0,0,0,,{\be1\3a&H30&\fscx110}What good can come from eliminating mere environmentalists?
-Dialogue: 0,0:12:17.24,0:12:21.38,Yaku T,Jun,0,0,0,,{\be1\3a&H30&\fscx110}To NPP, the organization the police approached, it would have been...
-Dialogue: 0,0:12:26.64,0:12:28.16,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}What's this?
-Dialogue: 0,0:12:28.16,0:12:29.84,Yaku M,Gal,0,0,0,,{\be1\3a&H30&\fscx110}How uncommon.
+Dialogue: 0,0:07:08.96,0:07:15.10,Yaku M,Ryo,0,0,0,,This villa belongs to Tadomura Ryoujun, the founder of NPP, the Japanese Private Police.
+Dialogue: 0,0:07:15.10,0:07:17.75,Yaku M,Ryo,0,0,0,,It's not surprising to see NPP security guards.
+Dialogue: 0,0:07:17.75,0:07:22.14,Yaku M,Jun,0,0,0,,Superintendent, did you intend to investigate this place all along?
+Dialogue: 0,0:07:23.05,0:07:23.75,Yaku M,Jun,0,0,0,,Superintendent!
+Dialogue: 0,0:07:25.11,0:07:28.76,Yaku T,Kin,0,0,0,,{\t(1170,3631,\1c&HFFFFFF&\3c&HFFFFFF&\4c&HFFFFFF&\alpha&HFF}It seems NPP is planning something.
+Dialogue: 0,0:07:31.38,0:07:37.91,Yaku T,Ryo,0,0,0,,Sis, the government has sponsored the creation of a company called NPP to take away JACES's market share.
+Dialogue: 0,0:07:37.91,0:07:40.89,Yaku T,Ryo,0,0,0,,They envy our success.
+Dialogue: 0,0:07:41.74,0:07:44.29,Yaku T,Ryo,0,0,0,,Tadomura is a former Diet member.
+Dialogue: 0,0:07:44.29,0:07:46.75,Yaku T,Ryo,0,0,0,,They've meddled with us before.
+Dialogue: 0,0:07:49.41,0:07:50.49,Yaku T,Kin,0,0,0,,Have you heard?
+Dialogue: 0,0:07:50.99,0:07:55.43,Yaku T,Kin,0,0,0,,Tadomura Ryoujun locked himself up in his villa in Okinawa
+Dialogue: 0,0:07:55.43,0:07:58.95,Yaku T,Kin,0,0,0,,and hasn't come out of hiding for six months now.
+Dialogue: 0,0:08:00.08,0:08:04.36,Yaku T,Kin,0,0,0,,I also hear he's causing trouble for the environmentalists on the island.
+Dialogue: 0,0:08:05.05,0:08:08.15,Yaku T,Ryo,0,0,0,,If we find out why Tadomura locked himself up,
+Dialogue: 0,0:08:08.15,0:08:11.13,Yaku T,Ryo,0,0,0,,we might get our hands on NPP's weakness.
+Dialogue: 0,0:08:11.49,0:08:13.23,Yaku T,Sis,0,0,0,,Oh my.  You're scary.
+Dialogue: 0,0:08:13.23,0:08:15.85,Yaku T,Sis,0,0,0,,I didn't even think of that.
+Dialogue: 0,0:08:17.81,0:08:23.09,Yaku M,Ryo,0,0,0,,That said, I get the feeling Okinu is just using me to her advantage.
+Dialogue: 0,0:08:23.09,0:08:26.90,Yaku M,Ryo,0,0,0,,But yes, this is a good opportunity to get our hands on NPP's weakness.
+Dialogue: 0,0:08:33.44,0:08:34.81,Yaku M,Yuk,0,0,0,,Oryo!
+Dialogue: 0,0:08:34.81,0:08:35.74,Yaku M,Nis,0,0,0,,Oryo-sama!
+Dialogue: 0,0:08:35.74,0:08:38.02,Yaku M,Ryo,0,0,0,,Oh my Oyuki,
+Dialogue: 0,0:08:38.02,0:08:41.84,Yaku M,Ryo,0,0,0,,did you get transferred to the Okinawa Police Station
+Dialogue: 0,0:08:41.84,0:08:44.58,Yaku M,Ryo,0,0,0,,because you became useless in the Metropolitan Police Department's Security Division?
+Dialogue: 0,0:08:45.13,0:08:46.68,Yaku M,Yuk,0,0,0,,Unfortunately not.
+Dialogue: 0,0:08:46.68,0:08:52.49,Yaku M,Yuk,0,0,0,,The Superintendent General has been invited to an informal conference, hosted here next month.
+Dialogue: 0,0:08:52.49,0:08:54.34,Yaku M,Yuk,0,0,0,,I'm here for the preliminary planning session.
+Dialogue: 0,0:08:54.34,0:08:56.93,Yaku M,Jun,0,0,0,,Chairman Tadomura and the Superintendent General?
+Dialogue: 0,0:08:56.93,0:09:04.30,Yaku M,Nis,0,0,0,,Yes, it was originally planned to have NPP handle VIP bodyguard duties.
+Dialogue: 0,0:09:04.30,0:09:05.65,Yaku M,Nis,0,0,0,,I'm sorry, Oryo-sama.
+Dialogue: 0,0:09:05.98,0:09:10.53,Yaku M,Nis,0,0,0,,To be honest, I would have liked to use your family business, JACES, but...
+Dialogue: 0,0:09:10.94,0:09:13.68,Yaku M,Ryo,0,0,0,,Dirty money's been used, right?
+Dialogue: 0,0:09:13.68,0:09:16.33,Yaku M,Ryo,0,0,0,, To be here for a preliminary planning session for something like that...
+Dialogue: 0,0:09:16.33,0:09:19.74,Yaku M,Ryo,0,0,0,,The job's perfect for you since you like illegal things.
+Dialogue: 0,0:09:19.74,0:09:22.48,Yaku M,Yuk,0,0,0,,Who did you say likes illegal things?
+Dialogue: 0,0:09:22.48,0:09:25.46,Yaku M,Yuk,0,0,0,,You're far more knowledgeable about underground matters.
+Dialogue: 0,0:09:25.46,0:09:26.42,Yaku M,Nis,0,0,0,,Now, now.
+Dialogue: 0,0:09:26.42,0:09:29.09,Yaku M,Nis,0,0,0,,And?  Why are you here on this island, Oryo-sama?
+Dialogue: 0,0:09:31.07,0:09:35.76,Yaku M,Yuk,0,0,0,,I hope you don't intend to bring harm to Chairman Tadomura.
+Dialogue: 0,0:09:36.92,0:09:37.93,Yaku M,Ryo,0,0,0,,Visiting.
+Dialogue: 0,0:09:38.20,0:09:39.43,Yaku M,Yuk,0,0,0,,Lies.
+Dialogue: 0,0:09:42.86,0:09:44.39,Yaku M,Ryo,0,0,0,,Izumida-kun, let's go.
+Dialogue: 0,0:09:53.20,0:09:58.24,Yaku M,Jun,0,0,0,,So basically, it's a battle for market share between two companies that make up 80% of Japan's security industry:
+Dialogue: 0,0:09:58.24,0:10:03.89,Yaku M,Jun,0,0,0,,Yakushiji's JACES and Tadomura's Japanese Private Police.
+Dialogue: 0,0:10:03.89,0:10:05.92,Yaku M,Ryo,0,0,0,,I told you that I'm just visiting.
+Dialogue: 0,0:10:06.27,0:10:11.59,Yaku M,Jun,0,0,0,,Didn't you come here to investigate the chairman of NPP, which is growing its share?
+Dialogue: 0,0:10:12.30,0:10:16.79,Yaku M,Ryo,0,0,0,,What if I told you that they went out of their way to build a villa in the environmentally valuable mangrove forest
+Dialogue: 0,0:10:16.79,0:10:21.48,Yaku M,Ryo,0,0,0,,and that numerous environmentalists have gone missing there?
+Dialogue: 0,0:10:21.48,0:10:22.52,Yaku M,Jun,0,0,0,,Is that true?
+Dialogue: 0,0:10:22.91,0:10:25.39,Yaku M,Ryo,0,0,0,,Anyway, why don't you take a swim?
+Dialogue: 0,0:10:25.39,0:10:27.92,Yaku M,Jun,0,0,0,,I'll go stay at some guest house.
+Dialogue: 0,0:10:29.45,0:10:33.61,Yaku M,Jun,0,0,0,,To be honest, resort hotels like this don't suit me.
+Dialogue: 0,0:10:34.13,0:10:39.78,Yaku M,Jun,0,0,0,,The environment here is beautiful, yet they build such artificial and unnatural buildings.
+Dialogue: 0,0:10:39.78,0:10:45.04,Yaku M,Ryo,0,0,0,,Appreciate the environment in a comfortable room that's air-conditioned and clean.
+Dialogue: 0,0:10:45.69,0:10:48.79,Yaku M,Ryo,0,0,0,,Isn't this the sight of man winning against nature?
+Dialogue: 0,0:10:49.42,0:10:51.75,Yaku M,Gal,0,0,0,,Um, I've brought champagne.
+Dialogue: 0,0:10:54.39,0:10:54.96,Yaku M,Jun,0,0,0,,You're...!
+Dialogue: 0,0:10:59.21,0:11:00.97,Yaku M,Jun,0,0,0,,Hey, you!
+Dialogue: 0,0:11:18.40,0:11:20.33,Yaku M,Jun,0,0,0,,W-Why are you running away?
+Dialogue: 0,0:11:20.33,0:11:22.01,Yaku M,Gal,0,0,0,,For before...
+Dialogue: 0,0:11:22.01,0:11:23.89,Yaku M,Gal,0,0,0,,Thank you.
+Dialogue: 0,0:11:23.89,0:11:25.33,Yaku M,Jun,0,0,0,,No, it's okay.
+Dialogue: 0,0:11:27.60,0:11:29.01,Yaku M,Gal,0,0,0,,I'm embarrassed.
+Dialogue: 0,0:11:29.01,0:11:31.34,Yaku M,Gal,0,0,0,,I take part in environmental conservation activities,
+Dialogue: 0,0:11:31.34,0:11:36.01,Yaku M,Gal,0,0,0,,yet I work part-time for a place that arose from nature's destruction.
+Dialogue: 0,0:11:39.72,0:11:43.22,Yaku M,Jun,0,0,0,,I heard your comrades have gone missing at Tadomura's villa.
+Dialogue: 0,0:11:44.07,0:11:46.18,Yaku M,Gal,0,0,0,,You know about my father?
+Dialogue: 0,0:11:46.65,0:11:47.68,Yaku M,Jun,0,0,0,,Your father did?
+Dialogue: 0,0:11:49.05,0:11:50.00,Yaku M,Gal,0,0,0,,Yes.
+Dialogue: 0,0:11:50.00,0:11:52.36,Yaku M,Gal,0,0,0,,We have no proof.
+Dialogue: 0,0:11:52.36,0:11:56.03,Yaku M,Gal,0,0,0,,The police decided that he just ran away.
+Dialogue: 0,0:11:56.72,0:12:01.00,Yaku M,Gal,0,0,0,,But there's no way my father and the others would abandon this island and leave.
+Dialogue: 0,0:12:01.88,0:12:05.13,Yaku M,Gal,0,0,0,,He was supposed to have gone to the villa to negotiate that day too.
+Dialogue: 0,0:12:07.63,0:12:08.82,Yaku T,Jun,0,0,0,,Father, eh?
+Dialogue: 0,0:12:09.50,0:12:13.08,Yaku T,Jun,0,0,0,,What good can come from eliminating mere environmentalists?
+Dialogue: 0,0:12:17.24,0:12:21.38,Yaku T,Jun,0,0,0,,To NPP, the organization the police approached, it would have been...
+Dialogue: 0,0:12:26.64,0:12:28.16,Yaku M,Jun,0,0,0,,What's this?
+Dialogue: 0,0:12:28.16,0:12:29.84,Yaku M,Gal,0,0,0,,How uncommon.
 Dialogue: 0,0:12:29.87,0:12:31.35,Yaku Note,Note,0,0,0,,{\be1\3a&H30&}[Note: A kyouzuka is a stone with something scriptural written on it.]
-Dialogue: 0,0:12:29.84,0:12:31.35,Yaku M,Gal,0,0,0,,{\be1\3a&H30&\fscx110}I think it's a kyouzuka.
-Dialogue: 0,0:12:33.97,0:12:39.32,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}There are legends of a monk from Kouya who was cast ashore from Fudarakutokai.
-Dialogue: 0,0:12:40.21,0:12:41.25,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Superintendent.
-Dialogue: 0,0:12:43.02,0:12:43.81,Yaku M,Gal,0,0,0,,{\be1\3a&H30&\fscx110}Yes.
-Dialogue: 0,0:12:44.33,0:12:47.51,Yaku M,Gal,0,0,0,,{\be1\3a&H30&\fscx110}And it is said that he planted stones with scripture written on them in the streets.
-Dialogue: 0,0:12:47.51,0:12:51.84,Yaku M,Gal,0,0,0,,{\be1\3a&H30&\fscx110}He sealed away the monsters and dragons that made people suffer.
-Dialogue: 0,0:12:51.84,0:12:55.08,Yaku M,Gal,0,0,0,,{\be1\3a&H30&\fscx110}The actual stones have been unearthed from that time.
-Dialogue: 0,0:12:55.61,0:12:59.05,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Okinawa deserves such legends.
-Dialogue: 0,0:13:00.03,0:13:04.66,Yaku M,Gal,0,0,0,,{\be1\3a&H30&\fscx110}It is said that a spirit, by the name of Kijimuna, lives in the mangrove.
-Dialogue: 0,0:13:04.66,0:13:07.22,Yaku M,Gal,0,0,0,,{\be1\3a&H30&\fscx110}I don't know if it really exists.
-Dialogue: 0,0:13:07.22,0:13:12.03,Yaku M,Gal,0,0,0,,{\be1\3a&H30&\fscx110}But there are times when nature itself feels like God.
-Dialogue: 0,0:13:12.03,0:13:13.02,Yaku M,Gal,0,0,0,,{\be1\3a&H30&\fscx110}That's why...
-Dialogue: 0,0:13:13.77,0:13:15.70,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Nature is God.
-Dialogue: 0,0:13:15.70,0:13:17.32,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}That is why you want to protect it.
-Dialogue: 0,0:13:18.47,0:13:20.90,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}The person who appeared at Tadomura's villa
-Dialogue: 0,0:13:20.90,0:13:22.74,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}is a highly-ranked officer of the\NMetropolitan Police Department.
-Dialogue: 0,0:13:23.22,0:13:27.33,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Even if the city police have been bought out, if you ask her directly,
-Dialogue: 0,0:13:27.33,0:13:30.20,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}reopening the case for the missing people might be possible.
-Dialogue: 0,0:13:30.93,0:13:33.67,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}That woman has a strong sense of justice.
-Dialogue: 0,0:13:55.62,0:13:57.65,Yaku M,Man,0,0,0,,{\be1\3a&H30&\fscx110}The Chairman will see you now.
-Dialogue: 0,0:13:58.62,0:13:59.95,Yaku M,Yuk,0,0,0,,{\be1\3a&H30&\fscx110}Thank goodness.
-Dialogue: 0,0:13:59.95,0:14:03.24,Yaku M,Yuk,0,0,0,,{\be1\3a&H30&\fscx110}I heard he wasn't too well, so I was worried.
-Dialogue: 0,0:14:08.07,0:14:10.45,Yaku M,Nis,0,0,0,,{\be1\3a&H30&\fscx110}{\i1}This{\i0}  is a courtyard?
-Dialogue: 0,0:14:11.07,0:14:12.75,Yaku M,Nis,0,0,0,,{\be1\3a&H30&\fscx110}It's huge.
-Dialogue: 0,0:14:12.75,0:14:13.54,Yaku M,Yuk,0,0,0,,{\be1\3a&H30&\fscx110}Yes, it is.
-Dialogue: 0,0:14:16.34,0:14:17.13,Yaku M,Yuk,0,0,0,,{\be1\3a&H30&\fscx110}What?!
-Dialogue: 0,0:14:23.71,0:14:26.60,Yaku M,Nis,0,0,0,,{\be1\3a&H30&\fscx110}Wh-Wh-What are those?
-Dialogue: 0,0:14:34.26,0:14:36.60,Yaku M,Yuk,0,0,0,,{\be1\3a&H30&\fscx110}The mangrove's vivipary seeds!
+Dialogue: 0,0:12:29.84,0:12:31.35,Yaku M,Gal,0,0,0,,I think it's a kyouzuka.
+Dialogue: 0,0:12:33.97,0:12:39.32,Yaku M,Ryo,0,0,0,,There are legends of a monk from Kouya who was cast ashore from Fudarakutokai.
+Dialogue: 0,0:12:40.21,0:12:41.25,Yaku M,Jun,0,0,0,,Superintendent.
+Dialogue: 0,0:12:43.02,0:12:43.81,Yaku M,Gal,0,0,0,,Yes.
+Dialogue: 0,0:12:44.33,0:12:47.51,Yaku M,Gal,0,0,0,,And it is said that he planted stones with scripture written on them in the streets.
+Dialogue: 0,0:12:47.51,0:12:51.84,Yaku M,Gal,0,0,0,,He sealed away the monsters and dragons that made people suffer.
+Dialogue: 0,0:12:51.84,0:12:55.08,Yaku M,Gal,0,0,0,,The actual stones have been unearthed from that time.
+Dialogue: 0,0:12:55.61,0:12:59.05,Yaku M,Jun,0,0,0,,Okinawa deserves such legends.
+Dialogue: 0,0:13:00.03,0:13:04.66,Yaku M,Gal,0,0,0,,It is said that a spirit, by the name of Kijimuna, lives in the mangrove.
+Dialogue: 0,0:13:04.66,0:13:07.22,Yaku M,Gal,0,0,0,,I don't know if it really exists.
+Dialogue: 0,0:13:07.22,0:13:12.03,Yaku M,Gal,0,0,0,,But there are times when nature itself feels like God.
+Dialogue: 0,0:13:12.03,0:13:13.02,Yaku M,Gal,0,0,0,,That's why...
+Dialogue: 0,0:13:13.77,0:13:15.70,Yaku M,Jun,0,0,0,,Nature is God.
+Dialogue: 0,0:13:15.70,0:13:17.32,Yaku M,Jun,0,0,0,,That is why you want to protect it.
+Dialogue: 0,0:13:18.47,0:13:20.90,Yaku M,Ryo,0,0,0,,The person who appeared at Tadomura's villa
+Dialogue: 0,0:13:20.90,0:13:22.74,Yaku M,Ryo,0,0,0,,is a highly-ranked officer of the\NMetropolitan Police Department.
+Dialogue: 0,0:13:23.22,0:13:27.33,Yaku M,Ryo,0,0,0,,Even if the city police have been bought out, if you ask her directly,
+Dialogue: 0,0:13:27.33,0:13:30.20,Yaku M,Ryo,0,0,0,,reopening the case for the missing people might be possible.
+Dialogue: 0,0:13:30.93,0:13:33.67,Yaku M,Ryo,0,0,0,,That woman has a strong sense of justice.
+Dialogue: 0,0:13:55.62,0:13:57.65,Yaku M,Man,0,0,0,,The Chairman will see you now.
+Dialogue: 0,0:13:58.62,0:13:59.95,Yaku M,Yuk,0,0,0,,Thank goodness.
+Dialogue: 0,0:13:59.95,0:14:03.24,Yaku M,Yuk,0,0,0,,I heard he wasn't too well, so I was worried.
+Dialogue: 0,0:14:08.07,0:14:10.45,Yaku M,Nis,0,0,0,,{\i1}This{\i0}  is a courtyard?
+Dialogue: 0,0:14:11.07,0:14:12.75,Yaku M,Nis,0,0,0,,It's huge.
+Dialogue: 0,0:14:12.75,0:14:13.54,Yaku M,Yuk,0,0,0,,Yes, it is.
+Dialogue: 0,0:14:16.34,0:14:17.13,Yaku M,Yuk,0,0,0,,What?!
+Dialogue: 0,0:14:23.71,0:14:26.60,Yaku M,Nis,0,0,0,,Wh-Wh-What are those?
+Dialogue: 0,0:14:34.26,0:14:36.60,Yaku M,Yuk,0,0,0,,The mangrove's vivipary seeds!
 Dialogue: 0,0:14:45.95,0:14:47.59,Yaku M,Rob,0,0,0,,{\be1\3a&H30&\fscx110\an8}Warning.
 Dialogue: 0,0:14:47.59,0:14:49.66,Yaku M,Rob,0,0,0,,{\be1\3a&H30&\fscx110\an8}This is private property.
 Dialogue: 0,0:14:49.66,0:14:50.41,Yaku M,Rob,0,0,0,,{\be1\3a&H30&\fscx110\an8}Warning.
 Dialogue: 0,0:14:51.12,0:14:52.49,Yaku M,Rob,0,0,0,,{\be1\3a&H30&\fscx110\an8}This is private property.
-Dialogue: 0,0:14:53.10,0:14:54.66,Yaku M,Gal,0,0,0,,{\be1\3a&H30&\fscx110}There's someone from the Metropolitan Police Department here.
-Dialogue: 0,0:14:54.66,0:14:56.75,Yaku M,Gal,0,0,0,,{\be1\3a&H30&\fscx110}We want her to listen to our story!
+Dialogue: 0,0:14:53.10,0:14:54.66,Yaku M,Gal,0,0,0,,There's someone from the Metropolitan Police Department here.
+Dialogue: 0,0:14:54.66,0:14:56.75,Yaku M,Gal,0,0,0,,We want her to listen to our story!
 Dialogue: 0,0:14:53.10,0:14:54.68,Yaku 2on,Rob,0,0,0,,{\be1\3a&H30&\fscx110\an8}Warning.
 Dialogue: 0,0:14:54.68,0:14:56.06,Yaku 2on,Rob,0,0,0,,{\be1\3a&H30&\fscx110\an8}This is private property.
 Dialogue: 0,0:14:56.75,0:14:58.20,Yaku M,Rob,0,0,0,,{\be1\3a&H30&\fscx110\an8}Warning.
 Dialogue: 0,0:14:58.20,0:15:00.21,Yaku M,Rob,0,0,0,,{\be1\3a&H30&\fscx110\an8}This is private property.
-Dialogue: 0,0:15:00.80,0:15:04.55,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Is this why you told them about Superintendent Muromachi?
-Dialogue: 0,0:15:05.00,0:15:06.60,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}What are you talking about?
-Dialogue: 0,0:15:06.60,0:15:11.51,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}But, thanks to them, it looks like we won't be questioned now, even if we sneak in.
-Dialogue: 0,0:15:13.07,0:15:14.27,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Izumida-kun.
-Dialogue: 0,0:15:15.22,0:15:16.73,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Your {\1a&HFF&\4a&HFF&\3a&HFF&\t(660,660,\1a&H00&\4a&H00&\3a&H00&)}ba{\1a&HFF&\4a&HFF&\3a&HFF&\t(1240,1240,\1a&H00&\4a&H00&\3a&H00&)}ck.
-Dialogue: 0,0:15:17.38,0:15:18.38,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Yes.
-Dialogue: 0,0:15:31.15,0:15:32.12,Yaku M,Man,0,0,0,,{\be1\3a&H30&\fscx110}What is it?
-Dialogue: 0,0:15:32.12,0:15:33.49,Yaku M,Guy,0,0,0,,{\be1\3a&H30&\fscx110}It's the activists again.
-Dialogue: 0,0:15:36.72,0:15:39.42,Yaku M,Yuk,0,0,0,,{\be1\3a&H30&\fscx110}The seed is controlling people!
-Dialogue: 0,0:15:39.42,0:15:41.92,Yaku M,Nis,0,0,0,,{\be1\3a&H30&\fscx110}Then will we become like them?
-Dialogue: 0,0:15:53.51,0:15:54.26,Yaku M,Yuk,0,0,0,,{\be1\3a&H30&\fscx110}Now!
-Dialogue: 0,0:16:06.34,0:16:07.82,Yaku M,Nis,0,0,0,,{\be1\3a&H30&\fscx110}Oryo-sama!
-Dialogue: 0,0:16:08.81,0:16:11.91,Yaku M,Yuk,0,0,0,,{\be1\3a&H30&\fscx110}Oryo!  Do you have permission to carry around a gun?
-Dialogue: 0,0:16:12.45,0:16:13.81,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}I'm sorry.
-Dialogue: 0,0:16:13.81,0:16:15.99,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Why are you apologizing, Izumida-kun?
-Dialogue: 0,0:16:16.59,0:16:21.12,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Oyuki, I could save you if you beg.
-Dialogue: 0,0:16:21.50,0:16:22.96,Yaku M,Yuk,0,0,0,,{\be1\3a&H30&\fscx110}You've got to be kidding me!
-Dialogue: 0,0:16:26.92,0:16:28.03,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Geez.
-Dialogue: 0,0:16:28.03,0:16:29.88,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}The saving comes after she begs!
-Dialogue: 0,0:16:57.42,0:16:58.80,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}It's grotesque.
-Dialogue: 0,0:16:58.80,0:17:00.92,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}I wonder if this is Kijimuna.
-Dialogue: 0,0:17:00.92,0:17:03.50,Yaku M,Yuk,0,0,0,,{\be1\3a&H30&\fscx110}It's probably a mutant species of mangrove.
-Dialogue: 0,0:17:03.98,0:17:06.88,Yaku M,Yuk,0,0,0,,{\be1\3a&H30&\fscx110}The other security guards are controlled by this thing too.
-Dialogue: 0,0:17:06.88,0:17:08.01,Yaku M,Yuk,0,0,0,,{\be1\3a&H30&\fscx110}We need to remove them.
-Dialogue: 0,0:17:09.10,0:17:11.05,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}I'll leave that to you two.
-Dialogue: 0,0:17:11.05,0:17:12.36,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Let's go, Izumida-kun.
-Dialogue: 0,0:17:12.36,0:17:13.84,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Y-Yes.
-Dialogue: 0,0:17:13.84,0:17:15.35,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Um, Superintendent Muromachi,
-Dialogue: 0,0:17:15.99,0:17:18.93,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}the local citizens are arguing with the security guards at the main gate.
-Dialogue: 0,0:17:19.38,0:17:20.84,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Please go save them.
-Dialogue: 0,0:17:31.69,0:17:33.20,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}A-Are you all right?
-Dialogue: 0,0:17:33.82,0:17:34.90,Yaku M,Gal,0,0,0,,{\be1\3a&H30&\fscx110}Y-Yes.
-Dialogue: 0,0:17:34.90,0:17:36.55,Yaku M,Gal,0,0,0,,{\be1\3a&H30&\fscx110}I'm the only one who made it inside.
-Dialogue: 0,0:17:36.55,0:17:37.74,Yaku M,Gal,0,0,0,,{\be1\3a&H30&\fscx110}Where is the lady from the Metropolitan Police Department?
-Dialogue: 0,0:17:37.74,0:17:38.95,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}What do you think?
-Dialogue: 0,0:17:38.95,0:17:40.70,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}That's a mangrove too, right?
-Dialogue: 0,0:17:45.89,0:17:47.06,Yaku M,Gal,0,0,0,,{\be1\3a&H30&\fscx110}Impossible.
-Dialogue: 0,0:17:47.06,0:17:50.09,Yaku M,Gal,0,0,0,,{\be1\3a&H30&\fscx110}Mangroves only grow in salinized swamps.
-Dialogue: 0,0:17:50.58,0:17:52.61,Yaku M,Gal,0,0,0,,{\be1\3a&H30&\fscx110}They can't possibly sprout inside a building.
-Dialogue: 0,0:18:31.63,0:18:33.37,Yaku M,Gal,0,0,0,,{\be1\3a&H30&\fscx110}Tadomura Ryoujun.
-Dialogue: 0,0:18:34.62,0:18:39.86,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}It looks like Tadomura wasn't destroying nature.  Rather, he was expanding the mangrove forest.
-Dialogue: 0,0:18:39.86,0:18:41.60,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}This isn't Tadomura's will.
-Dialogue: 0,0:18:42.12,0:18:45.23,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}It's probably the vivipary seed's doing, the one stuck in him.
-Dialogue: 0,0:18:45.23,0:18:46.10,Yaku M,Gal,0,0,0,,{\be1\3a&H30&\fscx110}This can't be.
-Dialogue: 0,0:18:47.23,0:18:51.42,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}At first, NPP may have done genetic experiments to the mangrove.
-Dialogue: 0,0:18:51.42,0:18:56.07,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Either way, a mangrove parasitic on humans was born one day.
-Dialogue: 0,0:18:58.10,0:19:03.70,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}While killing off the nuisance, the mangrove used Tadomura's mouth and started its move.
-Dialogue: 0,0:19:04.64,0:19:06.64,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}So it can thrive.
-Dialogue: 0,0:19:06.64,0:19:07.67,Yaku M,Gal,0,0,0,,{\be1\3a&H30&\fscx110}Father.
-Dialogue: 0,0:19:08.43,0:19:09.62,Yaku M,Gal,0,0,0,,{\be1\3a&H30&\fscx110}Father!
-Dialogue: 0,0:19:10.46,0:19:13.99,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}It expands salinized swamp suitable for vegetation.
-Dialogue: 0,0:19:13.99,0:19:20.97,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Changing the environment to be hospitable to itself isn't just humanity's specialty.
-Dialogue: 0,0:19:20.97,0:19:23.60,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}It'll make this whole island a swamp soon.
-Dialogue: 0,0:19:34.28,0:19:35.15,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Superintendent!
-Dialogue: 0,0:19:39.33,0:19:44.58,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}If God is someone with the power to change the world to his liking,
-Dialogue: 0,0:19:45.39,0:19:48.92,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}these monsters would fit that definition perfectly.
-Dialogue: 0,0:19:49.32,0:19:51.08,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Izumida-kun, give me your gun.
-Dialogue: 0,0:19:51.08,0:19:52.88,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}But I don't have one on me.
-Dialogue: 0,0:19:57.76,0:20:00.19,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}A stone that seals away monsters, eh?
-Dialogue: 0,0:20:15.24,0:20:17.12,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Superintendent, let's run for it.
-Dialogue: 0,0:20:18.34,0:20:19.16,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}We're running away.
-Dialogue: 0,0:20:25.06,0:20:26.82,Yaku M,Nis,0,0,0,,{\be1\3a&H30&\fscx110}Take that!  Take that!
-Dialogue: 0,0:20:27.58,0:20:29.10,Yaku M,Yuk,0,0,0,,{\be1\3a&H30&\fscx110}Assistant Inspector Izumida!
-Dialogue: 0,0:20:29.10,0:20:31.07,Yaku M,Nis,0,0,0,,{\be1\3a&H30&\fscx110}Oryo-sama!  Thank goodness you're safe.
-Dialogue: 0,0:20:53.46,0:20:54.79,Yaku M,Luc,0,0,0,,{\be1\3a&H30&\fscx110}Target acquired.
-Dialogue: 0,0:20:55.46,0:20:57.46,Yaku M,Luc,0,0,0,,{\be1\3a&H30&\fscx110}The napalm is ready.
-Dialogue: 0,0:20:57.92,0:21:00.78,Yaku M,Nis,0,0,0,,{\be1\3a&H30&\fscx110}Did I just hear something about napalm?
-Dialogue: 0,0:21:01.89,0:21:02.87,Yaku M,Gal,0,0,0,,{\be1\3a&H30&\fscx110}Napalm?
-Dialogue: 0,0:21:04.04,0:21:05.57,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}We're going to burn it down.
-Dialogue: 0,0:21:05.57,0:21:06.83,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}The entire forest.
-Dialogue: 0,0:21:07.55,0:21:09.79,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}I don't intend to get permission for it.
-Dialogue: 0,0:23:15.59,0:23:17.77,Yaku M,Kin,0,0,0,,{\be1\3a&H30&\fscx110}Thank you for always taking care of my little sister.
-Dialogue: 0,0:23:17.77,0:23:18.53,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Okinu!
-Dialogue: 0,0:23:18.53,0:23:20.69,Yaku M,Kin,0,0,0,,{\be1\3a&H30&\fscx110}Yes, I am Yakushiji Kinuko.
-Dialogue: 0,0:23:20.69,0:23:22.80,Yaku M,Kin,0,0,0,,{\be1\3a&H30&\fscx110}It's been 29 years since I was born as the family's eldest daughter.
-Dialogue: 0,0:23:22.80,0:23:24.38,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Yakushiji Ryoko's Supernatural Case File,
-Dialogue: 0,0:23:24.38,0:23:25.90,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}File Number 08:
-Dialogue: 0,0:23:25.90,0:23:27.17,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Tamagawa Suicide.
-Dialogue: 0,0:23:27.17,0:23:28.39,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Please look forward to it.
-Dialogue: 0,0:23:27.89,0:23:29.20,Yaku 2on,Kin,0,0,0,,{\be1\3a&H30&\fscx110}And with fallen leaves, I almost...
+Dialogue: 0,0:15:00.80,0:15:04.55,Yaku M,Jun,0,0,0,,Is this why you told them about Superintendent Muromachi?
+Dialogue: 0,0:15:05.00,0:15:06.60,Yaku M,Ryo,0,0,0,,What are you talking about?
+Dialogue: 0,0:15:06.60,0:15:11.51,Yaku M,Ryo,0,0,0,,But, thanks to them, it looks like we won't be questioned now, even if we sneak in.
+Dialogue: 0,0:15:13.07,0:15:14.27,Yaku M,Ryo,0,0,0,,Izumida-kun.
+Dialogue: 0,0:15:15.22,0:15:16.73,Yaku M,Ryo,0,0,0,,Your {\1a&HFF&\4a&HFF&\3a&HFF&\t(660,660,\1a&H00&\4a&H00&\3a&H00&)}ba{\1a&HFF&\4a&HFF&\3a&HFF&\t(1240,1240,\1a&H00&\4a&H00&\3a&H00&)}ck.
+Dialogue: 0,0:15:17.38,0:15:18.38,Yaku M,Jun,0,0,0,,Yes.
+Dialogue: 0,0:15:31.15,0:15:32.12,Yaku M,Man,0,0,0,,What is it?
+Dialogue: 0,0:15:32.12,0:15:33.49,Yaku M,Guy,0,0,0,,It's the activists again.
+Dialogue: 0,0:15:36.72,0:15:39.42,Yaku M,Yuk,0,0,0,,The seed is controlling people!
+Dialogue: 0,0:15:39.42,0:15:41.92,Yaku M,Nis,0,0,0,,Then will we become like them?
+Dialogue: 0,0:15:53.51,0:15:54.26,Yaku M,Yuk,0,0,0,,Now!
+Dialogue: 0,0:16:06.34,0:16:07.82,Yaku M,Nis,0,0,0,,Oryo-sama!
+Dialogue: 0,0:16:08.81,0:16:11.91,Yaku M,Yuk,0,0,0,,Oryo!  Do you have permission to carry around a gun?
+Dialogue: 0,0:16:12.45,0:16:13.81,Yaku M,Jun,0,0,0,,I'm sorry.
+Dialogue: 0,0:16:13.81,0:16:15.99,Yaku M,Ryo,0,0,0,,Why are you apologizing, Izumida-kun?
+Dialogue: 0,0:16:16.59,0:16:21.12,Yaku M,Ryo,0,0,0,,Oyuki, I could save you if you beg.
+Dialogue: 0,0:16:21.50,0:16:22.96,Yaku M,Yuk,0,0,0,,You've got to be kidding me!
+Dialogue: 0,0:16:26.92,0:16:28.03,Yaku M,Ryo,0,0,0,,Geez.
+Dialogue: 0,0:16:28.03,0:16:29.88,Yaku M,Ryo,0,0,0,,The saving comes after she begs!
+Dialogue: 0,0:16:57.42,0:16:58.80,Yaku M,Ryo,0,0,0,,It's grotesque.
+Dialogue: 0,0:16:58.80,0:17:00.92,Yaku M,Ryo,0,0,0,,I wonder if this is Kijimuna.
+Dialogue: 0,0:17:00.92,0:17:03.50,Yaku M,Yuk,0,0,0,,It's probably a mutant species of mangrove.
+Dialogue: 0,0:17:03.98,0:17:06.88,Yaku M,Yuk,0,0,0,,The other security guards are controlled by this thing too.
+Dialogue: 0,0:17:06.88,0:17:08.01,Yaku M,Yuk,0,0,0,,We need to remove them.
+Dialogue: 0,0:17:09.10,0:17:11.05,Yaku M,Ryo,0,0,0,,I'll leave that to you two.
+Dialogue: 0,0:17:11.05,0:17:12.36,Yaku M,Ryo,0,0,0,,Let's go, Izumida-kun.
+Dialogue: 0,0:17:12.36,0:17:13.84,Yaku M,Jun,0,0,0,,Y-Yes.
+Dialogue: 0,0:17:13.84,0:17:15.35,Yaku M,Jun,0,0,0,,Um, Superintendent Muromachi,
+Dialogue: 0,0:17:15.99,0:17:18.93,Yaku M,Jun,0,0,0,,the local citizens are arguing with the security guards at the main gate.
+Dialogue: 0,0:17:19.38,0:17:20.84,Yaku M,Jun,0,0,0,,Please go save them.
+Dialogue: 0,0:17:31.69,0:17:33.20,Yaku M,Jun,0,0,0,,A-Are you all right?
+Dialogue: 0,0:17:33.82,0:17:34.90,Yaku M,Gal,0,0,0,,Y-Yes.
+Dialogue: 0,0:17:34.90,0:17:36.55,Yaku M,Gal,0,0,0,,I'm the only one who made it inside.
+Dialogue: 0,0:17:36.55,0:17:37.74,Yaku M,Gal,0,0,0,,Where is the lady from the Metropolitan Police Department?
+Dialogue: 0,0:17:37.74,0:17:38.95,Yaku M,Ryo,0,0,0,,What do you think?
+Dialogue: 0,0:17:38.95,0:17:40.70,Yaku M,Ryo,0,0,0,,That's a mangrove too, right?
+Dialogue: 0,0:17:45.89,0:17:47.06,Yaku M,Gal,0,0,0,,Impossible.
+Dialogue: 0,0:17:47.06,0:17:50.09,Yaku M,Gal,0,0,0,,Mangroves only grow in salinized swamps.
+Dialogue: 0,0:17:50.58,0:17:52.61,Yaku M,Gal,0,0,0,,They can't possibly sprout inside a building.
+Dialogue: 0,0:18:31.63,0:18:33.37,Yaku M,Gal,0,0,0,,Tadomura Ryoujun.
+Dialogue: 0,0:18:34.62,0:18:39.86,Yaku M,Ryo,0,0,0,,It looks like Tadomura wasn't destroying nature.  Rather, he was expanding the mangrove forest.
+Dialogue: 0,0:18:39.86,0:18:41.60,Yaku M,Jun,0,0,0,,This isn't Tadomura's will.
+Dialogue: 0,0:18:42.12,0:18:45.23,Yaku M,Jun,0,0,0,,It's probably the vivipary seed's doing, the one stuck in him.
+Dialogue: 0,0:18:45.23,0:18:46.10,Yaku M,Gal,0,0,0,,This can't be.
+Dialogue: 0,0:18:47.23,0:18:51.42,Yaku M,Ryo,0,0,0,,At first, NPP may have done genetic experiments to the mangrove.
+Dialogue: 0,0:18:51.42,0:18:56.07,Yaku M,Ryo,0,0,0,,Either way, a mangrove parasitic on humans was born one day.
+Dialogue: 0,0:18:58.10,0:19:03.70,Yaku M,Ryo,0,0,0,,While killing off the nuisance, the mangrove used Tadomura's mouth and started its move.
+Dialogue: 0,0:19:04.64,0:19:06.64,Yaku M,Ryo,0,0,0,,So it can thrive.
+Dialogue: 0,0:19:06.64,0:19:07.67,Yaku M,Gal,0,0,0,,Father.
+Dialogue: 0,0:19:08.43,0:19:09.62,Yaku M,Gal,0,0,0,,Father!
+Dialogue: 0,0:19:10.46,0:19:13.99,Yaku M,Ryo,0,0,0,,It expands salinized swamp suitable for vegetation.
+Dialogue: 0,0:19:13.99,0:19:20.97,Yaku M,Ryo,0,0,0,,Changing the environment to be hospitable to itself isn't just humanity's specialty.
+Dialogue: 0,0:19:20.97,0:19:23.60,Yaku M,Ryo,0,0,0,,It'll make this whole island a swamp soon.
+Dialogue: 0,0:19:34.28,0:19:35.15,Yaku M,Jun,0,0,0,,Superintendent!
+Dialogue: 0,0:19:39.33,0:19:44.58,Yaku M,Ryo,0,0,0,,If God is someone with the power to change the world to his liking,
+Dialogue: 0,0:19:45.39,0:19:48.92,Yaku M,Ryo,0,0,0,,these monsters would fit that definition perfectly.
+Dialogue: 0,0:19:49.32,0:19:51.08,Yaku M,Ryo,0,0,0,,Izumida-kun, give me your gun.
+Dialogue: 0,0:19:51.08,0:19:52.88,Yaku M,Jun,0,0,0,,But I don't have one on me.
+Dialogue: 0,0:19:57.76,0:20:00.19,Yaku M,Jun,0,0,0,,A stone that seals away monsters, eh?
+Dialogue: 0,0:20:15.24,0:20:17.12,Yaku M,Jun,0,0,0,,Superintendent, let's run for it.
+Dialogue: 0,0:20:18.34,0:20:19.16,Yaku M,Jun,0,0,0,,We're running away.
+Dialogue: 0,0:20:25.06,0:20:26.82,Yaku M,Nis,0,0,0,,Take that!  Take that!
+Dialogue: 0,0:20:27.58,0:20:29.10,Yaku M,Yuk,0,0,0,,Assistant Inspector Izumida!
+Dialogue: 0,0:20:29.10,0:20:31.07,Yaku M,Nis,0,0,0,,Oryo-sama!  Thank goodness you're safe.
+Dialogue: 0,0:20:53.46,0:20:54.79,Yaku M,Luc,0,0,0,,Target acquired.
+Dialogue: 0,0:20:55.46,0:20:57.46,Yaku M,Luc,0,0,0,,The napalm is ready.
+Dialogue: 0,0:20:57.92,0:21:00.78,Yaku M,Nis,0,0,0,,Did I just hear something about napalm?
+Dialogue: 0,0:21:01.89,0:21:02.87,Yaku M,Gal,0,0,0,,Napalm?
+Dialogue: 0,0:21:04.04,0:21:05.57,Yaku M,Ryo,0,0,0,,We're going to burn it down.
+Dialogue: 0,0:21:05.57,0:21:06.83,Yaku M,Ryo,0,0,0,,The entire forest.
+Dialogue: 0,0:21:07.55,0:21:09.79,Yaku M,Ryo,0,0,0,,I don't intend to get permission for it.
+Dialogue: 0,0:23:15.59,0:23:17.77,Yaku M,Kin,0,0,0,,Thank you for always taking care of my little sister.
+Dialogue: 0,0:23:17.77,0:23:18.53,Yaku M,Ryo,0,0,0,,Okinu!
+Dialogue: 0,0:23:18.53,0:23:20.69,Yaku M,Kin,0,0,0,,Yes, I am Yakushiji Kinuko.
+Dialogue: 0,0:23:20.69,0:23:22.80,Yaku M,Kin,0,0,0,,It's been 29 years since I was born as the family's eldest daughter.
+Dialogue: 0,0:23:22.80,0:23:24.38,Yaku M,Jun,0,0,0,,Yakushiji Ryoko's Supernatural Case File,
+Dialogue: 0,0:23:24.38,0:23:25.90,Yaku M,Jun,0,0,0,,File Number 08:
+Dialogue: 0,0:23:25.90,0:23:27.17,Yaku M,Jun,0,0,0,,Tamagawa Suicide.
+Dialogue: 0,0:23:27.17,0:23:28.39,Yaku M,Jun,0,0,0,,Please look forward to it.
+Dialogue: 0,0:23:27.89,0:23:29.20,Yaku 2on,Kin,0,0,0,,And with fallen leaves, I almost...
