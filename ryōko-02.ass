@@ -17,7 +17,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 
 
 Dialogue: 0,0:01:31.94,0:01:33.99,Ryōko italic,Jun,0,0,0,,My name is Izumida Jun'ichirou.
-Dialogue: 0,0:01:33.99,0:01:36.74,Ryōko italic,Jun,0,0,0,,I am Yakushiji Ryoko's slave.
+Dialogue: 0,0:01:33.99,0:01:36.74,Ryōko italic,Jun,0,0,0,,I am Yakushiji Ryouko's slave.
 Dialogue: 0,0:01:37.65,0:01:40.09,Ryōko italic,Jun,0,0,0,,The supernatural incident that took place in broad daylight
 Dialogue: 0,0:01:40.09,0:01:44.87,Ryōko italic,Jun,0,0,0,,was a result of imported, contaminated cooking ingredients.
 Dialogue: 0,0:01:45.24,0:01:48.59,Ryōko italic,Jun,0,0,0,,While following the case, we were attacked by mysterious assassins.
@@ -80,7 +80,7 @@ Dialogue: 0,0:05:42.08,0:05:44.86,Ryōko main,Jun,0,0,0,,Ah, I see.
 Dialogue: 0,0:05:46.20,0:05:49.82,Ryōko italic,Jun,0,0,0,,JACES is Asia's biggest security company.
 Dialogue: 0,0:05:50.54,0:05:56.79,Ryōko italic,Jun,0,0,0,,Not only does it manage security, but it has also\Nappeared in other fields alongside its slogan, "Safety."
 Dialogue: 0,0:05:56.79,0:06:01.34,Ryōko italic,Jun,0,0,0,,It has developed into a major corporation with annual revenues of 500 billion yen.
-Dialogue: 0,0:06:02.68,0:06:08.18,Ryōko italic,Jun,0,0,0,,Yakushiji Ryoko is the daughter of Yakushiji Hiroki, Owner and President of JACES.
+Dialogue: 0,0:06:02.68,0:06:08.18,Ryōko italic,Jun,0,0,0,,Yakushiji Ryouko is the daughter of Yakushiji Hiroki, Owner and President of JACES.
 Dialogue: 0,0:06:08.81,0:06:13.58,Ryōko italic,Jun,0,0,0,,In line to be its next president,\Nshe obviously owns stock in JACES.
 Dialogue: 0,0:06:13.58,0:06:17.25,Ryōko italic,Jun,0,0,0,,She receives a yearly dividend of 300 million from them.
 Dialogue: 0,0:06:17.25,0:06:20.80,Ryōko italic,Jun,0,0,0,,I'm way beyond envious.
@@ -170,7 +170,7 @@ Dialogue: 0,0:11:17.60,0:11:21.28,Ryōko main,Ryo,0,0,0,,I'm going to interrupt 
 Dialogue: 0,0:11:21.28,0:11:26.15,Ryōko main,Ryo,0,0,0,,Do you remember me telling you that I would reveal your true identity?
 Dialogue: 0,0:11:31.87,0:11:33.63,Ryōko main,Ryo,0,0,0,,What was that noise just now?
 Dialogue: 0,0:11:33.63,0:11:35.16,Ryōko main,Jun,0,0,0,,I-I don't know.
-Dialogue: 0,0:11:36.49,0:11:39.01,Ryōko main,Sog,0,0,0,,Welcome, Yakushiji Ryoko,
+Dialogue: 0,0:11:36.49,0:11:39.01,Ryōko main,Sog,0,0,0,,Welcome, Yakushiji Ryouko,
 Dialogue: 0,0:11:39.01,0:11:41.33,Ryōko main,Sog,0,0,0,,to our experimental room!
 Dialogue: 0,0:11:45.09,0:11:47.75,Ryōko main,Ryo,0,0,0,,Oh, an experimental room?
 Dialogue: 0,0:11:47.75,0:11:49.80,Ryōko main,Ryo,0,0,0,,It seems you've got a lot of spare time on your hands,
@@ -256,7 +256,7 @@ Dialogue: 0,0:16:30.41,0:16:32.32,Ryōko main,Tat,0,0,0,,What's happening?
 Dialogue: 0,0:16:32.32,0:16:33.95,Ryōko main,Tat,0,0,0,,Hey, stop this!
 Dialogue: 0,0:16:33.95,0:16:35.54,Ryōko main,Sog,0,0,0,,Tatsumi-sama!
 Dialogue: 0,0:16:47.93,0:16:48.71,Ryōko main,Tat,0,0,0,,Damn it!
-Dialogue: 0,0:16:49.82,0:16:51.76,Ryōko main,Tat,0,0,0,,Remember this, Yakushiji Ryoko.
+Dialogue: 0,0:16:49.82,0:16:51.76,Ryōko main,Tat,0,0,0,,Remember this, Yakushiji Ryouko.
 Dialogue: 0,0:16:52.37,0:16:53.42,Ryōko main,Tat,0,0,0,,One day...
 Dialogue: 0,0:16:53.42,0:16:54.72,Ryōko main,Tat,0,0,0,,One day...
 Dialogue: 0,0:16:55.89,0:16:56.96,Ryōko main,Tat,0,0,0,,One day, you'll also...
@@ -323,11 +323,11 @@ Dialogue: 0,0:21:43.57,0:21:45.12,Ryōko main,Non,0,0,0,,WTED Oryo?
 Dialogue: 0,0:21:45.12,0:21:48.18,Ryōko main,Jun,0,0,0,,That's what she's called in the\NMetropolitan Police Department.
 Dialogue: 0,0:21:48.18,0:21:50.56,Ryōko main,Jun,0,0,0,,It stands for {\i1}Oryo Walks Through Even Dracula{\i0}.
 Dialogue: 0,0:21:51.08,0:21:53.76,Ryōko main,Non,0,0,0,,Ah, that's why it's WTED Oryo.
-Dialogue: 0,0:21:54.56,0:21:57.99,Ryōko main,Non,0,0,0,,Yes, it's a perfect nickname for Mistress Ryoko.
+Dialogue: 0,0:21:54.56,0:21:57.99,Ryōko main,Non,0,0,0,,Yes, it's a perfect nickname for Mistress Ryouko.
 Dialogue: 0,0:23:25.89,0:23:27.78,Ryōko main,Yuk,0,0,0,,What was that preview last week?
 Dialogue: 0,0:23:27.78,0:23:28.95,Ryōko main,Ryo,0,0,0,,You've appeared, Ms. Discipline.
 Dialogue: 0,0:23:28.95,0:23:33.61,Ryōko main,Yuk,0,0,0,,To begin with, a preview is supposed to briefly and\Naccurately explain the next episode's story to the viewers.
-Dialogue: 0,0:23:33.61,0:23:36.29,Ryōko main,Jun,0,0,0,,Yakushiji Ryoko's Supernatural Case File, File Number 03:
+Dialogue: 0,0:23:33.61,0:23:36.29,Ryōko main,Jun,0,0,0,,Yakushiji Ryouko's Supernatural Case File, File Number 03:
 Dialogue: 0,0:23:36.29,0:23:38.06,Ryōko tl notes,,0,0,0,,[Note: Sakurada Gate is a nickname for the Metropolitan Police Department.]
 Dialogue: 0,0:23:36.29,0:23:38.19,Ryōko main,Jun,0,0,0,,Sakurada Gate Case.
 Dialogue: 0,0:23:38.19,0:23:39.36,Ryōko main,Yuk,0,0,0,,Lieutenant Izumida...

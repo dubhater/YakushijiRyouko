@@ -16,7 +16,7 @@ Style: Ryōko tl notes,Fansub,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 
 Dialogue: 0,0:01:32.68,0:01:34.62,Ryōko italic,Jun,0,0,0,,My name is Izumida Jun'ichirou.
-Dialogue: 0,0:01:34.62,0:01:36.98,Ryōko italic,Jun,0,0,0,,I am Yakushiji Ryoko's confidant...
+Dialogue: 0,0:01:34.62,0:01:36.98,Ryōko italic,Jun,0,0,0,,I am Yakushiji Ryouko's confidant...
 Dialogue: 0,0:01:36.98,0:01:38.49,Ryōko italic,Jun,0,0,0,,or so it seems.
 Dialogue: 0,0:01:39.09,0:01:42.33,Ryōko italic,Jun,0,0,0,,Today, I'm here with my boss at Narita Airport.
 Dialogue: 0,0:01:42.33,0:01:43.70,Ryōko italic,Jun,0,0,0,,That's because...
@@ -25,7 +25,7 @@ Dialogue: 0,0:02:10.18,0:02:11.27,Ryōko main,Ryo,0,0,0,,Long time no see.
 Dialogue: 0,0:02:13.61,0:02:16.26,Ryōko main,,0,0,0,,Yes, it's been a while.
 Dialogue: 0,0:02:16.26,0:02:18.31,Ryōko main,,0,0,0,,It's great to see you again.
 Dialogue: 0,0:02:18.31,0:02:20.87,Ryōko main,,0,0,0,,We missed you so much.
-Dialogue: 0,0:02:27.69,0:02:31.96,Ryōko italic,Jun,0,0,0,,Marianne and Lucienne are two maids who work for Yakushiji Ryoko.
+Dialogue: 0,0:02:27.69,0:02:31.96,Ryōko italic,Jun,0,0,0,,Marianne and Lucienne are two maids who work for Yakushiji Ryouko.
 Dialogue: 0,0:02:31.96,0:02:36.63,Ryōko italic,Jun,0,0,0,,Of course, being maids, they do household chores, but that's not everything they do.
 Dialogue: 0,0:02:37.21,0:02:39.47,Ryōko italic,Jun,0,0,0,,Marianne is an expert with weapons,
 Dialogue: 0,0:02:39.47,0:02:41.71,Ryōko italic,Jun,0,0,0,,and Lucienne is an expert with computers.
@@ -243,7 +243,7 @@ Dialogue: 0,0:17:38.40,0:17:40.58,Ryōko main,Man,0,0,0,,I will also promise you
 Dialogue: 0,0:17:41.57,0:17:44.04,Ryōko main,Guy,0,0,0,,I don't think it's a bad deal for you.
 Dialogue: 0,0:17:45.88,0:17:47.13,Ryōko main,Jun,0,0,0,,I decline.
 Dialogue: 0,0:17:47.13,0:17:48.79,Ryōko main,Man,0,0,0,,But, listen...
-Dialogue: 0,0:17:48.79,0:17:53.44,Ryōko main,Jun,0,0,0,,I am satisfied with being Yakushiji Ryoko's subordinate.
+Dialogue: 0,0:17:48.79,0:17:53.44,Ryōko main,Jun,0,0,0,,I am satisfied with being Yakushiji Ryouko's subordinate.
 Dialogue: 0,0:17:53.44,0:17:54.05,Ryōko main,Guy,0,0,0,,Bastard!
 Dialogue: 0,0:17:54.05,0:17:56.77,Ryōko main,Guy,0,0,0,,Taking the upper hand just because we were being modest!
 Dialogue: 0,0:18:11.77,0:18:13.28,Ryōko main,Guy,0,0,0,,You bitch!
@@ -297,7 +297,7 @@ Dialogue: 0,0:23:15.50,0:23:16.41,Ryōko main,Mar,0,0,0,,Excuse me.
 Dialogue: 0,0:23:16.41,0:23:17.27,Ryōko main,Jun,0,0,0,,Inspector Maruoka!
 Dialogue: 0,0:23:17.27,0:23:19.29,Ryōko main,Mar,0,0,0,,How about we go for a drink? Let's keep it a secret from the Superintendent, okay?
 Dialogue: 0,0:23:19.29,0:23:21.38,Ryōko main,Mar,0,0,0,,It's great to drink while complaining about your boss...
-Dialogue: 0,0:23:21.38,0:23:23.15,Ryōko main,Jun,0,0,0,,Yakushiji Ryoko's Supernatural Case File,
+Dialogue: 0,0:23:21.38,0:23:23.15,Ryōko main,Jun,0,0,0,,Yakushiji Ryouko's Supernatural Case File,
 Dialogue: 0,0:23:23.15,0:23:24.21,Ryōko main,,0,0,0,,File Number 07:
 Dialogue: 0,0:23:24.21,0:23:25.61,Ryōko main,Jun,0,0,0,,Okinawa, God's Island.
 Dialogue: 0,0:23:25.61,0:23:26.46,Ryōko main,Jun,0,0,0,,Please look forward to it.

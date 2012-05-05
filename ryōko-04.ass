@@ -66,7 +66,7 @@ Dialogue: 0,0:04:58.46,0:05:01.98,Ryōko italic,Jun,0,0,0,,And then there's Kats
 Dialogue: 0,0:05:02.89,0:05:04.84,Ryōko italic,Jun,0,0,0,,He's the chairman of DK Pharmaceutical
 Dialogue: 0,0:05:04.84,0:05:08.03,Ryōko italic,Jun,0,0,0,,and has previously served as the Minister of Health, Labor and Welfare.
 Dialogue: 0,0:05:08.32,0:05:10.38,Ryōko italic,Jun,0,0,0,,He's a leading figure of the Minsei Political Party.
-Dialogue: 0,0:05:12.02,0:05:15.23,Ryōko italic,Jun,0,0,0,,Yakushiji Ryoko tells me that she is going to meet Chairman Katsuragawa.
+Dialogue: 0,0:05:12.02,0:05:15.23,Ryōko italic,Jun,0,0,0,,Yakushiji Ryouko tells me that she is going to meet Chairman Katsuragawa.
 Dialogue: 0,0:05:15.89,0:05:22.22,Ryōko italic,Jun,0,0,0,,But as usual, I don't know anything about her objectives.
 Dialogue: 0,0:05:31.62,0:05:33.23,Ryōko main,Jun,0,0,0,,There are security guards.
 Dialogue: 0,0:05:33.23,0:05:35.09,Ryōko main,Ryo,0,0,0,,He's a former minister, after all.
@@ -112,7 +112,7 @@ Dialogue: 0,0:07:30.01,0:07:32.01,Ryōko main,Jun,0,0,0,,I don't understand you.
 Dialogue: 0,0:07:32.94,0:07:34.97,Ryōko main,Jun,0,0,0,,Katsuragawa Heizou.
 Dialogue: 0,0:07:34.97,0:07:37.35,Ryōko main,Kat,0,0,0,,What is this about?
 Dialogue: 0,0:07:37.35,0:07:39.48,Ryōko main,Yuk,0,0,0,,Chairman, I'm terribly sorry.
-Dialogue: 0,0:07:39.85,0:07:41.42,Ryōko main,Ryo,0,0,0,,I'm Yakushiji Ryoko.
+Dialogue: 0,0:07:39.85,0:07:41.42,Ryōko main,Ryo,0,0,0,,I'm Yakushiji Ryouko.
 Dialogue: 0,0:07:41.42,0:07:42.44,Ryōko main,Kat,0,0,0,,I am aware of that.
 Dialogue: 0,0:07:42.75,0:07:44.93,Ryōko main,Ryo,0,0,0,,Then that makes things easier.
 Dialogue: 0,0:07:44.93,0:07:48.01,Ryōko main,Ryo,0,0,0,,Chairman, I've come here to ask you a few questions.
@@ -133,7 +133,7 @@ Dialogue: 0,0:08:37.50,0:08:38.57,Ryōko main,Ryo,0,0,0,,Just because.
 Dialogue: 0,0:08:38.57,0:08:39.67,Ryōko main,Yuk,0,0,0,,I'll be accompanying him.
 Dialogue: 0,0:08:39.67,0:08:43.45,Ryōko main,Yuk,0,0,0,,My job is to protect Chairman Katsuragawa from dangerous elements.
 Dialogue: 0,0:08:43.45,0:08:45.37,Ryōko main,Ryo,0,0,0,,Who are you calling a dangerous element?
-Dialogue: 0,0:08:45.72,0:08:46.96,Ryōko main,Yuk,0,0,0,,Yakushiji Ryoko.
+Dialogue: 0,0:08:45.72,0:08:46.96,Ryōko main,Yuk,0,0,0,,Yakushiji Ryouko.
 Dialogue: 0,0:08:47.27,0:08:48.42,Ryōko main,Ryo,0,0,0,,Hey.
 Dialogue: 0,0:08:48.82,0:08:50.17,Ryōko main,Jun,0,0,0,,She's convincing.
 Dialogue: 0,0:08:50.17,0:08:51.73,Ryōko main,Ryo,0,0,0,,Did you say something?
@@ -172,7 +172,7 @@ Dialogue: 0,0:10:40.91,0:10:46.84,Ryōko main,Ryo,0,0,0,,After we report the tru
 Dialogue: 0,0:10:46.84,0:10:48.02,Ryōko main,Kat,0,0,0,,JACES?
 Dialogue: 0,0:10:49.20,0:10:51.98,Ryōko main,Ryo,0,0,0,,Please hand it over, Chairman.
 Dialogue: 0,0:10:54.12,0:10:56.25,Ryōko main,Kat,0,0,0,,Hmph, I see.
-Dialogue: 0,0:10:56.25,0:10:58.81,Ryōko main,Kat,0,0,0,,As expected from Yakushiji Ryoko.
+Dialogue: 0,0:10:56.25,0:10:58.81,Ryōko main,Kat,0,0,0,,As expected from Yakushiji Ryouko.
 Dialogue: 0,0:10:58.81,0:11:00.13,Ryōko main,Kat,0,0,0,,I'm impressed.
 Dialogue: 0,0:11:02.06,0:11:06.53,Ryōko main,Kat,0,0,0,,Fine, I'll hand over all the research-related materials.
 Dialogue: 0,0:11:07.47,0:11:09.56,Ryōko main,Kat,0,0,0,,I lose.
@@ -335,12 +335,12 @@ Dialogue: 0,0:21:01.22,0:21:04.61,Ryōko main,Ryo,0,0,0,,Then I think it was oka
 Dialogue: 0,0:21:07.52,0:21:08.71,Ryōko main,Ryo,0,0,0,,Probably.
 Dialogue: 0,0:21:10.04,0:21:13.54,Ryōko main,Yam,0,0,0,,Its cell tissues are fragile.
 Dialogue: 0,0:21:15.76,0:21:19.35,Ryōko main,Yam,0,0,0,,It won't live much longer.
-Dialogue: 0,0:21:44.85,0:21:50.04,Ryōko italic,Jun,0,0,0,,Yakushiji Ryoko never spoke of this case hereafter.
+Dialogue: 0,0:21:44.85,0:21:50.04,Ryōko italic,Jun,0,0,0,,Yakushiji Ryouko never spoke of this case hereafter.
 Dialogue: 0,0:23:15.85,0:23:17.67,Ryōko main,Nis,0,0,0,,Greetings, Oryo-sama.
 Dialogue: 0,0:23:17.67,0:23:19.30,Ryōko main,Ryo,0,0,0,,Here comes the fan of leotards.
 Dialogue: 0,0:23:19.30,0:23:22.08,Ryōko main,Nis,0,0,0,,Is Hayama Eri-chan, the voice actress, making an appearance in this episode?
 Dialogue: 0,0:23:22.08,0:23:23.67,Ryōko main,Nis,0,0,0,,I'm talking about Eri-chan! You know...
-Dialogue: 0,0:23:22.78,0:23:26.09,Ryōko overlap,Jun,0,0,0,,Yakushiji Ryoko's Supernatural Case File, File Number 05:
+Dialogue: 0,0:23:22.78,0:23:26.09,Ryōko overlap,Jun,0,0,0,,Yakushiji Ryouko's Supernatural Case File, File Number 05:
 Dialogue: 0,0:23:26.09,0:23:27.72,Ryōko main,Jun,0,0,0,,The Ox That Crawls the Omotesandou.
 Dialogue: 0,0:23:27.72,0:23:28.68,Ryōko main,Jun,0,0,0,,Please look forward to it.
 Dialogue: 0,0:23:28.68,0:23:29.26,Ryōko main,Nis,0,0,0,,Eri-chan is...
