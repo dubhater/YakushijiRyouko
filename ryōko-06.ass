@@ -16,291 +16,291 @@ Style: Yaku Note,Franklin Gothic Demi Cond,32,&H00F7F0E9,&H0065380B,&H0065380B,&
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 
-Dialogue: 0,0:01:32.68,0:01:34.62,Yaku T,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}My name is Izumida Jun'ichirou.
-Dialogue: 0,0:01:34.62,0:01:36.98,Yaku T,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}I am Yakushiji Ryoko's confidant...
-Dialogue: 0,0:01:36.98,0:01:38.49,Yaku T,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}or so it seems.
-Dialogue: 0,0:01:39.09,0:01:42.33,Yaku T,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Today, I'm here with my boss at Narita Airport.
-Dialogue: 0,0:01:42.33,0:01:43.70,Yaku T,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}That's because...
-Dialogue: 0,0:02:08.19,0:02:10.18,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Marianne, Lucienne.
-Dialogue: 0,0:02:10.18,0:02:11.27,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Long time no see.
-Dialogue: 0,0:02:13.61,0:02:16.26,Yaku M,,0000,0000,0000,,{\be1\3a&H30&\fscx110}Yes, it's been a while.
-Dialogue: 0,0:02:16.26,0:02:18.31,Yaku M,,0000,0000,0000,,{\be1\3a&H30&\fscx110}It's great to see you again.
-Dialogue: 0,0:02:18.31,0:02:20.87,Yaku M,,0000,0000,0000,,{\be1\3a&H30&\fscx110}We missed you so much.
-Dialogue: 0,0:02:27.69,0:02:31.96,Yaku T,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Marianne and Lucienne are two maids who work for Yakushiji Ryoko.
-Dialogue: 0,0:02:31.96,0:02:36.63,Yaku T,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Of course, being maids, they do household chores, but that's not everything they do.
-Dialogue: 0,0:02:37.21,0:02:39.47,Yaku T,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Marianne is an expert with weapons,
-Dialogue: 0,0:02:39.47,0:02:41.71,Yaku T,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}and Lucienne is an expert with computers.
-Dialogue: 0,0:02:41.71,0:02:44.26,Yaku T,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}She's a genius when it comes to hacking.
-Dialogue: 0,0:02:46.04,0:02:47.64,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Say, Izumida-kun.
-Dialogue: 0,0:02:48.31,0:02:51.35,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Why don't you stop dozing and join the conversation?
-Dialogue: 0,0:02:51.73,0:02:54.56,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Unfortunately, I'm not good at speaking French.
-Dialogue: 0,0:02:56.63,0:02:59.02,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}This country sure doesn't change.
-Dialogue: 0,0:02:59.02,0:03:01.50,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Corrupt politicians and bureaucratic scandals...
-Dialogue: 0,0:03:01.50,0:03:03.28,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}I'm surprised that this continues.
-Dialogue: 0,0:03:03.28,0:03:05.16,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Of course it does.
-Dialogue: 0,0:03:05.16,0:03:08.33,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}People just complain instead of doing something about it.
-Dialogue: 0,0:03:08.33,0:03:12.31,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}People just stay in their territory and complain.
-Dialogue: 0,0:03:12.31,0:03:14.20,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}You're right about that, but...
-Dialogue: 0,0:03:14.20,0:03:15.50,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}But what?
-Dialogue: 0,0:03:15.50,0:03:18.48,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}I believe you do that {\i1}too much{\i0}{\fscx50} {\fscx100}, Superintendent.
-Dialogue: 0,0:03:26.70,0:03:27.27,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}What happened?
-Dialogue: 0,0:03:33.22,0:03:34.14,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Superintendent!
-Dialogue: 0,0:03:38.82,0:03:39.53,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}That's...
-Dialogue: 0,0:03:43.18,0:03:45.52,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}If I knew this was going to happen, I would have brought my gun.
-Dialogue: 0,0:03:51.31,0:03:53.40,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Oh my, perfect timing.
-Dialogue: 0,0:03:53.40,0:03:55.33,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}What are you saying?
-Dialogue: 0,0:04:07.74,0:04:08.39,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}How did it go?
-Dialogue: 0,0:04:08.99,0:04:11.73,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}I've notified the ones in charge at the Ginza Police Station.
-Dialogue: 0,0:04:11.73,0:04:13.01,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Is that so?
-Dialogue: 0,0:04:13.01,0:04:18.11,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}More importantly, what if the room next to us is red and has futons ready?
-Dialogue: 0,0:04:19.49,0:04:23.61,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}How appropriate of you to play the role of the evil deputy official.
-Dialogue: 0,0:04:23.61,0:04:25.18,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}How rude.
-Dialogue: 0,0:04:25.18,0:04:28.78,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}I'm the sweet city girl who was kidnapped.
-Dialogue: 0,0:04:33.31,0:04:35.33,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}What do you think about the incident earlier?
-Dialogue: 0,0:04:35.33,0:04:37.32,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}I have no idea whatsoever.
-Dialogue: 0,0:04:37.32,0:04:41.64,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}One thing though.  The victim may have had connections with the mafia.
-Dialogue: 0,0:04:41.64,0:04:42.70,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Why is that?
-Dialogue: 0,0:04:42.70,0:04:44.59,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}The gun he held was a Tokareva.
-Dialogue: 0,0:04:44.59,0:04:45.55,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Close.
-Dialogue: 0,0:04:45.55,0:04:50.38,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Even if it was a Tokareva, was it as crudely modified as the guns used by the mafia?
-Dialogue: 0,0:04:50.38,0:04:52.64,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Let's let the Ginza police handle this for now.
-Dialogue: 0,0:04:54.17,0:04:55.10,Yaku M,Guy,0000,0000,0000,,{\be1\3a&H30&\fscx110}That's great.
-Dialogue: 0,0:04:55.91,0:04:59.44,Yaku M,Guy,0000,0000,0000,,{\be1\3a&H30&\fscx110}I'm sure your Cabinet minister will be very happy once we settle this.
-Dialogue: 0,0:04:59.44,0:05:03.52,Yaku M,Man,0000,0000,0000,,{\be1\3a&H30&\fscx110}Yes, he was pumped up about being able to use as much money as he wanted.
-Dialogue: 0,0:05:01.39,0:05:04.84,Yaku 2on,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Two elite bureaucrats up to no good.
-Dialogue: 0,0:05:04.84,0:05:06.34,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Do you know them?
-Dialogue: 0,0:05:06.34,0:05:09.78,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Among bureaucrats, they're somewhat famous.
-Dialogue: 0,0:05:10.35,0:05:13.58,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}This one's Aoyama from the Ministry of Defense.  He's known as Mr. Dinner.
-Dialogue: 0,0:05:14.31,0:05:16.63,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}That one is Isogai from the Ministry of Land, Infrastructure, Transport and Tourism.
-Dialogue: 0,0:05:16.63,0:05:18.57,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}He's like the runner-up.
-Dialogue: 0,0:05:18.57,0:05:21.00,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}So they have a cozy relationship with their dealers
-Dialogue: 0,0:05:21.00,0:05:23.08,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}who then take them out to dinner.
-Dialogue: 0,0:05:23.08,0:05:24.26,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}It's the opposite.
-Dialogue: 0,0:05:25.24,0:05:28.36,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}The saint's maids are quoting Latin.
-Dialogue: 0,0:05:28.36,0:05:33.63,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}After attending many dinners, they now\Nmanage dinners for various other people.
-Dialogue: 0,0:05:38.80,0:05:39.98,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Sorry to keep you waiting.
-Dialogue: 0,0:05:39.98,0:05:41.93,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Where are those two?
-Dialogue: 0,0:05:41.93,0:05:43.11,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}They went home ahead of us.
-Dialogue: 0,0:05:43.85,0:05:46.80,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}They probably wanted to leave us alone.
-Dialogue: 0,0:05:48.10,0:05:49.63,Yaku M,Guy,0000,0000,0000,,{\be1\3a&H30&\fscx110}Good night, Mistress.
-Dialogue: 0,0:05:49.63,0:05:51.00,Yaku M,Guy,0000,0000,0000,,{\be1\3a&H30&\fscx110}We'll come again.
-Dialogue: 0,0:06:02.33,0:06:03.67,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Good morning.
-Dialogue: 0,0:06:03.67,0:06:05.30,Yaku M,Gal,0000,0000,0000,,{\be1\3a&H30&\fscx110}Izumida-san!
-Dialogue: 0,0:06:03.67,0:06:05.30,Yaku 2on,Old,0000,0000,0000,,{\be1\3a&H30&\fscx110}Izumida-kun!
-Dialogue: 0,0:06:05.30,0:06:06.34,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}What is it?
-Dialogue: 0,0:06:06.34,0:06:09.18,Yaku M,Gal,0000,0000,0000,,{\be1\3a&H30&\fscx110}We've experienced it!
-Dialogue: 0,0:06:09.18,0:06:12.08,Yaku M,Guy,0000,0000,0000,,{\be1\3a&H30&\fscx110}Oh Lord, protect us.
-Dialogue: 0,0:06:12.08,0:06:14.70,Yaku M,Old,0000,0000,0000,,{\be1\3a&H30&\fscx110}It was a ghost's doing!  I'm sure of it!
-Dialogue: 0,0:06:17.22,0:06:18.55,Yaku M,,0000,0000,0000,,{\be1\3a&H30&\fscx110}What's wrong?
-Dialogue: 0,0:06:18.55,0:06:24.34,Yaku M,Gal,0000,0000,0000,,{\be1\3a&H30&\fscx110}Last night, we were sorting material in the reference room downstairs just like the superintendent instructed.
-Dialogue: 0,0:06:26.79,0:06:28.20,Yaku M,Gal,0000,0000,0000,,{\be1\3a&H30&\fscx110}Oh my, is it an earthquake?
-Dialogue: 0,0:06:34.12,0:06:36.44,Yaku M,Guy,0000,0000,0000,,{\be1\3a&H30&\fscx110}That wasn't an earthquake just now, was it?
-Dialogue: 0,0:06:36.44,0:06:38.73,Yaku M,Old,0000,0000,0000,,{\be1\3a&H30&\fscx110}Do you hear something?
-Dialogue: 0,0:06:43.98,0:06:45.71,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}So that's what happened?
-Dialogue: 0,0:06:45.71,0:06:47.72,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}It wasn't just the Metropolitan Police Department.
-Dialogue: 0,0:06:47.72,0:06:50.63,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Jackie phoned me yesterday.
-Dialogue: 0,0:06:50.63,0:06:53.41,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}It seems a similar incident occurred at the Ministry of Finance.
-Dialogue: 0,0:06:53.41,0:06:54.64,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Wakabayashi-san experienced it too?
-Dialogue: 0,0:06:55.60,0:06:57.71,Yaku M,Man,0000,0000,0000,,{\be1\3a&H30&\fscx110}I think it's just a cold.
-Dialogue: 0,0:06:57.71,0:06:59.73,Yaku M,Man,0000,0000,0000,,{\be1\3a&H30&\fscx110}I should be better tomorrow.
-Dialogue: 0,0:06:59.73,0:07:01.61,Yaku M,Man,0000,0000,0000,,{\be1\3a&H30&\fscx110}Yes, I'm terribly sorry.
-Dialogue: 0,0:07:05.59,0:07:07.56,Yaku M,Man,0000,0000,0000,,{\be1\3a&H30&\fscx110}No!
-Dialogue: 0,0:07:07.56,0:07:09.70,Yaku M,Man,0000,0000,0000,,{\be1\3a&H30&\fscx110}I'm scared!
-Dialogue: 0,0:07:27.50,0:07:29.38,Yaku M,Guy,0000,0000,0000,,{\be1\3a&H30&\fscx110}They're waiting over there.
-Dialogue: 0,0:07:33.52,0:07:34.46,Yaku M,Mar,0000,0000,0000,,{\be1\3a&H30&\fscx110}Thank you.
-Dialogue: 0,0:07:34.46,0:07:36.18,Yaku M,Guy,0000,0000,0000,,{\be1\3a&H30&\fscx110}Let's go somewhere else.
-Dialogue: 0,0:07:36.18,0:07:38.14,Yaku M,Guy,0000,0000,0000,,{\be1\3a&H30&\fscx110}We stand out too much here.
-Dialogue: 0,0:07:41.85,0:07:44.50,Yaku M,Yuk,0000,0000,0000,,{\be1\3a&H30&\fscx110}Just who are you calling a poikilothermic animal?
-Dialogue: 0,0:07:44.50,0:07:45.39,Yaku M,Yuk,0000,0000,0000,,{\be1\3a&H30&\fscx110}Just who?!
-Dialogue: 0,0:07:45.39,0:07:48.48,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}But Oyuki, you said you get cold hands and feet easily.
-Dialogue: 0,0:07:48.48,0:07:52.12,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}I wonder if your hands and feet are cold because you're cold inside.
-Dialogue: 0,0:07:52.12,0:07:54.18,Yaku M,Yuk,0000,0000,0000,,{\be1\3a&H30&\fscx110}If I'm a cold-blooded animal,
-Dialogue: 0,0:07:54.18,0:07:57.24,Yaku M,Yuk,0000,0000,0000,,{\be1\3a&H30&\fscx110}you're a merciless cold-blooded animal!
-Dialogue: 0,0:07:57.24,0:08:01.36,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Oh my, there's no one as warm as me.
-Dialogue: 0,0:07:58.71,0:08:02.11,Yaku 2on,Nis,0000,0000,0000,,{\be1\3a&H30&\fscx110}I'm surprised they don't run out of topics to argue about.
-Dialogue: 0,0:08:02.11,0:08:05.36,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}I'm sure it's like your hobby.  They won't get tired of it.
-Dialogue: 0,0:08:05.36,0:08:08.38,Yaku M,Nis,0000,0000,0000,,{\be1\3a&H30&\fscx110}Oh yeah, regarding my hobby, the leotard...
-Dialogue: 0,0:08:07.45,0:08:10.84,Yaku 2on,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}More importantly, let's continue our conversation.
-Dialogue: 0,0:08:10.84,0:08:11.63,Yaku M,Nis,0000,0000,0000,,{\be1\3a&H30&\fscx110}Yes, yes.
-Dialogue: 0,0:08:12.11,0:08:15.01,Yaku M,Nis,0000,0000,0000,,{\be1\3a&H30&\fscx110}I may not look like it, but I'm a career bureaucrat, right?
-Dialogue: 0,0:08:15.01,0:08:16.97,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Well sorry for being a non-career bureaucrat.
-Dialogue: 0,0:08:16.97,0:08:18.02,Yaku M,Nis,0000,0000,0000,,{\be1\3a&H30&\fscx110}Now, now.
-Dialogue: 0,0:08:18.50,0:08:21.75,Yaku M,Nis,0000,0000,0000,,{\be1\3a&H30&\fscx110}Among us career bureaucrats,
-Dialogue: 0,0:08:21.75,0:08:25.56,Yaku M,Nis,0000,0000,0000,,{\be1\3a&H30&\fscx110}there have been rumors recently of ghost sightings and poltergeist phenomena.
-Dialogue: 0,0:08:26.14,0:08:29.53,Yaku M,Nis,0000,0000,0000,,{\be1\3a&H30&\fscx110}It looks like similar incidents have occurred at each ministry and government office.
-Dialogue: 0,0:08:29.53,0:08:30.49,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}I see.
-Dialogue: 0,0:08:30.49,0:08:32.21,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}So that's how it is.
-Dialogue: 0,0:08:33.36,0:08:34.84,Yaku M,Yuk,0000,0000,0000,,{\be1\3a&H30&\fscx110}Oryo?
-Dialogue: 0,0:08:35.49,0:08:36.63,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}The Metropolitan Police,
-Dialogue: 0,0:08:36.63,0:08:37.79,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}the Ministry of Land, Infrastructure, Transport and Tourism,
-Dialogue: 0,0:08:37.79,0:08:38.54,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}the Ministry of Foreign Affairs,
-Dialogue: 0,0:08:39.09,0:08:39.97,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}the Ministry of Finance,
-Dialogue: 0,0:08:39.97,0:08:40.73,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}the Ministry of Agriculture, Forestry and Fisheries,
-Dialogue: 0,0:08:40.73,0:08:43.52,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}and the Ministry of Economy, Trade and Industry.
-Dialogue: 0,0:08:43.52,0:08:44.54,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Thought so.
-Dialogue: 0,0:08:45.45,0:08:46.79,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}The subway.
-Dialogue: 0,0:08:46.79,0:08:51.09,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}The poltergeist causing the Kasumigaseki trouble is traveling via the subway.
-Dialogue: 0,0:08:51.57,0:08:54.29,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Meaning the Hibiya Line?
-Dialogue: 0,0:08:54.29,0:08:55.68,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}No.
-Dialogue: 0,0:08:56.33,0:09:02.85,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}There's a line that connects Yurakucho Line's Sakuradamon Station with Chiyoda Line's Kasumigaseki Station.  Like this.
-Dialogue: 0,0:09:02.85,0:09:06.77,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}If this line is used to travel every night...
-Dialogue: 0,0:09:07.24,0:09:10.60,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Yes, it does line up with the ministries and government offices where the ghost incidents occurred.
-Dialogue: 0,0:09:11.93,0:09:15.34,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}But you said "it."  Do you mean...?
-Dialogue: 0,0:09:15.87,0:09:19.38,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}That's right, the mysterious shadow we saw the other day.
-Dialogue: 0,0:09:19.38,0:09:22.04,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Its identity is probably the...
-Dialogue: 0,0:09:23.90,0:09:26.00,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}...Underground Monster, Teradtron.
-Dialogue: 0,0:09:27.23,0:09:30.46,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Again with "Mystery, Thursday the Twelfth?"
-Dialogue: 0,0:09:41.57,0:09:43.95,Yaku M,Gal,0000,0000,0000,,{\be1\3a&H30&\fscx110}This way please, Master.
-Dialogue: 0,0:10:01.42,0:10:03.02,Yaku M,Guy,0000,0000,0000,,{\be1\3a&H30&\fscx110}Oh, come in.
-Dialogue: 0,0:10:07.16,0:10:09.12,Yaku M,Man,0000,0000,0000,,{\be1\3a&H30&\fscx110}Leave that there.
-Dialogue: 0,0:10:11.15,0:10:15.26,Yaku M,Man,0000,0000,0000,,{\be1\3a&H30&\fscx110}Your men will regret it if they see their boss like this.
-Dialogue: 0,0:10:15.72,0:10:18.63,Yaku M,Guy,0000,0000,0000,,{\be1\3a&H30&\fscx110}I don't understand this fetish either.
-Dialogue: 0,0:10:18.63,0:10:19.53,Yaku M,Man,0000,0000,0000,,{\be1\3a&H30&\fscx110}Good work.
-Dialogue: 0,0:10:19.53,0:10:20.82,Yaku M,Man,0000,0000,0000,,{\be1\3a&H30&\fscx110}You may leave.
-Dialogue: 0,0:10:44.32,0:10:47.12,Yaku M,Man,0000,0000,0000,,{\be1\3a&H30&\fscx110}Things will get out of hand if we don't finish it off quickly.
-Dialogue: 0,0:10:47.12,0:10:51.46,Yaku M,Guy,0000,0000,0000,,{\be1\3a&H30&\fscx110}Even if we lied, blaming it on ghosts or poltergeists, there {\i1}is{\i0}  still a limit to it.
-Dialogue: 0,0:10:51.46,0:10:54.09,Yaku M,Guy,0000,0000,0000,,{\be1\3a&H30&\fscx110}That's why you want to mobilize my soldiers again?
-Dialogue: 0,0:10:56.23,0:10:57.85,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}So that's how it is.
-Dialogue: 0,0:11:07.11,0:11:11.12,Yaku M,Non,0000,0000,0000,,{\be1\3a&H30&\fscx110}Via their head office, I've talked with Tokyo Metro.
-Dialogue: 0,0:11:11.72,0:11:15.76,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}You didn't have to get their permission.
-Dialogue: 0,0:11:15.76,0:11:17.07,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Please tell me, Superintendent.
-Dialogue: 0,0:11:17.54,0:11:20.92,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}What's here under Kasumigaseki?
-Dialogue: 0,0:11:21.43,0:11:23.56,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Just wait until you see it.
-Dialogue: 0,0:11:25.66,0:11:27.54,Yaku M,Non,0000,0000,0000,,{\be1\3a&H30&\fscx110}Izumida-san, please be careful.
-Dialogue: 0,0:11:28.53,0:11:31.83,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}I'm not worried since I'm with WTED Oryo.
-Dialogue: 0,0:11:32.18,0:11:35.12,Yaku M,Non,0000,0000,0000,,{\be1\3a&H30&\fscx110}But she's also SLD Oryo.
-Dialogue: 0,0:11:36.24,0:11:37.13,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Yes, I remember now.
-Dialogue: 0,0:11:54.25,0:11:55.13,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}This way.
-Dialogue: 0,0:12:06.37,0:12:09.83,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}That's the line that connects Kasumigaseki and Sakuradamon.
-Dialogue: 0,0:12:11.47,0:12:14.09,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}We're just about underneath the Ministry of Foreign Affairs.
-Dialogue: 0,0:12:19.58,0:12:21.55,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Superintendent!  Look at that!
-Dialogue: 0,0:12:30.89,0:12:32.10,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Don't attack it!
-Dialogue: 0,0:12:32.43,0:12:33.44,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Why?
-Dialogue: 0,0:12:33.44,0:12:36.69,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Because it's Japan's natural treasure.
-Dialogue: 0,0:12:37.32,0:12:39.36,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Is it the giant salamander?
-Dialogue: 0,0:12:41.52,0:12:44.28,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Still, it's huge...
-Dialogue: 0,0:12:44.70,0:12:46.30,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Is this...?
-Dialogue: 0,0:12:46.30,0:12:49.08,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Yes.  This is the identity of Teradtron, the Underground Monster.
-Dialogue: 0,0:12:54.30,0:12:56.63,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}It doesn't look like it'll attack us.
-Dialogue: 0,0:12:58.09,0:12:58.59,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Wait!
-Dialogue: 0,0:13:09.69,0:13:13.65,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Normally, it eats small fishes and frogs, but it probably...
-Dialogue: 0,0:13:18.49,0:13:19.36,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}This way.
-Dialogue: 0,0:13:19.92,0:13:22.18,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}It must have made this hole the other day.
-Dialogue: 0,0:13:33.84,0:13:35.06,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Where are we?
-Dialogue: 0,0:13:35.06,0:13:36.79,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}The Hibiya Common Utility Duct.
-Dialogue: 0,0:13:36.79,0:13:39.96,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}It's an underground facility to connect various utility lines together.
-Dialogue: 0,0:13:41.47,0:13:42.72,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}So this is it.
-Dialogue: 0,0:13:42.72,0:13:43.84,Yaku M,Guy,0000,0000,0000,,{\be1\3a&H30&\fscx110}Who are you guys?
-Dialogue: 0,0:13:44.38,0:13:45.59,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}We're with the Metropolitan Police.
-Dialogue: 0,0:13:45.59,0:13:47.10,Yaku M,Guy,0000,0000,0000,,{\be1\3a&H30&\fscx110}Police?
-Dialogue: 0,0:13:47.10,0:13:48.93,Yaku M,Guy,0000,0000,0000,,{\be1\3a&H30&\fscx110}Get out of here.
-Dialogue: 0,0:13:49.75,0:13:52.99,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}You guys are the soldiers hired by the Ministry of Finance, the Ministry of Defense,
-Dialogue: 0,0:13:52.99,0:13:55.31,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}and the Ministry of Land, Infrastructure, Transport and Tourism, right?
-Dialogue: 0,0:13:55.31,0:13:57.27,Yaku M,Guy,0000,0000,0000,,{\be1\3a&H30&\fscx110}Bitch!  How the hell do you know about that?
-Dialogue: 0,0:13:57.61,0:13:59.36,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Heh, I wonder.
-Dialogue: 0,0:14:19.09,0:14:20.30,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}It's the salamander!
-Dialogue: 0,0:14:24.23,0:14:25.55,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}This way.
-Dialogue: 0,0:14:26.61,0:14:29.23,Yaku M,Guy,0000,0000,0000,,{\be1\3a&H30&\fscx110}Damn it.  It's here.
-Dialogue: 0,0:14:29.23,0:14:30.68,Yaku M,Guy,0000,0000,0000,,{\be1\3a&H30&\fscx110}That's the one!
-Dialogue: 0,0:14:39.12,0:14:40.02,Yaku M,Guy,0000,0000,0000,,{\be1\3a&H30&\fscx110}Call for reinforcements!
-Dialogue: 0,0:14:41.48,0:14:44.57,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}It probably thinks we're food.
-Dialogue: 0,0:14:44.57,0:14:47.95,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}No, it might have just followed you here for no reason, Superintendent.
-Dialogue: 0,0:14:47.95,0:14:48.81,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Why's that?
-Dialogue: 0,0:14:52.15,0:14:55.27,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Well, I just thought it did.
-Dialogue: 0,0:14:57.56,0:14:58.88,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}What the hell is this place?
-Dialogue: 0,0:14:58.88,0:15:02.29,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}The underground facility that was built by the Imperial Japanese Army in preparation for battles on the main island.
-Dialogue: 0,0:15:02.29,0:15:05.36,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}It was discovered during the construction of the Hibiya Common Utility Duct. 
-Dialogue: 0,0:15:05.36,0:15:07.01,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}But the streets are...
-Dialogue: 0,0:15:07.01,0:15:12.29,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}They decided to build a giant resort facility that only bureaucrats could visit.
-Dialogue: 0,0:15:12.29,0:15:14.60,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}The public's eyes can't reach the underground.
-Dialogue: 0,0:15:15.17,0:15:19.44,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Of course, it was built using the money embezzled by every ministry and government office.
-Dialogue: 0,0:15:19.86,0:15:22.03,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}That's tax money.
-Dialogue: 0,0:15:22.03,0:15:24.60,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}That's what it's called by the side who pays.
-Dialogue: 0,0:15:24.60,0:15:27.07,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}The side that uses it doesn't think so.
-Dialogue: 0,0:15:44.30,0:15:45.26,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Superintendent!
-Dialogue: 0,0:15:50.26,0:15:52.91,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}There's no doubt about it.  It's after you.
-Dialogue: 0,0:15:52.91,0:15:54.63,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Why though?
-Dialogue: 0,0:16:15.74,0:16:17.00,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Superintendent!
-Dialogue: 0,0:16:19.49,0:16:21.67,Yaku M,Guy,0000,0000,0000,,{\be1\3a&H30&\fscx110}Come with us, Officer.
-Dialogue: 0,0:16:27.70,0:16:31.05,Yaku M,Man,0000,0000,0000,,{\be1\3a&H30&\fscx110}If I remember correctly, you're Izumida-kun.
-Dialogue: 0,0:16:31.05,0:16:32.77,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}How do you know my name?
-Dialogue: 0,0:16:32.77,0:16:35.76,Yaku M,Guy,0000,0000,0000,,{\be1\3a&H30&\fscx110}You're WTED Oryo's subordinate, aren't you?
-Dialogue: 0,0:16:36.27,0:16:39.15,Yaku M,Man,0000,0000,0000,,{\be1\3a&H30&\fscx110}Actually, I have something to ask you...
-Dialogue: 0,0:16:39.15,0:16:41.56,Yaku M,Man,0000,0000,0000,,{\be1\3a&H30&\fscx110}no, the two of you.
-Dialogue: 0,0:16:42.12,0:16:43.11,Yaku M,Guy,0000,0000,0000,,{\be1\3a&H30&\fscx110}Over here!
-Dialogue: 0,0:16:57.39,0:17:02.29,Yaku M,Man,0000,0000,0000,,{\be1\3a&H30&\fscx110}Our plan has suffered a setback due to the appearance of that monster.
-Dialogue: 0,0:17:02.79,0:17:06.73,Yaku M,Man,0000,0000,0000,,{\be1\3a&H30&\fscx110}The two of you are well known, even within the Ministry of Defense.
-Dialogue: 0,0:17:06.73,0:17:11.05,Yaku M,Man,0000,0000,0000,,{\be1\3a&H30&\fscx110}I hear the two of you are fairly strong.
-Dialogue: 0,0:17:11.59,0:17:13.68,Yaku M,Man,0000,0000,0000,,{\be1\3a&H30&\fscx110}If you have confidence in your strength,
-Dialogue: 0,0:17:13.68,0:17:17.51,Yaku M,Man,0000,0000,0000,,{\be1\3a&H30&\fscx110}I would like to ask you to exterminate that monster.
-Dialogue: 0,0:17:17.51,0:17:19.02,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}What did you say?
-Dialogue: 0,0:17:19.02,0:17:22.31,Yaku M,Man,0000,0000,0000,,{\be1\3a&H30&\fscx110}Of course, I will guarantee a return worthy of its price.
-Dialogue: 0,0:17:22.31,0:17:25.76,Yaku M,Man,0000,0000,0000,,{\be1\3a&H30&\fscx110}I don't want to say this, but you're a non-career bureaucrat.
-Dialogue: 0,0:17:25.76,0:17:29.63,Yaku M,Man,0000,0000,0000,,{\be1\3a&H30&\fscx110}The difference between you and the career bureaucrats will only grow bigger as you age.
-Dialogue: 0,0:17:31.02,0:17:31.95,Yaku M,Man,0000,0000,0000,,{\be1\3a&H30&\fscx110}How about it?
-Dialogue: 0,0:17:31.95,0:17:37.03,Yaku M,Man,0000,0000,0000,,{\be1\3a&H30&\fscx110}If you're going to live as a non-career bureaucrat, why not lend us a hand?
-Dialogue: 0,0:17:37.03,0:17:38.40,Yaku M,Man,0000,0000,0000,,{\be1\3a&H30&\fscx110}You won't be sorry.
-Dialogue: 0,0:17:38.40,0:17:40.58,Yaku M,Man,0000,0000,0000,,{\be1\3a&H30&\fscx110}I will also promise you success in life.
-Dialogue: 0,0:17:41.57,0:17:44.04,Yaku M,Guy,0000,0000,0000,,{\be1\3a&H30&\fscx110}I don't think it's a bad deal for you.
-Dialogue: 0,0:17:45.88,0:17:47.13,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}I decline.
-Dialogue: 0,0:17:47.13,0:17:48.79,Yaku M,Man,0000,0000,0000,,{\be1\3a&H30&\fscx110}But, listen...
-Dialogue: 0,0:17:48.79,0:17:53.44,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}I am satisfied with being Yakushiji Ryoko's subordinate.
-Dialogue: 0,0:17:53.44,0:17:54.05,Yaku M,Guy,0000,0000,0000,,{\be1\3a&H30&\fscx110}Bastard!
-Dialogue: 0,0:17:54.05,0:17:56.77,Yaku M,Guy,0000,0000,0000,,{\be1\3a&H30&\fscx110}Taking the upper hand just because we were being modest!
-Dialogue: 0,0:18:11.77,0:18:13.28,Yaku M,Guy,0000,0000,0000,,{\be1\3a&H30&\fscx110}You bitch!
-Dialogue: 0,0:18:13.28,0:18:14.39,Yaku M,Luc,0000,0000,0000,,{\be1\3a&H30&\fscx110}Bye bye!
-Dialogue: 0,0:18:25.46,0:18:26.33,Yaku M,Guy,0000,0000,0000,,{\be1\3a&H30&\fscx110}That's...
-Dialogue: 0,0:18:29.62,0:18:30.80,Yaku M,Man,0000,0000,0000,,{\be1\3a&H30&\fscx110}What is this?
-Dialogue: 0,0:18:43.48,0:18:45.39,Yaku M,Man,0000,0000,0000,,{\be1\3a&H30&\fscx110}Damn you!  How dare you!
-Dialogue: 0,0:18:45.39,0:18:46.23,Yaku M,Guy,0000,0000,0000,,{\be1\3a&H30&\fscx110}Above!
-Dialogue: 0,0:18:58.44,0:18:59.66,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Superintendent!
-Dialogue: 0,0:19:03.38,0:19:04.20,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Wait.
-Dialogue: 0,0:19:18.46,0:19:20.87,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}I've asked Abe Jun-san for reinforcements.
-Dialogue: 0,0:19:20.87,0:19:22.98,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}He said he'll be here soon.
-Dialogue: 0,0:19:22.98,0:19:28.55,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}They should just be locked up for life underground with the natural treasure.
-Dialogue: 0,0:19:32.37,0:19:34.07,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Okay.  Start it.
-Dialogue: 0,0:19:34.07,0:19:36.15,Yaku M,Two,0000,0000,0000,,{\be1\3a&H30&\fscx110}Roger.
-Dialogue: 0,0:19:47.82,0:19:49.55,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}An underground water vein?
-Dialogue: 0,0:19:49.55,0:19:52.17,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Lucienne found it using data from the Ministry of Land, Infrastructure, Transport and Tourism.
-Dialogue: 0,0:19:54.80,0:20:01.41,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Maybe it knew you'd do this.
-Dialogue: 0,0:20:01.41,0:20:02.64,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Impossible.
-Dialogue: 0,0:20:20.67,0:20:23.97,Yaku M,Gal,0000,0000,0000,,{\be1\3a&H30&\fscx110}Assistant Inspector Izumida, what are you reading?
-Dialogue: 0,0:20:25.73,0:20:27.62,Yaku M,Old,0000,0000,0000,,{\be1\3a&H30&\fscx110}Ibuse Masuji?
-Dialogue: 0,0:20:28.18,0:20:31.70,Yaku Note,Note,0000,0000,0000,,{\be1\3a&H30&}[Note: "Sanshouuo" is Japanese for "salamander."]
-Dialogue: 0,0:20:28.18,0:20:29.59,Yaku M,Man,0000,0000,0000,,{\be1\3a&H30&\fscx110}"Sanshouuo."
-Dialogue: 0,0:20:29.59,0:20:31.70,Yaku M,Gal,0000,0000,0000,,{\be1\3a&H30&\fscx110}What is it about?
-Dialogue: 0,0:20:31.70,0:20:36.48,Yaku M,Old,0000,0000,0000,,{\be1\3a&H30&\fscx110}I believe it was about a salamander which became too big to get out of its den.
-Dialogue: 0,0:20:36.48,0:20:40.58,Yaku M,Old,0000,0000,0000,,{\be1\3a&H30&\fscx110}It complained and gave excuses.
-Dialogue: 0,0:20:40.58,0:20:43.14,Yaku M,Man,0000,0000,0000,,{\be1\3a&H30&\fscx110}I read it when I was a student too.
-Dialogue: 0,0:20:43.14,0:20:45.12,Yaku M,Man,0000,0000,0000,,{\be1\3a&H30&\fscx110}Yes, that was what it was about.
-Dialogue: 0,0:20:46.70,0:20:50.65,Yaku T,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}People just stay in their territory and complain.
-Dialogue: 0,0:20:58.00,0:20:59.86,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}I heard from the girls.
-Dialogue: 0,0:20:59.86,0:21:03.28,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}You declined their offer, I hear?
-Dialogue: 0,0:21:03.28,0:21:04.22,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Yes.
-Dialogue: 0,0:21:04.22,0:21:07.61,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}You said you were satisfied with your current position, right?
-Dialogue: 0,0:21:07.61,0:21:08.87,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Th-That's...
-Dialogue: 0,0:21:09.73,0:21:10.83,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}You did say it, didn't you?
-Dialogue: 0,0:21:12.89,0:21:14.29,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Yes, I did.
-Dialogue: 0,0:21:16.15,0:21:18.63,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Why did you say something so stupid?
-Dialogue: 0,0:21:18.63,0:21:19.77,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}What?
-Dialogue: 0,0:21:19.77,0:21:22.79,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}If you had brought the natural treasure under your control
-Dialogue: 0,0:21:22.79,0:21:28.69,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}and had beaten Mr. Dinner up, I could have been ruling his underground world.
-Dialogue: 0,0:21:29.45,0:21:31.86,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Man, what a waste.
-Dialogue: 0,0:21:31.86,0:21:33.66,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Saying those things again...
-Dialogue: 0,0:21:33.66,0:21:35.98,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Besides, their money is...
-Dialogue: 0,0:21:35.98,0:21:37.23,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}No excuses.
-Dialogue: 0,0:21:37.23,0:21:40.61,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}As punishment, treat me to dinner at the restaurant we went to the other day.
-Dialogue: 0,0:21:41.47,0:21:43.75,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Of course, treat them too.
-Dialogue: 0,0:21:45.31,0:21:47.70,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Man, I'm starved.
-Dialogue: 0,0:21:47.70,0:21:49.76,Yaku M,Two,0000,0000,0000,,{\be1\3a&H30&\fscx110}Yes, so are we!
-Dialogue: 0,0:21:49.76,0:21:54.88,Yaku M,Two,0000,0000,0000,,{\be1\3a&H30&\fscx110}Since Izumida-kun's paying for this tonight, let's order the chef's special.
-Dialogue: 0,0:23:15.50,0:23:16.41,Yaku M,Mar,0000,0000,0000,,{\be1\3a&H30&\fscx110}Excuse me.
-Dialogue: 0,0:23:16.41,0:23:17.27,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Inspector Maruoka!
-Dialogue: 0,0:23:17.27,0:23:19.29,Yaku M,Mar,0000,0000,0000,,{\be1\3a&H30&\fscx110}How about we go for a drink?  Let's keep it a secret from the Superintendent, okay?
-Dialogue: 0,0:23:19.29,0:23:21.38,Yaku M,Mar,0000,0000,0000,,{\be1\3a&H30&\fscx110}It's great to drink while complaining about your boss...
-Dialogue: 0,0:23:21.38,0:23:23.15,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Yakushiji Ryoko's Supernatural Case File,
-Dialogue: 0,0:23:23.15,0:23:24.21,Yaku M,,0000,0000,0000,,{\be1\3a&H30&\fscx110}File Number 07:
-Dialogue: 0,0:23:24.21,0:23:25.61,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Okinawa, God's Island.
-Dialogue: 0,0:23:25.61,0:23:26.46,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Please look forward to it.
-Dialogue: 0,0:23:26.46,0:23:28.20,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}And?  What were you going to do?
-Dialogue: 0,0:23:28.20,0:23:29.18,Yaku M,Mar,0000,0000,0000,,{\be1\3a&H30&\fscx110}Wh-What...
+Dialogue: 0,0:01:32.68,0:01:34.62,Yaku T,Jun,0,0,0,,{\be1\3a&H30&\fscx110}My name is Izumida Jun'ichirou.
+Dialogue: 0,0:01:34.62,0:01:36.98,Yaku T,Jun,0,0,0,,{\be1\3a&H30&\fscx110}I am Yakushiji Ryoko's confidant...
+Dialogue: 0,0:01:36.98,0:01:38.49,Yaku T,Jun,0,0,0,,{\be1\3a&H30&\fscx110}or so it seems.
+Dialogue: 0,0:01:39.09,0:01:42.33,Yaku T,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Today, I'm here with my boss at Narita Airport.
+Dialogue: 0,0:01:42.33,0:01:43.70,Yaku T,Jun,0,0,0,,{\be1\3a&H30&\fscx110}That's because...
+Dialogue: 0,0:02:08.19,0:02:10.18,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Marianne, Lucienne.
+Dialogue: 0,0:02:10.18,0:02:11.27,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Long time no see.
+Dialogue: 0,0:02:13.61,0:02:16.26,Yaku M,,0,0,0,,{\be1\3a&H30&\fscx110}Yes, it's been a while.
+Dialogue: 0,0:02:16.26,0:02:18.31,Yaku M,,0,0,0,,{\be1\3a&H30&\fscx110}It's great to see you again.
+Dialogue: 0,0:02:18.31,0:02:20.87,Yaku M,,0,0,0,,{\be1\3a&H30&\fscx110}We missed you so much.
+Dialogue: 0,0:02:27.69,0:02:31.96,Yaku T,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Marianne and Lucienne are two maids who work for Yakushiji Ryoko.
+Dialogue: 0,0:02:31.96,0:02:36.63,Yaku T,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Of course, being maids, they do household chores, but that's not everything they do.
+Dialogue: 0,0:02:37.21,0:02:39.47,Yaku T,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Marianne is an expert with weapons,
+Dialogue: 0,0:02:39.47,0:02:41.71,Yaku T,Jun,0,0,0,,{\be1\3a&H30&\fscx110}and Lucienne is an expert with computers.
+Dialogue: 0,0:02:41.71,0:02:44.26,Yaku T,Jun,0,0,0,,{\be1\3a&H30&\fscx110}She's a genius when it comes to hacking.
+Dialogue: 0,0:02:46.04,0:02:47.64,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Say, Izumida-kun.
+Dialogue: 0,0:02:48.31,0:02:51.35,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Why don't you stop dozing and join the conversation?
+Dialogue: 0,0:02:51.73,0:02:54.56,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Unfortunately, I'm not good at speaking French.
+Dialogue: 0,0:02:56.63,0:02:59.02,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}This country sure doesn't change.
+Dialogue: 0,0:02:59.02,0:03:01.50,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Corrupt politicians and bureaucratic scandals...
+Dialogue: 0,0:03:01.50,0:03:03.28,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}I'm surprised that this continues.
+Dialogue: 0,0:03:03.28,0:03:05.16,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Of course it does.
+Dialogue: 0,0:03:05.16,0:03:08.33,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}People just complain instead of doing something about it.
+Dialogue: 0,0:03:08.33,0:03:12.31,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}People just stay in their territory and complain.
+Dialogue: 0,0:03:12.31,0:03:14.20,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}You're right about that, but...
+Dialogue: 0,0:03:14.20,0:03:15.50,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}But what?
+Dialogue: 0,0:03:15.50,0:03:18.48,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}I believe you do that {\i1}too much{\i0}{\fscx50} {\fscx100}, Superintendent.
+Dialogue: 0,0:03:26.70,0:03:27.27,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}What happened?
+Dialogue: 0,0:03:33.22,0:03:34.14,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Superintendent!
+Dialogue: 0,0:03:38.82,0:03:39.53,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}That's...
+Dialogue: 0,0:03:43.18,0:03:45.52,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}If I knew this was going to happen, I would have brought my gun.
+Dialogue: 0,0:03:51.31,0:03:53.40,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Oh my, perfect timing.
+Dialogue: 0,0:03:53.40,0:03:55.33,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}What are you saying?
+Dialogue: 0,0:04:07.74,0:04:08.39,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}How did it go?
+Dialogue: 0,0:04:08.99,0:04:11.73,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}I've notified the ones in charge at the Ginza Police Station.
+Dialogue: 0,0:04:11.73,0:04:13.01,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Is that so?
+Dialogue: 0,0:04:13.01,0:04:18.11,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}More importantly, what if the room next to us is red and has futons ready?
+Dialogue: 0,0:04:19.49,0:04:23.61,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}How appropriate of you to play the role of the evil deputy official.
+Dialogue: 0,0:04:23.61,0:04:25.18,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}How rude.
+Dialogue: 0,0:04:25.18,0:04:28.78,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}I'm the sweet city girl who was kidnapped.
+Dialogue: 0,0:04:33.31,0:04:35.33,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}What do you think about the incident earlier?
+Dialogue: 0,0:04:35.33,0:04:37.32,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}I have no idea whatsoever.
+Dialogue: 0,0:04:37.32,0:04:41.64,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}One thing though.  The victim may have had connections with the mafia.
+Dialogue: 0,0:04:41.64,0:04:42.70,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Why is that?
+Dialogue: 0,0:04:42.70,0:04:44.59,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}The gun he held was a Tokareva.
+Dialogue: 0,0:04:44.59,0:04:45.55,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Close.
+Dialogue: 0,0:04:45.55,0:04:50.38,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Even if it was a Tokareva, was it as crudely modified as the guns used by the mafia?
+Dialogue: 0,0:04:50.38,0:04:52.64,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Let's let the Ginza police handle this for now.
+Dialogue: 0,0:04:54.17,0:04:55.10,Yaku M,Guy,0,0,0,,{\be1\3a&H30&\fscx110}That's great.
+Dialogue: 0,0:04:55.91,0:04:59.44,Yaku M,Guy,0,0,0,,{\be1\3a&H30&\fscx110}I'm sure your Cabinet minister will be very happy once we settle this.
+Dialogue: 0,0:04:59.44,0:05:03.52,Yaku M,Man,0,0,0,,{\be1\3a&H30&\fscx110}Yes, he was pumped up about being able to use as much money as he wanted.
+Dialogue: 0,0:05:01.39,0:05:04.84,Yaku 2on,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Two elite bureaucrats up to no good.
+Dialogue: 0,0:05:04.84,0:05:06.34,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Do you know them?
+Dialogue: 0,0:05:06.34,0:05:09.78,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Among bureaucrats, they're somewhat famous.
+Dialogue: 0,0:05:10.35,0:05:13.58,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}This one's Aoyama from the Ministry of Defense.  He's known as Mr. Dinner.
+Dialogue: 0,0:05:14.31,0:05:16.63,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}That one is Isogai from the Ministry of Land, Infrastructure, Transport and Tourism.
+Dialogue: 0,0:05:16.63,0:05:18.57,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}He's like the runner-up.
+Dialogue: 0,0:05:18.57,0:05:21.00,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}So they have a cozy relationship with their dealers
+Dialogue: 0,0:05:21.00,0:05:23.08,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}who then take them out to dinner.
+Dialogue: 0,0:05:23.08,0:05:24.26,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}It's the opposite.
+Dialogue: 0,0:05:25.24,0:05:28.36,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}The saint's maids are quoting Latin.
+Dialogue: 0,0:05:28.36,0:05:33.63,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}After attending many dinners, they now\Nmanage dinners for various other people.
+Dialogue: 0,0:05:38.80,0:05:39.98,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Sorry to keep you waiting.
+Dialogue: 0,0:05:39.98,0:05:41.93,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Where are those two?
+Dialogue: 0,0:05:41.93,0:05:43.11,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}They went home ahead of us.
+Dialogue: 0,0:05:43.85,0:05:46.80,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}They probably wanted to leave us alone.
+Dialogue: 0,0:05:48.10,0:05:49.63,Yaku M,Guy,0,0,0,,{\be1\3a&H30&\fscx110}Good night, Mistress.
+Dialogue: 0,0:05:49.63,0:05:51.00,Yaku M,Guy,0,0,0,,{\be1\3a&H30&\fscx110}We'll come again.
+Dialogue: 0,0:06:02.33,0:06:03.67,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Good morning.
+Dialogue: 0,0:06:03.67,0:06:05.30,Yaku M,Gal,0,0,0,,{\be1\3a&H30&\fscx110}Izumida-san!
+Dialogue: 0,0:06:03.67,0:06:05.30,Yaku 2on,Old,0,0,0,,{\be1\3a&H30&\fscx110}Izumida-kun!
+Dialogue: 0,0:06:05.30,0:06:06.34,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}What is it?
+Dialogue: 0,0:06:06.34,0:06:09.18,Yaku M,Gal,0,0,0,,{\be1\3a&H30&\fscx110}We've experienced it!
+Dialogue: 0,0:06:09.18,0:06:12.08,Yaku M,Guy,0,0,0,,{\be1\3a&H30&\fscx110}Oh Lord, protect us.
+Dialogue: 0,0:06:12.08,0:06:14.70,Yaku M,Old,0,0,0,,{\be1\3a&H30&\fscx110}It was a ghost's doing!  I'm sure of it!
+Dialogue: 0,0:06:17.22,0:06:18.55,Yaku M,,0,0,0,,{\be1\3a&H30&\fscx110}What's wrong?
+Dialogue: 0,0:06:18.55,0:06:24.34,Yaku M,Gal,0,0,0,,{\be1\3a&H30&\fscx110}Last night, we were sorting material in the reference room downstairs just like the superintendent instructed.
+Dialogue: 0,0:06:26.79,0:06:28.20,Yaku M,Gal,0,0,0,,{\be1\3a&H30&\fscx110}Oh my, is it an earthquake?
+Dialogue: 0,0:06:34.12,0:06:36.44,Yaku M,Guy,0,0,0,,{\be1\3a&H30&\fscx110}That wasn't an earthquake just now, was it?
+Dialogue: 0,0:06:36.44,0:06:38.73,Yaku M,Old,0,0,0,,{\be1\3a&H30&\fscx110}Do you hear something?
+Dialogue: 0,0:06:43.98,0:06:45.71,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}So that's what happened?
+Dialogue: 0,0:06:45.71,0:06:47.72,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}It wasn't just the Metropolitan Police Department.
+Dialogue: 0,0:06:47.72,0:06:50.63,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Jackie phoned me yesterday.
+Dialogue: 0,0:06:50.63,0:06:53.41,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}It seems a similar incident occurred at the Ministry of Finance.
+Dialogue: 0,0:06:53.41,0:06:54.64,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Wakabayashi-san experienced it too?
+Dialogue: 0,0:06:55.60,0:06:57.71,Yaku M,Man,0,0,0,,{\be1\3a&H30&\fscx110}I think it's just a cold.
+Dialogue: 0,0:06:57.71,0:06:59.73,Yaku M,Man,0,0,0,,{\be1\3a&H30&\fscx110}I should be better tomorrow.
+Dialogue: 0,0:06:59.73,0:07:01.61,Yaku M,Man,0,0,0,,{\be1\3a&H30&\fscx110}Yes, I'm terribly sorry.
+Dialogue: 0,0:07:05.59,0:07:07.56,Yaku M,Man,0,0,0,,{\be1\3a&H30&\fscx110}No!
+Dialogue: 0,0:07:07.56,0:07:09.70,Yaku M,Man,0,0,0,,{\be1\3a&H30&\fscx110}I'm scared!
+Dialogue: 0,0:07:27.50,0:07:29.38,Yaku M,Guy,0,0,0,,{\be1\3a&H30&\fscx110}They're waiting over there.
+Dialogue: 0,0:07:33.52,0:07:34.46,Yaku M,Mar,0,0,0,,{\be1\3a&H30&\fscx110}Thank you.
+Dialogue: 0,0:07:34.46,0:07:36.18,Yaku M,Guy,0,0,0,,{\be1\3a&H30&\fscx110}Let's go somewhere else.
+Dialogue: 0,0:07:36.18,0:07:38.14,Yaku M,Guy,0,0,0,,{\be1\3a&H30&\fscx110}We stand out too much here.
+Dialogue: 0,0:07:41.85,0:07:44.50,Yaku M,Yuk,0,0,0,,{\be1\3a&H30&\fscx110}Just who are you calling a poikilothermic animal?
+Dialogue: 0,0:07:44.50,0:07:45.39,Yaku M,Yuk,0,0,0,,{\be1\3a&H30&\fscx110}Just who?!
+Dialogue: 0,0:07:45.39,0:07:48.48,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}But Oyuki, you said you get cold hands and feet easily.
+Dialogue: 0,0:07:48.48,0:07:52.12,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}I wonder if your hands and feet are cold because you're cold inside.
+Dialogue: 0,0:07:52.12,0:07:54.18,Yaku M,Yuk,0,0,0,,{\be1\3a&H30&\fscx110}If I'm a cold-blooded animal,
+Dialogue: 0,0:07:54.18,0:07:57.24,Yaku M,Yuk,0,0,0,,{\be1\3a&H30&\fscx110}you're a merciless cold-blooded animal!
+Dialogue: 0,0:07:57.24,0:08:01.36,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Oh my, there's no one as warm as me.
+Dialogue: 0,0:07:58.71,0:08:02.11,Yaku 2on,Nis,0,0,0,,{\be1\3a&H30&\fscx110}I'm surprised they don't run out of topics to argue about.
+Dialogue: 0,0:08:02.11,0:08:05.36,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}I'm sure it's like your hobby.  They won't get tired of it.
+Dialogue: 0,0:08:05.36,0:08:08.38,Yaku M,Nis,0,0,0,,{\be1\3a&H30&\fscx110}Oh yeah, regarding my hobby, the leotard...
+Dialogue: 0,0:08:07.45,0:08:10.84,Yaku 2on,Jun,0,0,0,,{\be1\3a&H30&\fscx110}More importantly, let's continue our conversation.
+Dialogue: 0,0:08:10.84,0:08:11.63,Yaku M,Nis,0,0,0,,{\be1\3a&H30&\fscx110}Yes, yes.
+Dialogue: 0,0:08:12.11,0:08:15.01,Yaku M,Nis,0,0,0,,{\be1\3a&H30&\fscx110}I may not look like it, but I'm a career bureaucrat, right?
+Dialogue: 0,0:08:15.01,0:08:16.97,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Well sorry for being a non-career bureaucrat.
+Dialogue: 0,0:08:16.97,0:08:18.02,Yaku M,Nis,0,0,0,,{\be1\3a&H30&\fscx110}Now, now.
+Dialogue: 0,0:08:18.50,0:08:21.75,Yaku M,Nis,0,0,0,,{\be1\3a&H30&\fscx110}Among us career bureaucrats,
+Dialogue: 0,0:08:21.75,0:08:25.56,Yaku M,Nis,0,0,0,,{\be1\3a&H30&\fscx110}there have been rumors recently of ghost sightings and poltergeist phenomena.
+Dialogue: 0,0:08:26.14,0:08:29.53,Yaku M,Nis,0,0,0,,{\be1\3a&H30&\fscx110}It looks like similar incidents have occurred at each ministry and government office.
+Dialogue: 0,0:08:29.53,0:08:30.49,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}I see.
+Dialogue: 0,0:08:30.49,0:08:32.21,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}So that's how it is.
+Dialogue: 0,0:08:33.36,0:08:34.84,Yaku M,Yuk,0,0,0,,{\be1\3a&H30&\fscx110}Oryo?
+Dialogue: 0,0:08:35.49,0:08:36.63,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}The Metropolitan Police,
+Dialogue: 0,0:08:36.63,0:08:37.79,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}the Ministry of Land, Infrastructure, Transport and Tourism,
+Dialogue: 0,0:08:37.79,0:08:38.54,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}the Ministry of Foreign Affairs,
+Dialogue: 0,0:08:39.09,0:08:39.97,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}the Ministry of Finance,
+Dialogue: 0,0:08:39.97,0:08:40.73,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}the Ministry of Agriculture, Forestry and Fisheries,
+Dialogue: 0,0:08:40.73,0:08:43.52,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}and the Ministry of Economy, Trade and Industry.
+Dialogue: 0,0:08:43.52,0:08:44.54,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Thought so.
+Dialogue: 0,0:08:45.45,0:08:46.79,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}The subway.
+Dialogue: 0,0:08:46.79,0:08:51.09,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}The poltergeist causing the Kasumigaseki trouble is traveling via the subway.
+Dialogue: 0,0:08:51.57,0:08:54.29,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Meaning the Hibiya Line?
+Dialogue: 0,0:08:54.29,0:08:55.68,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}No.
+Dialogue: 0,0:08:56.33,0:09:02.85,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}There's a line that connects Yurakucho Line's Sakuradamon Station with Chiyoda Line's Kasumigaseki Station.  Like this.
+Dialogue: 0,0:09:02.85,0:09:06.77,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}If this line is used to travel every night...
+Dialogue: 0,0:09:07.24,0:09:10.60,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Yes, it does line up with the ministries and government offices where the ghost incidents occurred.
+Dialogue: 0,0:09:11.93,0:09:15.34,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}But you said "it."  Do you mean...?
+Dialogue: 0,0:09:15.87,0:09:19.38,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}That's right, the mysterious shadow we saw the other day.
+Dialogue: 0,0:09:19.38,0:09:22.04,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Its identity is probably the...
+Dialogue: 0,0:09:23.90,0:09:26.00,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}...Underground Monster, Teradtron.
+Dialogue: 0,0:09:27.23,0:09:30.46,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Again with "Mystery, Thursday the Twelfth?"
+Dialogue: 0,0:09:41.57,0:09:43.95,Yaku M,Gal,0,0,0,,{\be1\3a&H30&\fscx110}This way please, Master.
+Dialogue: 0,0:10:01.42,0:10:03.02,Yaku M,Guy,0,0,0,,{\be1\3a&H30&\fscx110}Oh, come in.
+Dialogue: 0,0:10:07.16,0:10:09.12,Yaku M,Man,0,0,0,,{\be1\3a&H30&\fscx110}Leave that there.
+Dialogue: 0,0:10:11.15,0:10:15.26,Yaku M,Man,0,0,0,,{\be1\3a&H30&\fscx110}Your men will regret it if they see their boss like this.
+Dialogue: 0,0:10:15.72,0:10:18.63,Yaku M,Guy,0,0,0,,{\be1\3a&H30&\fscx110}I don't understand this fetish either.
+Dialogue: 0,0:10:18.63,0:10:19.53,Yaku M,Man,0,0,0,,{\be1\3a&H30&\fscx110}Good work.
+Dialogue: 0,0:10:19.53,0:10:20.82,Yaku M,Man,0,0,0,,{\be1\3a&H30&\fscx110}You may leave.
+Dialogue: 0,0:10:44.32,0:10:47.12,Yaku M,Man,0,0,0,,{\be1\3a&H30&\fscx110}Things will get out of hand if we don't finish it off quickly.
+Dialogue: 0,0:10:47.12,0:10:51.46,Yaku M,Guy,0,0,0,,{\be1\3a&H30&\fscx110}Even if we lied, blaming it on ghosts or poltergeists, there {\i1}is{\i0}  still a limit to it.
+Dialogue: 0,0:10:51.46,0:10:54.09,Yaku M,Guy,0,0,0,,{\be1\3a&H30&\fscx110}That's why you want to mobilize my soldiers again?
+Dialogue: 0,0:10:56.23,0:10:57.85,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}So that's how it is.
+Dialogue: 0,0:11:07.11,0:11:11.12,Yaku M,Non,0,0,0,,{\be1\3a&H30&\fscx110}Via their head office, I've talked with Tokyo Metro.
+Dialogue: 0,0:11:11.72,0:11:15.76,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}You didn't have to get their permission.
+Dialogue: 0,0:11:15.76,0:11:17.07,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Please tell me, Superintendent.
+Dialogue: 0,0:11:17.54,0:11:20.92,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}What's here under Kasumigaseki?
+Dialogue: 0,0:11:21.43,0:11:23.56,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Just wait until you see it.
+Dialogue: 0,0:11:25.66,0:11:27.54,Yaku M,Non,0,0,0,,{\be1\3a&H30&\fscx110}Izumida-san, please be careful.
+Dialogue: 0,0:11:28.53,0:11:31.83,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}I'm not worried since I'm with WTED Oryo.
+Dialogue: 0,0:11:32.18,0:11:35.12,Yaku M,Non,0,0,0,,{\be1\3a&H30&\fscx110}But she's also SLD Oryo.
+Dialogue: 0,0:11:36.24,0:11:37.13,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Yes, I remember now.
+Dialogue: 0,0:11:54.25,0:11:55.13,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}This way.
+Dialogue: 0,0:12:06.37,0:12:09.83,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}That's the line that connects Kasumigaseki and Sakuradamon.
+Dialogue: 0,0:12:11.47,0:12:14.09,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}We're just about underneath the Ministry of Foreign Affairs.
+Dialogue: 0,0:12:19.58,0:12:21.55,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Superintendent!  Look at that!
+Dialogue: 0,0:12:30.89,0:12:32.10,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Don't attack it!
+Dialogue: 0,0:12:32.43,0:12:33.44,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Why?
+Dialogue: 0,0:12:33.44,0:12:36.69,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Because it's Japan's natural treasure.
+Dialogue: 0,0:12:37.32,0:12:39.36,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Is it the giant salamander?
+Dialogue: 0,0:12:41.52,0:12:44.28,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Still, it's huge...
+Dialogue: 0,0:12:44.70,0:12:46.30,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Is this...?
+Dialogue: 0,0:12:46.30,0:12:49.08,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Yes.  This is the identity of Teradtron, the Underground Monster.
+Dialogue: 0,0:12:54.30,0:12:56.63,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}It doesn't look like it'll attack us.
+Dialogue: 0,0:12:58.09,0:12:58.59,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Wait!
+Dialogue: 0,0:13:09.69,0:13:13.65,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Normally, it eats small fishes and frogs, but it probably...
+Dialogue: 0,0:13:18.49,0:13:19.36,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}This way.
+Dialogue: 0,0:13:19.92,0:13:22.18,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}It must have made this hole the other day.
+Dialogue: 0,0:13:33.84,0:13:35.06,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Where are we?
+Dialogue: 0,0:13:35.06,0:13:36.79,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}The Hibiya Common Utility Duct.
+Dialogue: 0,0:13:36.79,0:13:39.96,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}It's an underground facility to connect various utility lines together.
+Dialogue: 0,0:13:41.47,0:13:42.72,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}So this is it.
+Dialogue: 0,0:13:42.72,0:13:43.84,Yaku M,Guy,0,0,0,,{\be1\3a&H30&\fscx110}Who are you guys?
+Dialogue: 0,0:13:44.38,0:13:45.59,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}We're with the Metropolitan Police.
+Dialogue: 0,0:13:45.59,0:13:47.10,Yaku M,Guy,0,0,0,,{\be1\3a&H30&\fscx110}Police?
+Dialogue: 0,0:13:47.10,0:13:48.93,Yaku M,Guy,0,0,0,,{\be1\3a&H30&\fscx110}Get out of here.
+Dialogue: 0,0:13:49.75,0:13:52.99,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}You guys are the soldiers hired by the Ministry of Finance, the Ministry of Defense,
+Dialogue: 0,0:13:52.99,0:13:55.31,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}and the Ministry of Land, Infrastructure, Transport and Tourism, right?
+Dialogue: 0,0:13:55.31,0:13:57.27,Yaku M,Guy,0,0,0,,{\be1\3a&H30&\fscx110}Bitch!  How the hell do you know about that?
+Dialogue: 0,0:13:57.61,0:13:59.36,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Heh, I wonder.
+Dialogue: 0,0:14:19.09,0:14:20.30,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}It's the salamander!
+Dialogue: 0,0:14:24.23,0:14:25.55,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}This way.
+Dialogue: 0,0:14:26.61,0:14:29.23,Yaku M,Guy,0,0,0,,{\be1\3a&H30&\fscx110}Damn it.  It's here.
+Dialogue: 0,0:14:29.23,0:14:30.68,Yaku M,Guy,0,0,0,,{\be1\3a&H30&\fscx110}That's the one!
+Dialogue: 0,0:14:39.12,0:14:40.02,Yaku M,Guy,0,0,0,,{\be1\3a&H30&\fscx110}Call for reinforcements!
+Dialogue: 0,0:14:41.48,0:14:44.57,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}It probably thinks we're food.
+Dialogue: 0,0:14:44.57,0:14:47.95,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}No, it might have just followed you here for no reason, Superintendent.
+Dialogue: 0,0:14:47.95,0:14:48.81,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Why's that?
+Dialogue: 0,0:14:52.15,0:14:55.27,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Well, I just thought it did.
+Dialogue: 0,0:14:57.56,0:14:58.88,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}What the hell is this place?
+Dialogue: 0,0:14:58.88,0:15:02.29,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}The underground facility that was built by the Imperial Japanese Army in preparation for battles on the main island.
+Dialogue: 0,0:15:02.29,0:15:05.36,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}It was discovered during the construction of the Hibiya Common Utility Duct. 
+Dialogue: 0,0:15:05.36,0:15:07.01,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}But the streets are...
+Dialogue: 0,0:15:07.01,0:15:12.29,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}They decided to build a giant resort facility that only bureaucrats could visit.
+Dialogue: 0,0:15:12.29,0:15:14.60,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}The public's eyes can't reach the underground.
+Dialogue: 0,0:15:15.17,0:15:19.44,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Of course, it was built using the money embezzled by every ministry and government office.
+Dialogue: 0,0:15:19.86,0:15:22.03,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}That's tax money.
+Dialogue: 0,0:15:22.03,0:15:24.60,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}That's what it's called by the side who pays.
+Dialogue: 0,0:15:24.60,0:15:27.07,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}The side that uses it doesn't think so.
+Dialogue: 0,0:15:44.30,0:15:45.26,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Superintendent!
+Dialogue: 0,0:15:50.26,0:15:52.91,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}There's no doubt about it.  It's after you.
+Dialogue: 0,0:15:52.91,0:15:54.63,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Why though?
+Dialogue: 0,0:16:15.74,0:16:17.00,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Superintendent!
+Dialogue: 0,0:16:19.49,0:16:21.67,Yaku M,Guy,0,0,0,,{\be1\3a&H30&\fscx110}Come with us, Officer.
+Dialogue: 0,0:16:27.70,0:16:31.05,Yaku M,Man,0,0,0,,{\be1\3a&H30&\fscx110}If I remember correctly, you're Izumida-kun.
+Dialogue: 0,0:16:31.05,0:16:32.77,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}How do you know my name?
+Dialogue: 0,0:16:32.77,0:16:35.76,Yaku M,Guy,0,0,0,,{\be1\3a&H30&\fscx110}You're WTED Oryo's subordinate, aren't you?
+Dialogue: 0,0:16:36.27,0:16:39.15,Yaku M,Man,0,0,0,,{\be1\3a&H30&\fscx110}Actually, I have something to ask you...
+Dialogue: 0,0:16:39.15,0:16:41.56,Yaku M,Man,0,0,0,,{\be1\3a&H30&\fscx110}no, the two of you.
+Dialogue: 0,0:16:42.12,0:16:43.11,Yaku M,Guy,0,0,0,,{\be1\3a&H30&\fscx110}Over here!
+Dialogue: 0,0:16:57.39,0:17:02.29,Yaku M,Man,0,0,0,,{\be1\3a&H30&\fscx110}Our plan has suffered a setback due to the appearance of that monster.
+Dialogue: 0,0:17:02.79,0:17:06.73,Yaku M,Man,0,0,0,,{\be1\3a&H30&\fscx110}The two of you are well known, even within the Ministry of Defense.
+Dialogue: 0,0:17:06.73,0:17:11.05,Yaku M,Man,0,0,0,,{\be1\3a&H30&\fscx110}I hear the two of you are fairly strong.
+Dialogue: 0,0:17:11.59,0:17:13.68,Yaku M,Man,0,0,0,,{\be1\3a&H30&\fscx110}If you have confidence in your strength,
+Dialogue: 0,0:17:13.68,0:17:17.51,Yaku M,Man,0,0,0,,{\be1\3a&H30&\fscx110}I would like to ask you to exterminate that monster.
+Dialogue: 0,0:17:17.51,0:17:19.02,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}What did you say?
+Dialogue: 0,0:17:19.02,0:17:22.31,Yaku M,Man,0,0,0,,{\be1\3a&H30&\fscx110}Of course, I will guarantee a return worthy of its price.
+Dialogue: 0,0:17:22.31,0:17:25.76,Yaku M,Man,0,0,0,,{\be1\3a&H30&\fscx110}I don't want to say this, but you're a non-career bureaucrat.
+Dialogue: 0,0:17:25.76,0:17:29.63,Yaku M,Man,0,0,0,,{\be1\3a&H30&\fscx110}The difference between you and the career bureaucrats will only grow bigger as you age.
+Dialogue: 0,0:17:31.02,0:17:31.95,Yaku M,Man,0,0,0,,{\be1\3a&H30&\fscx110}How about it?
+Dialogue: 0,0:17:31.95,0:17:37.03,Yaku M,Man,0,0,0,,{\be1\3a&H30&\fscx110}If you're going to live as a non-career bureaucrat, why not lend us a hand?
+Dialogue: 0,0:17:37.03,0:17:38.40,Yaku M,Man,0,0,0,,{\be1\3a&H30&\fscx110}You won't be sorry.
+Dialogue: 0,0:17:38.40,0:17:40.58,Yaku M,Man,0,0,0,,{\be1\3a&H30&\fscx110}I will also promise you success in life.
+Dialogue: 0,0:17:41.57,0:17:44.04,Yaku M,Guy,0,0,0,,{\be1\3a&H30&\fscx110}I don't think it's a bad deal for you.
+Dialogue: 0,0:17:45.88,0:17:47.13,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}I decline.
+Dialogue: 0,0:17:47.13,0:17:48.79,Yaku M,Man,0,0,0,,{\be1\3a&H30&\fscx110}But, listen...
+Dialogue: 0,0:17:48.79,0:17:53.44,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}I am satisfied with being Yakushiji Ryoko's subordinate.
+Dialogue: 0,0:17:53.44,0:17:54.05,Yaku M,Guy,0,0,0,,{\be1\3a&H30&\fscx110}Bastard!
+Dialogue: 0,0:17:54.05,0:17:56.77,Yaku M,Guy,0,0,0,,{\be1\3a&H30&\fscx110}Taking the upper hand just because we were being modest!
+Dialogue: 0,0:18:11.77,0:18:13.28,Yaku M,Guy,0,0,0,,{\be1\3a&H30&\fscx110}You bitch!
+Dialogue: 0,0:18:13.28,0:18:14.39,Yaku M,Luc,0,0,0,,{\be1\3a&H30&\fscx110}Bye bye!
+Dialogue: 0,0:18:25.46,0:18:26.33,Yaku M,Guy,0,0,0,,{\be1\3a&H30&\fscx110}That's...
+Dialogue: 0,0:18:29.62,0:18:30.80,Yaku M,Man,0,0,0,,{\be1\3a&H30&\fscx110}What is this?
+Dialogue: 0,0:18:43.48,0:18:45.39,Yaku M,Man,0,0,0,,{\be1\3a&H30&\fscx110}Damn you!  How dare you!
+Dialogue: 0,0:18:45.39,0:18:46.23,Yaku M,Guy,0,0,0,,{\be1\3a&H30&\fscx110}Above!
+Dialogue: 0,0:18:58.44,0:18:59.66,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Superintendent!
+Dialogue: 0,0:19:03.38,0:19:04.20,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Wait.
+Dialogue: 0,0:19:18.46,0:19:20.87,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}I've asked Abe Jun-san for reinforcements.
+Dialogue: 0,0:19:20.87,0:19:22.98,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}He said he'll be here soon.
+Dialogue: 0,0:19:22.98,0:19:28.55,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}They should just be locked up for life underground with the natural treasure.
+Dialogue: 0,0:19:32.37,0:19:34.07,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Okay.  Start it.
+Dialogue: 0,0:19:34.07,0:19:36.15,Yaku M,Two,0,0,0,,{\be1\3a&H30&\fscx110}Roger.
+Dialogue: 0,0:19:47.82,0:19:49.55,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}An underground water vein?
+Dialogue: 0,0:19:49.55,0:19:52.17,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Lucienne found it using data from the Ministry of Land, Infrastructure, Transport and Tourism.
+Dialogue: 0,0:19:54.80,0:20:01.41,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Maybe it knew you'd do this.
+Dialogue: 0,0:20:01.41,0:20:02.64,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Impossible.
+Dialogue: 0,0:20:20.67,0:20:23.97,Yaku M,Gal,0,0,0,,{\be1\3a&H30&\fscx110}Assistant Inspector Izumida, what are you reading?
+Dialogue: 0,0:20:25.73,0:20:27.62,Yaku M,Old,0,0,0,,{\be1\3a&H30&\fscx110}Ibuse Masuji?
+Dialogue: 0,0:20:28.18,0:20:31.70,Yaku Note,Note,0,0,0,,{\be1\3a&H30&}[Note: "Sanshouuo" is Japanese for "salamander."]
+Dialogue: 0,0:20:28.18,0:20:29.59,Yaku M,Man,0,0,0,,{\be1\3a&H30&\fscx110}"Sanshouuo."
+Dialogue: 0,0:20:29.59,0:20:31.70,Yaku M,Gal,0,0,0,,{\be1\3a&H30&\fscx110}What is it about?
+Dialogue: 0,0:20:31.70,0:20:36.48,Yaku M,Old,0,0,0,,{\be1\3a&H30&\fscx110}I believe it was about a salamander which became too big to get out of its den.
+Dialogue: 0,0:20:36.48,0:20:40.58,Yaku M,Old,0,0,0,,{\be1\3a&H30&\fscx110}It complained and gave excuses.
+Dialogue: 0,0:20:40.58,0:20:43.14,Yaku M,Man,0,0,0,,{\be1\3a&H30&\fscx110}I read it when I was a student too.
+Dialogue: 0,0:20:43.14,0:20:45.12,Yaku M,Man,0,0,0,,{\be1\3a&H30&\fscx110}Yes, that was what it was about.
+Dialogue: 0,0:20:46.70,0:20:50.65,Yaku T,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}People just stay in their territory and complain.
+Dialogue: 0,0:20:58.00,0:20:59.86,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}I heard from the girls.
+Dialogue: 0,0:20:59.86,0:21:03.28,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}You declined their offer, I hear?
+Dialogue: 0,0:21:03.28,0:21:04.22,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Yes.
+Dialogue: 0,0:21:04.22,0:21:07.61,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}You said you were satisfied with your current position, right?
+Dialogue: 0,0:21:07.61,0:21:08.87,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Th-That's...
+Dialogue: 0,0:21:09.73,0:21:10.83,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}You did say it, didn't you?
+Dialogue: 0,0:21:12.89,0:21:14.29,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Yes, I did.
+Dialogue: 0,0:21:16.15,0:21:18.63,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Why did you say something so stupid?
+Dialogue: 0,0:21:18.63,0:21:19.77,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}What?
+Dialogue: 0,0:21:19.77,0:21:22.79,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}If you had brought the natural treasure under your control
+Dialogue: 0,0:21:22.79,0:21:28.69,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}and had beaten Mr. Dinner up, I could have been ruling his underground world.
+Dialogue: 0,0:21:29.45,0:21:31.86,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Man, what a waste.
+Dialogue: 0,0:21:31.86,0:21:33.66,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Saying those things again...
+Dialogue: 0,0:21:33.66,0:21:35.98,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Besides, their money is...
+Dialogue: 0,0:21:35.98,0:21:37.23,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}No excuses.
+Dialogue: 0,0:21:37.23,0:21:40.61,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}As punishment, treat me to dinner at the restaurant we went to the other day.
+Dialogue: 0,0:21:41.47,0:21:43.75,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Of course, treat them too.
+Dialogue: 0,0:21:45.31,0:21:47.70,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Man, I'm starved.
+Dialogue: 0,0:21:47.70,0:21:49.76,Yaku M,Two,0,0,0,,{\be1\3a&H30&\fscx110}Yes, so are we!
+Dialogue: 0,0:21:49.76,0:21:54.88,Yaku M,Two,0,0,0,,{\be1\3a&H30&\fscx110}Since Izumida-kun's paying for this tonight, let's order the chef's special.
+Dialogue: 0,0:23:15.50,0:23:16.41,Yaku M,Mar,0,0,0,,{\be1\3a&H30&\fscx110}Excuse me.
+Dialogue: 0,0:23:16.41,0:23:17.27,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Inspector Maruoka!
+Dialogue: 0,0:23:17.27,0:23:19.29,Yaku M,Mar,0,0,0,,{\be1\3a&H30&\fscx110}How about we go for a drink?  Let's keep it a secret from the Superintendent, okay?
+Dialogue: 0,0:23:19.29,0:23:21.38,Yaku M,Mar,0,0,0,,{\be1\3a&H30&\fscx110}It's great to drink while complaining about your boss...
+Dialogue: 0,0:23:21.38,0:23:23.15,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Yakushiji Ryoko's Supernatural Case File,
+Dialogue: 0,0:23:23.15,0:23:24.21,Yaku M,,0,0,0,,{\be1\3a&H30&\fscx110}File Number 07:
+Dialogue: 0,0:23:24.21,0:23:25.61,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Okinawa, God's Island.
+Dialogue: 0,0:23:25.61,0:23:26.46,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Please look forward to it.
+Dialogue: 0,0:23:26.46,0:23:28.20,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}And?  What were you going to do?
+Dialogue: 0,0:23:28.20,0:23:29.18,Yaku M,Mar,0,0,0,,{\be1\3a&H30&\fscx110}Wh-What...

@@ -17,249 +17,249 @@ Style: Yaku Note,Franklin Gothic Demi Cond,32,&H00F7F0E9,&H0065380B,&H0065380B,&
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 
 
-Dialogue: 0,0:00:03.19,0:00:04.83,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}It's strange.
-Dialogue: 0,0:00:04.83,0:00:09.32,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}When I'm with you, I get the feeling that a crisis of this level is nothing.
-Dialogue: 0,0:00:11.27,0:00:13.51,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}You're right.
-Dialogue: 0,0:00:13.51,0:00:17.04,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}I'll stop a tank with the wink of an eye.
-Dialogue: 0,0:00:25.72,0:00:27.04,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}You really did stop it!
-Dialogue: 0,0:00:40.10,0:00:41.68,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}What?
-Dialogue: 0,0:01:01.87,0:01:03.29,Yaku M,Leu,0000,0000,0000,,{\be1\3a&H30&\fscx110}Ciao.
-Dialogue: 0,0:01:04.50,0:01:06.89,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}I see now.
-Dialogue: 0,0:01:06.89,0:01:08.79,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Now the players are all set.
-Dialogue: 0,0:01:10.27,0:01:11.50,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Commence advance!
-Dialogue: 0,0:01:12.33,0:01:14.34,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Head for Shiba!
-Dialogue: 0,0:01:27.89,0:01:30.61,Yaku M,Lad,0000,0000,0000,,{\be1\3a&H30&\fscx110}Target has seized a tank and breached the siege.
-Dialogue: 0,0:01:31.03,0:01:33.07,Yaku M,Lad,0000,0000,0000,,{\be1\3a&H30&\fscx110}She's headed straight here.
-Dialogue: 0,0:01:39.88,0:01:40.95,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Fire!
-Dialogue: 0,0:01:48.57,0:01:51.57,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Superintendent, it's dangerous.  Please come inside.
-Dialogue: 0,0:01:51.57,0:01:53.02,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Full speed ahead!
-Dialogue: 0,0:02:13.39,0:02:14.75,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}What's that?
-Dialogue: 0,0:02:15.25,0:02:18.30,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}A souvenir from France that my cute maids brought back.
-Dialogue: 0,0:02:18.30,0:02:22.34,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Oh, the perfume you mentioned the other day.
-Dialogue: 0,0:02:31.16,0:02:33.83,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Hold on to this.
-Dialogue: 0,0:02:34.61,0:02:36.20,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}B-But...
-Dialogue: 0,0:02:42.26,0:02:43.43,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}I understand.
-Dialogue: 0,0:03:05.29,0:03:06.74,Yaku M,Man,0000,0000,0000,,{\be1\3a&H30&\fscx110}They're here.
-Dialogue: 0,0:03:09.41,0:03:10.50,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Where are you looking?
-Dialogue: 0,0:03:11.34,0:03:12.92,Yaku M,Man,0000,0000,0000,,{\be1\3a&H30&\fscx110}Yakushiji Ryoko!
-Dialogue: 0,0:03:13.67,0:03:14.15,Yaku M,Man,0000,0000,0000,,{\be1\3a&H30&\fscx110}What?
-Dialogue: 0,0:03:18.58,0:03:20.89,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Really.  Where are you looking?
-Dialogue: 0,0:04:04.88,0:04:06.74,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}It seems that no one is here.
-Dialogue: 0,0:04:06.74,0:04:08.66,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}They just left.
-Dialogue: 0,0:04:10.02,0:04:11.52,Yaku T,Man,0000,0000,0000,,{\be1\3a&H30&\fscx110}Report from Akasaka District Group.
-Dialogue: 0,0:04:12.24,0:04:15.74,Yaku T,Man,0000,0000,0000,,{\be1\3a&H30&\fscx110}We will assemble at JACES's main office momentarily.
-Dialogue: 0,0:04:15.74,0:04:18.48,Yaku T,Man,0000,0000,0000,,{\be1\3a&H30&\fscx110}We will enter in 60 minutes as planned.
-Dialogue: 0,0:04:18.48,0:04:19.57,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}What?!
-Dialogue: 0,0:04:33.87,0:04:37.55,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}To think that SDF would support NPP this much...
-Dialogue: 0,0:04:38.09,0:04:39.60,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Didn't you know?
-Dialogue: 0,0:04:43.17,0:04:45.16,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Disregarding the higher officials,
-Dialogue: 0,0:04:45.16,0:04:50.68,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}most of the soldiers participating in the practice are being controlled by Ruriko's tainted radio waves.
-Dialogue: 0,0:05:13.51,0:05:15.84,Yaku M,Mar,0000,0000,0000,,{\be1\3a&H30&\fscx110}Wherever we go, there are soldiers waiting.
-Dialogue: 0,0:05:15.84,0:05:18.68,Yaku M,Mar,0000,0000,0000,,{\be1\3a&H30&\fscx110}Is this really Tokyo?
-Dialogue: 0,0:05:18.68,0:05:20.46,Yaku M,Jac,0000,0000,0000,,{\be1\3a&H30&\fscx110}I'm hungry.
-Dialogue: 0,0:05:20.93,0:05:24.49,Yaku M,Sat,0000,0000,0000,,{\be1\3a&H30&\fscx110}I wonder what will happen to us.
-Dialogue: 0,0:05:27.44,0:05:29.97,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Wait there, you evil villains.
-Dialogue: 0,0:05:35.17,0:05:37.35,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}You really take your time.
-Dialogue: 0,0:05:37.35,0:05:39.88,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Or perhaps you were waiting for me?
-Dialogue: 0,0:05:43.61,0:05:46.91,Yaku M,Rur,0000,0000,0000,,{\be1\3a&H30&\fscx110}My, you really don't learn.
-Dialogue: 0,0:05:49.86,0:05:51.88,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Izumida-kun, let's go.
-Dialogue: 0,0:05:52.31,0:05:53.74,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Y-Yes.
-Dialogue: 0,0:06:01.76,0:06:03.61,Yaku M,Kis,0000,0000,0000,,{\be1\3a&H30&\fscx110}W-Well done.
-Dialogue: 0,0:06:03.61,0:06:05.70,Yaku M,Abe,0000,0000,0000,,{\be1\3a&H30&\fscx110}Y-Yeah,
-Dialogue: 0,0:06:05.70,0:06:07.42,Yaku M,Abe,0000,0000,0000,,{\be1\3a&H30&\fscx110}well done.
-Dialogue: 0,0:06:07.42,0:06:09.19,Yaku M,Mar,0000,0000,0000,,{\be1\3a&H30&\fscx110}That's our superintendent!
-Dialogue: 0,0:06:09.19,0:06:10.83,Yaku M,Sat,0000,0000,0000,,{\be1\3a&H30&\fscx110}You're really cool.
-Dialogue: 0,0:06:09.19,0:06:10.43,Yaku 2on,Jac,0000,0000,0000,,{\be1\3a&H30&\fscx110}Wonderful.
-Dialogue: 0,0:06:11.47,0:06:12.51,Yaku M,Man,0000,0000,0000,,{\be1\3a&H30&\fscx110}I've found them!
-Dialogue: 0,0:06:23.45,0:06:26.29,Yaku M,Rur,0000,0000,0000,,{\be1\3a&H30&\fscx110}I'm disappointed in you.
-Dialogue: 0,0:06:26.29,0:06:27.95,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}What do you mean by that?
-Dialogue: 0,0:06:29.87,0:06:35.17,Yaku M,Rur,0000,0000,0000,,{\be1\3a&H30&\fscx110}I had thought that you would have played your pieces more wisely.
-Dialogue: 0,0:06:37.18,0:06:40.05,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}I don't care how I play my pieces.
-Dialogue: 0,0:06:40.05,0:06:41.33,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}The winner prevails.
-Dialogue: 0,0:06:41.33,0:06:42.87,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}All I have to do is not lose.
-Dialogue: 0,0:06:43.49,0:06:45.80,Yaku M,Rur,0000,0000,0000,,{\be1\3a&H30&\fscx110}You think you can win in this situation?
-Dialogue: 0,0:07:14.84,0:07:16.45,Yaku M,Mon,0000,0000,0000,,{\be1\3a&H30&\fscx110}Izumida!
-Dialogue: 0,0:07:17.10,0:07:18.60,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Monami-chan.
-Dialogue: 0,0:07:18.60,0:07:19.54,Yaku M,Mon,0000,0000,0000,,{\be1\3a&H30&\fscx110}Please.
-Dialogue: 0,0:07:19.99,0:07:22.21,Yaku M,Mon,0000,0000,0000,,{\be1\3a&H30&\fscx110}Please, come with me.
-Dialogue: 0,0:07:22.67,0:07:23.85,Yaku M,Mon,0000,0000,0000,,{\be1\3a&H30&\fscx110}Please!
-Dialogue: 0,0:07:29.71,0:07:32.18,Yaku M,Mon,0000,0000,0000,,{\be1\3a&H30&\fscx110}Izumida, come with me!
-Dialogue: 0,0:07:33.25,0:07:35.01,Yaku M,Mon,0000,0000,0000,,{\be1\3a&H30&\fscx110}Come to my side!
-Dialogue: 0,0:07:37.63,0:07:39.14,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}I can't do that.
-Dialogue: 0,0:07:39.14,0:07:40.23,Yaku M,Mon,0000,0000,0000,,{\be1\3a&H30&\fscx110}How come?
-Dialogue: 0,0:07:40.61,0:07:43.85,Yaku M,Mon,0000,0000,0000,,{\be1\3a&H30&\fscx110}Because I'm not human?
-Dialogue: 0,0:07:43.85,0:07:45.14,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}No!
-Dialogue: 0,0:07:45.14,0:07:46.44,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Definitely not!
-Dialogue: 0,0:07:46.44,0:07:48.19,Yaku M,Mon,0000,0000,0000,,{\be1\3a&H30&\fscx110}Then why?
-Dialogue: 0,0:07:48.60,0:07:50.55,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}{\i1}You{\i0}{\fscx80}  {\fscx100}come to my side.
-Dialogue: 0,0:07:50.55,0:07:51.15,Yaku M,Mon,0000,0000,0000,,{\be1\3a&H30&\fscx110}{Huh?}
-Dialogue: 0,0:07:52.57,0:07:54.87,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}You shouldn't be with these people!
-Dialogue: 0,0:07:55.54,0:07:58.29,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Ruriko-san, you're mistaken!
-Dialogue: 0,0:07:58.29,0:08:02.59,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}I wasn't planning to stick my nose into the conflict between you and the Yakushiji family,
-Dialogue: 0,0:08:02.59,0:08:05.29,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}but Monami's...
-Dialogue: 0,0:08:05.29,0:08:08.05,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Have you ever considered Monami's feelings?
-Dialogue: 0,0:08:08.05,0:08:12.74,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Monami has a heart and is living to her fullest!
-Dialogue: 0,0:08:12.74,0:08:15.28,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}No matter what people say, she is a human being!
-Dialogue: 0,0:08:15.28,0:08:18.00,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Rather, you're the one who's lower than human.
-Dialogue: 0,0:08:18.00,0:08:23.52,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}You wouldn't hesitate to sacrifice a person's heart or life for your own objectives!
-Dialogue: 0,0:08:24.81,0:08:26.05,Yaku M,Mon,0000,0000,0000,,{\be1\3a&H30&\fscx110}Izumida...
-Dialogue: 0,0:08:31.44,0:08:32.77,Yaku M,Non,0000,0000,0000,,{\be1\3a&H30&\fscx110}Mistress.
-Dialogue: 0,0:08:34.71,0:08:37.85,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}You talk big when you need to, don't you?
-Dialogue: 0,0:08:38.38,0:08:39.66,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}I'm sorry.
-Dialogue: 0,0:08:39.66,0:08:41.18,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}I said more than I should have...
-Dialogue: 0,0:08:41.95,0:08:44.94,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}For your reward, I'll let you in on a little secret.
-Dialogue: 0,0:08:48.27,0:08:50.68,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}S-Something so outrageous?
-Dialogue: 0,0:08:50.68,0:08:52.49,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Oh, you think so too?
-Dialogue: 0,0:08:52.49,0:08:54.19,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Of course I do!
-Dialogue: 0,0:08:54.19,0:08:57.26,Yaku M,Rur,0000,0000,0000,,{\be1\3a&H30&\fscx110}Have you finished bidding your farewells?
-Dialogue: 0,0:09:00.93,0:09:06.43,Yaku M,Rur,0000,0000,0000,,{\be1\3a&H30&\fscx110}In that case, I'll make you take your exit.
-Dialogue: 0,0:09:09.63,0:09:12.74,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}It might be you who makes an exit.
-Dialogue: 0,0:09:21.23,0:09:22.41,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Looks like it's here.
-Dialogue: 0,0:09:43.80,0:09:44.89,Yaku M,Leu,0000,0000,0000,,{\be1\3a&H30&\fscx110}Direct hit!
-Dialogue: 0,0:10:03.90,0:10:06.37,Yaku M,Man,0000,0000,0000,,{\be1\3a&H30&\fscx110}Run away!
-Dialogue: 0,0:10:06.77,0:10:11.04,Yaku M,Rur,0000,0000,0000,,{\be1\3a&H30&\fscx110}Your unpredictability leaves me speechless.
-Dialogue: 0,0:10:12.74,0:10:14.06,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}You're still talking.
-Dialogue: 0,0:10:20.05,0:10:20.71,Yaku M,Non,0000,0000,0000,,{\be1\3a&H30&\fscx110}To the truck.
-Dialogue: 0,0:10:22.65,0:10:23.63,Yaku M,Mon,0000,0000,0000,,{\be1\3a&H30&\fscx110}Izumida.
-Dialogue: 0,0:10:25.92,0:10:28.37,Yaku M,Guy,0000,0000,0000,,{\be1\3a&H30&\fscx110}Nonagase, I'm going.
-Dialogue: 0,0:10:28.37,0:10:30.31,Yaku M,Guy,0000,0000,0000,,{\be1\3a&H30&\fscx110}I don't want to be crushed.
-Dialogue: 0,0:10:35.50,0:10:36.86,Yaku M,Non,0000,0000,0000,,{\be1\3a&H30&\fscx110}Geez.
-Dialogue: 0,0:10:45.55,0:10:47.32,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}I've decided that...
-Dialogue: 0,0:10:47.32,0:10:51.81,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}I'll crush the Shiba that you reign over as Queen.
-Dialogue: 0,0:10:54.67,0:10:57.80,Yaku M,Rur,0000,0000,0000,,{\be1\3a&H30&\fscx110}Aren't you scared of dying?
-Dialogue: 0,0:10:58.19,0:11:00.01,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Winning is more important.
-Dialogue: 0,0:11:07.79,0:11:09.44,Yaku M,Yuk,0000,0000,0000,,{\be1\3a&H30&\fscx110}It's not over yet!
-Dialogue: 0,0:11:09.44,0:11:11.11,Yaku M,Kis,0000,0000,0000,,{\be1\3a&H30&\fscx110}She's amazing.
-Dialogue: 0,0:11:11.11,0:11:13.03,Yaku M,Kis,0000,0000,0000,,{\be1\3a&H30&\fscx110}She's starting to look like Oryo-sama.
-Dialogue: 0,0:11:13.03,0:11:17.51,Yaku M,Mar,0000,0000,0000,,{\be1\3a&H30&\fscx110}She probably lost sight of herself due to the extreme tension.
-Dialogue: 0,0:11:35.90,0:11:37.72,Yaku M,Mar,0000,0000,0000,,{\be1\3a&H30&\fscx110}The attack stopped?
-Dialogue: 0,0:11:37.72,0:11:39.26,Yaku M,Kis,0000,0000,0000,,{\be1\3a&H30&\fscx110}Seems so.
-Dialogue: 0,0:11:52.51,0:11:56.76,Yaku M,Yuk,0000,0000,0000,,{\be1\3a&H30&\fscx110}Foolish humans, bow before me!
-Dialogue: 0,0:12:04.58,0:12:06.26,Yaku M,Ppl,0000,0000,0000,,{\be1\3a&H30&\fscx110}Superintendent!
-Dialogue: 0,0:12:23.39,0:12:25.64,Yaku M,Mon,0000,0000,0000,,{\be1\3a&H30&\fscx110}Wh-What happened to Izumida?
-Dialogue: 0,0:12:32.19,0:12:33.06,Yaku M,Mon,0000,0000,0000,,{\be1\3a&H30&\fscx110}Izumida!
-Dialogue: 0,0:12:33.77,0:12:38.28,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}He laid on top of you to cover you.
-Dialogue: 0,0:12:38.28,0:12:40.91,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}He probably tried to protect you.
-Dialogue: 0,0:12:45.57,0:12:48.65,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Are you interested in teaming up with me?
-Dialogue: 0,0:12:49.51,0:12:50.29,Yaku M,Mon,0000,0000,0000,,{\be1\3a&H30&\fscx110}What?
-Dialogue: 0,0:12:50.67,0:12:55.61,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}JACES is the only thing you can get your hands on, even if you go with Ruriko, right?
-Dialogue: 0,0:12:55.61,0:12:59.25,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}But if we work together, we can rule this country...
-Dialogue: 0,0:12:59.25,0:13:02.80,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}No, the whole world.
-Dialogue: 0,0:13:03.29,0:13:05.28,Yaku M,Mon,0000,0000,0000,,{\be1\3a&H30&\fscx110}Are you serious?
-Dialogue: 0,0:13:05.28,0:13:07.09,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}I always am.
-Dialogue: 0,0:13:08.02,0:13:13.59,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}If there are two Yakushiji Ryokos, nothing's impossible.
-Dialogue: 0,0:13:13.59,0:13:15.86,Yaku M,Mon,0000,0000,0000,,{\be1\3a&H30&\fscx110}Two Yakushiji Ryokos?
-Dialogue: 0,0:13:17.68,0:13:19.07,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}You are me.
-Dialogue: 0,0:13:19.45,0:13:21.11,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}And I am you.
-Dialogue: 0,0:13:21.55,0:13:24.85,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}From our face to the way we think, we're exactly the same.
-Dialogue: 0,0:13:24.85,0:13:27.90,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}And our taste in men too.
-Dialogue: 0,0:13:29.37,0:13:31.74,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}But there's one thing different.
-Dialogue: 0,0:13:33.31,0:13:38.66,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}If I were you, I would have defeated my hateful rival in love, without the help of anyone.
-Dialogue: 0,0:13:41.25,0:13:43.75,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Come to my place, Monami.
-Dialogue: 0,0:13:43.75,0:13:47.72,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}And go after my life diligently.
-Dialogue: 0,0:13:48.15,0:13:52.18,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Don't you think a life like that would be thrilling and fun?
-Dialogue: 0,0:13:57.15,0:13:59.69,Yaku M,Mon,0000,0000,0000,,{\be1\3a&H30&\fscx110}M-Mistress.
-Dialogue: 0,0:14:05.15,0:14:06.15,Yaku M,Mon,0000,0000,0000,,{\be1\3a&H30&\fscx110}Izumida!
-Dialogue: 0,0:14:08.69,0:14:09.14,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Hey.
-Dialogue: 0,0:14:09.99,0:14:11.06,Yaku M,Mon,0000,0000,0000,,{\be1\3a&H30&\fscx110}Are you all right?
-Dialogue: 0,0:14:11.57,0:14:13.41,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Yes, I'm fine.
-Dialogue: 0,0:14:14.03,0:14:15.30,Yaku M,Mon,0000,0000,0000,,{\be1\3a&H30&\fscx110}I'm glad.
-Dialogue: 0,0:14:25.64,0:14:26.60,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Run!
-Dialogue: 0,0:14:40.69,0:14:41.77,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Are you okay?
-Dialogue: 0,0:14:41.77,0:14:43.26,Yaku M,Mon,0000,0000,0000,,{\be1\3a&H30&\fscx110}Yes I am, Mistress.
-Dialogue: 0,0:14:44.26,0:14:46.69,Yaku M,Rur,0000,0000,0000,,{\be1\3a&H30&\fscx110}It's not over yet.
-Dialogue: 0,0:14:54.19,0:14:55.12,Yaku M,Mon,0000,0000,0000,,{\be1\3a&H30&\fscx110}Don't!
-Dialogue: 0,0:14:56.41,0:14:57.60,Yaku M,Rur,0000,0000,0000,,{\be1\3a&H30&\fscx110}Ryoko-san...
-Dialogue: 0,0:14:57.60,0:15:01.13,Yaku M,Rur,0000,0000,0000,,{\be1\3a&H30&\fscx110}Your existence is unforgivable.
-Dialogue: 0,0:15:01.33,0:15:04.00,Yaku M,Non,0000,0000,0000,,{\be1\3a&H30&\fscx110}Izumida-san, please don't hate me.
-Dialogue: 0,0:15:05.85,0:15:08.42,Yaku M,Non,0000,0000,0000,,{\be1\3a&H30&\fscx110}I enjoyed talking to you.
-Dialogue: 0,0:15:16.92,0:15:18.06,Yaku M,Non,0000,0000,0000,,{\be1\3a&H30&\fscx110}Hold on there.
-Dialogue: 0,0:15:20.51,0:15:21.19,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Izumida-kun!
-Dialogue: 0,0:15:28.56,0:15:29.53,Yaku M,Non,0000,0000,0000,,{\be1\3a&H30&\fscx110}What?
-Dialogue: 0,0:15:35.17,0:15:36.95,Yaku M,Non,0000,0000,0000,,{\be1\3a&H30&\fscx110}What's this?
-Dialogue: 0,0:15:42.86,0:15:45.08,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Superintendent, that's...
-Dialogue: 0,0:15:47.78,0:15:48.71,Yaku M,Mon,0000,0000,0000,,{\be1\3a&H30&\fscx110}Show me.
-Dialogue: 0,0:15:50.51,0:15:51.59,Yaku M,Mon,0000,0000,0000,,{\be1\3a&H30&\fscx110}I want to see.
-Dialogue: 0,0:16:05.15,0:16:06.57,Yaku M,Non,0000,0000,0000,,{\be1\3a&H30&\fscx110}Th-This is...?
-Dialogue: 0,0:16:09.99,0:16:11.99,Yaku M,Non,0000,0000,0000,,{\be1\3a&H30&\fscx110}N-No!
-Dialogue: 0,0:16:17.90,0:16:18.47,Yaku M,Non,0000,0000,0000,,{\be1\3a&H30&\fscx110}N-No!
-Dialogue: 0,0:16:19.35,0:16:22.36,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Created one and creator,
-Dialogue: 0,0:16:22.36,0:16:23.96,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}if one does not seek to melt,
-Dialogue: 0,0:16:23.96,0:16:26.64,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}keep the secret.
-Dialogue: 0,0:16:26.64,0:16:27.81,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}What is...?
-Dialogue: 0,0:16:27.81,0:16:30.97,Yaku Note,Note,0000,0000,0000,,{\be1\3a&H30&\fscx110}[Note: Senjuushou is a collection of fairy tales and legends that is attributed to Saigyou Houshi.]
-Dialogue: 0,0:16:27.81,0:16:30.97,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}A verse from the Senjuushou written by Saigyou Houshi.
-Dialogue: 0,0:16:31.55,0:16:37.10,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Saigyou Houshi made a mistake when he tested the secret arts of Hangon.
-Dialogue: 0,0:16:37.10,0:16:40.21,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}It was because he burned a certain kind of incense that wasn't supposed to be burnt.
-Dialogue: 0,0:16:40.21,0:16:41.77,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Then, is that perfume...?
-Dialogue: 0,0:16:42.44,0:16:48.76,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}I had the JACES laboratory in Paris make it with the ingredient extracted from the aromatic tree as its base.
-Dialogue: 0,0:16:52.58,0:16:56.89,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}But to think that Nonagase Kazuma was also created with the Hangon technique...
-Dialogue: 0,0:16:56.89,0:17:00.33,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Yes, he probably didn't know it either.
-Dialogue: 0,0:17:10.77,0:17:12.29,Yaku M,Rur,0000,0000,0000,,{\be1\3a&H30&\fscx110}Ryoko-san.
-Dialogue: 0,0:17:12.29,0:17:13.54,Yaku M,Rur,0000,0000,0000,,{\be1\3a&H30&\fscx110}Ryoko-san.
-Dialogue: 0,0:17:13.54,0:17:17.18,Yaku M,Rur,0000,0000,0000,,{\be1\3a&H30&\fscx110}Play with me again someday.
-Dialogue: 0,0:17:29.84,0:17:32.03,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Who created Isurugi Ruriko?
-Dialogue: 0,0:17:32.03,0:17:35.07,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Most likely the real Ruriko.
-Dialogue: 0,0:17:35.68,0:17:37.79,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Whether the original is alive or dead is unknown.
-Dialogue: 0,0:17:37.79,0:17:42.03,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}But even created people have the ability to use the secret arts of Hangon.
-Dialogue: 0,0:17:42.53,0:17:48.66,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Ruriko, created from the original, applied the same method to create more copies of herself.
-Dialogue: 0,0:17:48.66,0:17:50.29,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}That's how it is.
-Dialogue: 0,0:17:56.34,0:17:58.25,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}This isn't over yet.
-Dialogue: 0,0:17:58.25,0:18:02.52,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}I'm sure a different Ruriko will come before us.
-Dialogue: 0,0:18:02.90,0:18:08.49,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Which means the fight between the Yakushiji family and Isurugi Ruriko will continue?
-Dialogue: 0,0:18:09.97,0:18:13.69,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}I would think so.
-Dialogue: 0,0:18:19.86,0:18:24.58,Yaku T,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}For some reason, in the face of a supernatural existence that threatens the Yakushiji family,
-Dialogue: 0,0:18:24.58,0:18:27.12,Yaku T,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Yakushiji Ryoko looked like she was enjoying herself.
-Dialogue: 0,0:18:39.97,0:18:45.93,Yaku T,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Yakushiji Ryoko's violence was reported as an unfortunate accident during the practice.
-Dialogue: 0,0:18:45.93,0:18:51.40,Yaku T,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}I'm sure my boss, who has a talent for deception, did the spadework behind the scenes.
-Dialogue: 0,0:19:03.31,0:19:05.08,Yaku M,Guy,0000,0000,0000,,{\be1\3a&H30&\fscx110}Holy night.
-Dialogue: 0,0:19:05.08,0:19:08.25,Yaku M,Guy,0000,0000,0000,,{\be1\3a&H30&\fscx110}It is the calm before a storm.
-Dialogue: 0,0:19:10.31,0:19:14.52,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Various rumors have been mentioned in the media: that I am resigning from duty,
-Dialogue: 0,0:19:14.52,0:19:19.32,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}or that I will officially assume the office of president of JACES,
-Dialogue: 0,0:19:19.32,0:19:22.11,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}or that I am getting engaged.
-Dialogue: 0,0:19:23.34,0:19:26.72,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}None of it is true.
-Dialogue: 0,0:19:27.37,0:19:30.69,Yaku M,Man,0000,0000,0000,,{\be1\3a&H30&\fscx110}What?  That's different from what I heard.
-Dialogue: 0,0:19:30.69,0:19:32.88,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}I intend to continue my job with the same sincere heart...
-Dialogue: 0,0:19:32.88,0:19:38.65,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}No, with an even more sincere heart.
-Dialogue: 0,0:19:39.43,0:19:41.38,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Media personnel who have gathered here,
-Dialogue: 0,0:19:41.38,0:19:43.12,Yaku M,,0000,0000,0000,,{\be1\3a&H30&\fscx110}This is terrible!
-Dialogue: 0,0:19:43.48,0:19:46.31,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}the bosses I love and respect,
-Dialogue: 0,0:19:46.94,0:19:57.33,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}and the citizens of Japan, please give me warm, yet strict guidance.
-Dialogue: 0,0:19:59.51,0:20:05.60,Yaku M,Kin,0000,0000,0000,,{\be1\3a&H30&\fscx110}Ryoko-chan, you're really good at lying.
-Dialogue: 0,0:20:05.60,0:20:07.53,Yaku M,Mon,0000,0000,0000,,{\be1\3a&H30&\fscx110}I'm ready.
-Dialogue: 0,0:20:07.53,0:20:08.53,Yaku M,Kin,0000,0000,0000,,{\be1\3a&H30&\fscx110}Oh my.
-Dialogue: 0,0:20:10.88,0:20:12.63,Yaku M,Kin,0000,0000,0000,,{\be1\3a&H30&\fscx110}It looks wonderful on you.
-Dialogue: 0,0:20:30.14,0:20:33.28,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Izumida-kun, hurry up and apply the suntan lotion.
-Dialogue: 0,0:20:35.07,0:20:38.65,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}I came with you since I was told that we have work.
-Dialogue: 0,0:20:38.65,0:20:40.49,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Of course we do.
-Dialogue: 0,0:20:40.49,0:20:41.80,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}What kind of work?
-Dialogue: 0,0:20:42.49,0:20:46.20,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}To dig up the people who bashed me.
-Dialogue: 0,0:20:46.20,0:20:49.09,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}We need to clean them up after the New Year arrives...
-Dialogue: 0,0:20:49.09,0:20:50.89,Yaku M,Mon,0000,0000,0000,,{\be1\3a&H30&\fscx110}Izumida, let's swim.
-Dialogue: 0,0:20:50.89,0:20:53.39,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}N-No, I'll decline the offer.
-Dialogue: 0,0:20:53.81,0:20:54.68,Yaku M,Leu,0000,0000,0000,,{\be1\3a&H30&\fscx110}Let's swim!
-Dialogue: 0,0:20:54.68,0:20:55.43,Yaku M,Mar,0000,0000,0000,,{\be1\3a&H30&\fscx110}Let's go!
-Dialogue: 0,0:20:55.43,0:20:56.70,Yaku M,Mon,0000,0000,0000,,{\be1\3a&H30&\fscx110}Come on.
-Dialogue: 0,0:20:56.70,0:20:58.40,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}I can't.
-Dialogue: 0,0:20:58.84,0:21:02.67,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}She just gave me some work.
-Dialogue: 0,0:21:03.91,0:21:05.10,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}What are you doing?
-Dialogue: 0,0:21:05.10,0:21:06.44,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Come on, take it off!
-Dialogue: 0,0:21:06.44,0:21:07.74,Yaku M,Mon,0000,0000,0000,,{\be1\3a&H30&\fscx110}Get changed.  Get changed.
-Dialogue: 0,0:21:06.90,0:21:09.10,Yaku 2on,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}H-Hey, wait!
-Dialogue: 0,0:21:09.10,0:21:11.39,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110\fad(0,1030)}H-Help me!
-Dialogue: 0,0:22:35.29,0:22:36.41,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}What?
-Dialogue: 0,0:22:45.55,0:22:47.52,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}What are you doing, Izumida-kun?
-Dialogue: 0,0:22:49.21,0:22:51.82,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}I-I'm sorry, Superintendent.
-Dialogue: 0,0:22:53.65,0:22:55.88,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}You must stay close by.
-Dialogue: 0,0:22:55.88,0:22:57.22,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}I'm sorry.
-Dialogue: 0,0:22:57.22,0:22:58.46,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}That's not it.
-Dialogue: 0,0:22:58.46,0:23:00.51,Yaku M,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Yes, I'll accompany you.
-Dialogue: 0,0:23:01.35,0:23:02.07,Yaku M,Ryo,0000,0000,0000,,{\be1\3a&H30&\fscx110}Well done.
-Dialogue: 0,0:23:14.16,0:23:16.02,Yaku T,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}My name is Izumida Jun'ichirou.
-Dialogue: 0,0:23:16.02,0:23:17.29,Yaku T,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}Thirty-three years old.
-Dialogue: 0,0:23:18.24,0:23:20.58,Yaku T,Jun,0000,0000,0000,,{\be1\3a&H30&\fscx110}I am Yakushiji Ryoko's...
-Dialogue: 0,0:23:25.89,0:23:28.03,Yaku M,,0000,0000,0000,,{\be1\3a&H30&\fscx110}You've heard about it, haven't you?
-Dialogue: 0,0:23:28.03,0:23:30.47,Yaku M,,0000,0000,0000,,{\be1\3a&H30&\fscx110}About corpses that still move, even after they die,
-Dialogue: 0,0:23:30.47,0:23:33.18,Yaku M,,0000,0000,0000,,{\be1\3a&H30&\fscx110}that execrate the living.
-Dialogue: 0,0:23:33.54,0:23:37.64,Yaku M,,0000,0000,0000,,{\be1\3a&H30&\fscx110}This is what you call the killers who hunt the immortal corpses:
-Dialogue: 0,0:23:38.12,0:23:39.65,Yaku M,,0000,0000,0000,,{\be1\3a&H30&\fscx110}Shikabane Hime.
+Dialogue: 0,0:00:03.19,0:00:04.83,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}It's strange.
+Dialogue: 0,0:00:04.83,0:00:09.32,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}When I'm with you, I get the feeling that a crisis of this level is nothing.
+Dialogue: 0,0:00:11.27,0:00:13.51,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}You're right.
+Dialogue: 0,0:00:13.51,0:00:17.04,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}I'll stop a tank with the wink of an eye.
+Dialogue: 0,0:00:25.72,0:00:27.04,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}You really did stop it!
+Dialogue: 0,0:00:40.10,0:00:41.68,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}What?
+Dialogue: 0,0:01:01.87,0:01:03.29,Yaku M,Leu,0,0,0,,{\be1\3a&H30&\fscx110}Ciao.
+Dialogue: 0,0:01:04.50,0:01:06.89,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}I see now.
+Dialogue: 0,0:01:06.89,0:01:08.79,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Now the players are all set.
+Dialogue: 0,0:01:10.27,0:01:11.50,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Commence advance!
+Dialogue: 0,0:01:12.33,0:01:14.34,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Head for Shiba!
+Dialogue: 0,0:01:27.89,0:01:30.61,Yaku M,Lad,0,0,0,,{\be1\3a&H30&\fscx110}Target has seized a tank and breached the siege.
+Dialogue: 0,0:01:31.03,0:01:33.07,Yaku M,Lad,0,0,0,,{\be1\3a&H30&\fscx110}She's headed straight here.
+Dialogue: 0,0:01:39.88,0:01:40.95,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Fire!
+Dialogue: 0,0:01:48.57,0:01:51.57,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Superintendent, it's dangerous.  Please come inside.
+Dialogue: 0,0:01:51.57,0:01:53.02,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Full speed ahead!
+Dialogue: 0,0:02:13.39,0:02:14.75,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}What's that?
+Dialogue: 0,0:02:15.25,0:02:18.30,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}A souvenir from France that my cute maids brought back.
+Dialogue: 0,0:02:18.30,0:02:22.34,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Oh, the perfume you mentioned the other day.
+Dialogue: 0,0:02:31.16,0:02:33.83,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Hold on to this.
+Dialogue: 0,0:02:34.61,0:02:36.20,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}B-But...
+Dialogue: 0,0:02:42.26,0:02:43.43,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}I understand.
+Dialogue: 0,0:03:05.29,0:03:06.74,Yaku M,Man,0,0,0,,{\be1\3a&H30&\fscx110}They're here.
+Dialogue: 0,0:03:09.41,0:03:10.50,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Where are you looking?
+Dialogue: 0,0:03:11.34,0:03:12.92,Yaku M,Man,0,0,0,,{\be1\3a&H30&\fscx110}Yakushiji Ryoko!
+Dialogue: 0,0:03:13.67,0:03:14.15,Yaku M,Man,0,0,0,,{\be1\3a&H30&\fscx110}What?
+Dialogue: 0,0:03:18.58,0:03:20.89,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Really.  Where are you looking?
+Dialogue: 0,0:04:04.88,0:04:06.74,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}It seems that no one is here.
+Dialogue: 0,0:04:06.74,0:04:08.66,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}They just left.
+Dialogue: 0,0:04:10.02,0:04:11.52,Yaku T,Man,0,0,0,,{\be1\3a&H30&\fscx110}Report from Akasaka District Group.
+Dialogue: 0,0:04:12.24,0:04:15.74,Yaku T,Man,0,0,0,,{\be1\3a&H30&\fscx110}We will assemble at JACES's main office momentarily.
+Dialogue: 0,0:04:15.74,0:04:18.48,Yaku T,Man,0,0,0,,{\be1\3a&H30&\fscx110}We will enter in 60 minutes as planned.
+Dialogue: 0,0:04:18.48,0:04:19.57,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}What?!
+Dialogue: 0,0:04:33.87,0:04:37.55,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}To think that SDF would support NPP this much...
+Dialogue: 0,0:04:38.09,0:04:39.60,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Didn't you know?
+Dialogue: 0,0:04:43.17,0:04:45.16,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Disregarding the higher officials,
+Dialogue: 0,0:04:45.16,0:04:50.68,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}most of the soldiers participating in the practice are being controlled by Ruriko's tainted radio waves.
+Dialogue: 0,0:05:13.51,0:05:15.84,Yaku M,Mar,0,0,0,,{\be1\3a&H30&\fscx110}Wherever we go, there are soldiers waiting.
+Dialogue: 0,0:05:15.84,0:05:18.68,Yaku M,Mar,0,0,0,,{\be1\3a&H30&\fscx110}Is this really Tokyo?
+Dialogue: 0,0:05:18.68,0:05:20.46,Yaku M,Jac,0,0,0,,{\be1\3a&H30&\fscx110}I'm hungry.
+Dialogue: 0,0:05:20.93,0:05:24.49,Yaku M,Sat,0,0,0,,{\be1\3a&H30&\fscx110}I wonder what will happen to us.
+Dialogue: 0,0:05:27.44,0:05:29.97,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Wait there, you evil villains.
+Dialogue: 0,0:05:35.17,0:05:37.35,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}You really take your time.
+Dialogue: 0,0:05:37.35,0:05:39.88,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Or perhaps you were waiting for me?
+Dialogue: 0,0:05:43.61,0:05:46.91,Yaku M,Rur,0,0,0,,{\be1\3a&H30&\fscx110}My, you really don't learn.
+Dialogue: 0,0:05:49.86,0:05:51.88,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Izumida-kun, let's go.
+Dialogue: 0,0:05:52.31,0:05:53.74,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Y-Yes.
+Dialogue: 0,0:06:01.76,0:06:03.61,Yaku M,Kis,0,0,0,,{\be1\3a&H30&\fscx110}W-Well done.
+Dialogue: 0,0:06:03.61,0:06:05.70,Yaku M,Abe,0,0,0,,{\be1\3a&H30&\fscx110}Y-Yeah,
+Dialogue: 0,0:06:05.70,0:06:07.42,Yaku M,Abe,0,0,0,,{\be1\3a&H30&\fscx110}well done.
+Dialogue: 0,0:06:07.42,0:06:09.19,Yaku M,Mar,0,0,0,,{\be1\3a&H30&\fscx110}That's our superintendent!
+Dialogue: 0,0:06:09.19,0:06:10.83,Yaku M,Sat,0,0,0,,{\be1\3a&H30&\fscx110}You're really cool.
+Dialogue: 0,0:06:09.19,0:06:10.43,Yaku 2on,Jac,0,0,0,,{\be1\3a&H30&\fscx110}Wonderful.
+Dialogue: 0,0:06:11.47,0:06:12.51,Yaku M,Man,0,0,0,,{\be1\3a&H30&\fscx110}I've found them!
+Dialogue: 0,0:06:23.45,0:06:26.29,Yaku M,Rur,0,0,0,,{\be1\3a&H30&\fscx110}I'm disappointed in you.
+Dialogue: 0,0:06:26.29,0:06:27.95,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}What do you mean by that?
+Dialogue: 0,0:06:29.87,0:06:35.17,Yaku M,Rur,0,0,0,,{\be1\3a&H30&\fscx110}I had thought that you would have played your pieces more wisely.
+Dialogue: 0,0:06:37.18,0:06:40.05,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}I don't care how I play my pieces.
+Dialogue: 0,0:06:40.05,0:06:41.33,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}The winner prevails.
+Dialogue: 0,0:06:41.33,0:06:42.87,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}All I have to do is not lose.
+Dialogue: 0,0:06:43.49,0:06:45.80,Yaku M,Rur,0,0,0,,{\be1\3a&H30&\fscx110}You think you can win in this situation?
+Dialogue: 0,0:07:14.84,0:07:16.45,Yaku M,Mon,0,0,0,,{\be1\3a&H30&\fscx110}Izumida!
+Dialogue: 0,0:07:17.10,0:07:18.60,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Monami-chan.
+Dialogue: 0,0:07:18.60,0:07:19.54,Yaku M,Mon,0,0,0,,{\be1\3a&H30&\fscx110}Please.
+Dialogue: 0,0:07:19.99,0:07:22.21,Yaku M,Mon,0,0,0,,{\be1\3a&H30&\fscx110}Please, come with me.
+Dialogue: 0,0:07:22.67,0:07:23.85,Yaku M,Mon,0,0,0,,{\be1\3a&H30&\fscx110}Please!
+Dialogue: 0,0:07:29.71,0:07:32.18,Yaku M,Mon,0,0,0,,{\be1\3a&H30&\fscx110}Izumida, come with me!
+Dialogue: 0,0:07:33.25,0:07:35.01,Yaku M,Mon,0,0,0,,{\be1\3a&H30&\fscx110}Come to my side!
+Dialogue: 0,0:07:37.63,0:07:39.14,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}I can't do that.
+Dialogue: 0,0:07:39.14,0:07:40.23,Yaku M,Mon,0,0,0,,{\be1\3a&H30&\fscx110}How come?
+Dialogue: 0,0:07:40.61,0:07:43.85,Yaku M,Mon,0,0,0,,{\be1\3a&H30&\fscx110}Because I'm not human?
+Dialogue: 0,0:07:43.85,0:07:45.14,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}No!
+Dialogue: 0,0:07:45.14,0:07:46.44,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Definitely not!
+Dialogue: 0,0:07:46.44,0:07:48.19,Yaku M,Mon,0,0,0,,{\be1\3a&H30&\fscx110}Then why?
+Dialogue: 0,0:07:48.60,0:07:50.55,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}{\i1}You{\i0}{\fscx80}  {\fscx100}come to my side.
+Dialogue: 0,0:07:50.55,0:07:51.15,Yaku M,Mon,0,0,0,,{\be1\3a&H30&\fscx110}{Huh?}
+Dialogue: 0,0:07:52.57,0:07:54.87,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}You shouldn't be with these people!
+Dialogue: 0,0:07:55.54,0:07:58.29,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Ruriko-san, you're mistaken!
+Dialogue: 0,0:07:58.29,0:08:02.59,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}I wasn't planning to stick my nose into the conflict between you and the Yakushiji family,
+Dialogue: 0,0:08:02.59,0:08:05.29,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}but Monami's...
+Dialogue: 0,0:08:05.29,0:08:08.05,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Have you ever considered Monami's feelings?
+Dialogue: 0,0:08:08.05,0:08:12.74,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Monami has a heart and is living to her fullest!
+Dialogue: 0,0:08:12.74,0:08:15.28,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}No matter what people say, she is a human being!
+Dialogue: 0,0:08:15.28,0:08:18.00,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Rather, you're the one who's lower than human.
+Dialogue: 0,0:08:18.00,0:08:23.52,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}You wouldn't hesitate to sacrifice a person's heart or life for your own objectives!
+Dialogue: 0,0:08:24.81,0:08:26.05,Yaku M,Mon,0,0,0,,{\be1\3a&H30&\fscx110}Izumida...
+Dialogue: 0,0:08:31.44,0:08:32.77,Yaku M,Non,0,0,0,,{\be1\3a&H30&\fscx110}Mistress.
+Dialogue: 0,0:08:34.71,0:08:37.85,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}You talk big when you need to, don't you?
+Dialogue: 0,0:08:38.38,0:08:39.66,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}I'm sorry.
+Dialogue: 0,0:08:39.66,0:08:41.18,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}I said more than I should have...
+Dialogue: 0,0:08:41.95,0:08:44.94,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}For your reward, I'll let you in on a little secret.
+Dialogue: 0,0:08:48.27,0:08:50.68,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}S-Something so outrageous?
+Dialogue: 0,0:08:50.68,0:08:52.49,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Oh, you think so too?
+Dialogue: 0,0:08:52.49,0:08:54.19,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Of course I do!
+Dialogue: 0,0:08:54.19,0:08:57.26,Yaku M,Rur,0,0,0,,{\be1\3a&H30&\fscx110}Have you finished bidding your farewells?
+Dialogue: 0,0:09:00.93,0:09:06.43,Yaku M,Rur,0,0,0,,{\be1\3a&H30&\fscx110}In that case, I'll make you take your exit.
+Dialogue: 0,0:09:09.63,0:09:12.74,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}It might be you who makes an exit.
+Dialogue: 0,0:09:21.23,0:09:22.41,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Looks like it's here.
+Dialogue: 0,0:09:43.80,0:09:44.89,Yaku M,Leu,0,0,0,,{\be1\3a&H30&\fscx110}Direct hit!
+Dialogue: 0,0:10:03.90,0:10:06.37,Yaku M,Man,0,0,0,,{\be1\3a&H30&\fscx110}Run away!
+Dialogue: 0,0:10:06.77,0:10:11.04,Yaku M,Rur,0,0,0,,{\be1\3a&H30&\fscx110}Your unpredictability leaves me speechless.
+Dialogue: 0,0:10:12.74,0:10:14.06,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}You're still talking.
+Dialogue: 0,0:10:20.05,0:10:20.71,Yaku M,Non,0,0,0,,{\be1\3a&H30&\fscx110}To the truck.
+Dialogue: 0,0:10:22.65,0:10:23.63,Yaku M,Mon,0,0,0,,{\be1\3a&H30&\fscx110}Izumida.
+Dialogue: 0,0:10:25.92,0:10:28.37,Yaku M,Guy,0,0,0,,{\be1\3a&H30&\fscx110}Nonagase, I'm going.
+Dialogue: 0,0:10:28.37,0:10:30.31,Yaku M,Guy,0,0,0,,{\be1\3a&H30&\fscx110}I don't want to be crushed.
+Dialogue: 0,0:10:35.50,0:10:36.86,Yaku M,Non,0,0,0,,{\be1\3a&H30&\fscx110}Geez.
+Dialogue: 0,0:10:45.55,0:10:47.32,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}I've decided that...
+Dialogue: 0,0:10:47.32,0:10:51.81,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}I'll crush the Shiba that you reign over as Queen.
+Dialogue: 0,0:10:54.67,0:10:57.80,Yaku M,Rur,0,0,0,,{\be1\3a&H30&\fscx110}Aren't you scared of dying?
+Dialogue: 0,0:10:58.19,0:11:00.01,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Winning is more important.
+Dialogue: 0,0:11:07.79,0:11:09.44,Yaku M,Yuk,0,0,0,,{\be1\3a&H30&\fscx110}It's not over yet!
+Dialogue: 0,0:11:09.44,0:11:11.11,Yaku M,Kis,0,0,0,,{\be1\3a&H30&\fscx110}She's amazing.
+Dialogue: 0,0:11:11.11,0:11:13.03,Yaku M,Kis,0,0,0,,{\be1\3a&H30&\fscx110}She's starting to look like Oryo-sama.
+Dialogue: 0,0:11:13.03,0:11:17.51,Yaku M,Mar,0,0,0,,{\be1\3a&H30&\fscx110}She probably lost sight of herself due to the extreme tension.
+Dialogue: 0,0:11:35.90,0:11:37.72,Yaku M,Mar,0,0,0,,{\be1\3a&H30&\fscx110}The attack stopped?
+Dialogue: 0,0:11:37.72,0:11:39.26,Yaku M,Kis,0,0,0,,{\be1\3a&H30&\fscx110}Seems so.
+Dialogue: 0,0:11:52.51,0:11:56.76,Yaku M,Yuk,0,0,0,,{\be1\3a&H30&\fscx110}Foolish humans, bow before me!
+Dialogue: 0,0:12:04.58,0:12:06.26,Yaku M,Ppl,0,0,0,,{\be1\3a&H30&\fscx110}Superintendent!
+Dialogue: 0,0:12:23.39,0:12:25.64,Yaku M,Mon,0,0,0,,{\be1\3a&H30&\fscx110}Wh-What happened to Izumida?
+Dialogue: 0,0:12:32.19,0:12:33.06,Yaku M,Mon,0,0,0,,{\be1\3a&H30&\fscx110}Izumida!
+Dialogue: 0,0:12:33.77,0:12:38.28,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}He laid on top of you to cover you.
+Dialogue: 0,0:12:38.28,0:12:40.91,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}He probably tried to protect you.
+Dialogue: 0,0:12:45.57,0:12:48.65,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Are you interested in teaming up with me?
+Dialogue: 0,0:12:49.51,0:12:50.29,Yaku M,Mon,0,0,0,,{\be1\3a&H30&\fscx110}What?
+Dialogue: 0,0:12:50.67,0:12:55.61,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}JACES is the only thing you can get your hands on, even if you go with Ruriko, right?
+Dialogue: 0,0:12:55.61,0:12:59.25,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}But if we work together, we can rule this country...
+Dialogue: 0,0:12:59.25,0:13:02.80,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}No, the whole world.
+Dialogue: 0,0:13:03.29,0:13:05.28,Yaku M,Mon,0,0,0,,{\be1\3a&H30&\fscx110}Are you serious?
+Dialogue: 0,0:13:05.28,0:13:07.09,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}I always am.
+Dialogue: 0,0:13:08.02,0:13:13.59,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}If there are two Yakushiji Ryokos, nothing's impossible.
+Dialogue: 0,0:13:13.59,0:13:15.86,Yaku M,Mon,0,0,0,,{\be1\3a&H30&\fscx110}Two Yakushiji Ryokos?
+Dialogue: 0,0:13:17.68,0:13:19.07,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}You are me.
+Dialogue: 0,0:13:19.45,0:13:21.11,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}And I am you.
+Dialogue: 0,0:13:21.55,0:13:24.85,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}From our face to the way we think, we're exactly the same.
+Dialogue: 0,0:13:24.85,0:13:27.90,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}And our taste in men too.
+Dialogue: 0,0:13:29.37,0:13:31.74,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}But there's one thing different.
+Dialogue: 0,0:13:33.31,0:13:38.66,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}If I were you, I would have defeated my hateful rival in love, without the help of anyone.
+Dialogue: 0,0:13:41.25,0:13:43.75,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Come to my place, Monami.
+Dialogue: 0,0:13:43.75,0:13:47.72,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}And go after my life diligently.
+Dialogue: 0,0:13:48.15,0:13:52.18,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Don't you think a life like that would be thrilling and fun?
+Dialogue: 0,0:13:57.15,0:13:59.69,Yaku M,Mon,0,0,0,,{\be1\3a&H30&\fscx110}M-Mistress.
+Dialogue: 0,0:14:05.15,0:14:06.15,Yaku M,Mon,0,0,0,,{\be1\3a&H30&\fscx110}Izumida!
+Dialogue: 0,0:14:08.69,0:14:09.14,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Hey.
+Dialogue: 0,0:14:09.99,0:14:11.06,Yaku M,Mon,0,0,0,,{\be1\3a&H30&\fscx110}Are you all right?
+Dialogue: 0,0:14:11.57,0:14:13.41,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Yes, I'm fine.
+Dialogue: 0,0:14:14.03,0:14:15.30,Yaku M,Mon,0,0,0,,{\be1\3a&H30&\fscx110}I'm glad.
+Dialogue: 0,0:14:25.64,0:14:26.60,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Run!
+Dialogue: 0,0:14:40.69,0:14:41.77,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Are you okay?
+Dialogue: 0,0:14:41.77,0:14:43.26,Yaku M,Mon,0,0,0,,{\be1\3a&H30&\fscx110}Yes I am, Mistress.
+Dialogue: 0,0:14:44.26,0:14:46.69,Yaku M,Rur,0,0,0,,{\be1\3a&H30&\fscx110}It's not over yet.
+Dialogue: 0,0:14:54.19,0:14:55.12,Yaku M,Mon,0,0,0,,{\be1\3a&H30&\fscx110}Don't!
+Dialogue: 0,0:14:56.41,0:14:57.60,Yaku M,Rur,0,0,0,,{\be1\3a&H30&\fscx110}Ryoko-san...
+Dialogue: 0,0:14:57.60,0:15:01.13,Yaku M,Rur,0,0,0,,{\be1\3a&H30&\fscx110}Your existence is unforgivable.
+Dialogue: 0,0:15:01.33,0:15:04.00,Yaku M,Non,0,0,0,,{\be1\3a&H30&\fscx110}Izumida-san, please don't hate me.
+Dialogue: 0,0:15:05.85,0:15:08.42,Yaku M,Non,0,0,0,,{\be1\3a&H30&\fscx110}I enjoyed talking to you.
+Dialogue: 0,0:15:16.92,0:15:18.06,Yaku M,Non,0,0,0,,{\be1\3a&H30&\fscx110}Hold on there.
+Dialogue: 0,0:15:20.51,0:15:21.19,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Izumida-kun!
+Dialogue: 0,0:15:28.56,0:15:29.53,Yaku M,Non,0,0,0,,{\be1\3a&H30&\fscx110}What?
+Dialogue: 0,0:15:35.17,0:15:36.95,Yaku M,Non,0,0,0,,{\be1\3a&H30&\fscx110}What's this?
+Dialogue: 0,0:15:42.86,0:15:45.08,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Superintendent, that's...
+Dialogue: 0,0:15:47.78,0:15:48.71,Yaku M,Mon,0,0,0,,{\be1\3a&H30&\fscx110}Show me.
+Dialogue: 0,0:15:50.51,0:15:51.59,Yaku M,Mon,0,0,0,,{\be1\3a&H30&\fscx110}I want to see.
+Dialogue: 0,0:16:05.15,0:16:06.57,Yaku M,Non,0,0,0,,{\be1\3a&H30&\fscx110}Th-This is...?
+Dialogue: 0,0:16:09.99,0:16:11.99,Yaku M,Non,0,0,0,,{\be1\3a&H30&\fscx110}N-No!
+Dialogue: 0,0:16:17.90,0:16:18.47,Yaku M,Non,0,0,0,,{\be1\3a&H30&\fscx110}N-No!
+Dialogue: 0,0:16:19.35,0:16:22.36,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Created one and creator,
+Dialogue: 0,0:16:22.36,0:16:23.96,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}if one does not seek to melt,
+Dialogue: 0,0:16:23.96,0:16:26.64,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}keep the secret.
+Dialogue: 0,0:16:26.64,0:16:27.81,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}What is...?
+Dialogue: 0,0:16:27.81,0:16:30.97,Yaku Note,Note,0,0,0,,{\be1\3a&H30&\fscx110}[Note: Senjuushou is a collection of fairy tales and legends that is attributed to Saigyou Houshi.]
+Dialogue: 0,0:16:27.81,0:16:30.97,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}A verse from the Senjuushou written by Saigyou Houshi.
+Dialogue: 0,0:16:31.55,0:16:37.10,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Saigyou Houshi made a mistake when he tested the secret arts of Hangon.
+Dialogue: 0,0:16:37.10,0:16:40.21,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}It was because he burned a certain kind of incense that wasn't supposed to be burnt.
+Dialogue: 0,0:16:40.21,0:16:41.77,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Then, is that perfume...?
+Dialogue: 0,0:16:42.44,0:16:48.76,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}I had the JACES laboratory in Paris make it with the ingredient extracted from the aromatic tree as its base.
+Dialogue: 0,0:16:52.58,0:16:56.89,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}But to think that Nonagase Kazuma was also created with the Hangon technique...
+Dialogue: 0,0:16:56.89,0:17:00.33,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Yes, he probably didn't know it either.
+Dialogue: 0,0:17:10.77,0:17:12.29,Yaku M,Rur,0,0,0,,{\be1\3a&H30&\fscx110}Ryoko-san.
+Dialogue: 0,0:17:12.29,0:17:13.54,Yaku M,Rur,0,0,0,,{\be1\3a&H30&\fscx110}Ryoko-san.
+Dialogue: 0,0:17:13.54,0:17:17.18,Yaku M,Rur,0,0,0,,{\be1\3a&H30&\fscx110}Play with me again someday.
+Dialogue: 0,0:17:29.84,0:17:32.03,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Who created Isurugi Ruriko?
+Dialogue: 0,0:17:32.03,0:17:35.07,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Most likely the real Ruriko.
+Dialogue: 0,0:17:35.68,0:17:37.79,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Whether the original is alive or dead is unknown.
+Dialogue: 0,0:17:37.79,0:17:42.03,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}But even created people have the ability to use the secret arts of Hangon.
+Dialogue: 0,0:17:42.53,0:17:48.66,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Ruriko, created from the original, applied the same method to create more copies of herself.
+Dialogue: 0,0:17:48.66,0:17:50.29,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}That's how it is.
+Dialogue: 0,0:17:56.34,0:17:58.25,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}This isn't over yet.
+Dialogue: 0,0:17:58.25,0:18:02.52,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}I'm sure a different Ruriko will come before us.
+Dialogue: 0,0:18:02.90,0:18:08.49,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Which means the fight between the Yakushiji family and Isurugi Ruriko will continue?
+Dialogue: 0,0:18:09.97,0:18:13.69,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}I would think so.
+Dialogue: 0,0:18:19.86,0:18:24.58,Yaku T,Jun,0,0,0,,{\be1\3a&H30&\fscx110}For some reason, in the face of a supernatural existence that threatens the Yakushiji family,
+Dialogue: 0,0:18:24.58,0:18:27.12,Yaku T,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Yakushiji Ryoko looked like she was enjoying herself.
+Dialogue: 0,0:18:39.97,0:18:45.93,Yaku T,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Yakushiji Ryoko's violence was reported as an unfortunate accident during the practice.
+Dialogue: 0,0:18:45.93,0:18:51.40,Yaku T,Jun,0,0,0,,{\be1\3a&H30&\fscx110}I'm sure my boss, who has a talent for deception, did the spadework behind the scenes.
+Dialogue: 0,0:19:03.31,0:19:05.08,Yaku M,Guy,0,0,0,,{\be1\3a&H30&\fscx110}Holy night.
+Dialogue: 0,0:19:05.08,0:19:08.25,Yaku M,Guy,0,0,0,,{\be1\3a&H30&\fscx110}It is the calm before a storm.
+Dialogue: 0,0:19:10.31,0:19:14.52,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Various rumors have been mentioned in the media: that I am resigning from duty,
+Dialogue: 0,0:19:14.52,0:19:19.32,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}or that I will officially assume the office of president of JACES,
+Dialogue: 0,0:19:19.32,0:19:22.11,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}or that I am getting engaged.
+Dialogue: 0,0:19:23.34,0:19:26.72,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}None of it is true.
+Dialogue: 0,0:19:27.37,0:19:30.69,Yaku M,Man,0,0,0,,{\be1\3a&H30&\fscx110}What?  That's different from what I heard.
+Dialogue: 0,0:19:30.69,0:19:32.88,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}I intend to continue my job with the same sincere heart...
+Dialogue: 0,0:19:32.88,0:19:38.65,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}No, with an even more sincere heart.
+Dialogue: 0,0:19:39.43,0:19:41.38,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Media personnel who have gathered here,
+Dialogue: 0,0:19:41.38,0:19:43.12,Yaku M,,0,0,0,,{\be1\3a&H30&\fscx110}This is terrible!
+Dialogue: 0,0:19:43.48,0:19:46.31,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}the bosses I love and respect,
+Dialogue: 0,0:19:46.94,0:19:57.33,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}and the citizens of Japan, please give me warm, yet strict guidance.
+Dialogue: 0,0:19:59.51,0:20:05.60,Yaku M,Kin,0,0,0,,{\be1\3a&H30&\fscx110}Ryoko-chan, you're really good at lying.
+Dialogue: 0,0:20:05.60,0:20:07.53,Yaku M,Mon,0,0,0,,{\be1\3a&H30&\fscx110}I'm ready.
+Dialogue: 0,0:20:07.53,0:20:08.53,Yaku M,Kin,0,0,0,,{\be1\3a&H30&\fscx110}Oh my.
+Dialogue: 0,0:20:10.88,0:20:12.63,Yaku M,Kin,0,0,0,,{\be1\3a&H30&\fscx110}It looks wonderful on you.
+Dialogue: 0,0:20:30.14,0:20:33.28,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Izumida-kun, hurry up and apply the suntan lotion.
+Dialogue: 0,0:20:35.07,0:20:38.65,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}I came with you since I was told that we have work.
+Dialogue: 0,0:20:38.65,0:20:40.49,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Of course we do.
+Dialogue: 0,0:20:40.49,0:20:41.80,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}What kind of work?
+Dialogue: 0,0:20:42.49,0:20:46.20,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}To dig up the people who bashed me.
+Dialogue: 0,0:20:46.20,0:20:49.09,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}We need to clean them up after the New Year arrives...
+Dialogue: 0,0:20:49.09,0:20:50.89,Yaku M,Mon,0,0,0,,{\be1\3a&H30&\fscx110}Izumida, let's swim.
+Dialogue: 0,0:20:50.89,0:20:53.39,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}N-No, I'll decline the offer.
+Dialogue: 0,0:20:53.81,0:20:54.68,Yaku M,Leu,0,0,0,,{\be1\3a&H30&\fscx110}Let's swim!
+Dialogue: 0,0:20:54.68,0:20:55.43,Yaku M,Mar,0,0,0,,{\be1\3a&H30&\fscx110}Let's go!
+Dialogue: 0,0:20:55.43,0:20:56.70,Yaku M,Mon,0,0,0,,{\be1\3a&H30&\fscx110}Come on.
+Dialogue: 0,0:20:56.70,0:20:58.40,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}I can't.
+Dialogue: 0,0:20:58.84,0:21:02.67,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}She just gave me some work.
+Dialogue: 0,0:21:03.91,0:21:05.10,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}What are you doing?
+Dialogue: 0,0:21:05.10,0:21:06.44,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Come on, take it off!
+Dialogue: 0,0:21:06.44,0:21:07.74,Yaku M,Mon,0,0,0,,{\be1\3a&H30&\fscx110}Get changed.  Get changed.
+Dialogue: 0,0:21:06.90,0:21:09.10,Yaku 2on,Jun,0,0,0,,{\be1\3a&H30&\fscx110}H-Hey, wait!
+Dialogue: 0,0:21:09.10,0:21:11.39,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110\fad(0,1030)}H-Help me!
+Dialogue: 0,0:22:35.29,0:22:36.41,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}What?
+Dialogue: 0,0:22:45.55,0:22:47.52,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}What are you doing, Izumida-kun?
+Dialogue: 0,0:22:49.21,0:22:51.82,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}I-I'm sorry, Superintendent.
+Dialogue: 0,0:22:53.65,0:22:55.88,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}You must stay close by.
+Dialogue: 0,0:22:55.88,0:22:57.22,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}I'm sorry.
+Dialogue: 0,0:22:57.22,0:22:58.46,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}That's not it.
+Dialogue: 0,0:22:58.46,0:23:00.51,Yaku M,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Yes, I'll accompany you.
+Dialogue: 0,0:23:01.35,0:23:02.07,Yaku M,Ryo,0,0,0,,{\be1\3a&H30&\fscx110}Well done.
+Dialogue: 0,0:23:14.16,0:23:16.02,Yaku T,Jun,0,0,0,,{\be1\3a&H30&\fscx110}My name is Izumida Jun'ichirou.
+Dialogue: 0,0:23:16.02,0:23:17.29,Yaku T,Jun,0,0,0,,{\be1\3a&H30&\fscx110}Thirty-three years old.
+Dialogue: 0,0:23:18.24,0:23:20.58,Yaku T,Jun,0,0,0,,{\be1\3a&H30&\fscx110}I am Yakushiji Ryoko's...
+Dialogue: 0,0:23:25.89,0:23:28.03,Yaku M,,0,0,0,,{\be1\3a&H30&\fscx110}You've heard about it, haven't you?
+Dialogue: 0,0:23:28.03,0:23:30.47,Yaku M,,0,0,0,,{\be1\3a&H30&\fscx110}About corpses that still move, even after they die,
+Dialogue: 0,0:23:30.47,0:23:33.18,Yaku M,,0,0,0,,{\be1\3a&H30&\fscx110}that execrate the living.
+Dialogue: 0,0:23:33.54,0:23:37.64,Yaku M,,0,0,0,,{\be1\3a&H30&\fscx110}This is what you call the killers who hunt the immortal corpses:
+Dialogue: 0,0:23:38.12,0:23:39.65,Yaku M,,0,0,0,,{\be1\3a&H30&\fscx110}Shikabane Hime.
