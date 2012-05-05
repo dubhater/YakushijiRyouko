@@ -7,219 +7,218 @@ ScaledBorderAndShadow: yes
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
-Style: Default,Arial,20,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,100,100,0,0,1,2,2,2,10,10,10,0
-Style: Yaku M,Headache,33,&H00F7F0E9,&H0065380B,&H00524D48,&H00000000,-1,0,0,0,100,100,0,0,1,2,0.5,2,10,10,10,0
-Style: Yaku T,Headache,33,&H00F9EEE3,&H0065380B,&H00524D48,&H00000000,-1,-1,0,0,100,100,0,0,1,2,0.5,2,10,10,10,0
-Style: Yaku 2on,Headache,33,&H00BEBEBE,&H0065380B,&H00524D48,&H00000000,-1,0,0,0,100,100,0,0,1,2,0.5,2,10,10,10,0
-Style: Yaku Note,Franklin Gothic Demi Cond,32,&H00F7F0E9,&H0065380B,&H0065380B,&H00000000,0,0,0,0,100,100,0,0,1,2,0.5,8,10,10,10,0
+Style: Ryōko main,Fansub,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,83,100,0,0,1,3,0,2,100,100,40,0
+Style: Ryōko italic,Fansub,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,83,100,0,0,1,3,0,2,100,100,40,0
+Style: Ryōko overlap,Fansub,32,&H00FFCCCC,&H000000FF,&H00000000,&H00000000,0,0,0,0,83,100,0,0,1,3,0,2,100,100,40,0
+Style: Ryōko tl notes,Fansub,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,83,100,0,0,1,3,0,8,100,100,40,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 
-Dialogue: 0,0:01:43.70,0:01:46.90,Yaku M,Rur,0,0,0,,Monami is my trump card.
-Dialogue: 0,0:01:46.90,0:01:52.14,Yaku M,Rur,0,0,0,,She will eventually become the next president of JACES, as Yakushiji Ryoko.
-Dialogue: 0,0:01:52.85,0:01:54.26,Yaku M,Mon,0,0,0,,Ruriko-san?
-Dialogue: 0,0:01:55.37,0:01:58.47,Yaku M,Ryo,0,0,0,,In that case, what'll happen to me?
-Dialogue: 0,0:01:59.40,0:02:01.72,Yaku M,Rur,0,0,0,,I will make you disappear, of course.
-Dialogue: 0,0:02:01.72,0:02:02.97,Yaku M,Jun,0,0,0,,Superintendent!
-Dialogue: 0,0:02:05.87,0:02:06.77,Yaku M,Mon,0,0,0,,Izumida!
-Dialogue: 0,0:02:09.38,0:02:11.00,Yaku M,Ryo,0,0,0,,Izumida-kun, behind you!
-Dialogue: 0,0:02:38.11,0:02:41.37,Yaku M,Rur,0,0,0,,That's your friend.
-Dialogue: 0,0:02:44.16,0:02:45.43,Yaku M,Mon,0,0,0,,What do you mean?
-Dialogue: 0,0:02:45.43,0:02:46.93,Yaku M,Ryo,0,0,0,,Monami, don't listen to what she says!
-Dialogue: 0,0:02:47.80,0:02:50.77,Yaku M,Rur,0,0,0,,The first time, I made you in France.
-Dialogue: 0,0:02:51.90,0:02:55.07,Yaku M,Rur,0,0,0,,However, she was mentally dysfunctional and...
-Dialogue: 0,0:02:57.26,0:03:03.62,Yaku M,Rur,0,0,0,,The second time, we failed to splice the DNA, and you can see the result in its expression.
-Dialogue: 0,0:03:08.37,0:03:11.17,Yaku M,Rur,0,0,0,,And the one who finally succeeded is...
-Dialogue: 0,0:03:13.46,0:03:16.96,Yaku M,Rur,0,0,0,,You are a living doll that I've created.
-Dialogue: 0,0:03:20.14,0:03:22.64,Yaku M,Rur,0,0,0,,You are not human.
-Dialogue: 0,0:03:24.97,0:03:27.26,Yaku M,Mon,0,0,0,,No... can't be...
-Dialogue: 0,0:03:28.49,0:03:30.56,Yaku M,Mon,0,0,0,,That's a lie!
-Dialogue: 0,0:03:51.96,0:03:52.67,Yaku M,Mon,0,0,0,,No!
-Dialogue: 0,0:04:01.43,0:04:02.46,Yaku M,Jun,0,0,0,,Monami-chan!
-Dialogue: 0,0:04:15.93,0:04:18.48,Yaku M,Ryo,0,0,0,,Ruriko, you're despicable!
-Dialogue: 0,0:04:28.15,0:04:29.61,Yaku M,Ryo,0,0,0,,Izumida-kun!
-Dialogue: 0,0:04:44.20,0:04:45.59,Yaku M,Jun,0,0,0,,Superintendent!
-Dialogue: 0,0:04:51.60,0:04:56.81,Yaku M,Rur,0,0,0,,Monami, you wanted to know Izumida-san's true feelings, didn't you?
-Dialogue: 0,0:05:18.75,0:05:20.19,Yaku M,Ryo,0,0,0,,Izumida-kun!
-Dialogue: 0,0:05:22.83,0:05:26.19,Yaku M,Rur,0,0,0,,He used himself as a shield to protect Ryoko-san.
-Dialogue: 0,0:05:26.79,0:05:29.58,Yaku M,Rur,0,0,0,,You know what this means, right?
-Dialogue: 0,0:05:30.80,0:05:34.98,Yaku M,Rur,0,0,0,,Even if the two of you share the same face and the same genes,
-Dialogue: 0,0:05:34.98,0:05:38.24,Yaku M,Rur,0,0,0,,in the end, you're just a living doll.
-Dialogue: 0,0:05:38.24,0:05:42.57,Yaku M,Rur,0,0,0,,I wonder whom Izumida-san will choose... you or Ryoko-san?
-Dialogue: 0,0:05:49.57,0:05:53.54,Yaku M,Rur,0,0,0,,You will kill Ryoko-san and become Yakushiji Ryoko.
-Dialogue: 0,0:06:02.52,0:06:04.71,Yaku M,Rur,0,0,0,,That is your only option.
-Dialogue: 0,0:06:05.45,0:06:07.21,Yaku M,Jun,0,0,0,,Superintendent, are you hurt?
-Dialogue: 0,0:06:07.21,0:06:08.30,Yaku M,Ryo,0,0,0,,Don't talk!
-Dialogue: 0,0:06:08.30,0:06:09.68,Yaku M,Jun,0,0,0,,I see you're fine.
-Dialogue: 0,0:06:12.31,0:06:14.14,Yaku M,Jun,0,0,0,,I'm glad.
-Dialogue: 0,0:06:15.85,0:06:16.90,Yaku M,Rur,0,0,0,,Now go on.
-Dialogue: 0,0:06:37.19,0:06:39.04,Yaku M,Sat,0,0,0,,Superintendent!
-Dialogue: 0,0:06:41.78,0:06:44.49,Yaku M,Abe,0,0,0,,Are you two all right?
-Dialogue: 0,0:06:44.49,0:06:47.22,Yaku M,Sat,0,0,0,,Oh no, Izumida-san's injured!
-Dialogue: 0,0:06:47.22,0:06:48.88,Yaku M,Mar,0,0,0,,Oh my goodness.
-Dialogue: 0,0:06:50.69,0:06:51.83,Yaku M,Rur,0,0,0,,Let's go.
-Dialogue: 0,0:06:53.42,0:06:55.83,Yaku M,Sat,0,0,0,,Oh no, it's really stuck in him!
-Dialogue: 0,0:06:55.83,0:06:57.68,Yaku M,Mar,0,0,0,,Abe-kun, carry him for now.
-Dialogue: 0,0:06:57.68,0:06:58.07,Yaku M,Abe,0,0,0,,Yes.
-Dialogue: 0,0:06:58.07,0:07:00.39,Yaku M,Sat,0,0,0,,Izumida-san, this is bad!
-Dialogue: 0,0:07:00.39,0:07:02.90,Yaku M,Ryo,0,0,0,,She can be useful.
-Dialogue: 0,0:07:04.20,0:07:10.01,Yaku T,Jun,0,0,0,,{\t(3853,5479,\alpha&HFF&}As my consciousness faded away, I'm sure I saw Yakushiji Ryoko smile.
-Dialogue: 0,0:07:10.01,0:07:13.91,Yaku T,Jun,0,0,0,,Why did she make that expression?
-Dialogue: 0,0:07:21.93,0:07:23.45,Yaku M,Kin,0,0,0,,How is he?
-Dialogue: 0,0:07:23.45,0:07:25.59,Yaku M,Ryo,0,0,0,,The doctor has prescribed bed rest for him.
-Dialogue: 0,0:07:26.65,0:07:28.94,Yaku M,Kin,0,0,0,,You surprised me that night.
-Dialogue: 0,0:07:28.94,0:07:33.51,Yaku M,Kin,0,0,0,,You suddenly appeared and told me to call a doctor.
-Dialogue: 0,0:07:34.12,0:07:38.73,Yaku M,Ryo,0,0,0,,I just had the emergency treatments done at the hospital and then headed straight here.
-Dialogue: 0,0:07:39.40,0:07:41.20,Yaku M,Ryo,0,0,0,,We're up against {\i1}that{\i0}  woman.
-Dialogue: 0,0:07:41.20,0:07:44.43,Yaku M,Ryo,0,0,0,,We can't hospitalize him in some random hospital.
-Dialogue: 0,0:07:45.04,0:07:52.84,Yaku M,Kin,0,0,0,,But still, preparing a second Ryoko-chan and switching her with the real one to take over JACES...
-Dialogue: 0,0:07:52.84,0:07:56.24,Yaku M,Kin,0,0,0,,Ruriko-san sure did come up with something dreadful.
-Dialogue: 0,0:07:57.95,0:08:05.64,Yaku M,Kin,0,0,0,,If I had two young tomboys like you as sisters, Ryoko-chan, I'm sure I would have had a hard time.
-Dialogue: 0,0:08:07.54,0:08:09.71,Yaku M,Ryo,0,0,0,,That's not the problem.
-Dialogue: 0,0:08:13.65,0:08:18.64,Yaku M,Man,0,0,0,,All the facilities related to JACES in the prefecture are within anti-terrorist practice areas.
-Dialogue: 0,0:08:19.04,0:08:24.19,Yaku M,Guy,0,0,0,,We plan to deploy an elite unit of 150 men from NPP on the day of the practice.
-Dialogue: 0,0:08:24.19,0:08:30.19,Yaku M,Man,0,0,0,,It should be easy to suppress JACES's facilities if NPP and SDF work together.
-Dialogue: 0,0:08:31.03,0:08:35.16,Yaku M,Non,0,0,0,,I'll eventually dispose of these four who are related to Yakushiji Ryoko too.
-Dialogue: 0,0:08:35.16,0:08:42.92,Yaku M,Rur,0,0,0,,Once Ryoko-san dies, we'll apply growth treatment to Monami and get her to take over JACES's management.
-Dialogue: 0,0:08:42.92,0:08:49.63,Yaku M,Rur,0,0,0,,And as originally planned, I will have you enter the Yakushiji family as Monami's husband.
-Dialogue: 0,0:08:49.63,0:08:51.58,Yaku M,Non,0,0,0,,I understand.
-Dialogue: 0,0:08:53.80,0:09:01.35,Yaku T,Non,0,0,0,,Mistress Monami, like Yakushiji Ryoko, had the ability to summon things not from this world.
-Dialogue: 0,0:09:02.18,0:09:05.35,Yaku T,Non,0,0,0,,That's God's power.
-Dialogue: 0,0:09:06.52,0:09:13.30,Yaku T,Non,0,0,0,,By marrying Mistress Monami, I can get my hands on the power I...
-Dialogue: 0,0:09:13.30,0:09:14.68,Yaku T,Non,0,0,0,,I long for!
-Dialogue: 0,0:09:18.28,0:09:19.78,Yaku M,Mon,0,0,0,,Izumida.
-Dialogue: 0,0:09:24.74,0:09:27.58,Yaku M,Ryo,0,0,0,,Well, I'm going now, Izumida-kun.
-Dialogue: 0,0:09:37.97,0:09:41.21,Yaku M,Ryo,0,0,0,,I'm about to go to war and risk my life,
-Dialogue: 0,0:09:41.21,0:09:43.22,Yaku M,Ryo,0,0,0,,so why are you asleep now?
-Dialogue: 0,0:09:44.26,0:09:46.69,Yaku M,Ryo,0,0,0,,You fail as a subordinate.
-Dialogue: 0,0:09:47.45,0:09:48.99,Yaku M,Ryo,0,0,0,,You must be punished.
-Dialogue: 0,0:09:55.38,0:09:59.12,Yaku M,Ryo,0,0,0,,On second thought, I'll punish you after I defeat Ruriko.
-Dialogue: 0,0:09:59.92,0:10:02.08,Yaku M,Ryo,0,0,0,,Wait here quietly.
-Dialogue: 0,0:10:12.88,0:10:15.76,Yaku M,Jac,0,0,0,,Well, it's normal that you'd be surprised.
-Dialogue: 0,0:10:15.76,0:10:20.22,Yaku M,Jac,0,0,0,,You were called and told up front that people are after your life.
-Dialogue: 0,0:10:20.86,0:10:23.26,Yaku M,Ryo,0,0,0,,Shiba will start its operations by going after your life.
-Dialogue: 0,0:10:23.26,0:10:25.40,Yaku M,Abe,0,0,0,,The Shiba government building?
-Dialogue: 0,0:10:25.40,0:10:27.00,Yaku M,Sat,0,0,0,,Why is that?
-Dialogue: 0,0:10:27.00,0:10:31.71,Yaku M,Ryo,0,0,0,,Because you three saw the Queen of Shiba, Isurugi Ruriko, in person.
-Dialogue: 0,0:10:32.78,0:10:35.23,Yaku M,Abe,0,0,0,,Things have turned out just as I feared they would.
-Dialogue: 0,0:10:35.23,0:10:40.37,Yaku M,Kis,0,0,0,,Oryo-sama, I don't have a clue as to what's going on.
-Dialogue: 0,0:10:40.37,0:10:42.75,Yaku M,Ryo,0,0,0,,Well, you've got nothing to do with this.
-Dialogue: 0,0:10:43.45,0:10:46.74,Yaku M,Ryo,0,0,0,,Actually, I don't remember calling you.
-Dialogue: 0,0:10:46.74,0:10:47.96,Yaku M,Ryo,0,0,0,,Why are you here?
-Dialogue: 0,0:10:49.04,0:10:53.33,Yaku M,Ryo,0,0,0,,But now that you've heard my story, I can't guarantee your safety.
-Dialogue: 0,0:10:53.33,0:10:54.57,Yaku M,Ryo,0,0,0,,Keep that in mind.
-Dialogue: 0,0:10:54.57,0:10:55.51,Yaku M,Kis,0,0,0,,What?!
-Dialogue: 0,0:10:55.51,0:10:57.15,Yaku M,Kis,0,0,0,,N-No way...
-Dialogue: 0,0:10:57.15,0:10:59.32,Yaku M,Jac,0,0,0,,Don't make shameful sounds like that.
-Dialogue: 0,0:10:59.32,0:11:05.18,Yaku M,Jac,0,0,0,,I'm a complete bystander, yet I'm prepared to lend a helping hand to Oryo-chan.
-Dialogue: 0,0:11:05.18,0:11:07.58,Yaku M,Kis,0,0,0,,That has nothing to do with me!
-Dialogue: 0,0:11:07.58,0:11:10.04,Yaku M,Kis,0,0,0,,Oryo-sama, what exactly is going to happen to me...
-Dialogue: 0,0:11:09.38,0:11:11.06,Yaku 2on,Yuk,0,0,0,,I'm not convinced either.
-Dialogue: 0,0:11:12.79,0:11:16.35,Yaku M,Yuk,0,0,0,,Yes, I was investigating Shiba,
-Dialogue: 0,0:11:16.35,0:11:19.24,Yaku M,Yuk,0,0,0,,but it doesn't seem like they've noticed at all.
-Dialogue: 0,0:11:19.77,0:11:20.76,Yaku M,Yuk,0,0,0,,Why is that?
-Dialogue: 0,0:11:20.76,0:11:23.49,Yaku M,Ryo,0,0,0,,Oyuki, do you remember Nonagase-kun?
-Dialogue: 0,0:11:23.49,0:11:25.47,Yaku M,Yuk,0,0,0,,Nonagase-kun?
-Dialogue: 0,0:11:25.47,0:11:28.37,Yaku M,Yuk,0,0,0,,Oh, the man who drove us to Nerima the other day?
-Dialogue: 0,0:11:28.37,0:11:31.04,Yaku M,Ryo,0,0,0,,He was actually a spy.
-Dialogue: 0,0:11:31.04,0:11:31.83,Yaku M,Yuk,0,0,0,,What?!
-Dialogue: 0,0:11:31.83,0:11:38.01,Yaku M,Ryo,0,0,0,,I suspected he was, but you talked about Ruriko in front of him without knowing, remember?
-Dialogue: 0,0:11:38.01,0:11:39.80,Yaku M,Ryo,0,0,0,,That was a fatal mistake.
-Dialogue: 0,0:11:39.80,0:11:41.63,Yaku M,Yuk,0,0,0,,No way...
-Dialogue: 0,0:11:41.63,0:11:44.85,Yaku M,Yuk,0,0,0,,If he was suspicious, why didn't you tell me beforehand?
-Dialogue: 0,0:11:45.50,0:11:46.95,Yaku M,Ryo,0,0,0,,Isn't that obvious?
-Dialogue: 0,0:11:46.95,0:11:49.85,Yaku M,Ryo,0,0,0,,I kept quiet on purpose to drag you into this.
-Dialogue: 0,0:11:58.14,0:12:00.19,Yaku M,Ryo,0,0,0,,Come with me for a minute.
-Dialogue: 0,0:12:04.48,0:12:07.61,Yaku M,Ryo,0,0,0,,I've decided to crush Shiba.
-Dialogue: 0,0:12:07.61,0:12:08.62,Yaku M,Yuk,0,0,0,,Shiba?
-Dialogue: 0,0:12:08.62,0:12:12.98,Yaku M,Ryo,0,0,0,,Since we are alike, this will be a big job which will put my life at risk.
-Dialogue: 0,0:12:13.78,0:12:16.59,Yaku M,Ryo,0,0,0,,Although we already know that I'll win.
-Dialogue: 0,0:12:17.62,0:12:19.94,Yaku M,Yuk,0,0,0,,Are you going to fight alone?
-Dialogue: 0,0:12:19.94,0:12:20.72,Yaku M,Yuk,0,0,0,,Against Shiba.
-Dialogue: 0,0:12:21.20,0:12:22.64,Yaku M,Ryo,0,0,0,,I'm not alone.
-Dialogue: 0,0:12:22.64,0:12:24.00,Yaku M,Ryo,0,0,0,,There's another one.
-Dialogue: 0,0:12:24.61,0:12:29.43,Yaku M,Ryo,0,0,0,,An old lady who's always a nosy, stubborn Ms. Discipline.
-Dialogue: 0,0:12:32.39,0:12:35.40,Yaku M,Ryo,0,0,0,,Take care of everyone for me, Oyuki.
-Dialogue: 0,0:12:36.20,0:12:37.15,Yaku M,Yuk,0,0,0,,Oryo.
-Dialogue: 0,0:12:48.62,0:12:49.99,Yaku M,Ann,0,0,0,,You're Yakushiji Ryoko-san, right?
-Dialogue: 0,0:12:55.84,0:13:02.80,Yaku M,Rur,0,0,0,,Ryoko-san, you're famous now, so you can't move around freely like you once did.
-Dialogue: 0,0:13:03.69,0:13:05.55,Yaku M,Ryo,0,0,0,,Damn that Ruriko.
-Dialogue: 0,0:13:09.49,0:13:10.93,Yaku M,Ryo,0,0,0,,I'll be back.
-Dialogue: 0,0:13:18.61,0:13:20.17,Yaku M,Man,0,0,0,,Reporting from the Main Observatory.
-Dialogue: 0,0:13:20.17,0:13:22.48,Yaku M,Man,0,0,0,,We've completed the connection.
-Dialogue: 0,0:13:22.48,0:13:23.40,Yaku M,Guy,0,0,0,,All right.
-Dialogue: 0,0:13:23.40,0:13:27.49,Yaku M,Guy,0,0,0,,Then evacuate everyone in the tower and secure the front entrance.
-Dialogue: 0,0:13:27.49,0:13:28.65,Yaku M,Man,0,0,0,,Roger that.
-Dialogue: 0,0:13:30.30,0:13:32.41,Yaku M,Non,0,0,0,,We're not going to leave anyone at the scene?
-Dialogue: 0,0:13:33.53,0:13:37.96,Yaku M,Man,0,0,0,,If someone's nearby, it apparently causes the system to malfunction.
-Dialogue: 0,0:14:07.96,0:14:09.12,Yaku M,Non,0,0,0,,I've brought her.
-Dialogue: 0,0:14:11.32,0:14:17.33,Yaku M,Rur,0,0,0,,Monami, brand Ryoko-san's end into your memory.
-Dialogue: 0,0:14:35.35,0:14:36.12,Yaku M,Guy,0,0,0,,There she is!
-Dialogue: 0,0:14:36.12,0:14:37.62,Yaku M,Guy,0,0,0,,It's Yakushiji Ryoko!
-Dialogue: 0,0:14:46.28,0:14:47.32,Yaku M,Guy,0,0,0,,Stop!
-Dialogue: 0,0:15:04.63,0:15:06.71,Yaku M,Guy,0,0,0,,I heard gunfire over there!
-Dialogue: 0,0:15:09.12,0:15:10.19,Yaku M,Guy,0,0,0,,Which way?
-Dialogue: 0,0:15:18.49,0:15:19.98,Yaku M,Ryo,0,0,0,,Who's calling at a time like this?
-Dialogue: 0,0:15:21.33,0:15:24.40,Yaku M,Ryo,0,0,0,,Just when I was wondering which idiot it was, it was that one.
-Dialogue: 0,0:15:27.21,0:15:30.28,Yaku M,Kis,0,0,0,,Oryo-sama won't answer!
-Dialogue: 0,0:15:30.72,0:15:32.76,Yaku M,Jac,0,0,0,,What are you crying about?
-Dialogue: 0,0:15:32.76,0:15:34.03,Yaku M,Jac,0,0,0,,You're a cop, aren't you?
-Dialogue: 0,0:15:34.03,0:15:35.16,Yaku M,Jac,0,0,0,,Get a hold of yourself!
-Dialogue: 0,0:15:35.57,0:15:37.50,Yaku M,Kis,0,0,0,,So is everyone else!
-Dialogue: 0,0:15:37.97,0:15:41.83,Yaku M,Abe,0,0,0,,We should have left Tokyo right away!
-Dialogue: 0,0:15:41.83,0:15:46.13,Yaku M,Sat,0,0,0,,Even if you say that, everyone was busy with preparations.
-Dialogue: 0,0:15:52.47,0:15:53.64,Yaku M,Yuk,0,0,0,,Everyone, over here.
-Dialogue: 0,0:15:53.64,0:15:54.96,Yaku M,Yuk,0,0,0,,Hurry!
-Dialogue: 0,0:16:01.05,0:16:03.30,Yaku M,Rur,0,0,0,,As expected from Ryoko-san.
-Dialogue: 0,0:16:03.30,0:16:06.33,Yaku M,Rur,0,0,0,,She's fighting well by herself.
-Dialogue: 0,0:16:06.33,0:16:07.82,Yaku M,Man,0,0,0,,Request backup.
-Dialogue: 0,0:16:24.99,0:16:26.48,Yaku M,Man,0,0,0,,She fell into the river!
-Dialogue: 0,0:17:15.85,0:17:17.60,Yaku M,Lad,0,0,0,,We've lost track of Yakushiji Ryoko!
-Dialogue: 0,0:17:18.90,0:17:21.35,Yaku M,Rur,0,0,0,,She'll show herself again soon.
-Dialogue: 0,0:18:10.71,0:18:12.16,Yaku T,Ryo,0,0,0,,I wonder what...
-Dialogue: 0,0:18:13.28,0:18:14.70,Yaku T,Ryo,0,0,0,,...happened to Oyuki and the others...
-Dialogue: 0,0:18:22.10,0:18:23.18,Yaku M,Ryo,0,0,0,,These are...!
-Dialogue: 0,0:18:23.70,0:18:24.89,Yaku M,Ryo,0,0,0,,Izumida-kun!
-Dialogue: 0,0:18:32.44,0:18:33.27,Yaku M,Jun,0,0,0,,Hello?
-Dialogue: 0,0:18:33.27,0:18:34.09,Yaku M,Jun,0,0,0,,It's me.
-Dialogue: 0,0:18:35.32,0:18:37.55,Yaku M,Lad,0,0,0,,We've received reports from the Shirogane Takanawa Observatory.
-Dialogue: 0,0:18:37.55,0:18:40.21,Yaku M,Lad,0,0,0,,One civilian vehicle has entered the area.
-Dialogue: 0,0:18:40.21,0:18:41.51,Yaku M,Lad,0,0,0,,Requesting orders.
-Dialogue: 0,0:18:41.51,0:18:42.99,Yaku M,Mon,0,0,0,,Izumida.
-Dialogue: 0,0:18:43.92,0:18:45.77,Yaku M,Rur,0,0,0,,Follow that car.
-Dialogue: 0,0:20:05.42,0:20:07.68,Yaku M,Jun,0,0,0,,I'm glad you're fine, Superintendent.
-Dialogue: 0,0:20:08.14,0:20:10.57,Yaku M,Ryo,0,0,0,,Who do you think I am?
-Dialogue: 0,0:20:12.66,0:20:13.54,Yaku M,Jun,0,0,0,,Superintendent!
-Dialogue: 0,0:20:14.51,0:20:15.86,Yaku M,Ryo,0,0,0,,Just a little bit...
-Dialogue: 0,0:20:17.12,0:20:19.57,Yaku M,Ryo,0,0,0,,Let me rest just a little bit.
-Dialogue: 0,0:20:24.89,0:20:25.87,Yaku M,Jun,0,0,0,,Sure.
-Dialogue: 0,0:20:43.63,0:20:46.20,Yaku M,Non,0,0,0,,Yakushiji Ryoko's smiling.
-Dialogue: 0,0:20:46.20,0:20:49.94,Yaku M,Man,0,0,0,,Did that woman sign a contract with the Devil or something?
-Dialogue: 0,0:20:49.94,0:20:51.64,Yaku M,Man,0,0,0,,We've hurt her so much.
-Dialogue: 0,0:20:51.64,0:20:53.27,Yaku M,Man,0,0,0,,How can she still be smiling?
-Dialogue: 0,0:20:54.56,0:20:56.29,Yaku M,Mon,0,0,0,,I know...
-Dialogue: 0,0:20:56.85,0:20:59.23,Yaku M,Mon,0,0,0,,...why she is strong.
-Dialogue: 0,0:20:59.23,0:21:00.64,Yaku M,Mon,0,0,0,,The reason is...
-Dialogue: 0,0:21:02.03,0:21:03.07,Yaku M,Ryo,0,0,0,,What is it?
-Dialogue: 0,0:21:03.07,0:21:06.96,Yaku M,Jun,0,0,0,,I just thought that you're really strong.
-Dialogue: 0,0:21:06.96,0:21:08.84,Yaku M,Ryo,0,0,0,,Did you just notice?
-Dialogue: 0,0:21:08.84,0:21:14.00,Yaku M,Jun,0,0,0,,Even though you've fought alone the whole day, you still look like this.
-Dialogue: 0,0:21:14.00,0:21:16.08,Yaku M,Jun,0,0,0,,You're really amazing.
-Dialogue: 0,0:21:18.10,0:21:19.80,Yaku M,Ryo,0,0,0,,Notice me one of these days.
-Dialogue: 0,0:21:20.80,0:21:21.99,Yaku M,Jun,0,0,0,,Did you just say something?
-Dialogue: 0,0:21:30.73,0:21:32.28,Yaku M,Jun,0,0,0,,It's strange.
-Dialogue: 0,0:21:32.28,0:21:36.76,Yaku M,Jun,0,0,0,,When I'm with you, I get the feeling that a crisis of this level is nothing.
-Dialogue: 0,0:21:36.76,0:21:38.21,Yaku M,Ryo,0,0,0,,That's my...
-Dialogue: 0,0:21:45.87,0:21:47.18,Yaku M,Ryo,0,0,0,,It's nothing.
-Dialogue: 0,0:21:47.18,0:21:49.17,Yaku M,Ryo,0,0,0,,You're right.
-Dialogue: 0,0:21:49.17,0:21:52.59,Yaku M,Ryo,0,0,0,,I'll stop a tank with the wink of an eye.
-Dialogue: 0,0:23:15.60,0:23:16.89,Yaku M,Ryo,0,0,0,,I hear that they're going to construct a new
-Dialogue: 0,0:23:16.89,0:23:18.38,Yaku M,Ryo,0,0,0,,Tokyo Tower in the Sumida District.
-Dialogue: 0,0:23:18.38,0:23:21.67,Yaku M,Jun,0,0,0,,It's the Tokyo Sky Tree that's planned for completion in 2011.
-Dialogue: 0,0:23:21.67,0:23:22.78,Yaku M,Ryo,0,0,0,,I guess it's okay.
-Dialogue: 0,0:23:22.78,0:23:24.45,Yaku M,Jun,0,0,0,,Yakushiji Ryoko's Supernatural Case File,
-Dialogue: 0,0:23:24.45,0:23:25.29,Yaku M,Jun,0,0,0,,Final File:
-Dialogue: 0,0:23:25.29,0:23:27.54,Yaku M,Jun,0,0,0,,Tokyo.  Dead or Love.  Part 2.
-Dialogue: 0,0:23:27.54,0:23:28.35,Yaku M,Jun,0,0,0,,Please look forward to it.
-Dialogue: 0,0:23:28.35,0:23:29.22,Yaku M,Ryo,0,0,0,,What?  I...
+Dialogue: 0,0:01:43.70,0:01:46.90,Ryōko main,Rur,0,0,0,,Monami is my trump card.
+Dialogue: 0,0:01:46.90,0:01:52.14,Ryōko main,Rur,0,0,0,,She will eventually become the next president of JACES, as Yakushiji Ryoko.
+Dialogue: 0,0:01:52.85,0:01:54.26,Ryōko main,Mon,0,0,0,,Ruriko-san?
+Dialogue: 0,0:01:55.37,0:01:58.47,Ryōko main,Ryo,0,0,0,,In that case, what'll happen to me?
+Dialogue: 0,0:01:59.40,0:02:01.72,Ryōko main,Rur,0,0,0,,I will make you disappear, of course.
+Dialogue: 0,0:02:01.72,0:02:02.97,Ryōko main,Jun,0,0,0,,Superintendent!
+Dialogue: 0,0:02:05.87,0:02:06.77,Ryōko main,Mon,0,0,0,,Izumida!
+Dialogue: 0,0:02:09.38,0:02:11.00,Ryōko main,Ryo,0,0,0,,Izumida-kun, behind you!
+Dialogue: 0,0:02:38.11,0:02:41.37,Ryōko main,Rur,0,0,0,,That's your friend.
+Dialogue: 0,0:02:44.16,0:02:45.43,Ryōko main,Mon,0,0,0,,What do you mean?
+Dialogue: 0,0:02:45.43,0:02:46.93,Ryōko main,Ryo,0,0,0,,Monami, don't listen to what she says!
+Dialogue: 0,0:02:47.80,0:02:50.77,Ryōko main,Rur,0,0,0,,The first time, I made you in France.
+Dialogue: 0,0:02:51.90,0:02:55.07,Ryōko main,Rur,0,0,0,,However, she was mentally dysfunctional and...
+Dialogue: 0,0:02:57.26,0:03:03.62,Ryōko main,Rur,0,0,0,,The second time, we failed to splice the DNA, and you can see the result in its expression.
+Dialogue: 0,0:03:08.37,0:03:11.17,Ryōko main,Rur,0,0,0,,And the one who finally succeeded is...
+Dialogue: 0,0:03:13.46,0:03:16.96,Ryōko main,Rur,0,0,0,,You are a living doll that I've created.
+Dialogue: 0,0:03:20.14,0:03:22.64,Ryōko main,Rur,0,0,0,,You are not human.
+Dialogue: 0,0:03:24.97,0:03:27.26,Ryōko main,Mon,0,0,0,,No... can't be...
+Dialogue: 0,0:03:28.49,0:03:30.56,Ryōko main,Mon,0,0,0,,That's a lie!
+Dialogue: 0,0:03:51.96,0:03:52.67,Ryōko main,Mon,0,0,0,,No!
+Dialogue: 0,0:04:01.43,0:04:02.46,Ryōko main,Jun,0,0,0,,Monami-chan!
+Dialogue: 0,0:04:15.93,0:04:18.48,Ryōko main,Ryo,0,0,0,,Ruriko, you're despicable!
+Dialogue: 0,0:04:28.15,0:04:29.61,Ryōko main,Ryo,0,0,0,,Izumida-kun!
+Dialogue: 0,0:04:44.20,0:04:45.59,Ryōko main,Jun,0,0,0,,Superintendent!
+Dialogue: 0,0:04:51.60,0:04:56.81,Ryōko main,Rur,0,0,0,,Monami, you wanted to know Izumida-san's true feelings, didn't you?
+Dialogue: 0,0:05:18.75,0:05:20.19,Ryōko main,Ryo,0,0,0,,Izumida-kun!
+Dialogue: 0,0:05:22.83,0:05:26.19,Ryōko main,Rur,0,0,0,,He used himself as a shield to protect Ryoko-san.
+Dialogue: 0,0:05:26.79,0:05:29.58,Ryōko main,Rur,0,0,0,,You know what this means, right?
+Dialogue: 0,0:05:30.80,0:05:34.98,Ryōko main,Rur,0,0,0,,Even if the two of you share the same face and the same genes,
+Dialogue: 0,0:05:34.98,0:05:38.24,Ryōko main,Rur,0,0,0,,in the end, you're just a living doll.
+Dialogue: 0,0:05:38.24,0:05:42.57,Ryōko main,Rur,0,0,0,,I wonder whom Izumida-san will choose... you or Ryoko-san?
+Dialogue: 0,0:05:49.57,0:05:53.54,Ryōko main,Rur,0,0,0,,You will kill Ryoko-san and become Yakushiji Ryoko.
+Dialogue: 0,0:06:02.52,0:06:04.71,Ryōko main,Rur,0,0,0,,That is your only option.
+Dialogue: 0,0:06:05.45,0:06:07.21,Ryōko main,Jun,0,0,0,,Superintendent, are you hurt?
+Dialogue: 0,0:06:07.21,0:06:08.30,Ryōko main,Ryo,0,0,0,,Don't talk!
+Dialogue: 0,0:06:08.30,0:06:09.68,Ryōko main,Jun,0,0,0,,I see you're fine.
+Dialogue: 0,0:06:12.31,0:06:14.14,Ryōko main,Jun,0,0,0,,I'm glad.
+Dialogue: 0,0:06:15.85,0:06:16.90,Ryōko main,Rur,0,0,0,,Now go on.
+Dialogue: 0,0:06:37.19,0:06:39.04,Ryōko main,Sat,0,0,0,,Superintendent!
+Dialogue: 0,0:06:41.78,0:06:44.49,Ryōko main,Abe,0,0,0,,Are you two all right?
+Dialogue: 0,0:06:44.49,0:06:47.22,Ryōko main,Sat,0,0,0,,Oh no, Izumida-san's injured!
+Dialogue: 0,0:06:47.22,0:06:48.88,Ryōko main,Mar,0,0,0,,Oh my goodness.
+Dialogue: 0,0:06:50.69,0:06:51.83,Ryōko main,Rur,0,0,0,,Let's go.
+Dialogue: 0,0:06:53.42,0:06:55.83,Ryōko main,Sat,0,0,0,,Oh no, it's really stuck in him!
+Dialogue: 0,0:06:55.83,0:06:57.68,Ryōko main,Mar,0,0,0,,Abe-kun, carry him for now.
+Dialogue: 0,0:06:57.68,0:06:58.07,Ryōko main,Abe,0,0,0,,Yes.
+Dialogue: 0,0:06:58.07,0:07:00.39,Ryōko main,Sat,0,0,0,,Izumida-san, this is bad!
+Dialogue: 0,0:07:00.39,0:07:02.90,Ryōko main,Ryo,0,0,0,,She can be useful.
+Dialogue: 0,0:07:04.20,0:07:10.01,Ryōko italic,Jun,0,0,0,,{\t(3853,5479,\alpha&HFF&}As my consciousness faded away, I'm sure I saw Yakushiji Ryoko smile.
+Dialogue: 0,0:07:10.01,0:07:13.91,Ryōko italic,Jun,0,0,0,,Why did she make that expression?
+Dialogue: 0,0:07:21.93,0:07:23.45,Ryōko main,Kin,0,0,0,,How is he?
+Dialogue: 0,0:07:23.45,0:07:25.59,Ryōko main,Ryo,0,0,0,,The doctor has prescribed bed rest for him.
+Dialogue: 0,0:07:26.65,0:07:28.94,Ryōko main,Kin,0,0,0,,You surprised me that night.
+Dialogue: 0,0:07:28.94,0:07:33.51,Ryōko main,Kin,0,0,0,,You suddenly appeared and told me to call a doctor.
+Dialogue: 0,0:07:34.12,0:07:38.73,Ryōko main,Ryo,0,0,0,,I just had the emergency treatments done at the hospital and then headed straight here.
+Dialogue: 0,0:07:39.40,0:07:41.20,Ryōko main,Ryo,0,0,0,,We're up against {\i1}that{\i0}  woman.
+Dialogue: 0,0:07:41.20,0:07:44.43,Ryōko main,Ryo,0,0,0,,We can't hospitalize him in some random hospital.
+Dialogue: 0,0:07:45.04,0:07:52.84,Ryōko main,Kin,0,0,0,,But still, preparing a second Ryoko-chan and switching her with the real one to take over JACES...
+Dialogue: 0,0:07:52.84,0:07:56.24,Ryōko main,Kin,0,0,0,,Ruriko-san sure did come up with something dreadful.
+Dialogue: 0,0:07:57.95,0:08:05.64,Ryōko main,Kin,0,0,0,,If I had two young tomboys like you as sisters, Ryoko-chan, I'm sure I would have had a hard time.
+Dialogue: 0,0:08:07.54,0:08:09.71,Ryōko main,Ryo,0,0,0,,That's not the problem.
+Dialogue: 0,0:08:13.65,0:08:18.64,Ryōko main,Man,0,0,0,,All the facilities related to JACES in the prefecture are within anti-terrorist practice areas.
+Dialogue: 0,0:08:19.04,0:08:24.19,Ryōko main,Guy,0,0,0,,We plan to deploy an elite unit of 150 men from NPP on the day of the practice.
+Dialogue: 0,0:08:24.19,0:08:30.19,Ryōko main,Man,0,0,0,,It should be easy to suppress JACES's facilities if NPP and SDF work together.
+Dialogue: 0,0:08:31.03,0:08:35.16,Ryōko main,Non,0,0,0,,I'll eventually dispose of these four who are related to Yakushiji Ryoko too.
+Dialogue: 0,0:08:35.16,0:08:42.92,Ryōko main,Rur,0,0,0,,Once Ryoko-san dies, we'll apply growth treatment to Monami and get her to take over JACES's management.
+Dialogue: 0,0:08:42.92,0:08:49.63,Ryōko main,Rur,0,0,0,,And as originally planned, I will have you enter the Yakushiji family as Monami's husband.
+Dialogue: 0,0:08:49.63,0:08:51.58,Ryōko main,Non,0,0,0,,I understand.
+Dialogue: 0,0:08:53.80,0:09:01.35,Ryōko italic,Non,0,0,0,,Mistress Monami, like Yakushiji Ryoko, had the ability to summon things not from this world.
+Dialogue: 0,0:09:02.18,0:09:05.35,Ryōko italic,Non,0,0,0,,That's God's power.
+Dialogue: 0,0:09:06.52,0:09:13.30,Ryōko italic,Non,0,0,0,,By marrying Mistress Monami, I can get my hands on the power I...
+Dialogue: 0,0:09:13.30,0:09:14.68,Ryōko italic,Non,0,0,0,,I long for!
+Dialogue: 0,0:09:18.28,0:09:19.78,Ryōko main,Mon,0,0,0,,Izumida.
+Dialogue: 0,0:09:24.74,0:09:27.58,Ryōko main,Ryo,0,0,0,,Well, I'm going now, Izumida-kun.
+Dialogue: 0,0:09:37.97,0:09:41.21,Ryōko main,Ryo,0,0,0,,I'm about to go to war and risk my life,
+Dialogue: 0,0:09:41.21,0:09:43.22,Ryōko main,Ryo,0,0,0,,so why are you asleep now?
+Dialogue: 0,0:09:44.26,0:09:46.69,Ryōko main,Ryo,0,0,0,,You fail as a subordinate.
+Dialogue: 0,0:09:47.45,0:09:48.99,Ryōko main,Ryo,0,0,0,,You must be punished.
+Dialogue: 0,0:09:55.38,0:09:59.12,Ryōko main,Ryo,0,0,0,,On second thought, I'll punish you after I defeat Ruriko.
+Dialogue: 0,0:09:59.92,0:10:02.08,Ryōko main,Ryo,0,0,0,,Wait here quietly.
+Dialogue: 0,0:10:12.88,0:10:15.76,Ryōko main,Jac,0,0,0,,Well, it's normal that you'd be surprised.
+Dialogue: 0,0:10:15.76,0:10:20.22,Ryōko main,Jac,0,0,0,,You were called and told up front that people are after your life.
+Dialogue: 0,0:10:20.86,0:10:23.26,Ryōko main,Ryo,0,0,0,,Shiba will start its operations by going after your life.
+Dialogue: 0,0:10:23.26,0:10:25.40,Ryōko main,Abe,0,0,0,,The Shiba government building?
+Dialogue: 0,0:10:25.40,0:10:27.00,Ryōko main,Sat,0,0,0,,Why is that?
+Dialogue: 0,0:10:27.00,0:10:31.71,Ryōko main,Ryo,0,0,0,,Because you three saw the Queen of Shiba, Isurugi Ruriko, in person.
+Dialogue: 0,0:10:32.78,0:10:35.23,Ryōko main,Abe,0,0,0,,Things have turned out just as I feared they would.
+Dialogue: 0,0:10:35.23,0:10:40.37,Ryōko main,Kis,0,0,0,,Oryo-sama, I don't have a clue as to what's going on.
+Dialogue: 0,0:10:40.37,0:10:42.75,Ryōko main,Ryo,0,0,0,,Well, you've got nothing to do with this.
+Dialogue: 0,0:10:43.45,0:10:46.74,Ryōko main,Ryo,0,0,0,,Actually, I don't remember calling you.
+Dialogue: 0,0:10:46.74,0:10:47.96,Ryōko main,Ryo,0,0,0,,Why are you here?
+Dialogue: 0,0:10:49.04,0:10:53.33,Ryōko main,Ryo,0,0,0,,But now that you've heard my story, I can't guarantee your safety.
+Dialogue: 0,0:10:53.33,0:10:54.57,Ryōko main,Ryo,0,0,0,,Keep that in mind.
+Dialogue: 0,0:10:54.57,0:10:55.51,Ryōko main,Kis,0,0,0,,What?!
+Dialogue: 0,0:10:55.51,0:10:57.15,Ryōko main,Kis,0,0,0,,N-No way...
+Dialogue: 0,0:10:57.15,0:10:59.32,Ryōko main,Jac,0,0,0,,Don't make shameful sounds like that.
+Dialogue: 0,0:10:59.32,0:11:05.18,Ryōko main,Jac,0,0,0,,I'm a complete bystander, yet I'm prepared to lend a helping hand to Oryo-chan.
+Dialogue: 0,0:11:05.18,0:11:07.58,Ryōko main,Kis,0,0,0,,That has nothing to do with me!
+Dialogue: 0,0:11:07.58,0:11:10.04,Ryōko main,Kis,0,0,0,,Oryo-sama, what exactly is going to happen to me...
+Dialogue: 0,0:11:09.38,0:11:11.06,Ryōko overlap,Yuk,0,0,0,,I'm not convinced either.
+Dialogue: 0,0:11:12.79,0:11:16.35,Ryōko main,Yuk,0,0,0,,Yes, I was investigating Shiba,
+Dialogue: 0,0:11:16.35,0:11:19.24,Ryōko main,Yuk,0,0,0,,but it doesn't seem like they've noticed at all.
+Dialogue: 0,0:11:19.77,0:11:20.76,Ryōko main,Yuk,0,0,0,,Why is that?
+Dialogue: 0,0:11:20.76,0:11:23.49,Ryōko main,Ryo,0,0,0,,Oyuki, do you remember Nonagase-kun?
+Dialogue: 0,0:11:23.49,0:11:25.47,Ryōko main,Yuk,0,0,0,,Nonagase-kun?
+Dialogue: 0,0:11:25.47,0:11:28.37,Ryōko main,Yuk,0,0,0,,Oh, the man who drove us to Nerima the other day?
+Dialogue: 0,0:11:28.37,0:11:31.04,Ryōko main,Ryo,0,0,0,,He was actually a spy.
+Dialogue: 0,0:11:31.04,0:11:31.83,Ryōko main,Yuk,0,0,0,,What?!
+Dialogue: 0,0:11:31.83,0:11:38.01,Ryōko main,Ryo,0,0,0,,I suspected he was, but you talked about Ruriko in front of him without knowing, remember?
+Dialogue: 0,0:11:38.01,0:11:39.80,Ryōko main,Ryo,0,0,0,,That was a fatal mistake.
+Dialogue: 0,0:11:39.80,0:11:41.63,Ryōko main,Yuk,0,0,0,,No way...
+Dialogue: 0,0:11:41.63,0:11:44.85,Ryōko main,Yuk,0,0,0,,If he was suspicious, why didn't you tell me beforehand?
+Dialogue: 0,0:11:45.50,0:11:46.95,Ryōko main,Ryo,0,0,0,,Isn't that obvious?
+Dialogue: 0,0:11:46.95,0:11:49.85,Ryōko main,Ryo,0,0,0,,I kept quiet on purpose to drag you into this.
+Dialogue: 0,0:11:58.14,0:12:00.19,Ryōko main,Ryo,0,0,0,,Come with me for a minute.
+Dialogue: 0,0:12:04.48,0:12:07.61,Ryōko main,Ryo,0,0,0,,I've decided to crush Shiba.
+Dialogue: 0,0:12:07.61,0:12:08.62,Ryōko main,Yuk,0,0,0,,Shiba?
+Dialogue: 0,0:12:08.62,0:12:12.98,Ryōko main,Ryo,0,0,0,,Since we are alike, this will be a big job which will put my life at risk.
+Dialogue: 0,0:12:13.78,0:12:16.59,Ryōko main,Ryo,0,0,0,,Although we already know that I'll win.
+Dialogue: 0,0:12:17.62,0:12:19.94,Ryōko main,Yuk,0,0,0,,Are you going to fight alone?
+Dialogue: 0,0:12:19.94,0:12:20.72,Ryōko main,Yuk,0,0,0,,Against Shiba.
+Dialogue: 0,0:12:21.20,0:12:22.64,Ryōko main,Ryo,0,0,0,,I'm not alone.
+Dialogue: 0,0:12:22.64,0:12:24.00,Ryōko main,Ryo,0,0,0,,There's another one.
+Dialogue: 0,0:12:24.61,0:12:29.43,Ryōko main,Ryo,0,0,0,,An old lady who's always a nosy, stubborn Ms. Discipline.
+Dialogue: 0,0:12:32.39,0:12:35.40,Ryōko main,Ryo,0,0,0,,Take care of everyone for me, Oyuki.
+Dialogue: 0,0:12:36.20,0:12:37.15,Ryōko main,Yuk,0,0,0,,Oryo.
+Dialogue: 0,0:12:48.62,0:12:49.99,Ryōko main,Ann,0,0,0,,You're Yakushiji Ryoko-san, right?
+Dialogue: 0,0:12:55.84,0:13:02.80,Ryōko main,Rur,0,0,0,,Ryoko-san, you're famous now, so you can't move around freely like you once did.
+Dialogue: 0,0:13:03.69,0:13:05.55,Ryōko main,Ryo,0,0,0,,Damn that Ruriko.
+Dialogue: 0,0:13:09.49,0:13:10.93,Ryōko main,Ryo,0,0,0,,I'll be back.
+Dialogue: 0,0:13:18.61,0:13:20.17,Ryōko main,Man,0,0,0,,Reporting from the Main Observatory.
+Dialogue: 0,0:13:20.17,0:13:22.48,Ryōko main,Man,0,0,0,,We've completed the connection.
+Dialogue: 0,0:13:22.48,0:13:23.40,Ryōko main,Guy,0,0,0,,All right.
+Dialogue: 0,0:13:23.40,0:13:27.49,Ryōko main,Guy,0,0,0,,Then evacuate everyone in the tower and secure the front entrance.
+Dialogue: 0,0:13:27.49,0:13:28.65,Ryōko main,Man,0,0,0,,Roger that.
+Dialogue: 0,0:13:30.30,0:13:32.41,Ryōko main,Non,0,0,0,,We're not going to leave anyone at the scene?
+Dialogue: 0,0:13:33.53,0:13:37.96,Ryōko main,Man,0,0,0,,If someone's nearby, it apparently causes the system to malfunction.
+Dialogue: 0,0:14:07.96,0:14:09.12,Ryōko main,Non,0,0,0,,I've brought her.
+Dialogue: 0,0:14:11.32,0:14:17.33,Ryōko main,Rur,0,0,0,,Monami, brand Ryoko-san's end into your memory.
+Dialogue: 0,0:14:35.35,0:14:36.12,Ryōko main,Guy,0,0,0,,There she is!
+Dialogue: 0,0:14:36.12,0:14:37.62,Ryōko main,Guy,0,0,0,,It's Yakushiji Ryoko!
+Dialogue: 0,0:14:46.28,0:14:47.32,Ryōko main,Guy,0,0,0,,Stop!
+Dialogue: 0,0:15:04.63,0:15:06.71,Ryōko main,Guy,0,0,0,,I heard gunfire over there!
+Dialogue: 0,0:15:09.12,0:15:10.19,Ryōko main,Guy,0,0,0,,Which way?
+Dialogue: 0,0:15:18.49,0:15:19.98,Ryōko main,Ryo,0,0,0,,Who's calling at a time like this?
+Dialogue: 0,0:15:21.33,0:15:24.40,Ryōko main,Ryo,0,0,0,,Just when I was wondering which idiot it was, it was that one.
+Dialogue: 0,0:15:27.21,0:15:30.28,Ryōko main,Kis,0,0,0,,Oryo-sama won't answer!
+Dialogue: 0,0:15:30.72,0:15:32.76,Ryōko main,Jac,0,0,0,,What are you crying about?
+Dialogue: 0,0:15:32.76,0:15:34.03,Ryōko main,Jac,0,0,0,,You're a cop, aren't you?
+Dialogue: 0,0:15:34.03,0:15:35.16,Ryōko main,Jac,0,0,0,,Get a hold of yourself!
+Dialogue: 0,0:15:35.57,0:15:37.50,Ryōko main,Kis,0,0,0,,So is everyone else!
+Dialogue: 0,0:15:37.97,0:15:41.83,Ryōko main,Abe,0,0,0,,We should have left Tokyo right away!
+Dialogue: 0,0:15:41.83,0:15:46.13,Ryōko main,Sat,0,0,0,,Even if you say that, everyone was busy with preparations.
+Dialogue: 0,0:15:52.47,0:15:53.64,Ryōko main,Yuk,0,0,0,,Everyone, over here.
+Dialogue: 0,0:15:53.64,0:15:54.96,Ryōko main,Yuk,0,0,0,,Hurry!
+Dialogue: 0,0:16:01.05,0:16:03.30,Ryōko main,Rur,0,0,0,,As expected from Ryoko-san.
+Dialogue: 0,0:16:03.30,0:16:06.33,Ryōko main,Rur,0,0,0,,She's fighting well by herself.
+Dialogue: 0,0:16:06.33,0:16:07.82,Ryōko main,Man,0,0,0,,Request backup.
+Dialogue: 0,0:16:24.99,0:16:26.48,Ryōko main,Man,0,0,0,,She fell into the river!
+Dialogue: 0,0:17:15.85,0:17:17.60,Ryōko main,Lad,0,0,0,,We've lost track of Yakushiji Ryoko!
+Dialogue: 0,0:17:18.90,0:17:21.35,Ryōko main,Rur,0,0,0,,She'll show herself again soon.
+Dialogue: 0,0:18:10.71,0:18:12.16,Ryōko italic,Ryo,0,0,0,,I wonder what...
+Dialogue: 0,0:18:13.28,0:18:14.70,Ryōko italic,Ryo,0,0,0,,...happened to Oyuki and the others...
+Dialogue: 0,0:18:22.10,0:18:23.18,Ryōko main,Ryo,0,0,0,,These are...!
+Dialogue: 0,0:18:23.70,0:18:24.89,Ryōko main,Ryo,0,0,0,,Izumida-kun!
+Dialogue: 0,0:18:32.44,0:18:33.27,Ryōko main,Jun,0,0,0,,Hello?
+Dialogue: 0,0:18:33.27,0:18:34.09,Ryōko main,Jun,0,0,0,,It's me.
+Dialogue: 0,0:18:35.32,0:18:37.55,Ryōko main,Lad,0,0,0,,We've received reports from the Shirogane Takanawa Observatory.
+Dialogue: 0,0:18:37.55,0:18:40.21,Ryōko main,Lad,0,0,0,,One civilian vehicle has entered the area.
+Dialogue: 0,0:18:40.21,0:18:41.51,Ryōko main,Lad,0,0,0,,Requesting orders.
+Dialogue: 0,0:18:41.51,0:18:42.99,Ryōko main,Mon,0,0,0,,Izumida.
+Dialogue: 0,0:18:43.92,0:18:45.77,Ryōko main,Rur,0,0,0,,Follow that car.
+Dialogue: 0,0:20:05.42,0:20:07.68,Ryōko main,Jun,0,0,0,,I'm glad you're fine, Superintendent.
+Dialogue: 0,0:20:08.14,0:20:10.57,Ryōko main,Ryo,0,0,0,,Who do you think I am?
+Dialogue: 0,0:20:12.66,0:20:13.54,Ryōko main,Jun,0,0,0,,Superintendent!
+Dialogue: 0,0:20:14.51,0:20:15.86,Ryōko main,Ryo,0,0,0,,Just a little bit...
+Dialogue: 0,0:20:17.12,0:20:19.57,Ryōko main,Ryo,0,0,0,,Let me rest just a little bit.
+Dialogue: 0,0:20:24.89,0:20:25.87,Ryōko main,Jun,0,0,0,,Sure.
+Dialogue: 0,0:20:43.63,0:20:46.20,Ryōko main,Non,0,0,0,,Yakushiji Ryoko's smiling.
+Dialogue: 0,0:20:46.20,0:20:49.94,Ryōko main,Man,0,0,0,,Did that woman sign a contract with the Devil or something?
+Dialogue: 0,0:20:49.94,0:20:51.64,Ryōko main,Man,0,0,0,,We've hurt her so much.
+Dialogue: 0,0:20:51.64,0:20:53.27,Ryōko main,Man,0,0,0,,How can she still be smiling?
+Dialogue: 0,0:20:54.56,0:20:56.29,Ryōko main,Mon,0,0,0,,I know...
+Dialogue: 0,0:20:56.85,0:20:59.23,Ryōko main,Mon,0,0,0,,...why she is strong.
+Dialogue: 0,0:20:59.23,0:21:00.64,Ryōko main,Mon,0,0,0,,The reason is...
+Dialogue: 0,0:21:02.03,0:21:03.07,Ryōko main,Ryo,0,0,0,,What is it?
+Dialogue: 0,0:21:03.07,0:21:06.96,Ryōko main,Jun,0,0,0,,I just thought that you're really strong.
+Dialogue: 0,0:21:06.96,0:21:08.84,Ryōko main,Ryo,0,0,0,,Did you just notice?
+Dialogue: 0,0:21:08.84,0:21:14.00,Ryōko main,Jun,0,0,0,,Even though you've fought alone the whole day, you still look like this.
+Dialogue: 0,0:21:14.00,0:21:16.08,Ryōko main,Jun,0,0,0,,You're really amazing.
+Dialogue: 0,0:21:18.10,0:21:19.80,Ryōko main,Ryo,0,0,0,,Notice me one of these days.
+Dialogue: 0,0:21:20.80,0:21:21.99,Ryōko main,Jun,0,0,0,,Did you just say something?
+Dialogue: 0,0:21:30.73,0:21:32.28,Ryōko main,Jun,0,0,0,,It's strange.
+Dialogue: 0,0:21:32.28,0:21:36.76,Ryōko main,Jun,0,0,0,,When I'm with you, I get the feeling that a crisis of this level is nothing.
+Dialogue: 0,0:21:36.76,0:21:38.21,Ryōko main,Ryo,0,0,0,,That's my...
+Dialogue: 0,0:21:45.87,0:21:47.18,Ryōko main,Ryo,0,0,0,,It's nothing.
+Dialogue: 0,0:21:47.18,0:21:49.17,Ryōko main,Ryo,0,0,0,,You're right.
+Dialogue: 0,0:21:49.17,0:21:52.59,Ryōko main,Ryo,0,0,0,,I'll stop a tank with the wink of an eye.
+Dialogue: 0,0:23:15.60,0:23:16.89,Ryōko main,Ryo,0,0,0,,I hear that they're going to construct a new
+Dialogue: 0,0:23:16.89,0:23:18.38,Ryōko main,Ryo,0,0,0,,Tokyo Tower in the Sumida District.
+Dialogue: 0,0:23:18.38,0:23:21.67,Ryōko main,Jun,0,0,0,,It's the Tokyo Sky Tree that's planned for completion in 2011.
+Dialogue: 0,0:23:21.67,0:23:22.78,Ryōko main,Ryo,0,0,0,,I guess it's okay.
+Dialogue: 0,0:23:22.78,0:23:24.45,Ryōko main,Jun,0,0,0,,Yakushiji Ryoko's Supernatural Case File,
+Dialogue: 0,0:23:24.45,0:23:25.29,Ryōko main,Jun,0,0,0,,Final File:
+Dialogue: 0,0:23:25.29,0:23:27.54,Ryōko main,Jun,0,0,0,,Tokyo.  Dead or Love.  Part 2.
+Dialogue: 0,0:23:27.54,0:23:28.35,Ryōko main,Jun,0,0,0,,Please look forward to it.
+Dialogue: 0,0:23:28.35,0:23:29.22,Ryōko main,Ryo,0,0,0,,What?  I...
