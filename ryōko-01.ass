@@ -9,10 +9,10 @@ PlayResY: 476
 ScaledBorderAndShadow: yes
 Video Aspect Ratio: c1.79832
 Video Zoom: 8
-Video Position: 34057
-Video File: ../raws/ep01.mkv
-Scroll Position: 321
-Active Line: 325
+Video Position: 4167
+Video File: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 01.mkv
+Scroll Position: 5
+Active Line: 8
 Video Colorspace: BT.601
 Last Style Storage: Default
 
@@ -22,6 +22,7 @@ Style: Ryōko main,Fansub,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0
 Style: Ryōko italic,Fansub,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,0,0,83,100,0,0,1,2.5,0,2,100,100,40,0
 Style: Ryōko overlap,Fansub,32,&H00FFCCCC,&H000000FF,&H00000000,&H00000000,0,0,0,0,83,100,0,0,1,2.5,0,2,100,100,40,0
 Style: Ryōko tl notes,Fansub,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,83,100,0,0,1,3,0,8,100,100,40,0
+Style: Ryōko title,Exmouth,64,&H0000003A,&H000000FF,&H0000003A,&H00000000,-1,0,0,0,83,100,0,0,1,0.1,0,4,100,100,40,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -33,6 +34,8 @@ Dialogue: 0,0:02:37.09,0:02:39.68,Ryōko italic,Jun,0,0,0,,A poor local governme
 Dialogue: 0,0:02:39.68,0:02:41.66,Ryōko italic,Jun,0,0,0,,More specifically, I'm a lieutenant in the Metropolitan Police Department.
 Dialogue: 0,0:02:41.66,0:02:45.10,Ryōko italic,Jun,0,0,0,,I work under a counselor in the criminal investigation division.
 Dialogue: 0,0:02:47.66,0:02:48.81,Ryōko main,Jun,0,0,0,,All right.
+Dialogue: 0,0:02:48.81,0:02:53.82,Ryōko title,,0,0,0,,{\blur0.6\fscx63\pos(161,88)}First file
+Dialogue: 0,0:02:48.81,0:02:53.82,Ryōko title,,0,0,0,,{\blur0.7\fscx63\pos(181.5,281)}Ginza Crime Tower (first part)
 Dialogue: 0,0:02:56.99,0:02:58.38,Ryōko main,Gal,0,0,0,,Here you go.
 Dialogue: 0,0:02:58.38,0:03:00.15,Ryōko main,Man,0,0,0,,Why, thank you.
 Dialogue: 0,0:03:02.77,0:03:03.66,Ryōko main,Jun,0,0,0,,Good morning.
