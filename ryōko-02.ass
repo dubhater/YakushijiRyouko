@@ -5,13 +5,13 @@ ScriptType: v4.00+
 WrapStyle: 0
 PlayResX: 856
 PlayResY: 476
-Audio URI: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 02.mkv
-Scroll Position: 32
-Active Line: 35
+Scroll Position: 3
+Active Line: 7
 Video File: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 02.mkv
 Video Colorspace: BT.601
 Video Aspect Ratio: c1.79832
-Video Position: 6133
+Video Position: 2711
+Last Style Storage: Default
 ScaledBorderAndShadow: yes
 
 [V4+ Styles]
@@ -30,6 +30,8 @@ Dialogue: 0,0:01:37.65,0:01:40.09,Ryōko italic,Jun,0,0,0,,The supernatural inci
 Dialogue: 0,0:01:40.09,0:01:44.87,Ryōko italic,Jun,0,0,0,,was the result of imported, contaminated cooking ingredients.
 Dialogue: 0,0:01:45.24,0:01:48.59,Ryōko italic,Jun,0,0,0,,While following the case, we were attacked by mysterious assassins.
 Dialogue: 0,0:01:48.59,0:01:52.38,Ryōko italic,Jun,0,0,0,,Who were those people?
+Dialogue: 2,0:01:53.05,0:01:58.01,Ryōko title,,0,0,0,,{\blur0.6\fscx63\pos(161,88)}Second file
+Dialogue: 2,0:01:53.05,0:01:58.01,Ryōko title,,0,0,0,,{\blur0.7\fscx63\pos(181.5,281)}Ginza Crime Tower (second part)
 Dialogue: 0,0:02:03.45,0:02:07.38,Ryōko main,Jun,0,0,0,,How did you know that she was trying to kill you?
 Dialogue: 0,0:02:14.45,0:02:15.44,Ryōko main,Ryo,0,0,0,,What is your name?
 Dialogue: 0,0:02:16.07,0:02:18.00,Ryōko main,Kik,0,0,0,,Mizoroki Kikuno.
