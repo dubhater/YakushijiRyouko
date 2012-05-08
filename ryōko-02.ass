@@ -5,12 +5,12 @@ ScriptType: v4.00+
 WrapStyle: 0
 PlayResX: 856
 PlayResY: 476
-Scroll Position: 0
-Active Line: 1
+Scroll Position: 304
+Active Line: 306
 Video File: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 02.mkv
 Video Colorspace: BT.601
 Video Aspect Ratio: c1.79832
-Video Position: 0
+Video Position: 33692
 Last Style Storage: Default
 Audio URI: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 02.mkv
 ScaledBorderAndShadow: yes
@@ -331,6 +331,8 @@ Dialogue: 0,0:21:45.12,0:21:48.18,Ryōko main,Jun,0,0,0,,That's what she's calle
 Dialogue: 0,0:21:48.18,0:21:50.56,Ryōko main,Jun,0,0,0,,It stands for {\i1}Oryou Walks\NThrough Even Dracula{\i0}.{Oh gods WHY??}
 Dialogue: 0,0:21:51.08,0:21:53.76,Ryōko main,Non,0,0,0,,Ah, that's why\Nit's WTED Oryou.
 Dialogue: 0,0:21:54.56,0:21:57.99,Ryōko main,Non,0,0,0,,Yes, it's a perfect nickname\Nfor Mistress Ryouko.
+Dialogue: 0,0:23:25.14,0:23:28.32,Ryōko main,,0,0,0,,{\bord7\blur5}The people and events in this work are purely fictional.
+Dialogue: 0,0:23:28.32,0:23:34.28,Ryōko main,,0,0,0,,{\bord7\blur5}Any resemblance to existing people or events is entirely coincidental.
 Dialogue: 0,0:23:35.89,0:23:37.78,Ryōko main,Yuk,0,0,0,,What sort of preview\Nwas that last week?
 Dialogue: 0,0:23:37.78,0:23:38.95,Ryōko main,Ryo,0,0,0,,You've appeared,\NMs. Discipline.{** wtf}
 Dialogue: 0,0:23:38.95,0:23:43.61,Ryōko main,Yuk,70,70,0,,To begin with, a preview is supposed to briefly and\Naccurately explain the next episode's story to the viewers.
