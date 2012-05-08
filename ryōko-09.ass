@@ -85,7 +85,7 @@ Dialogue: 0,0:05:48.39,0:05:49.93,Ryōko main,Jun,0,0,0,,I will keep that in min
 Dialogue: 0,0:05:49.93,0:05:53.54,Ryōko main,Jun,0,0,0,,But since I've already brought it along, please use it.
 Dialogue: 0,0:05:54.97,0:05:57.79,Ryōko main,Yuk,0,0,0,,Just this once, as an exception.
 Dialogue: 0,0:05:58.70,0:06:01.71,Ryōko main,Yuk,0,0,0,,Coming here an hour earlier than your appointment.
-Dialogue: 0,0:06:01.71,0:06:04.12,Ryōko main,Yuk,0,0,0,,Was that Oryo's teaching too?
+Dialogue: 0,0:06:01.71,0:06:04.12,Ryōko main,Yuk,0,0,0,,Was that Oryou's teaching too?
 Dialogue: 0,0:06:04.12,0:06:05.30,Ryōko main,Jun,0,0,0,,Something like that.
 Dialogue: 0,0:06:05.30,0:06:06.67,Ryōko main,Jun,0,0,0,,But thanks to that, I...
 Dialogue: 0,0:06:06.67,0:06:07.21,Ryōko main,Yuk,0,0,0,,Hm?
@@ -109,7 +109,7 @@ Dialogue: 0,0:06:52.25,0:06:54.13,Ryōko main,Jun,0,0,0,,Did you want to discuss
 Dialogue: 0,0:06:56.57,0:06:58.83,Ryōko main,Yuk,0,0,0,,Do you know this woman?
 Dialogue: 0,0:07:00.88,0:07:03.36,Ryōko main,Jun,0,0,0,,No, I don't.
 Dialogue: 0,0:07:04.06,0:07:04.70,Ryōko main,,0,0,0,,I see.
-Dialogue: 0,0:07:05.13,0:07:06.23,Ryōko main,Yuk,0,0,0,,How about Oryo?
+Dialogue: 0,0:07:05.13,0:07:06.23,Ryōko main,Yuk,0,0,0,,How about Oryou?
 Dialogue: 0,0:07:06.59,0:07:09.65,Ryōko main,Jun,0,0,0,,I wouldn't know unless we asked her.
 Dialogue: 0,0:07:09.65,0:07:11.06,Ryōko main,Yuk,0,0,0,,Yes, I would think so.
 Dialogue: 0,0:07:11.06,0:07:12.20,Ryōko main,Jun,0,0,0,,Who is she?
@@ -145,7 +145,7 @@ Dialogue: 0,0:08:58.55,0:09:01.42,Ryōko main,Yuk,0,0,0,,I'll keep that in mind.
 Dialogue: 0,0:09:01.42,0:09:03.39,Ryōko main,Yuk,0,0,0,,But you won't tell me to stop, will you?
 Dialogue: 0,0:09:03.39,0:09:04.50,Ryōko main,Jun,0,0,0,,Yes.
 Dialogue: 0,0:09:04.50,0:09:08.40,Ryōko main,Jun,0,0,0,,I know how to state my opinions to a stubborn superior.
-Dialogue: 0,0:09:10.28,0:09:14.78,Ryōko main,Yuk,0,0,0,,Are you saying that I'm as stubborn as Oryo?
+Dialogue: 0,0:09:10.28,0:09:14.78,Ryōko main,Yuk,0,0,0,,Are you saying that I'm as stubborn as Oryou?
 Dialogue: 0,0:09:16.21,0:09:17.66,Ryōko main,Yuk,0,0,0,,Lieutenant Izumida!
 Dialogue: 0,0:09:17.66,0:09:19.49,Ryōko main,Yuk,0,0,0,,That perception of yours is wrong!
 Dialogue: 0,0:09:19.49,0:09:20.37,Ryōko main,Jun,0,0,0,,I'm terribly sorry.
@@ -215,8 +215,8 @@ Dialogue: 0,0:13:17.58,0:13:21.02,Ryōko italic,Ann,0,0,0,,She's beautiful, cunn
 Dialogue: 0,0:13:21.02,0:13:22.02,Ryōko italic,Ann,0,0,0,,A thoroughbred.
 Dialogue: 0,0:13:22.02,0:13:24.50,Ryōko italic,Ann,0,0,0,,The article also states that, on the other hand,
 Dialogue: 0,0:13:24.50,0:13:26.87,Ryōko italic,Ann,0,0,0,,her selfishness is also well-known within the Metropolitan Police Department.
-Dialogue: 0,0:13:26.87,0:13:29.36,Ryōko main,Jac,0,0,0,,They wrote an article on Oryo-chan?
-Dialogue: 0,0:13:29.36,0:13:32.62,Ryōko main,Jac,0,0,0,,I don't want to hear anything bad about Oryo-chan!
+Dialogue: 0,0:13:26.87,0:13:29.36,Ryōko main,Jac,0,0,0,,They wrote an article on Oryou-chan?
+Dialogue: 0,0:13:29.36,0:13:32.62,Ryōko main,Jac,0,0,0,,I don't want to hear anything bad about Oryou-chan!
 Dialogue: 0,0:13:28.59,0:13:35.12,Ryōko italic,Ann,0,0,0,,{\be1\3a&H30&\fscx110\an8}It also states that, according to witnesses,\NSuperintendent Yakushiji's selfishness was incomparable.
 Dialogue: 0,0:13:35.33,0:13:43.07,Ryōko italic,Guy,0,0,0,,She thinks that the police organizations that exist for the country's safety belong to her.
 Dialogue: 0,0:13:43.07,0:13:46.66,Ryōko italic,Guy,0,0,0,,Letting a woman with no respect for the country\Nwhatsoever stay in the Metropolitan Police Department is
@@ -226,7 +226,7 @@ Dialogue: 0,0:13:54.26,0:13:58.31,Ryōko italic,Lad,0,0,0,,{\be1\3a&H30&\fscx110
 Dialogue: 0,0:13:58.31,0:14:04.02,Ryōko italic,Lad,0,0,0,,{\be1\3a&H30&\fscx110\an8}so I don't believe the citizens will be content until she provides an explanation.
 Dialogue: 0,0:14:04.02,0:14:08.16,Ryōko italic,Lad,0,0,0,,{\be1\3a&H30&\fscx110\an8}And the government's response is nothing but poor.
 Dialogue: 0,0:14:05.56,0:14:06.68,Ryōko main,Jac,0,0,0,,What is this?
-Dialogue: 0,0:14:06.69,0:14:09.95,Ryōko main,Jac,0,0,0,,Why is every channel broadcasting something about Oryo-chan?
+Dialogue: 0,0:14:06.69,0:14:09.95,Ryōko main,Jac,0,0,0,,Why is every channel broadcasting something about Oryou-chan?
 Dialogue: 0,0:14:14.87,0:14:17.37,Ryōko main,Guy,0,0,0,,Things have become troublesome.
 Dialogue: 0,0:14:18.17,0:14:23.43,Ryōko main,Guy,0,0,0,,We've decided to write a special article on Superintendent Yakushiji too.
 Dialogue: 0,0:14:23.43,0:14:25.17,Ryōko main,Jun,0,0,0,,Even Nitto Daily?
@@ -245,21 +245,21 @@ Dialogue: 0,0:14:49.87,0:14:51.85,Ryōko main,Guy,0,0,0,,But if you don't treat 
 Dialogue: 0,0:14:51.85,0:14:58.68,Ryōko main,Guy,0,0,0,,you'll end up falling ill due to being\Nbashed 24/7, like some prime minister.
 Dialogue: 0,0:15:00.17,0:15:06.59,Ryōko main,Guy,0,0,0,,It's great that you care for your boss, but be careful not to end up in the same coffin.
 Dialogue: 0,0:15:11.17,0:15:13.28,Ryōko main,Guy,0,0,0,,Well, I'll be on my way.
-Dialogue: 0,0:15:16.84,0:15:18.97,Ryōko main,Yuk,0,0,0,,Oryo is all over the place.
+Dialogue: 0,0:15:16.84,0:15:18.97,Ryōko main,Yuk,0,0,0,,Oryou is all over the place.
 Dialogue: 0,0:15:20.51,0:15:22.74,Ryōko main,Jun,0,0,0,,I'm sorry for all the commotion.
 Dialogue: 0,0:15:22.74,0:15:24.48,Ryōko main,Yuk,0,0,0,,There's no need for you to apologize.
-Dialogue: 0,0:15:25.21,0:15:27.46,Ryōko main,Yuk,0,0,0,,It's Oryo who needs to.
+Dialogue: 0,0:15:25.21,0:15:27.46,Ryōko main,Yuk,0,0,0,,It's Oryou who needs to.
 Dialogue: 0,0:15:28.48,0:15:31.59,Ryōko main,Jun,0,0,0,,But why did it turn out like this all of a sudden?
 Dialogue: 0,0:15:31.59,0:15:33.13,Ryōko main,Yuk,0,0,0,,Regarding that.
 Dialogue: 0,0:15:33.13,0:15:34.71,Ryōko main,Yuk,0,0,0,,Shiba has made its move, it seems.
-Dialogue: 0,0:15:35.72,0:15:39.54,Ryōko main,Yuk,0,0,0,,Apparently, they leaked information about Oryo to the media.
+Dialogue: 0,0:15:35.72,0:15:39.54,Ryōko main,Yuk,0,0,0,,Apparently, they leaked information about Oryou to the media.
 Dialogue: 0,0:15:39.54,0:15:40.96,Ryōko main,Jun,0,0,0,,Really?
 Dialogue: 0,0:15:40.96,0:15:43.10,Ryōko main,Jun,0,0,0,,But what's their motive?
 Dialogue: 0,0:15:43.10,0:15:46.75,Ryōko main,Yuk,0,0,0,,They might have thought that\Nthe closing of the amakudari loophole
 Dialogue: 0,0:15:46.75,0:15:50.13,Ryōko main,Yuk,0,0,0,,was an opportune moment to crush Yakushiji Ryouko.
 Dialogue: 0,0:15:50.13,0:15:51.55,Ryōko main,Yuk,0,0,0,,"Serves her right,"
 Dialogue: 0,0:15:51.55,0:15:56.26,Ryōko main,Yuk,0,0,0,,is what I'd like to say, but we can't say that in a very nice way.
-Dialogue: 0,0:15:56.26,0:15:57.81,Ryōko main,Yuk,0,0,0,,If they're going to crush Oryo,
+Dialogue: 0,0:15:56.26,0:15:57.81,Ryōko main,Yuk,0,0,0,,If they're going to crush Oryou,
 Dialogue: 0,0:15:57.81,0:16:01.65,Ryōko main,Yuk,0,0,0,,they should lower the iron hammer in the name of the law, fair and square.
 Dialogue: 0,0:16:01.65,0:16:03.68,Ryōko main,Yuk,0,0,0,,Not by using the media.
 Dialogue: 0,0:16:05.31,0:16:08.73,Ryōko main,Kis,0,0,0,,Superintendent Muromachi, they just keep on coming.
@@ -267,7 +267,7 @@ Dialogue: 0,0:16:08.73,0:16:10.61,Ryōko main,Kis,0,0,0,,We need more guards.
 Dialogue: 0,0:16:10.61,0:16:11.63,Ryōko main,Kis,0,0,0,,Oh, Senpai!
 Dialogue: 0,0:16:11.63,0:16:12.91,Ryōko main,Kis,0,0,0,,You came at the right time!
 Dialogue: 0,0:16:13.42,0:16:15.12,Ryōko main,Jun,0,0,0,,You're the one who came to me.
-Dialogue: 0,0:16:15.37,0:16:18.58,Ryōko main,Kis,0,0,0,,Please hold a press meeting as Oryo's direct subordinate.
+Dialogue: 0,0:16:15.37,0:16:18.58,Ryōko main,Kis,0,0,0,,Please hold a press meeting as Oryou's direct subordinate.
 Dialogue: 0,0:16:19.01,0:16:22.58,Ryōko main,Kis,0,0,0,,If you do, I'm sure everyone will be content and leave.
 Dialogue: 0,0:16:22.78,0:16:23.39,Ryōko main,Jun,0,0,0,,Wait!
 Dialogue: 0,0:16:23.39,0:16:25.06,Ryōko main,Jun,0,0,0,,No, I can't hold a press conference...
