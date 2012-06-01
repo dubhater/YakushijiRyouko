@@ -6,12 +6,12 @@ WrapStyle: 0
 PlayResX: 856
 PlayResY: 476
 Audio URI: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 03.mkv
-Scroll Position: 0
-Active Line: 1
+Scroll Position: 3
+Active Line: 4
 Video File: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 03.mkv
 Video Colorspace: BT.601
 Video Aspect Ratio: c1.79832
-Video Position: 2822
+Video Position: 3612
 YCbCr Matrix: TV.601
 Keyframes File: ../avisynth/scxvid/ep03-scxvid.txt
 ScaledBorderAndShadow: yes
@@ -30,6 +30,8 @@ Dialogue: 0,0:01:53.61,0:01:57.30,Ryōko italic,Ryo,0,0,0,,I am the Russian Empi
 Dialogue: 0,0:01:57.67,0:02:01.37,Ryōko italic,Ryo,0,0,0,,Follow me if you want to protect the Empire's future!
 Dialogue: 0,0:02:12.42,0:02:14.54,Ryōko italic,Ryo,0,0,0,,Hey! Izumida!
 Dialogue: 0,0:02:16.22,0:02:21.32,Ryōko italic,Ryo,0,0,0,,Why are you so dense?
+Dialogue: 0,0:02:25.66,0:02:30.67,Ryōko title,,0,0,0,,{\blur0.6\fscx63\pos(194.3,88)\c&H091458&}Third File
+Dialogue: 0,0:02:25.66,0:02:30.67,Ryōko title,,0,0,0,,{\blur0.7\fscx63\pos(305.5,281)\c&H070F4A&}Sakuradamon Case
 Dialogue: 0,0:02:35.91,0:02:37.97,Ryōko italic,Jun,0,0,0,,My name is Izumida Jun'ichirou.
 Dialogue: 0,0:02:37.97,0:02:40.45,Ryōko italic,Jun,0,0,0,,I am Yakushiji Ryouko's loyal retainer...
 Dialogue: 0,0:02:40.45,0:02:42.18,Ryōko italic,Jun,0,0,0,,Or so it seems.
