@@ -6,13 +6,14 @@ WrapStyle: 0
 PlayResX: 856
 PlayResY: 476
 Audio URI: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 03.mkv
-Scroll Position: 291
-Active Line: 121
+Scroll Position: 0
+Active Line: 1
 Video File: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 03.mkv
 Video Colorspace: BT.601
 Video Aspect Ratio: c1.79832
-Video Position: 14900
+Video Position: 2822
 YCbCr Matrix: TV.601
+Keyframes File: ../avisynth/scxvid/ep03-scxvid.txt
 ScaledBorderAndShadow: yes
 
 [V4+ Styles]
@@ -25,302 +26,302 @@ Style: Ryōko title,Exmouth,64,&H0000003A,&H000000FF,&H0000003A,&H00000000,-1,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:53.53,0:01:57.30,Ryōko italic,Ryo,0,0,0,,I am the Russian Empire's only legitimate monarch.
-Dialogue: 0,0:01:57.59,0:02:01.29,Ryōko italic,Ryo,0,0,0,,Follow me if you want to protect the Empire's future!
-Dialogue: 0,0:02:12.34,0:02:14.46,Ryōko italic,Ryo,0,0,0,,Hey! Izumida!
-Dialogue: 0,0:02:16.14,0:02:21.24,Ryōko italic,Ryo,0,0,0,,Why are you so dense?
-Dialogue: 0,0:02:35.83,0:02:37.97,Ryōko italic,Jun,0,0,0,,My name is Izumida Jun'ichirou.
-Dialogue: 0,0:02:37.97,0:02:40.37,Ryōko italic,Jun,0,0,0,,I am Yakushiji Ryouko's loyal retainer...
-Dialogue: 0,0:02:40.37,0:02:42.18,Ryōko italic,Jun,0,0,0,,Or so it seems.
-Dialogue: 0,0:02:42.65,0:02:49.81,Ryōko italic,Jun,0,0,0,,This job usually keeps me very busy,\Nbut even I have days off.
-Dialogue: 0,0:02:53.04,0:02:55.20,Ryōko italic,Ryo,0,0,0,,Was today...?
-Dialogue: 0,0:02:57.12,0:03:00.13,Ryōko main,Mar,0,0,0,,Let's hope nothing happens today.
-Dialogue: 0,0:03:00.94,0:03:04.96,Ryōko main,Old,0,0,0,,Izumida-kun usually handles this task.
-Dialogue: 0,0:03:04.96,0:03:08.82,Ryōko main,Gal,0,0,0,,We should at least try our best to...
-Dialogue: 0,0:03:10.42,0:03:11.58,Ryōko main,Gal,0,0,0,,Superintendent Yakushiji!
-Dialogue: 0,0:03:19.23,0:03:23.01,Ryōko main,Ryo,0,0,0,,What is with this tight schedule?
-Dialogue: 0,0:03:23.01,0:03:26.23,Ryōko main,Gal,0,0,0,,Well, we tried to...
-Dialogue: 0,0:03:26.23,0:03:28.87,Ryōko main,Mar,0,0,0,,...set it up as best we could.
-Dialogue: 0,0:03:28.87,0:03:31.10,Ryōko main,Old,0,0,0,,How is it?
-Dialogue: 0,0:03:32.34,0:03:33.64,Ryōko main,Ryo,0,0,0,,Rejected.
-Comment: 0,0:03:33.64,0:03:35.31,Ryōko main,Ppl,0,0,0,,What?!
-Dialogue: 0,0:03:35.31,0:03:38.78,Ryōko main,Ryo,0,0,0,,I think I'll go drink some awful coffee at Pastel.
-Dialogue: 0,0:03:50.20,0:03:52.21,Ryōko main,Jun,0,0,0,,It's already so late...
-Dialogue: 0,0:03:55.33,0:03:58.09,Ryōko main,Ryo,0,0,0,,It's still so early...
-Dialogue: 0,0:04:03.20,0:04:05.42,Ryōko main,Ryo,0,0,0,,Oh my, Oyuki. It's been a while.
-Dialogue: 0,0:04:05.42,0:04:06.74,Ryōko main,Yuk,0,0,0,,Superintendent Yakushiji!
-Dialogue: 0,0:04:06.74,0:04:07.51,Ryōko main,Kis,0,0,0,,Oryou-sama!
-Dialogue: 0,0:04:08.02,0:04:10.47,Ryōko main,Ryo,0,0,0,,Have you two come for tea?
-Dialogue: 0,0:04:10.47,0:04:13.02,Ryōko main,Ryo,0,0,0,,I envy incompetent people like you\Nwho have so much free time.{lul}
-Dialogue: 0,0:04:13.02,0:04:17.28,Ryōko main,Yuk,0,0,0,,Neither do I have free time nor am I incompetent.
-Dialogue: 0,0:04:17.28,0:04:21.56,Ryōko main,Kis,0,0,0,,We have a press conference at eleven o'clock to discuss the case from the other day.
-Dialogue: 0,0:04:21.56,0:04:23.86,Ryōko main,Kis,0,0,0,,We were busy in the morning, so...
-Dialogue: 0,0:04:24.62,0:04:28.03,Ryōko main,Ryo,0,0,0,,Why is the security division organizing the press conference?
-Dialogue: 0,0:04:28.38,0:04:30.92,Ryōko main,Yuk,0,0,0,,I'm surprised you asked.
-Dialogue: 0,0:04:30.92,0:04:35.04,Ryōko main,Yuk,0,0,0,,{\i1}You're{\i0} the one who forced me to clean up this case.
-Dialogue: 0,0:04:35.37,0:04:38.08,Ryōko main,Ryo,0,0,0,,Then do you want me to attend the press conference too?
-Dialogue: 0,0:04:38.87,0:04:46.46,Ryōko main,Ryo,0,0,0,,I'm sure it'll cause an uproar if I tell the press what actually happened.
-Dialogue: 0,0:04:46.46,0:04:49.51,Ryōko main,Ryo,0,0,0,,Um, was it at eleven?
-Dialogue: 0,0:04:49.87,0:04:52.42,Ryōko main,Yuk,0,0,0,,There is no need for you to attend.
-Dialogue: 0,0:04:52.42,0:04:54.84,Ryōko main,Ryo,0,0,0,,Would it inconvenience you?
-Dialogue: 0,0:04:54.84,0:04:57.77,Ryōko main,Yuk,0,0,0,,I just don't want more headaches.
-Dialogue: 0,0:04:58.08,0:04:59.32,Ryōko main,Ryo,0,0,0,,Is that so?
-Dialogue: 0,0:04:59.32,0:05:00.48,Ryōko main,Ryo,0,0,0,,In that case...
-Dialogue: 0,0:05:13.30,0:05:18.31,Ryōko italic,Ann,70,70,0,,I am at the Metropolitan Police Department, where a press conference on the collapse of the Ginza building is being held.
-Dialogue: 0,0:05:18.31,0:05:23.20,Ryōko italic,Ann,0,0,0,,There is much speculation regarding this incident, but the official explanation...
-Dialogue: 0,0:05:23.20,0:05:27.51,Ryōko italic,Ann,0,0,0,,...is that a gas leak caused\Nan explosion in the building.
-Dialogue: 0,0:05:28.13,0:05:31.60,Ryōko main,Pol,0,0,0,,If there are no more questions, I will be ending this conference.
-Dialogue: 0,0:05:31.60,0:05:33.13,Ryōko main,Pol,0,0,0,,Is that all right?
-Dialogue: 0,0:05:33.13,0:05:34.93,Ryōko main,Man,0,0,0,,No objections.
-Dialogue: 0,0:05:34.93,0:05:37.37,Ryōko main,Guy,0,0,0,,Oh, may I ask one thing?
-Dialogue: 0,0:05:38.95,0:05:44.53,Ryōko main,Guy,0,0,0,,There were reports of a JACES helicopter being present at the scene.
-Dialogue: 0,0:05:44.53,0:05:45.69,Ryōko main,Guy,0,0,0,,Is this true?
-Dialogue: 0,0:05:50.36,0:05:51.89,Ryōko main,Guy,0,0,0,,Please answer me.
-Dialogue: 0,0:05:56.27,0:05:59.19,Ryōko main,Gal,0,0,0,,Wasn't that a bad idea, Senpai?
-Dialogue: 0,0:05:59.19,0:05:59.96,Ryōko main,Guy,0,0,0,,What was?
-Dialogue: 0,0:05:59.96,0:06:03.21,Ryōko main,Gal,0,0,0,,It seemed that asking about it was taboo.
-Dialogue: 0,0:06:03.57,0:06:07.45,Ryōko main,Guy,0,0,0,,{As journalists, we need to be relentless in our pursuit of the truth.}As journalists, uncovering the truth must be our only concern.
-Dialogue: 0,0:06:07.45,0:06:10.74,Ryōko main,Guy,0,0,0,,We can't write good articles if we worry about what others think.
-Dialogue: 0,0:06:10.74,0:06:14.68,Ryōko main,Ues,0,0,0,,May I have a word with the two of you?
-Dialogue: 0,0:06:16.64,0:06:19.50,Ryōko main,Ues,0,0,0,,That reads "Mitsutoshi".
-Dialogue: 0,0:06:19.50,0:06:21.91,Ryōko main,Ues,0,0,0,,So you two are reporters from Maichou Daily?
-Dialogue: 0,0:06:21.91,0:06:22.48,Ryōko main,Gal,0,0,0,,Yes.
-Dialogue: 0,0:06:21.91,0:06:22.48,Ryōko overlap,Guy,0,0,0,,Yes.
-Dialogue: 0,0:06:23.54,0:06:25.82,Ryōko main,ues,0,0,0,,Let me get straight to the point.
-Dialogue: 0,0:06:26.21,0:06:29.15,Ryōko main,Ues,0,0,0,,Do you know about WTED Oryou?
-Dialogue: 0,0:06:30.10,0:06:34.66,Ryōko main,Ues,0,0,0,,As you mentioned earlier, Yakushiji Ryouko will inherit JACES one day.
-Dialogue: 0,0:06:35.05,0:06:36.39,Ryōko main,Man,0,0,0,,H-Hey.
-Dialogue: 0,0:06:38.72,0:06:42.57,Ryōko main,Ues,0,0,0,,JACES is where most people end up working after they retire from the Metropolitan Police Department.
-Dialogue: 0,0:06:42.57,0:06:47.94,Ryōko main,Ues,0,0,0,,Basically, if they oppose her,\Nthey lose their jobs after they retire.{hehe}
-Dialogue: 0,0:06:52.22,0:06:53.68,Ryōko main,Guy,0,0,0,,The elevator's full.
-Dialogue: 0,0:06:53.68,0:06:54.66,Ryōko main,Guy,0,0,0,,Wait for the next one.
-Dialogue: 0,0:06:54.66,0:06:56.24,Ryōko main,Man,0,0,0,,No, it's okay.
-Dialogue: 0,0:06:56.24,0:06:57.06,Ryōko main,Man,0,0,0,,This is where I get off.
-Dialogue: 0,0:06:57.55,0:06:59.04,Ryōko main,Man,0,0,0,,That's not all.
-Dialogue: 0,0:06:59.04,0:07:04.61,Ryōko main,Man,0,0,0,,I hear she uses JACES to uncover secrets and spread rumors about her superiors.
-Dialogue: 0,0:07:06.19,0:07:09.78,Ryōko main,Man,0,0,0,,Therefore, everyone's scared of Yakushiji Ryouko.
-Dialogue: 0,0:07:10.14,0:07:12.45,Ryōko main,Guy,0,0,0,,You mean the Superintendent General too?
-Dialogue: 0,0:07:13.92,0:07:19.58,Ryōko main,Man,0,0,0,,There is no hope for that man.
-Dialogue: 0,0:07:20.29,0:07:25.58,Ryōko main,Guy,0,0,0,,If one eats persimmons, red dragonflies will soar in the autumn sky.{Makes sense.}
-Dialogue: 0,0:07:29.14,0:07:35.38,Ryōko main,Man,0,0,0,,Other than using sarcasm, even I can't do anything more to oppose her.{fuck}
-Dialogue: 0,0:07:35.38,0:07:36.22,Ryōko main,Guy,0,0,0,,Why is that?
-Dialogue: 0,0:07:37.05,0:07:41.06,Ryōko main,Man,0,0,0,,It seems she's got dirt on my company's superiors too.
-Dialogue: 0,0:07:41.59,0:07:43.73,Ryōko main,Guy,0,0,0,,I see. So even Nitto Daily...
-Dialogue: 0,0:07:44.47,0:07:47.57,Ryōko main,Man,0,0,0,,Maichou Daily should be more or less the same.
-Dialogue: 0,0:07:47.57,0:07:50.51,Ryōko main,Man,0,0,0,,Anyway, you shouldn't lay your hands on her.{tehehe}
-Dialogue: 0,0:07:50.51,0:07:55.96,Ryōko main,Man,0,0,0,,If you provoke her, she may take it out on us too.
-Dialogue: 0,0:07:55.96,0:07:58.95,Ryōko main,Man,0,0,0,,Well, I'm counting on you.
-Dialogue: 0,0:08:00.02,0:08:04.33,Ryōko main,Gal,0,0,0,,I get the feeling that his Kansai dialect is all fake.
-Dialogue: 0,0:08:08.16,0:08:11.90,Ryōko main,Gal,0,0,0,,Senpai, you've been quiet the whole time.
-Dialogue: 0,0:08:11.90,0:08:13.24,Ryōko main,Gal,0,0,0,,What's on your mind?
-Dialogue: 0,0:08:13.74,0:08:15.03,Ryōko main,Guy,0,0,0,,It's inexcusable.
-Dialogue: 0,0:08:16.26,0:08:18.13,Ryōko main,Guy,0,0,0,,As a journalist...
-Dialogue: 0,0:08:18.13,0:08:25.72,Ryōko main,Guy,0,0,0,,No, as a human, I'm angered by Yakushiji Ryouko's existence.
-Dialogue: 0,0:08:25.72,0:08:29.44,Ryōko main,Guy,0,0,0,,We ought to write an article about her and appeal to the public's sentiments.
-Dialogue: 0,0:08:29.44,0:08:33.50,Ryōko main,Gal,0,0,0,,But if Uesugi-san told us the truth,
-Dialogue: 0,0:08:33.50,0:08:37.41,Ryōko main,Gal,0,0,0,,any article we write would just be suppressed.
-Dialogue: 0,0:08:38.68,0:08:39.88,Ryōko main,Guy,0,0,0,,That's true.
-Dialogue: 0,0:08:39.88,0:08:42.25,Ryōko main,Gal,0,0,0,,How about this?
-Dialogue: 0,0:08:47.14,0:08:49.46,Ryōko main,Ryo,0,0,0,,And? What did they say?
-Dialogue: 0,0:08:49.46,0:08:54.47,Ryōko main,Gal,0,0,0,,That they would stalk you and try to capture the moment.
-Dialogue: 0,0:08:56.05,0:08:56.97,Ryōko main,Ryo,0,0,0,,Is that so?
-Dialogue: 0,0:08:57.44,0:09:04.18,Ryōko main,Gal,0,0,0,,Their plan is to reveal your scandal, gain public sentiment and then apply pressure on you.
-Dialogue: 0,0:09:04.18,0:09:06.70,Ryōko main,Ryo,0,0,0,,To play "paparazzi"...
-Dialogue: 0,0:09:06.70,0:09:09.48,Ryōko main,Ryo,0,0,0,,The renowned Maichou Daily sure has fallen low.
-Dialogue: 0,0:09:10.04,0:09:12.81,Ryōko main,Ryo,0,0,0,,But I guess the press is the same everywhere.
-Dialogue: 0,0:09:12.81,0:09:15.20,Ryōko main,Ryo,0,0,0,,It's like a cauldron of irresponsibility and fiction,
-Dialogue: 0,0:09:15.20,0:09:18.95,Ryōko main,Ryo,0,0,0,,topped with jealousy and curiosity.
-Dialogue: 0,0:09:19.79,0:09:21.12,Ryōko main,Ryo,0,0,0,,Ah, I know!
-Dialogue: 0,0:09:21.12,0:09:24.66,Ryōko main,Ryo,0,0,0,,If he's dense, I could always do the grunt work and prepare.
-Dialogue: 0,0:09:25.76,0:09:26.62,Ryōko main,Gal,0,0,0,,I see.
-Dialogue: 0,0:09:27.70,0:09:29.63,Ryōko main,Ryo,0,0,0,,It just might work out.
-Dialogue: 0,0:09:34.85,0:09:36.49,Ryōko main,Jun,0,0,0,,Maybe I've caught a cold.
-Dialogue: 0,0:09:36.49,0:09:38.44,Ryōko main,Jun,0,0,0,,I feel cold all of a sudden.
-Dialogue: 0,0:09:45.60,0:09:46.52,Ryōko main,Non,0,0,0,,How is it?
-Dialogue: 0,0:09:49.08,0:09:50.67,Ryōko main,Jun,0,0,0,,It's very well written.
-Dialogue: 0,0:09:50.67,0:09:51.86,Ryōko main,Jun,0,0,0,,I'm impressed.
-Dialogue: 0,0:09:52.14,0:09:53.50,Ryōko main,Non,0,0,0,,Really?
-Dialogue: 0,0:09:53.50,0:09:57.57,Ryōko main,Non,0,0,0,,It's really motivating to hear that from you, Izumida-san.
-Dialogue: 0,0:09:58.59,0:10:03.59,Ryōko main,Jun,0,0,0,,Are you planning to write a report for every case Yakushiji Ryouko has been involved in?
-Dialogue: 0,0:10:03.59,0:10:08.71,Ryōko main,Non,0,0,0,,Yes, since the official police records will cover up what really happened.
-Dialogue: 0,0:10:09.34,0:10:12.94,Ryōko main,Non,0,0,0,,Mistress Ryouko is cooperating with me too.
-Dialogue: 0,0:10:12.94,0:10:19.16,Ryōko main,Non,0,0,0,,Also, I've come up with a new nickname for her.
-Dialogue: 0,0:10:19.16,0:10:20.72,Ryōko main,Jun,0,0,0,,What is it?
-Dialogue: 0,0:10:21.44,0:10:26.06,Ryōko tl notes,TL Note,0,0,0,,[Note: SLD is short for "Summons Like Dracula".]{go die in a fire}
-Dialogue: 0,0:10:21.44,0:10:23.43,Ryōko main,Non,0,0,0,,SLD Oryou.
-Dialogue: 0,0:10:24.49,0:10:26.06,Ryōko main,Jun,0,0,0,,SLD?
-Dialogue: 0,0:10:26.06,0:10:27.41,Ryōko main,Non,0,0,0,,That's right.
-Dialogue: 0,0:10:27.41,0:10:35.73,Ryōko main,Non,0,0,0,,I get the feeling that she has the power to summon unearthly things, much like Dracula.
-Dialogue: 0,0:10:37.66,0:10:39.80,Ryōko main,Jun,0,0,0,,SLD Oryou, eh?
-Dialogue: 0,0:10:43.44,0:10:46.42,Ryōko italic,Ann,0,0,0,,Next station is Sakuradamon.{the engrish.... IT HURTS}
-Dialogue: 0,0:10:46.42,0:10:48.40,Ryōko italic,Ann,0,0,0,,Please watch your step.
-Dialogue: 0,0:10:48.40,0:10:49.79,Ryōko italic,Ann,0,0,0,,The doors on the right will open.
-Dialogue: 0,0:10:56.63,0:10:58.11,Ryōko main,Ryo,0,0,0,,One more minute.
-Dialogue: 0,0:11:06.14,0:11:07.37,Ryōko overlap,Jun,0,0,0,,Hello—
-Dialogue: 0,0:11:06.31,0:11:07.68,Ryōko italic,Ryo,0,0,0,,Where are you?
-Dialogue: 0,0:11:07.68,0:11:10.02,Ryōko italic,Ryo,0,0,0,,Come to the street in front of the police department at once.
-Dialogue: 0,0:11:13.25,0:11:14.94,Ryōko main,Ryo,0,0,0,,How was your break?
-Dialogue: 0,0:11:15.42,0:11:17.56,Ryōko main,Jun,0,0,0,,It was relaxing.
-Dialogue: 0,0:11:17.56,0:11:18.24,Ryōko main,Ryo,0,0,0,,I see.
-Dialogue: 0,0:11:18.85,0:11:23.45,Ryōko main,Ryo,0,0,0,,Then I will act out the ending to your enjoyable day off.
-Dialogue: 0,0:11:24.45,0:11:26.24,Ryōko main,Jun,0,0,0,,I'm prepared.
-Dialogue: 0,0:11:26.62,0:11:28.75,Ryōko main,Ryo,0,0,0,,What do you mean by that?
-Dialogue: 0,0:11:33.98,0:11:34.88,Ryōko main,Jun,0,0,0,,Umm...
-Dialogue: 0,0:11:35.46,0:11:40.34,Ryōko main,Ryo,0,0,0,,It wouldn't make a good picture if a man and woman walked separately after five o'clock.
-Dialogue: 0,0:11:44.41,0:11:45.80,Ryōko main,Gal,0,0,0,,Hmm, a shot from the back.
-Dialogue: 0,0:11:45.80,0:11:47.56,Ryōko main,Gal,0,0,0,,It wouldn't make a good picture.
-Dialogue: 0,0:11:47.56,0:11:49.48,Ryōko main,Guy,0,0,0,,We've got plenty of opportunities.
-Dialogue: 0,0:11:49.48,0:11:50.39,Ryōko main,Guy,0,0,0,,Let's go.
-Dialogue: 0,0:11:50.39,0:11:51.06,Ryōko main,Gal,0,0,0,,Yes.
-Dialogue: 0,0:12:03.54,0:12:04.82,Ryōko main,Ryo,0,0,0,,Sorry to keep you waiting.
-Dialogue: 0,0:12:08.93,0:12:11.36,Ryōko main,Jun,0,0,0,,What is with that outfit?
-Dialogue: 0,0:12:11.36,0:12:12.54,Ryōko main,Ryo,0,0,0,,You don't know?
-Dialogue: 0,0:12:12.54,0:12:15.24,Ryōko main,Ryo,0,0,0,,If you don't know, let me tell you.
-Dialogue: 0,0:12:15.24,0:12:18.05,Ryōko main,Ryo,0,0,0,,This is called a China dress.
-Dialogue: 0,0:12:18.05,0:12:20.02,Ryōko main,Jun,0,0,0,,That's not what I meant.
-Dialogue: 0,0:12:21.32,0:12:27.18,Ryōko main,Ryo,0,0,0,,Izumida-kun, can't you do better than ask stupid questions?
-Dialogue: 0,0:12:28.40,0:12:30.14,Ryōko main,Jun,0,0,0,,You look wonderful in that.
-Dialogue: 0,0:12:30.82,0:12:31.81,Ryōko main,Ryo,0,0,0,,Rejected.
-Dialogue: 0,0:12:32.64,0:12:34.50,Ryōko main,Ryo,0,0,0,,You're missing the "very".
-Dialogue: 0,0:12:37.96,0:12:39.15,Ryōko main,Jun,0,0,0,,Thank you very much.
-Dialogue: 0,0:12:39.71,0:12:40.96,Ryōko main,Ryo,0,0,0,,Thank you for the food.
-Dialogue: 0,0:12:40.96,0:12:42.12,Ryōko main,Ryo,0,0,0,,I'll come again.
-Dialogue: 0,0:12:44.42,0:12:46.21,Ryōko main,Ryo,0,0,0,,What do you want to do now?
-Dialogue: 0,0:12:46.21,0:12:47.62,Ryōko main,Jun,0,0,0,,I'm going to return home.
-Dialogue: 0,0:12:48.51,0:12:50.04,Ryōko main,Ryo,0,0,0,,What do you want to do now?
-Dialogue: 0,0:12:51.28,0:12:52.54,Ryōko main,Jun,0,0,0,,Like I said...
-Dialogue: 0,0:12:53.63,0:12:55.25,Ryōko main,Ryo,0,0,0,,What do you want to do now?
-Dialogue: 0,0:12:57.01,0:12:59.07,Ryōko main,Jun,0,0,0,,Let's go get a drink.
-Dialogue: 0,0:12:59.07,0:13:00.43,Ryōko main,Ryo,0,0,0,,Is that so?
-Dialogue: 0,0:13:00.43,0:13:05.05,Ryōko main,Ryo,0,0,0,,If you say so, then I guess I have no choice. Let's go.
-Dialogue: 0,0:13:10.46,0:13:12.76,Ryōko main,Ryo,0,0,0,,Say, Izumida-kun...
-Dialogue: 0,0:13:12.76,0:13:13.58,Ryōko main,Jun,0,0,0,,Yes?
-Dialogue: 0,0:13:14.96,0:13:15.99,Ryōko main,Ryo,0,0,0,,I'm cold.
-Dialogue: 0,0:13:15.99,0:13:17.52,Ryōko main,Jun,0,0,0,,It {\i1}is{\i0} almost autumn.
-Dialogue: 0,0:13:18.70,0:13:19.98,Ryōko main,Jun,0,0,0,,Please wait a moment.
-Dialogue: 0,0:13:37.28,0:13:38.17,Ryōko main,Ryo,0,0,0,,Oh...
-Dialogue: 0,0:13:38.63,0:13:40.39,Ryōko main,Ryo,0,0,0,,Are you just opening up?
-Dialogue: 0,0:13:40.39,0:13:42.35,Ryōko main,Man,0,0,0,,Ah, you two...
-Dialogue: 0,0:13:42.35,0:13:43.63,Ryōko main,Man,0,0,0,,It has been a while.
-Dialogue: 0,0:13:47.01,0:13:49.35,Ryōko main,Ryo,0,0,0,,You were late opening up today, weren't you?
-Dialogue: 0,0:13:49.95,0:13:54.97,Ryōko main,Man,0,0,0,,It's really embarrassing, but the scandal from the other day is still affecting me.
-Dialogue: 0,0:13:54.97,0:13:57.47,Ryōko main,Ryo,0,0,0,,The incident regarding the Ministry of Finance, Bureau of Accounts?
-Dialogue: 0,0:13:57.47,0:13:58.35,Ryōko main,Man,0,0,0,,Yes.
-Dialogue: 0,0:13:58.73,0:14:01.09,Ryōko main,Jun,0,0,0,,There are a lot of those lately.
-Dialogue: 0,0:14:01.09,0:14:03.11,Ryōko main,Jun,0,0,0,,Misconduct by government bureaucrats.
-Dialogue: 0,0:14:03.11,0:14:05.12,Ryōko main,Ryo,0,0,0,,It's really deplorable.
-Dialogue: 0,0:14:05.12,0:14:07.53,Ryōko main,Ryo,0,0,0,,Although it's convenient for me.
-Dialogue: 0,0:14:12.07,0:14:13.49,Ryōko main,Gal,0,0,0,,How about this angle?
-Dialogue: 0,0:14:22.42,0:14:30.17,Ryōko main,Jak,0,0,0,,Therefore, it's all thanks to Ryouko-chan that I was able to find my true self, Jacqueline.
-Dialogue: 0,0:14:30.17,0:14:32.74,Ryōko main,Jun,0,0,0,,You've told me that story many times already.
-Dialogue: 0,0:14:32.74,0:14:34.53,Ryōko main,Jak,0,0,0,,Oh my, I'm embarrassed.
-Dialogue: 0,0:14:34.53,0:14:36.98,Ryōko main,Jak,0,0,0,,Then tell me so.
-Dialogue: 0,0:14:37.40,0:14:39.48,Ryōko main,Jak,0,0,0,,Jun-chan, you meanie.
-Dialogue: 0,0:14:39.48,0:14:42.28,Ryōko main,Ryo,0,0,0,,I think I'm a little drunk myself.
-Dialogue: 0,0:14:42.28,0:14:43.78,Ryōko main,Ryo,0,0,0,,I think I'll go home.
-Dialogue: 0,0:14:43.78,0:14:45.12,Ryōko main,Jak,0,0,0,,Is that so?
-Dialogue: 0,0:14:45.12,0:14:48.93,Ryōko main,Jun,0,0,0,,Jackie-san, can you lend me money for the taxi ride?
-Dialogue: 0,0:14:48.93,0:14:52.61,Ryōko main,Ryo,0,0,0,,Hey, Izumida. Saying things like that again...
-Dialogue: 0,0:14:52.61,0:14:54.87,Ryōko main,Ryo,0,0,0,,You're going to stay at my place.
-Dialogue: 0,0:14:54.87,0:14:56.12,Ryōko main,Jun,0,0,0,,No, that's...
-Dialogue: 0,0:14:56.66,0:15:00.12,Ryōko main,Jak,0,0,0,,Oh my, the two of you are going to be man and woman tonight.
-Dialogue: 0,0:15:01.73,0:15:03.71,Ryōko main,Jun,0,0,0,,Please don't say such depressing things.
-Dialogue: 0,0:15:04.32,0:15:07.13,Ryōko main,Ryo,0,0,0,,I have cute maids too.
-Dialogue: 0,0:15:07.48,0:15:09.71,Ryōko main,Jun,0,0,0,,Oh, right.
-Dialogue: 0,0:15:09.71,0:15:11.34,Ryōko main,Jak,0,0,0,,Your paycheck hasn't arrived yet.
-Dialogue: 0,0:15:11.34,0:15:14.10,Ryōko main,Jak,0,0,0,,Why don't you stay at her place?
-Dialogue: 0,0:15:31.04,0:15:32.28,Ryōko main,Gal,0,0,0,,We are too late.
-Dialogue: 0,0:15:33.68,0:15:34.69,Ryōko main,Guy,0,0,0,,Up there.
-Dialogue: 0,0:15:39.47,0:15:40.93,Ryōko main,Ryo,0,0,0,,Want something to drink?
-Dialogue: 0,0:15:40.93,0:15:42.50,Ryōko main,Jun,0,0,0,,No, thank you.
-Dialogue: 0,0:15:43.36,0:15:45.71,Ryōko main,Jun,0,0,0,,Are those two already asleep?
-Dialogue: 0,0:15:45.71,0:15:47.96,Ryōko main,Ryo,0,0,0,,Oh, they're in Paris.
-Dialogue: 0,0:15:48.30,0:15:51.30,Ryōko main,Jun,0,0,0,,What? But earlier you said they were around.
-Dialogue: 0,0:15:51.81,0:15:54.22,Ryōko main,Ryo,0,0,0,,I didn't say they were at home.
-Dialogue: 0,0:16:02.29,0:16:03.35,Ryōko main,Gal,0,0,0,,Perfect.
-Dialogue: 0,0:16:03.85,0:16:05.90,Ryōko main,Gal,0,0,0,,They're watching a video together.
-Dialogue: 0,0:16:05.90,0:16:08.32,Ryōko main,Guy,0,0,0,,It's probably some romance movie.
-Dialogue: 0,0:16:13.94,0:16:16.17,Ryōko main,Jun,0,0,0,,So this is the show you so often talk about.
-Dialogue: 0,0:16:16.17,0:16:16.77,Ryōko main,Ryo,0,0,0,,Yeah.
-Dialogue: 0,0:16:16.77,0:16:19.29,Ryōko main,Ryo,0,0,0,,"Mystery. Thursday the Twelfth."
-Dialogue: 0,0:16:19.77,0:16:24.58,Ryōko main,Ryo,0,0,0,,They put a lot of money into this episode, so it's perfect for the uninitiated.
-Dialogue: 0,0:16:24.58,0:16:27.75,Ryōko main,Ryo,0,0,0,,But it's really stupid, so be prepared.
-Dialogue: 0,0:16:28.19,0:16:28.75,Ryōko main,Jun,0,0,0,,I see.
-Dialogue: 0,0:16:28.75,0:16:31.76,Ryōko italic,TV,0,0,0,,{\an8}Episode 14: Monster Teradtron Appears.
-Dialogue: 0,0:16:33.32,0:16:36.43,Ryōko italic,TV,0,0,0,,{\an8}Listen, Imp God.
-Dialogue: 0,0:16:36.43,0:16:42.35,Ryōko italic,TV,0,0,0,,{\an8}The spies I've sent to Earth have brought back information
-Dialogue: 0,0:16:42.35,0:16:46.44,Ryōko italic,TV,0,0,0,,{\an8}that the foolish earthlings are inventing a weapon of mass destruction.
-Dialogue: 0,0:16:44.24,0:16:46.44,Ryōko main,Ryo,0,0,0,,See? It's really stupid, isn't it?
-Dialogue: 0,0:16:46.44,0:16:51.94,Ryōko italic,TV,0,0,0,,{\an8}Since it has come to this, we imps should stand up and...
-Dialogue: 0,0:16:48.40,0:16:51.94,Ryōko main,Jun,0,0,0,,No, it's interesting... in its own way.
-Dialogue: 0,0:16:54.17,0:16:55.43,Ryōko main,Guy,0,0,0,,Nothing's happening.
-Dialogue: 0,0:16:56.39,0:16:57.47,Ryōko main,Gal,0,0,0,,They've come out.
-Dialogue: 0,0:16:57.47,0:16:57.95,Ryōko main,Guy,0,0,0,,What?
-Dialogue: 0,0:17:32.40,0:17:33.65,Ryōko main,Ryo,0,0,0,,Izumida-kun.
-Dialogue: 0,0:17:34.81,0:17:36.82,Ryōko main,Ryo,0,0,0,,Sit there.
-Dialogue: 0,0:17:41.35,0:17:42.62,Ryōko main,Gal,0,0,0,,Perfect position.
-Dialogue: 0,0:17:43.04,0:17:45.74,Ryōko main,Gal,0,0,0,,It's too good to be true.
-Dialogue: 0,0:17:45.74,0:17:48.45,Ryōko main,Guy,0,0,0,,Maybe she actually knows about us?
-Dialogue: 0,0:17:48.45,0:17:49.84,Ryōko main,Gal,0,0,0,,Impossible.
-Dialogue: 0,0:17:50.63,0:17:52.46,Ryōko main,Jun,0,0,0,,Aren't you going to sit down?
-Dialogue: 0,0:17:58.70,0:17:59.61,Ryōko main,Jun,0,0,0,,Umm...
-Dialogue: 0,0:18:00.59,0:18:02.31,Ryōko main,Ryo,0,0,0,,So you're that kind of man.
-Dialogue: 0,0:18:02.31,0:18:08.37,Ryōko main,Ryo,0,0,0,,A man who makes me sit on a bench that's wet with evening dew.
-Dialogue: 0,0:18:08.37,0:18:11.61,Ryōko main,Ryo,0,0,0,,You don't respect your boss at all, do you?
-Dialogue: 0,0:18:18.61,0:18:19.87,Ryōko main,Gal,0,0,0,,Got it!
-Dialogue: 0,0:18:22.38,0:18:24.29,Ryōko main,Ryo,0,0,0,,Say, Izumida-kun...
-Dialogue: 0,0:18:24.29,0:18:26.33,Ryōko main,Jun,0,0,0,,You're fairly drunk.
-Dialogue: 0,0:18:26.33,0:18:28.29,Ryōko main,Ryo,0,0,0,,Can't I be?
-Dialogue: 0,0:18:28.77,0:18:30.33,Ryōko main,Ryo,0,0,0,,What are you doing?
-Dialogue: 0,0:18:30.33,0:18:33.96,Ryōko main,Jun,0,0,0,,I believe you should sleep.
-Dialogue: 0,0:18:33.96,0:18:35.46,Ryōko main,Ryo,0,0,0,,Take me there then.
-Dialogue: 0,0:18:36.30,0:18:38.17,Ryōko main,Ryo,0,0,0,,I don't want to walk.
-Dialogue: 0,0:18:38.17,0:18:40.80,Ryōko main,Ryo,0,0,0,,Carry me to my bed.
-Dialogue: 0,0:18:42.62,0:18:43.76,Ryōko main,Jun,0,0,0,,Fine.
-Dialogue: 0,0:18:46.01,0:18:46.96,Ryōko main,Ryo,0,0,0,,Wait.
-Dialogue: 0,0:19:06.34,0:19:07.97,Ryōko main,Jun,0,0,0,,Wh-What?!
-Dialogue: 0,0:19:08.69,0:19:10.86,Ryōko main,Ryo,0,0,0,,Oh, I forgot something!
-Dialogue: 0,0:19:10.86,0:19:11.58,Ryōko main,Jun,0,0,0,,Superintendent!
-Dialogue: 0,0:19:26.11,0:19:27.14,Ryōko main,Non,0,0,0,,We've arrived at the scene.
-Dialogue: 0,0:19:27.61,0:19:29.15,Ryōko main,Non,0,0,0,,Secured two suspicious individuals.
-Dialogue: 0,0:19:29.15,0:19:30.52,Ryōko main,Non,0,0,0,,We will now—
-Dialogue: 0,0:19:30.52,0:19:31.44,Ryōko italic,Ryo,0,0,0,,It's me.
-Dialogue: 0,0:19:31.88,0:19:33.42,Ryōko main,Ryo,0,0,0,,Leave the two alone.
-Dialogue: 0,0:19:34.79,0:19:36.57,Ryōko main,Ryo,0,0,0,,Just leave!
-Dialogue: 0,0:19:36.86,0:19:39.11,Ryōko main,Non,0,0,0,,Right. Roger that.
-Dialogue: 0,0:19:50.27,0:19:52.62,Ryōko main,Guy,0,0,0,,What was that just now?
-Dialogue: 0,0:19:52.62,0:19:54.29,Ryōko main,Gal,0,0,0,,B-Beats me...
-Dialogue: 0,0:19:59.79,0:20:03.08,Ryōko main,Ryo,0,0,0,,What's with that outfit?
-Dialogue: 0,0:20:03.08,0:20:05.29,Ryōko main,Jun,0,0,0,,The first train leaves around this time.
-Dialogue: 0,0:20:05.29,0:20:06.88,Ryōko main,Ryo,0,0,0,,Oh well.
-Dialogue: 0,0:20:06.88,0:20:11.81,Ryōko main,Ryo,0,0,0,,Although they didn't capture a perfect moment, I'm sure they got decent photos.
-Dialogue: 0,0:20:12.72,0:20:13.31,Ryōko main,Jun,0,0,0,,Umm...
-Dialogue: 0,0:20:14.37,0:20:15.31,Ryōko main,Ryo,0,0,0,,What is it?
-Dialogue: 0,0:20:15.71,0:20:19.86,Ryōko main,Jun,0,0,0,,I will ask you one thing, even though I know that you won't answer me seriously.
-Dialogue: 0,0:20:20.87,0:20:23.45,Ryōko main,Jun,0,0,0,,What was that commotion just now?
-Dialogue: 0,0:20:24.61,0:20:25.99,Ryōko main,Ryo,0,0,0,,No comment.
-Dialogue: 0,0:20:27.45,0:20:29.33,Ryōko main,Jun,0,0,0,,Thought so.
-Dialogue: 0,0:20:29.33,0:20:30.48,Ryōko main,Jun,0,0,0,,I understand.
-Dialogue: 0,0:20:30.48,0:20:32.50,Ryōko main,Jun,0,0,0,,Now, if you would excuse me...
-Dialogue: 0,0:20:37.59,0:20:38.79,Ryōko main,Ryo,0,0,0,,What is it?
-Dialogue: 0,0:20:38.79,0:20:40.71,Ryōko main,Ryo,0,0,0,,You have more questions?
-Dialogue: 0,0:20:40.71,0:20:42.38,Ryōko main,Ryo,0,0,0,,What a persistent man.
-Dialogue: 0,0:20:43.45,0:20:45.59,Ryōko main,Jun,0,0,0,,Thank you for tonight.
-Dialogue: 0,0:20:47.89,0:20:48.99,Ryōko main,Jun,0,0,0,,Good night.
-Dialogue: 0,0:20:55.46,0:20:59.15,Ryōko main,Ryo,0,0,0,,He's dense, but he knows what to say in situations like this.
-Dialogue: 0,0:20:59.15,0:21:01.40,Ryōko main,Ryo,0,0,0,,It's really unsettling.
-Dialogue: 0,0:21:06.08,0:21:08.28,Ryōko main,Guy,0,0,0,,Wh-What the hell is this?
-Dialogue: 0,0:21:08.67,0:21:11.00,Ryōko main,Gal,0,0,0,,This is impossible!
-Dialogue: 0,0:21:24.31,0:21:27.71,Ryōko main,Gal,0,0,0,,A-All the d-data is gone.
-Dialogue: 0,0:21:27.71,0:21:29.14,Ryōko main,Guy,0,0,0,,Th-That can't be.
-Dialogue: 0,0:21:30.62,0:21:32.85,Ryōko main,Gal,0,0,0,,I'm scared!
-Dialogue: 0,0:21:39.23,0:21:42.19,Ryōko italic,Jun,0,0,0,,And that's how my day off ended.
-Dialogue: 0,0:21:42.77,0:21:51.42,Ryōko italic,Jun,0,0,0,,I would like to take it easy on my next day off, but, with her as my boss, that's probably impossible.
+Dialogue: 0,0:01:53.61,0:01:57.30,Ryōko italic,Ryo,0,0,0,,I am the Russian Empire's only legitimate monarch.
+Dialogue: 0,0:01:57.67,0:02:01.37,Ryōko italic,Ryo,0,0,0,,Follow me if you want to protect the Empire's future!
+Dialogue: 0,0:02:12.42,0:02:14.54,Ryōko italic,Ryo,0,0,0,,Hey! Izumida!
+Dialogue: 0,0:02:16.22,0:02:21.32,Ryōko italic,Ryo,0,0,0,,Why are you so dense?
+Dialogue: 0,0:02:35.91,0:02:37.97,Ryōko italic,Jun,0,0,0,,My name is Izumida Jun'ichirou.
+Dialogue: 0,0:02:37.97,0:02:40.45,Ryōko italic,Jun,0,0,0,,I am Yakushiji Ryouko's loyal retainer...
+Dialogue: 0,0:02:40.45,0:02:42.18,Ryōko italic,Jun,0,0,0,,Or so it seems.
+Dialogue: 0,0:02:42.73,0:02:49.81,Ryōko italic,Jun,0,0,0,,This job usually keeps me very busy,\Nbut even I have days off.
+Dialogue: 0,0:02:53.12,0:02:55.28,Ryōko italic,Ryo,0,0,0,,Was today...?
+Dialogue: 0,0:02:57.20,0:03:00.21,Ryōko main,Mar,0,0,0,,Let's hope nothing happens today.
+Dialogue: 0,0:03:01.02,0:03:05.04,Ryōko main,Old,0,0,0,,Izumida-kun usually handles this task.
+Dialogue: 0,0:03:05.04,0:03:08.90,Ryōko main,Gal,0,0,0,,We should at least try our best to...
+Dialogue: 0,0:03:10.50,0:03:11.58,Ryōko main,Gal,0,0,0,,Superintendent Yakushiji!
+Dialogue: 0,0:03:19.31,0:03:23.01,Ryōko main,Ryo,0,0,0,,What is with this tight schedule?
+Dialogue: 0,0:03:23.01,0:03:26.31,Ryōko main,Gal,0,0,0,,Well, we tried to...
+Dialogue: 0,0:03:26.31,0:03:28.95,Ryōko main,Mar,0,0,0,,...set it up as best we could.
+Dialogue: 0,0:03:28.95,0:03:31.10,Ryōko main,Old,0,0,0,,How is it?
+Dialogue: 0,0:03:32.42,0:03:33.72,Ryōko main,Ryo,0,0,0,,Rejected.
+Comment: 0,0:03:33.72,0:03:35.39,Ryōko main,Ppl,0,0,0,,What?!
+Dialogue: 0,0:03:35.39,0:03:38.82,Ryōko main,Ryo,0,0,0,,I think I'll go drink some awful coffee at Pastel.
+Dialogue: 0,0:03:50.28,0:03:52.25,Ryōko main,Jun,0,0,0,,It's already so late...
+Dialogue: 0,0:03:55.41,0:03:58.09,Ryōko main,Ryo,0,0,0,,It's still so early...
+Dialogue: 0,0:04:03.28,0:04:05.50,Ryōko main,Ryo,0,0,0,,Oh my, Oyuki. It's been a while.
+Dialogue: 0,0:04:05.50,0:04:06.82,Ryōko main,Yuk,0,0,0,,Superintendent Yakushiji!
+Dialogue: 0,0:04:06.82,0:04:07.59,Ryōko main,Kis,0,0,0,,Oryou-sama!
+Dialogue: 0,0:04:08.10,0:04:10.55,Ryōko main,Ryo,0,0,0,,Have you two come for tea?
+Dialogue: 0,0:04:10.55,0:04:13.06,Ryōko main,Ryo,0,0,0,,I envy incompetent people like you\Nwho have so much free time.{lul}
+Dialogue: 0,0:04:13.06,0:04:17.36,Ryōko main,Yuk,0,0,0,,Neither do I have free time nor am I incompetent.
+Dialogue: 0,0:04:17.36,0:04:21.64,Ryōko main,Kis,0,0,0,,We have a press conference at eleven o'clock to discuss the case from the other day.
+Dialogue: 0,0:04:21.64,0:04:23.86,Ryōko main,Kis,0,0,0,,We were busy in the morning, so...
+Dialogue: 0,0:04:24.70,0:04:28.03,Ryōko main,Ryo,0,0,0,,Why is the security division organizing the press conference?
+Dialogue: 0,0:04:28.46,0:04:31.00,Ryōko main,Yuk,0,0,0,,I'm surprised you asked.
+Dialogue: 0,0:04:31.00,0:04:35.08,Ryōko main,Yuk,0,0,0,,{\i1}You're{\i0} the one who forced me to clean up this case.
+Dialogue: 0,0:04:35.45,0:04:38.16,Ryōko main,Ryo,0,0,0,,Then do you want me to attend the press conference too?
+Dialogue: 0,0:04:38.95,0:04:46.54,Ryōko main,Ryo,0,0,0,,I'm sure it'll cause an uproar if I tell the press what actually happened.
+Dialogue: 0,0:04:46.54,0:04:49.56,Ryōko main,Ryo,0,0,0,,Um, was it at eleven?
+Dialogue: 0,0:04:49.95,0:04:52.50,Ryōko main,Yuk,0,0,0,,There is no need for you to attend.
+Dialogue: 0,0:04:52.50,0:04:54.92,Ryōko main,Ryo,0,0,0,,Would it inconvenience you?
+Dialogue: 0,0:04:54.92,0:04:57.77,Ryōko main,Yuk,0,0,0,,I just don't want more headaches.
+Dialogue: 0,0:04:58.16,0:04:59.40,Ryōko main,Ryo,0,0,0,,Is that so?
+Dialogue: 0,0:04:59.40,0:05:00.48,Ryōko main,Ryo,0,0,0,,In that case...
+Dialogue: 0,0:05:13.38,0:05:18.39,Ryōko italic,Ann,70,70,0,,I am at the Metropolitan Police Department, where a press conference on the collapse of the Ginza building is being held.
+Dialogue: 0,0:05:18.39,0:05:23.28,Ryōko italic,Ann,0,0,0,,There is much speculation regarding this incident, but the official explanation...
+Dialogue: 0,0:05:23.28,0:05:27.51,Ryōko italic,Ann,0,0,0,,...is that a gas leak caused\Nan explosion in the building.
+Dialogue: 0,0:05:28.21,0:05:31.68,Ryōko main,Pol,0,0,0,,If there are no more questions, I will be ending this conference.
+Dialogue: 0,0:05:31.68,0:05:33.21,Ryōko main,Pol,0,0,0,,Is that all right?
+Dialogue: 0,0:05:33.21,0:05:35.01,Ryōko main,Man,0,0,0,,No objections.
+Dialogue: 0,0:05:35.01,0:05:37.45,Ryōko main,Guy,0,0,0,,Oh, may I ask one thing?
+Dialogue: 0,0:05:39.03,0:05:44.61,Ryōko main,Guy,0,0,0,,There were reports of a JACES helicopter being present at the scene.
+Dialogue: 0,0:05:44.61,0:05:45.70,Ryōko main,Guy,0,0,0,,Is this true?
+Dialogue: 0,0:05:50.44,0:05:51.97,Ryōko main,Guy,0,0,0,,Please answer me.
+Dialogue: 0,0:05:56.35,0:05:59.27,Ryōko main,Gal,0,0,0,,Wasn't that a bad idea, Senpai?
+Dialogue: 0,0:05:59.27,0:06:00.00,Ryōko main,Guy,0,0,0,,What was?
+Dialogue: 0,0:06:00.00,0:06:03.25,Ryōko main,Gal,0,0,0,,It seemed that asking about it was taboo.
+Dialogue: 0,0:06:03.65,0:06:07.53,Ryōko main,Guy,0,0,0,,{As journalists, we need to be relentless in our pursuit of the truth.}As journalists, uncovering the truth must be our only concern.
+Dialogue: 0,0:06:07.53,0:06:10.82,Ryōko main,Guy,0,0,0,,We can't write good articles if we worry about what others think.
+Dialogue: 0,0:06:10.82,0:06:14.68,Ryōko main,Ues,0,0,0,,May I have a word with the two of you?
+Dialogue: 0,0:06:16.64,0:06:19.58,Ryōko main,Ues,0,0,0,,That reads "Mitsutoshi".
+Dialogue: 0,0:06:19.58,0:06:21.99,Ryōko main,Ues,0,0,0,,So you two are reporters from Maichou Daily?
+Dialogue: 0,0:06:21.99,0:06:22.52,Ryōko main,Gal,0,0,0,,Yes.
+Dialogue: 0,0:06:21.99,0:06:22.52,Ryōko overlap,Guy,0,0,0,,Yes.
+Dialogue: 0,0:06:23.62,0:06:25.86,Ryōko main,ues,0,0,0,,Let me get straight to the point.
+Dialogue: 0,0:06:26.29,0:06:29.20,Ryōko main,Ues,0,0,0,,Do you know about WTED Oryou?
+Dialogue: 0,0:06:30.18,0:06:34.70,Ryōko main,Ues,0,0,0,,As you mentioned earlier, Yakushiji Ryouko will inherit JACES one day.
+Dialogue: 0,0:06:35.13,0:06:36.47,Ryōko main,Man,0,0,0,,H-Hey.
+Dialogue: 0,0:06:38.80,0:06:42.65,Ryōko main,Ues,0,0,0,,JACES is where most people end up working after they retire from the Metropolitan Police Department.
+Dialogue: 0,0:06:42.65,0:06:48.02,Ryōko main,Ues,0,0,0,,Basically, if they oppose her,\Nthey lose their jobs after they retire.{hehe}
+Dialogue: 0,0:06:52.30,0:06:53.76,Ryōko main,Guy,0,0,0,,The elevator's full.
+Dialogue: 0,0:06:53.76,0:06:54.74,Ryōko main,Guy,0,0,0,,Wait for the next one.
+Dialogue: 0,0:06:54.74,0:06:56.32,Ryōko main,Man,0,0,0,,No, it's okay.
+Dialogue: 0,0:06:56.32,0:06:57.10,Ryōko main,Man,0,0,0,,This is where I get off.
+Dialogue: 0,0:06:57.63,0:06:59.12,Ryōko main,Man,0,0,0,,That's not all.
+Dialogue: 0,0:06:59.12,0:07:04.69,Ryōko main,Man,0,0,0,,I hear she uses JACES to uncover secrets and spread rumors about her superiors.
+Dialogue: 0,0:07:06.27,0:07:09.78,Ryōko main,Man,0,0,0,,Therefore, everyone's scared of Yakushiji Ryouko.
+Dialogue: 0,0:07:10.22,0:07:12.45,Ryōko main,Guy,0,0,0,,You mean the Superintendent General too?
+Dialogue: 0,0:07:14.00,0:07:19.62,Ryōko main,Man,0,0,0,,There is no hope for that man.
+Dialogue: 0,0:07:20.37,0:07:25.66,Ryōko main,Guy,0,0,0,,If one eats persimmons, red dragonflies will soar in the autumn sky.{Makes sense.}
+Dialogue: 0,0:07:29.22,0:07:35.46,Ryōko main,Man,0,0,0,,Other than using sarcasm, even I can't do anything more to oppose her.{fuck}
+Dialogue: 0,0:07:35.46,0:07:36.22,Ryōko main,Guy,0,0,0,,Why is that?
+Dialogue: 0,0:07:37.13,0:07:41.10,Ryōko main,Man,0,0,0,,It seems she's got dirt on my company's superiors too.
+Dialogue: 0,0:07:41.67,0:07:43.73,Ryōko main,Guy,0,0,0,,I see. So even Nitto Daily...
+Dialogue: 0,0:07:44.55,0:07:47.65,Ryōko main,Man,0,0,0,,Maichou Daily should be more or less the same.
+Dialogue: 0,0:07:47.65,0:07:50.59,Ryōko main,Man,0,0,0,,Anyway, you shouldn't lay your hands on her.{tehehe}
+Dialogue: 0,0:07:50.59,0:07:56.04,Ryōko main,Man,0,0,0,,If you provoke her, she may take it out on us too.
+Dialogue: 0,0:07:56.04,0:07:58.99,Ryōko main,Man,0,0,0,,Well, I'm counting on you.
+Dialogue: 0,0:08:00.10,0:08:04.38,Ryōko main,Gal,0,0,0,,I get the feeling that his Kansai dialect is all fake.
+Dialogue: 0,0:08:08.24,0:08:11.98,Ryōko main,Gal,0,0,0,,Senpai, you've been quiet the whole time.
+Dialogue: 0,0:08:11.98,0:08:13.32,Ryōko main,Gal,0,0,0,,What's on your mind?
+Dialogue: 0,0:08:13.82,0:08:15.11,Ryōko main,Guy,0,0,0,,It's inexcusable.
+Dialogue: 0,0:08:16.34,0:08:18.21,Ryōko main,Guy,0,0,0,,As a journalist...
+Dialogue: 0,0:08:18.21,0:08:25.80,Ryōko main,Guy,0,0,0,,No, as a human, I'm angered by Yakushiji Ryouko's existence.
+Dialogue: 0,0:08:25.80,0:08:29.44,Ryōko main,Guy,0,0,0,,We ought to write an article about her and appeal to the public's sentiments.
+Dialogue: 0,0:08:29.44,0:08:33.58,Ryōko main,Gal,0,0,0,,But if Uesugi-san told us the truth,
+Dialogue: 0,0:08:33.58,0:08:37.41,Ryōko main,Gal,0,0,0,,any article we write would just be suppressed.
+Dialogue: 0,0:08:38.76,0:08:39.96,Ryōko main,Guy,0,0,0,,That's true.
+Dialogue: 0,0:08:39.96,0:08:42.29,Ryōko main,Gal,0,0,0,,How about this?
+Dialogue: 0,0:08:47.22,0:08:49.50,Ryōko main,Ryo,0,0,0,,And? What did they say?
+Dialogue: 0,0:08:49.50,0:08:54.47,Ryōko main,Gal,0,0,0,,That they would stalk you and try to capture the moment.
+Dialogue: 0,0:08:56.13,0:08:56.97,Ryōko main,Ryo,0,0,0,,Is that so?
+Dialogue: 0,0:08:57.52,0:09:04.26,Ryōko main,Gal,0,0,0,,Their plan is to reveal your scandal, gain public sentiment and then apply pressure on you.
+Dialogue: 0,0:09:04.26,0:09:06.78,Ryōko main,Ryo,0,0,0,,To play "paparazzi"...
+Dialogue: 0,0:09:06.78,0:09:09.56,Ryōko main,Ryo,0,0,0,,The renowned Maichou Daily sure has fallen low.
+Dialogue: 0,0:09:10.12,0:09:12.89,Ryōko main,Ryo,0,0,0,,But I guess the press is the same everywhere.
+Dialogue: 0,0:09:12.89,0:09:15.28,Ryōko main,Ryo,0,0,0,,It's like a cauldron of irresponsibility and fiction,
+Dialogue: 0,0:09:15.28,0:09:18.95,Ryōko main,Ryo,0,0,0,,topped with jealousy and curiosity.
+Dialogue: 0,0:09:19.87,0:09:21.20,Ryōko main,Ryo,0,0,0,,Ah, I know!
+Dialogue: 0,0:09:21.20,0:09:24.66,Ryōko main,Ryo,0,0,0,,If he's dense, I could always do the grunt work and prepare.
+Dialogue: 0,0:09:25.84,0:09:26.62,Ryōko main,Gal,0,0,0,,I see.
+Dialogue: 0,0:09:27.78,0:09:29.63,Ryōko main,Ryo,0,0,0,,It just might work out.
+Dialogue: 0,0:09:34.93,0:09:36.57,Ryōko main,Jun,0,0,0,,Maybe I've caught a cold.
+Dialogue: 0,0:09:36.57,0:09:38.52,Ryōko main,Jun,0,0,0,,I feel cold all of a sudden.
+Dialogue: 0,0:09:45.68,0:09:46.52,Ryōko main,Non,0,0,0,,How is it?
+Dialogue: 0,0:09:49.16,0:09:50.75,Ryōko main,Jun,0,0,0,,It's very well written.
+Dialogue: 0,0:09:50.75,0:09:51.90,Ryōko main,Jun,0,0,0,,I'm impressed.
+Dialogue: 0,0:09:52.22,0:09:53.58,Ryōko main,Non,0,0,0,,Really?
+Dialogue: 0,0:09:53.58,0:09:57.57,Ryōko main,Non,0,0,0,,It's really motivating to hear that from you, Izumida-san.
+Dialogue: 0,0:09:58.67,0:10:03.67,Ryōko main,Jun,0,0,0,,Are you planning to write a report for every case Yakushiji Ryouko has been involved in?
+Dialogue: 0,0:10:03.67,0:10:08.79,Ryōko main,Non,0,0,0,,Yes, since the official police records will cover up what really happened.
+Dialogue: 0,0:10:09.42,0:10:13.02,Ryōko main,Non,0,0,0,,Mistress Ryouko is cooperating with me too.
+Dialogue: 0,0:10:13.02,0:10:19.24,Ryōko main,Non,0,0,0,,Also, I've come up with a new nickname for her.
+Dialogue: 0,0:10:19.24,0:10:20.72,Ryōko main,Jun,0,0,0,,What is it?
+Dialogue: 0,0:10:21.52,0:10:26.06,Ryōko tl notes,TL Note,0,0,0,,[Note: SLD is short for "Summons Like Dracula".]{go die in a fire}
+Dialogue: 0,0:10:21.52,0:10:23.47,Ryōko main,Non,0,0,0,,SLD Oryou.
+Dialogue: 0,0:10:24.57,0:10:26.06,Ryōko main,Jun,0,0,0,,SLD?
+Dialogue: 0,0:10:26.06,0:10:27.49,Ryōko main,Non,0,0,0,,That's right.
+Dialogue: 0,0:10:27.49,0:10:35.73,Ryōko main,Non,0,0,0,,I get the feeling that she has the power to summon unearthly things, much like Dracula.
+Dialogue: 0,0:10:37.74,0:10:39.88,Ryōko main,Jun,0,0,0,,SLD Oryou, eh?
+Dialogue: 0,0:10:43.52,0:10:46.50,Ryōko italic,Ann,0,0,0,,Next station is Sakuradamon.{the engrish.... IT HURTS}
+Dialogue: 0,0:10:46.50,0:10:48.48,Ryōko italic,Ann,0,0,0,,Please watch your step.
+Dialogue: 0,0:10:48.48,0:10:49.83,Ryōko italic,Ann,0,0,0,,The doors on the right will open.
+Dialogue: 0,0:10:56.71,0:10:58.19,Ryōko main,Ryo,0,0,0,,One more minute.
+Dialogue: 0,0:11:06.22,0:11:07.45,Ryōko overlap,Jun,0,0,0,,Hello—
+Dialogue: 0,0:11:06.39,0:11:07.76,Ryōko italic,Ryo,0,0,0,,Where are you?
+Dialogue: 0,0:11:07.76,0:11:10.06,Ryōko italic,Ryo,0,0,0,,Come to the street in front of the police department at once.
+Dialogue: 0,0:11:13.33,0:11:15.02,Ryōko main,Ryo,0,0,0,,How was your break?
+Dialogue: 0,0:11:15.50,0:11:17.64,Ryōko main,Jun,0,0,0,,It was relaxing.
+Dialogue: 0,0:11:17.64,0:11:18.24,Ryōko main,Ryo,0,0,0,,I see.
+Dialogue: 0,0:11:18.93,0:11:23.53,Ryōko main,Ryo,0,0,0,,Then I will act out the ending to your enjoyable day off.
+Dialogue: 0,0:11:24.53,0:11:26.24,Ryōko main,Jun,0,0,0,,I'm prepared.
+Dialogue: 0,0:11:26.70,0:11:28.75,Ryōko main,Ryo,0,0,0,,What do you mean by that?
+Dialogue: 0,0:11:34.06,0:11:34.92,Ryōko main,Jun,0,0,0,,Umm...
+Dialogue: 0,0:11:35.54,0:11:40.38,Ryōko main,Ryo,0,0,0,,It wouldn't make a good picture if a man and woman walked separately after five o'clock.
+Dialogue: 0,0:11:44.49,0:11:45.88,Ryōko main,Gal,0,0,0,,Hmm, a shot from the back.
+Dialogue: 0,0:11:45.88,0:11:47.64,Ryōko main,Gal,0,0,0,,It wouldn't make a good picture.
+Dialogue: 0,0:11:47.64,0:11:49.56,Ryōko main,Guy,0,0,0,,We've got plenty of opportunities.
+Dialogue: 0,0:11:49.56,0:11:50.47,Ryōko main,Guy,0,0,0,,Let's go.
+Dialogue: 0,0:11:50.47,0:11:51.10,Ryōko main,Gal,0,0,0,,Yes.
+Dialogue: 0,0:12:03.62,0:12:04.90,Ryōko main,Ryo,0,0,0,,Sorry to keep you waiting.
+Dialogue: 0,0:12:09.01,0:12:11.44,Ryōko main,Jun,0,0,0,,What is with that outfit?
+Dialogue: 0,0:12:11.44,0:12:12.62,Ryōko main,Ryo,0,0,0,,You don't know?
+Dialogue: 0,0:12:12.62,0:12:15.32,Ryōko main,Ryo,0,0,0,,If you don't know, let me tell you.
+Dialogue: 0,0:12:15.32,0:12:18.13,Ryōko main,Ryo,0,0,0,,This is called a China dress.
+Dialogue: 0,0:12:18.13,0:12:20.10,Ryōko main,Jun,0,0,0,,That's not what I meant.
+Dialogue: 0,0:12:21.40,0:12:27.26,Ryōko main,Ryo,0,0,0,,Izumida-kun, can't you do better than ask stupid questions?
+Dialogue: 0,0:12:28.48,0:12:30.22,Ryōko main,Jun,0,0,0,,You look wonderful in that.
+Dialogue: 0,0:12:30.90,0:12:31.89,Ryōko main,Ryo,0,0,0,,Rejected.
+Dialogue: 0,0:12:32.72,0:12:34.58,Ryōko main,Ryo,0,0,0,,You're missing the "very".
+Dialogue: 0,0:12:38.04,0:12:39.23,Ryōko main,Jun,0,0,0,,Thank you very much.
+Dialogue: 0,0:12:39.79,0:12:41.04,Ryōko main,Ryo,0,0,0,,Thank you for the food.
+Dialogue: 0,0:12:41.04,0:12:42.20,Ryōko main,Ryo,0,0,0,,I'll come again.
+Dialogue: 0,0:12:44.50,0:12:46.29,Ryōko main,Ryo,0,0,0,,What do you want to do now?
+Dialogue: 0,0:12:46.29,0:12:47.70,Ryōko main,Jun,0,0,0,,I'm going to return home.
+Dialogue: 0,0:12:48.59,0:12:50.16,Ryōko main,Ryo,0,0,0,,What do you want to do now?
+Dialogue: 0,0:12:51.36,0:12:52.62,Ryōko main,Jun,0,0,0,,Like I said...
+Dialogue: 0,0:12:53.71,0:12:55.33,Ryōko main,Ryo,0,0,0,,What do you want to do now?
+Dialogue: 0,0:12:57.09,0:12:59.15,Ryōko main,Jun,0,0,0,,Let's go get a drink.
+Dialogue: 0,0:12:59.15,0:13:00.51,Ryōko main,Ryo,0,0,0,,Is that so?
+Dialogue: 0,0:13:00.51,0:13:05.13,Ryōko main,Ryo,0,0,0,,If you say so, then I guess I have no choice. Let's go.
+Dialogue: 0,0:13:10.54,0:13:12.84,Ryōko main,Ryo,0,0,0,,Say, Izumida-kun...
+Dialogue: 0,0:13:12.84,0:13:13.66,Ryōko main,Jun,0,0,0,,Yes?
+Dialogue: 0,0:13:15.04,0:13:16.07,Ryōko main,Ryo,0,0,0,,I'm cold.
+Dialogue: 0,0:13:16.07,0:13:17.60,Ryōko main,Jun,0,0,0,,It {\i1}is{\i0} almost autumn.
+Dialogue: 0,0:13:18.78,0:13:20.06,Ryōko main,Jun,0,0,0,,Please wait a moment.
+Dialogue: 0,0:13:37.36,0:13:38.25,Ryōko main,Ryo,0,0,0,,Oh...
+Dialogue: 0,0:13:38.71,0:13:40.47,Ryōko main,Ryo,0,0,0,,Are you just opening up?
+Dialogue: 0,0:13:40.47,0:13:42.43,Ryōko main,Man,0,0,0,,Ah, you two...
+Dialogue: 0,0:13:42.43,0:13:43.71,Ryōko main,Man,0,0,0,,It has been a while.
+Dialogue: 0,0:13:47.09,0:13:49.43,Ryōko main,Ryo,0,0,0,,You were late opening up today, weren't you?
+Dialogue: 0,0:13:50.03,0:13:55.05,Ryōko main,Man,0,0,0,,It's really embarrassing, but the scandal from the other day is still affecting me.
+Dialogue: 0,0:13:55.05,0:13:57.55,Ryōko main,Ryo,0,0,0,,The incident regarding the Ministry of Finance, Bureau of Accounts?
+Dialogue: 0,0:13:57.55,0:13:58.43,Ryōko main,Man,0,0,0,,Yes.
+Dialogue: 0,0:13:58.81,0:14:01.17,Ryōko main,Jun,0,0,0,,There are a lot of those lately.
+Dialogue: 0,0:14:01.17,0:14:03.19,Ryōko main,Jun,0,0,0,,Misconduct by government bureaucrats.
+Dialogue: 0,0:14:03.19,0:14:05.20,Ryōko main,Ryo,0,0,0,,It's really deplorable.
+Dialogue: 0,0:14:05.20,0:14:07.61,Ryōko main,Ryo,0,0,0,,Although it's convenient for me.
+Dialogue: 0,0:14:12.15,0:14:13.57,Ryōko main,Gal,0,0,0,,How about this angle?
+Dialogue: 0,0:14:22.50,0:14:30.25,Ryōko main,Jak,0,0,0,,Therefore, it's all thanks to Ryouko-chan that I was able to find my true self, Jacqueline.
+Dialogue: 0,0:14:30.25,0:14:32.82,Ryōko main,Jun,0,0,0,,You've told me that story many times already.
+Dialogue: 0,0:14:32.82,0:14:34.61,Ryōko main,Jak,0,0,0,,Oh my, I'm embarrassed.
+Dialogue: 0,0:14:34.61,0:14:37.06,Ryōko main,Jak,0,0,0,,Then tell me so.
+Dialogue: 0,0:14:37.48,0:14:39.56,Ryōko main,Jak,0,0,0,,Jun-chan, you meanie.
+Dialogue: 0,0:14:39.56,0:14:42.36,Ryōko main,Ryo,0,0,0,,I think I'm a little drunk myself.
+Dialogue: 0,0:14:42.36,0:14:43.86,Ryōko main,Ryo,0,0,0,,I think I'll go home.
+Dialogue: 0,0:14:43.86,0:14:45.20,Ryōko main,Jak,0,0,0,,Is that so?
+Dialogue: 0,0:14:45.20,0:14:49.01,Ryōko main,Jun,0,0,0,,Jackie-san, can you lend me money for the taxi ride?
+Dialogue: 0,0:14:49.01,0:14:52.69,Ryōko main,Ryo,0,0,0,,Hey, Izumida. Saying things like that again...
+Dialogue: 0,0:14:52.69,0:14:54.95,Ryōko main,Ryo,0,0,0,,You're going to stay at my place.
+Dialogue: 0,0:14:54.95,0:14:56.20,Ryōko main,Jun,0,0,0,,No, that's...
+Dialogue: 0,0:14:56.74,0:15:00.20,Ryōko main,Jak,0,0,0,,Oh my, the two of you are going to be man and woman tonight.
+Dialogue: 0,0:15:01.81,0:15:03.79,Ryōko main,Jun,0,0,0,,Please don't say such depressing things.
+Dialogue: 0,0:15:04.40,0:15:07.21,Ryōko main,Ryo,0,0,0,,I have cute maids too.
+Dialogue: 0,0:15:07.56,0:15:09.79,Ryōko main,Jun,0,0,0,,Oh, right.
+Dialogue: 0,0:15:09.79,0:15:11.42,Ryōko main,Jak,0,0,0,,Your paycheck hasn't arrived yet.
+Dialogue: 0,0:15:11.42,0:15:14.18,Ryōko main,Jak,0,0,0,,Why don't you stay at her place?
+Dialogue: 0,0:15:31.12,0:15:32.36,Ryōko main,Gal,0,0,0,,We are too late.
+Dialogue: 0,0:15:33.76,0:15:34.77,Ryōko main,Guy,0,0,0,,Up there.
+Dialogue: 0,0:15:39.55,0:15:41.01,Ryōko main,Ryo,0,0,0,,Want something to drink?
+Dialogue: 0,0:15:41.01,0:15:42.58,Ryōko main,Jun,0,0,0,,No, thank you.
+Dialogue: 0,0:15:43.44,0:15:45.79,Ryōko main,Jun,0,0,0,,Are those two already asleep?
+Dialogue: 0,0:15:45.79,0:15:48.04,Ryōko main,Ryo,0,0,0,,Oh, they're in Paris.
+Dialogue: 0,0:15:48.38,0:15:51.38,Ryōko main,Jun,0,0,0,,What? But earlier you said they were around.
+Dialogue: 0,0:15:51.89,0:15:54.34,Ryōko main,Ryo,0,0,0,,I didn't say they were at home.
+Dialogue: 0,0:16:02.37,0:16:03.43,Ryōko main,Gal,0,0,0,,Perfect.
+Dialogue: 0,0:16:03.93,0:16:05.98,Ryōko main,Gal,0,0,0,,They're watching a video together.
+Dialogue: 0,0:16:05.98,0:16:08.40,Ryōko main,Guy,0,0,0,,It's probably some romance movie.
+Dialogue: 0,0:16:14.02,0:16:16.25,Ryōko main,Jun,0,0,0,,So this is the show you so often talk about.
+Dialogue: 0,0:16:16.25,0:16:16.85,Ryōko main,Ryo,0,0,0,,Yeah.
+Dialogue: 0,0:16:16.85,0:16:19.41,Ryōko main,Ryo,0,0,0,,"Mystery. Thursday the Twelfth."
+Dialogue: 0,0:16:19.85,0:16:24.66,Ryōko main,Ryo,0,0,0,,They put a lot of money into this episode, so it's perfect for the uninitiated.
+Dialogue: 0,0:16:24.66,0:16:27.83,Ryōko main,Ryo,0,0,0,,But it's really stupid, so be prepared.
+Dialogue: 0,0:16:28.27,0:16:28.83,Ryōko main,Jun,0,0,0,,I see.
+Dialogue: 0,0:16:28.83,0:16:31.84,Ryōko italic,TV,0,0,0,,{\an8}Episode 14: Monster Teradtron Appears.
+Dialogue: 0,0:16:33.40,0:16:36.51,Ryōko italic,TV,0,0,0,,{\an8}Listen, Imp God.
+Dialogue: 0,0:16:36.51,0:16:42.43,Ryōko italic,TV,0,0,0,,{\an8}The spies I've sent to Earth have brought back information
+Dialogue: 0,0:16:42.43,0:16:46.52,Ryōko italic,TV,0,0,0,,{\an8}that the foolish earthlings are inventing a weapon of mass destruction.
+Dialogue: 0,0:16:44.32,0:16:46.52,Ryōko main,Ryo,0,0,0,,See? It's really stupid, isn't it?
+Dialogue: 0,0:16:46.52,0:16:52.02,Ryōko italic,TV,0,0,0,,{\an8}Since it has come to this, we imps should stand up and...
+Dialogue: 0,0:16:48.48,0:16:52.02,Ryōko main,Jun,0,0,0,,No, it's interesting... in its own way.
+Dialogue: 0,0:16:54.25,0:16:55.51,Ryōko main,Guy,0,0,0,,Nothing's happening.
+Dialogue: 0,0:16:56.47,0:16:57.55,Ryōko main,Gal,0,0,0,,They've come out.
+Dialogue: 0,0:16:57.55,0:16:58.08,Ryōko main,Guy,0,0,0,,What?
+Dialogue: 0,0:17:32.48,0:17:33.73,Ryōko main,Ryo,0,0,0,,Izumida-kun.
+Dialogue: 0,0:17:34.89,0:17:36.95,Ryōko main,Ryo,0,0,0,,Sit there.
+Dialogue: 0,0:17:41.43,0:17:42.70,Ryōko main,Gal,0,0,0,,Perfect position.
+Dialogue: 0,0:17:43.12,0:17:45.82,Ryōko main,Gal,0,0,0,,It's too good to be true.
+Dialogue: 0,0:17:45.82,0:17:48.53,Ryōko main,Guy,0,0,0,,Maybe she actually knows about us?
+Dialogue: 0,0:17:48.53,0:17:49.96,Ryōko main,Gal,0,0,0,,Impossible.
+Dialogue: 0,0:17:50.71,0:17:52.54,Ryōko main,Jun,0,0,0,,Aren't you going to sit down?
+Dialogue: 0,0:17:58.78,0:17:59.69,Ryōko main,Jun,0,0,0,,Umm...
+Dialogue: 0,0:18:00.67,0:18:02.39,Ryōko main,Ryo,0,0,0,,So you're that kind of man.
+Dialogue: 0,0:18:02.39,0:18:08.45,Ryōko main,Ryo,0,0,0,,A man who makes me sit on a bench that's wet with evening dew.
+Dialogue: 0,0:18:08.45,0:18:11.69,Ryōko main,Ryo,0,0,0,,You don't respect your boss at all, do you?
+Dialogue: 0,0:18:18.69,0:18:19.95,Ryōko main,Gal,0,0,0,,Got it!
+Dialogue: 0,0:18:22.46,0:18:24.37,Ryōko main,Ryo,0,0,0,,Say, Izumida-kun...
+Dialogue: 0,0:18:24.37,0:18:26.41,Ryōko main,Jun,0,0,0,,You're fairly drunk.
+Dialogue: 0,0:18:26.41,0:18:28.37,Ryōko main,Ryo,0,0,0,,Can't I be?
+Dialogue: 0,0:18:28.85,0:18:30.41,Ryōko main,Ryo,0,0,0,,What are you doing?
+Dialogue: 0,0:18:30.41,0:18:34.04,Ryōko main,Jun,0,0,0,,I believe you should sleep.
+Dialogue: 0,0:18:34.04,0:18:35.54,Ryōko main,Ryo,0,0,0,,Take me there then.
+Dialogue: 0,0:18:36.38,0:18:38.25,Ryōko main,Ryo,0,0,0,,I don't want to walk.
+Dialogue: 0,0:18:38.25,0:18:40.88,Ryōko main,Ryo,0,0,0,,Carry me to my bed.
+Dialogue: 0,0:18:42.70,0:18:43.84,Ryōko main,Jun,0,0,0,,Fine.
+Dialogue: 0,0:18:46.09,0:18:47.04,Ryōko main,Ryo,0,0,0,,Wait.
+Dialogue: 0,0:19:06.42,0:19:08.05,Ryōko main,Jun,0,0,0,,Wh-What?!
+Dialogue: 0,0:19:08.77,0:19:10.94,Ryōko main,Ryo,0,0,0,,Oh, I forgot something!
+Dialogue: 0,0:19:10.94,0:19:11.66,Ryōko main,Jun,0,0,0,,Superintendent!
+Dialogue: 0,0:19:26.19,0:19:27.22,Ryōko main,Non,0,0,0,,We've arrived at the scene.
+Dialogue: 0,0:19:27.69,0:19:29.23,Ryōko main,Non,0,0,0,,Secured two suspicious individuals.
+Dialogue: 0,0:19:29.23,0:19:30.60,Ryōko main,Non,0,0,0,,We will now—
+Dialogue: 0,0:19:30.60,0:19:31.60,Ryōko italic,Ryo,0,0,0,,It's me.
+Dialogue: 0,0:19:31.96,0:19:33.50,Ryōko main,Ryo,0,0,0,,Leave the two alone.
+Dialogue: 0,0:19:34.87,0:19:36.65,Ryōko main,Ryo,0,0,0,,Just leave!
+Dialogue: 0,0:19:36.94,0:19:39.19,Ryōko main,Non,0,0,0,,Right. Roger that.
+Dialogue: 0,0:19:50.35,0:19:52.70,Ryōko main,Guy,0,0,0,,What was that just now?
+Dialogue: 0,0:19:52.70,0:19:54.37,Ryōko main,Gal,0,0,0,,B-Beats me...
+Dialogue: 0,0:19:59.87,0:20:03.16,Ryōko main,Ryo,0,0,0,,What's with that outfit?
+Dialogue: 0,0:20:03.16,0:20:05.37,Ryōko main,Jun,0,0,0,,The first train leaves around this time.
+Dialogue: 0,0:20:05.37,0:20:06.96,Ryōko main,Ryo,0,0,0,,Oh well.
+Dialogue: 0,0:20:06.96,0:20:11.94,Ryōko main,Ryo,0,0,0,,Although they didn't capture a perfect moment, I'm sure they got decent photos.
+Dialogue: 0,0:20:12.80,0:20:13.39,Ryōko main,Jun,0,0,0,,Umm...
+Dialogue: 0,0:20:14.45,0:20:15.39,Ryōko main,Ryo,0,0,0,,What is it?
+Dialogue: 0,0:20:15.79,0:20:19.94,Ryōko main,Jun,0,0,0,,I will ask you one thing, even though I know that you won't answer me seriously.
+Dialogue: 0,0:20:20.95,0:20:23.53,Ryōko main,Jun,0,0,0,,What was that commotion just now?
+Dialogue: 0,0:20:24.69,0:20:26.12,Ryōko main,Ryo,0,0,0,,No comment.
+Dialogue: 0,0:20:27.53,0:20:29.41,Ryōko main,Jun,0,0,0,,Thought so.
+Dialogue: 0,0:20:29.41,0:20:30.56,Ryōko main,Jun,0,0,0,,I understand.
+Dialogue: 0,0:20:30.56,0:20:32.58,Ryōko main,Jun,0,0,0,,Now, if you would excuse me...
+Dialogue: 0,0:20:37.67,0:20:38.87,Ryōko main,Ryo,0,0,0,,What is it?
+Dialogue: 0,0:20:38.87,0:20:40.79,Ryōko main,Ryo,0,0,0,,You have more questions?
+Dialogue: 0,0:20:40.79,0:20:42.42,Ryōko main,Ryo,0,0,0,,What a persistent man.
+Dialogue: 0,0:20:43.53,0:20:45.67,Ryōko main,Jun,0,0,0,,Thank you for tonight.
+Dialogue: 0,0:20:47.97,0:20:49.07,Ryōko main,Jun,0,0,0,,Good night.
+Dialogue: 0,0:20:55.54,0:20:59.23,Ryōko main,Ryo,0,0,0,,He's dense, but he knows what to say in situations like this.
+Dialogue: 0,0:20:59.23,0:21:01.48,Ryōko main,Ryo,0,0,0,,It's really unsettling.
+Dialogue: 0,0:21:06.16,0:21:08.36,Ryōko main,Guy,0,0,0,,Wh-What the hell is this?
+Dialogue: 0,0:21:08.75,0:21:11.08,Ryōko main,Gal,0,0,0,,This is impossible!
+Dialogue: 0,0:21:24.39,0:21:27.79,Ryōko main,Gal,0,0,0,,A-All the d-data is gone.
+Dialogue: 0,0:21:27.79,0:21:29.22,Ryōko main,Guy,0,0,0,,Th-That can't be.
+Dialogue: 0,0:21:30.70,0:21:32.93,Ryōko main,Gal,0,0,0,,I'm scared!
+Dialogue: 0,0:21:39.31,0:21:42.27,Ryōko italic,Jun,0,0,0,,And that's how my day off ended.
+Dialogue: 0,0:21:42.85,0:21:51.50,Ryōko italic,Jun,0,0,0,,I would like to take it easy on my next day off, but, with her as my boss, that's probably impossible.
 Dialogue: 0,0:23:15.14,0:23:18.32,Ryōko main,,0,0,0,,{\bord7\blur5}The people and events in this work are purely fictional.
 Dialogue: 0,0:23:18.32,0:23:24.28,Ryōko main,,0,0,0,,{\bord7\blur5}Any resemblance to existing people or events is entirely coincidental.
-Dialogue: 0,0:23:25.85,0:23:27.17,Ryōko main,Gal,0,0,0,,Have some tea, Superintendent.
-Dialogue: 0,0:23:27.17,0:23:27.74,Ryōko main,Ryo,0,0,0,,What's this?
-Dialogue: 0,0:23:27.74,0:23:30.46,Ryōko main,Gal,0,0,0,,It's Yuanyang, tea from the country I love, Hong Kong.
-Dialogue: 0,0:23:30.46,0:23:32.52,Ryōko main,Gal,0,0,0,,You mix coffee and tea—
-Dialogue: 0,0:23:32.52,0:23:37.84,Ryōko main,Jun,0,0,0,,Yakushiji Ryouko's Supernatural Case File, File Number 04: Musashino Violet Time.
-Dialogue: 0,0:23:38.01,0:23:39.26,Ryōko main,Gal,0,0,0,,You can also add—
+Dialogue: 0,0:23:25.93,0:23:27.25,Ryōko main,Gal,0,0,0,,Have some tea, Superintendent.
+Dialogue: 0,0:23:27.25,0:23:27.82,Ryōko main,Ryo,0,0,0,,What's this?
+Dialogue: 0,0:23:27.82,0:23:30.63,Ryōko main,Gal,0,0,0,,It's Yuanyang, tea from the country I love, Hong Kong.
+Dialogue: 0,0:23:30.63,0:23:32.60,Ryōko main,Gal,0,0,0,,You mix coffee and tea—
+Dialogue: 0,0:23:32.60,0:23:38.02,Ryōko main,Jun,0,0,0,,Yakushiji Ryouko's Supernatural Case File, File Number 04: Musashino Violet Time.
+Dialogue: 0,0:23:38.02,0:23:39.36,Ryōko main,Gal,0,0,0,,You can also add—
