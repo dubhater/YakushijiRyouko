@@ -6,12 +6,12 @@ WrapStyle: 0
 PlayResX: 856
 PlayResY: 476
 Audio URI: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 03.mkv
-Scroll Position: 0
-Active Line: 2
+Scroll Position: 276
+Active Line: 280
 Video File: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 03.mkv
 Video Colorspace: BT.601
 Video Aspect Ratio: c1.79832
-Video Position: 2192
+Video Position: 29432
 YCbCr Matrix: TV.601
 Keyframes File: ../avisynth/scxvid/ep03-scxvid.txt
 Last Style Storage: ryōko
@@ -53,8 +53,8 @@ Dialogue: 0,0:03:28.95,0:03:31.10,Ryōko main,Old,0,0,0,,How is it?
 Dialogue: 0,0:03:32.42,0:03:33.72,Ryōko main,Ryo,0,0,0,,Rejected.
 Comment: 0,0:03:33.72,0:03:35.39,Ryōko main,Ppl,0,0,0,,What?!
 Dialogue: 0,0:03:35.39,0:03:38.82,Ryōko main,Ryo,0,0,0,,I think I’ll go drink some\Nawful coffee at Pastel.
-Dialogue: 0,0:03:50.28,0:03:52.25,Ryōko main,Jun,0,0,0,,It’s already so late…
-Dialogue: 0,0:03:55.41,0:03:58.09,Ryōko main,Ryo,0,0,0,,It’s still so early…
+Dialogue: 0,0:03:50.28,0:03:52.25,Ryōko main,Jun,0,0,0,,Already so late…
+Dialogue: 0,0:03:55.41,0:03:58.09,Ryōko main,Ryo,0,0,0,,Still so early…
 Dialogue: 0,0:04:03.28,0:04:05.50,Ryōko main,Ryo,0,0,0,,Oh my, Oyuki.\NIt’s been a while.
 Dialogue: 0,0:04:05.50,0:04:06.82,Ryōko main,Yuk,0,0,0,,Superintendent Yakushiji!
 Dialogue: 0,0:04:06.82,0:04:07.59,Ryōko main,Kis,0,0,0,,Oryou-sama!
@@ -110,10 +110,10 @@ Dialogue: 0,0:06:59.12,0:07:04.69,Ryōko main,Man,0,0,0,,I hear she uses JACES t
 Dialogue: 0,0:07:06.27,0:07:09.78,Ryōko main,Man,0,0,0,,Therefore, everyone’s\Nscared of Yakushiji Ryouko.
 Dialogue: 0,0:07:10.22,0:07:12.45,Ryōko main,Guy,0,0,0,,You mean the\NSuperintendent General too?
 Dialogue: 0,0:07:14.00,0:07:19.62,Ryōko main,Man,0,0,0,,There is no hope\Nfor that man.
-Dialogue: 0,0:07:20.37,0:07:25.66,Ryōko main,Guy,0,0,0,,If one eats persimmons, red dragonflies will soar in the autumn sky.{Makes sense.}
+Dialogue: 0,0:07:20.37,0:07:25.66,Ryōko main,Guy,0,0,0,,If one eats persimmons, red dragonflies\Nwill soar in the autumn sky.{Makes sense.}
 Dialogue: 0,0:07:29.22,0:07:35.46,Ryōko main,Man,0,0,0,,Other than using sarcasm, even I can’t do anything more to oppose her.{fuck}
 Dialogue: 0,0:07:35.46,0:07:36.22,Ryōko main,Guy,0,0,0,,Why is that?
-Dialogue: 0,0:07:37.13,0:07:41.10,Ryōko main,Man,0,0,0,,It seems she’s got dirt on my company’s superiors too.
+Dialogue: 0,0:07:37.13,0:07:41.10,Ryōko main,Man,0,0,0,,It seems she’s got dirt on\Nmy company’s superiors too.
 Dialogue: 0,0:07:41.67,0:07:43.73,Ryōko main,Guy,0,0,0,,I see. So even Nitto Daily…
 Dialogue: 0,0:07:44.55,0:07:47.65,Ryōko main,Man,0,0,0,,Maichou Daily should be\Nmore or less the same.
 Dialogue: 0,0:07:47.65,0:07:50.59,Ryōko main,Man,0,0,0,,Anyway, you shouldn’t\Nlay your hands on her.{tehehe}
@@ -172,7 +172,7 @@ Dialogue: 0,0:11:13.33,0:11:15.02,Ryōko main,Ryo,0,0,0,,How was your break?
 Dialogue: 0,0:11:15.50,0:11:17.64,Ryōko main,Jun,0,0,0,,It was relaxing.
 Dialogue: 0,0:11:17.64,0:11:18.24,Ryōko main,Ryo,0,0,0,,I see.
 Dialogue: 0,0:11:18.93,0:11:23.53,Ryōko main,Ryo,0,0,0,,Then I will act out the ending to your enjoyable day off.
-Dialogue: 0,0:11:24.53,0:11:26.24,Ryōko main,Jun,0,0,0,,I’m prepared.
+Dialogue: 0,0:11:24.53,0:11:26.24,Ryōko main,Jun,0,0,0,,I’m prepared.{"Kakugo (ha?) ikite orimasu." - "I'm ready to live through it." ?}
 Dialogue: 0,0:11:26.70,0:11:28.75,Ryōko main,Ryo,0,0,0,,What do you mean by that?
 Dialogue: 0,0:11:34.06,0:11:34.92,Ryōko main,Jun,0,0,0,,Umm…
 Dialogue: 0,0:11:35.54,0:11:40.38,Ryōko main,Ryo,0,0,0,,It wouldn’t make a good picture if a man and woman walked separately after five o’clock.
@@ -252,7 +252,7 @@ Dialogue: 0,0:16:05.98,0:16:08.40,Ryōko main,Guy,0,0,0,,It’s probably some\Nr
 Dialogue: 0,0:16:14.02,0:16:16.25,Ryōko main,Jun,0,0,0,,So this is the show\Nyou so often talk about.
 Dialogue: 0,0:16:16.25,0:16:16.85,Ryōko main,Ryo,0,0,0,,Yeah.
 Dialogue: 0,0:16:16.85,0:16:19.41,Ryōko main,Ryo,0,0,0,,“Mystery. Thursday the Twelfth.”
-Dialogue: 0,0:16:19.85,0:16:24.66,Ryōko main,Ryo,0,0,0,,They put a lot of money into this episode, so it’s perfect for the uninitiated.
+Dialogue: 0,0:16:19.85,0:16:24.66,Ryōko main,Ryo,0,0,0,,They put a lot of money into this episode,\Nso it’s perfect for the uninitiated.
 Dialogue: 0,0:16:24.66,0:16:27.83,Ryōko main,Ryo,0,0,0,,But it’s really stupid,\Nso be prepared.
 Dialogue: 0,0:16:28.27,0:16:28.83,Ryōko main,Jun,0,0,0,,I see.
 Dialogue: 0,0:16:28.83,0:16:31.84,Ryōko italic,TV,0,0,0,,{\an8}Episode 14: Monster Teradtron Appears.
@@ -305,10 +305,10 @@ Dialogue: 0,0:20:05.37,0:20:06.96,Ryōko main,Ryo,0,0,0,,Oh well.
 Dialogue: 0,0:20:06.96,0:20:11.94,Ryōko main,Ryo,0,0,0,,Although they didn’t capture a perfect moment, I’m sure they got decent photos.
 Dialogue: 0,0:20:12.80,0:20:13.39,Ryōko main,Jun,0,0,0,,Umm…
 Dialogue: 0,0:20:14.45,0:20:15.39,Ryōko main,Ryo,0,0,0,,What is it?
-Dialogue: 0,0:20:15.79,0:20:19.94,Ryōko main,Jun,0,0,0,,I will ask you one thing, even though I know that you won’t answer me seriously.
+Dialogue: 0,0:20:15.79,0:20:19.94,Ryōko main,Jun,0,0,0,,I will ask you one thing, even though\NI know that you won’t answer me seriously.
 Dialogue: 0,0:20:20.95,0:20:23.53,Ryōko main,Jun,0,0,0,,What was that\Ncommotion just now?
 Dialogue: 0,0:20:24.69,0:20:26.12,Ryōko main,Ryo,0,0,0,,No comment.
-Dialogue: 0,0:20:27.53,0:20:29.41,Ryōko main,Jun,0,0,0,,Thought so.
+Dialogue: 0,0:20:27.53,0:20:29.41,Ryōko main,Jun,0,0,0,,As I thought.
 Dialogue: 0,0:20:29.41,0:20:30.56,Ryōko main,Jun,0,0,0,,I understand.
 Dialogue: 0,0:20:30.56,0:20:32.58,Ryōko main,Jun,0,0,0,,Now, if you would excuse me…
 Dialogue: 0,0:20:37.67,0:20:38.87,Ryōko main,Ryo,0,0,0,,What is it?
