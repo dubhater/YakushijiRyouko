@@ -7,13 +7,14 @@ PlayResX: 856
 PlayResY: 476
 Audio URI: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 03.mkv
 Scroll Position: 0
-Active Line: 1
+Active Line: 2
 Video File: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 03.mkv
 Video Colorspace: BT.601
 Video Aspect Ratio: c1.79832
-Video Position: 0
+Video Position: 2192
 YCbCr Matrix: TV.601
 Keyframes File: ../avisynth/scxvid/ep03-scxvid.txt
+Last Style Storage: ryōko
 ScaledBorderAndShadow: yes
 
 [V4+ Styles]
@@ -23,11 +24,13 @@ Style: Ryōko italic,Fansub,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,
 Style: Ryōko overlap,Fansub,32,&H00FFCCCC,&H000000FF,&H00000000,&H00000000,0,0,0,0,83,100,0,0,1,2.5,0,2,100,100,40,0
 Style: Ryōko tl notes,Arno Pro,36,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,83,100,0,0,1,2.5,0,8,50,50,40,0
 Style: Ryōko title,Exmouth,64,&H0000003A,&H000000FF,&H0000003A,&H00000000,-1,0,0,0,83,100,0,0,1,0.1,0,4,100,100,40,0
+Style: Ryōko signs tgl,TGL 0-16,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,83,100,0,0,1,2.5,0,2,100,100,40,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 2,0:00:00.00,0:23:50.82,Ryōko italic,,1,0,1,,{\an7\bord1\3c&HFFFFFF&\p1}m 250 360 l 250 470 m 605 360 l 605 470{\p0}
 Comment: 1,0:00:00.00,0:23:50.82,Ryōko italic,,1,0,1,,{\an7\bord1\3c&H000000&\p1}m 249 360 l 249 470 m 606 360 l 606 470{\p0}
+Dialogue: 0,0:01:30.15,0:01:37.78,Ryōko signs tgl,,0,0,0,,{\pos(436,380)\fad(898,0)\bord0\fnTGL 0-16\fs40\fax-0.1\fscy115\blur0.7\c&HD6DBE1&}\h\h\h\hJune 26, 1762    St. Petersburg, Russia
 Dialogue: 0,0:01:53.61,0:01:57.30,Ryōko italic,Ryo,0,0,0,,I am the Russian Empire’s\Nonly legitimate monarch.
 Dialogue: 0,0:01:57.67,0:02:01.37,Ryōko italic,Ryo,0,0,0,,Follow me if you want to\Nprotect the Empire’s future!
 Dialogue: 0,0:02:12.42,0:02:14.54,Ryōko italic,Ryo,0,0,0,,Hey! Izumida!
