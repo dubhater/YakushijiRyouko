@@ -6,12 +6,12 @@ WrapStyle: 0
 PlayResX: 856
 PlayResY: 476
 Audio URI: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 04.mkv
-Scroll Position: 3
-Active Line: 7
+Scroll Position: 1
+Active Line: 2
 Video File: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 04.mkv
 YCbCr Matrix: TV.601
 Video Aspect Ratio: c1.79832
-Video Position: 3483
+Video Position: 2649
 Keyframes File: ../avisynth/scxvid/ep04-scxvid.txt
 ScaledBorderAndShadow: yes
 
@@ -26,6 +26,8 @@ Style: Ryōko title,Exmouth,64,&H0000003A,&H000000FF,&H0000003A,&H00000000,-1,0,
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 0,0:01:41.66,0:01:43.69,Ryōko main,Guy,0,0,0,,Cell fusion complete.
+Dialogue: 0,0:01:50.46,0:01:52.46,Ryōko title,,0,0,0,,{\blur0.6\fscx63\pos(194.3,88)\c&H09135C&}Fourth File
+Dialogue: 0,0:01:50.46,0:01:52.46,Ryōko title,,0,0,0,,{\blur0.7\fscx63\pos(306,281)\c&H000B4C&}Musashino Twilight
 Dialogue: 0,0:02:01.61,0:02:03.14,Ryōko main,Ryo,0,0,0,,Turn left at the next intersection.
 Dialogue: 0,0:02:03.79,0:02:08.19,Ryōko main,Jun,0,0,0,,Superintendent, please take over the driving.
 Dialogue: 0,0:02:10.38,0:02:12.44,Ryōko main,Jun,0,0,0,,At least add a navigation system to the car.
