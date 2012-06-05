@@ -5,14 +5,13 @@ ScriptType: v4.00+
 WrapStyle: 0
 PlayResX: 856
 PlayResY: 476
-Audio URI: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 04.mkv
-Scroll Position: 329
-Active Line: 333
+Scroll Position: 284
+Active Line: 272
 Video File: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 04.mkv
 YCbCr Matrix: TV.601
 Video Aspect Ratio: c1.79832
-Video Position: 34078
-Keyframes File: ../avisynth/scxvid/ep04-scxvid.txt
+Video Position: 24596
+Audio URI: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 04.mkv
 ScaledBorderAndShadow: yes
 
 [V4+ Styles]
@@ -28,8 +27,8 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 2,0:00:00.00,0:23:50.82,Ryōko italic,,1,0,1,,{\an7\bord1\3c&HFFFFFF&\p1}m 250 360 l 250 470 m 605 360 l 605 470{\p0}
 Dialogue: 1,0:00:00.00,0:23:50.82,Ryōko italic,,1,0,1,,{\an7\bord1\3c&H000000&\p1}m 249 360 l 249 470 m 606 360 l 606 470{\p0}
 Dialogue: 0,0:01:41.66,0:01:43.69,Ryōko main,Guy,0,0,0,,Cell fusion complete.
-Dialogue: 0,0:01:50.46,0:01:52.46,Ryōko title,,0,0,0,,{\blur0.6\fscx63\pos(194.3,88)\c&H09135C&}Fourth File
-Dialogue: 0,0:01:50.46,0:01:52.46,Ryōko title,,0,0,0,,{\blur0.7\fscx63\pos(306,281)\c&H000B4C&}Musashino Twilight
+Dialogue: 0,0:01:50.46,0:01:54.92,Ryōko title,,0,0,0,,{\blur0.6\fscx63\pos(194.3,88)\c&H09135C&}Fourth File
+Dialogue: 0,0:01:50.46,0:01:54.92,Ryōko title,,0,0,0,,{\blur0.7\fscx63\pos(306,281)\c&H000B4C&}Musashino Twilight
 Dialogue: 0,0:02:01.61,0:02:03.14,Ryōko main,Ryo,0,0,0,,Turn left at the\Nnext intersection.
 Dialogue: 0,0:02:03.79,0:02:08.19,Ryōko main,Jun,0,0,0,,Superintendent,\Nplease take over {the }driving.
 Dialogue: 0,0:02:10.38,0:02:12.44,Ryōko main,Jun,0,0,0,,At least add a navigation\Nsystem to the car.
@@ -61,7 +60,7 @@ Dialogue: 0,0:03:32.03,0:03:33.67,Ryōko main,Ryo,0,0,0,,They say he called in s
 Dialogue: 0,0:03:33.67,0:03:35.36,Ryōko tl notes,TL Note,0,0,0,,Note: The Diet is Japan’s legislative assembly.
 Dialogue: 0,0:03:33.67,0:03:35.36,Ryōko main,Ryo,0,0,0,,He fails as a member\Nof the Diet.
 Dialogue: 0,0:03:35.36,0:03:38.29,Ryōko main,Jun,0,0,0,,Even members of the\NDiet sometimes get sick.
-Dialogue: 0,0:03:38.29,0:03:40.83,Ryōko main,Ryo,0,0,0,,What? You still\Nhaven’t gotten over it?
+Dialogue: 0,0:03:38.29,0:03:40.83,Ryōko main,Ryo,0,0,0,,What, are you still\Nworrying about that?
 Dialogue: 0,0:03:40.83,0:03:43.81,Ryōko main,Jun,0,0,0,,It was a narrow street.\NI’m sorry.
 Dialogue: 0,0:03:43.81,0:03:47.93,Ryōko main,Ryo,0,0,0,,Didn’t I warn you\Nit was a narrow street?
 Dialogue: 0,0:03:47.93,0:03:51.15,Ryōko main,Jun,0,0,0,,I don’t recall hearing\Nsuch a warning{kind words}.
@@ -221,7 +220,7 @@ Dialogue: 0,0:12:37.92,0:12:38.56,Ryōko main,Jun,0,0,0,,Yes.
 Dialogue: 0,0:12:38.56,0:12:39.86,Ryōko main,Ryo,0,0,0,,So, what did you find out?
 Dialogue: 0,0:12:40.11,0:12:41.29,Ryōko main,Gal,0,0,0,,Yes!
 Dialogue: 0,0:12:41.29,0:12:45.74,Ryōko main,Gal,0,0,0,,DK Pharmaceutical had\Nfour research departments
-Dialogue: 0,0:12:45.74,0:12:49.83,Ryōko main,Gal,0,0,0,,and Yamagishi Yuuichi was responsible for all of them.
+Dialogue: 0,0:12:45.74,0:12:49.83,Ryōko main,Gal,0,0,0,,and Yamagishi Yuuichi was\Nresponsible for all of them.
 Dialogue: 0,0:12:49.83,0:12:54.67,Ryōko main,Gal,0,0,0,,It looks like he\Nmanages 54121 too.
 Dialogue: 0,0:12:54.67,0:12:57.02,Ryōko main,Gal,0,0,0,,Here is Yamagishi-san’s address.
 Dialogue: 0,0:12:57.02,0:12:59.55,Ryōko main,Gal,0,0,0,,Mitaka City,\NShimorenja District…
@@ -266,9 +265,9 @@ Dialogue: 0,0:15:16.56,0:15:19.04,Ryōko main,Kat,0,0,0,,You are Kimura-kun, rig
 Dialogue: 0,0:15:20.39,0:15:22.90,Ryōko main,Kim,0,0,0,,Yes, Katsuragawa-sensei.
 Dialogue: 0,0:15:24.21,0:15:26.49,Ryōko main,Yam,0,0,0,,The experiment was a success.
 Dialogue: 0,0:15:26.49,0:15:29.61,Ryōko main,Yam,0,0,0,,And an unknown\Norganism was born.
-Dialogue: 0,0:15:34.60,0:15:39.48,Ryōko main,Yam,0,0,0,,As you can see, the organism’s appearance was far from human.
+Dialogue: 0,0:15:34.60,0:15:39.48,Ryōko main,Yam,0,0,0,,As you can see, the creature’s appearance was far from human.
 Dialogue: 0,0:15:39.48,0:15:42.68,Ryōko main,Yam,0,0,0,,Without a doubt,\Nit isn’t human.
-Dialogue: 0,0:15:42.68,0:15:44.55,Ryōko main,Jun,0,0,0,,Where is this\Norganism right now?
+Dialogue: 0,0:15:42.68,0:15:44.55,Ryōko main,Jun,0,0,0,,Where is this\Ncreature right now?
 Dialogue: 0,0:15:46.01,0:15:47.68,Ryōko main,Jun,0,0,0,,Is it still alive?
 Dialogue: 0,0:15:47.68,0:15:48.57,Ryōko main,Yam,0,0,0,,Probably.
 Dialogue: 0,0:15:48.57,0:15:49.72,Ryōko main,Jun,0,0,0,,Probably?
@@ -280,7 +279,7 @@ Dialogue: 0,0:16:01.63,0:16:02.90,Ryōko main,Yam,0,0,0,,She’s Kimura Keiko.
 Dialogue: 0,0:16:03.24,0:16:04.81,Ryōko main,Jun,0,0,0,,Who provided the sperm?
 Dialogue: 0,0:16:05.35,0:16:06.55,Ryōko main,Yam,0,0,0,,That’s…
 Dialogue: 0,0:16:06.55,0:16:07.70,Ryōko main,Jun,0,0,0,,Was it you?
-Dialogue: 0,0:16:09.50,0:16:15.08,Ryōko main,Ryo,0,0,0,,Yamagishi-san, did Kimura Keiko take the organism and run off?
+Dialogue: 0,0:16:09.50,0:16:15.08,Ryōko main,Ryo,0,0,0,,Yamagishi-san, did Kimura Keiko take the creature and run off?
 Dialogue: 0,0:16:15.08,0:16:16.14,Ryōko main,Yam,0,0,0,,Yes.
 Dialogue: 0,0:16:16.14,0:16:16.83,Ryōko main,Ryo,0,0,0,,When?
 Dialogue: 0,0:16:17.71,0:16:19.28,Ryōko main,Yam,0,0,0,,Three months ago.
@@ -289,7 +288,7 @@ Dialogue: 0,0:16:21.95,0:16:23.21,Ryōko main,Yam,0,0,0,,I don’t know.
 Dialogue: 0,0:16:23.21,0:16:25.79,Ryōko main,Yam,0,0,0,,I’m not involved in the search.
 Dialogue: 0,0:16:27.33,0:16:33.16,Ryōko main,Ryo,0,0,0,,So Katsuragawa found Kimura Keiko\Nand sent the Yakuza after her.
 Dialogue: 0,0:16:33.16,0:16:35.90,Ryōko main,Jun,0,0,0,,Why did he order them to kill her instead of capturing her?
-Dialogue: 0,0:16:35.90,0:16:39.08,Ryōko main,Ryo,0,0,0,,If that organism’s\Nexistence is made public,
+Dialogue: 0,0:16:35.90,0:16:39.08,Ryōko main,Ryo,0,0,0,,If that creature’s\Nexistence is made public,
 Dialogue: 0,0:16:39.08,0:16:41.62,Ryōko main,Ryo,0,0,0,,what do you think will happen\Nto Katsuragawa’s status in society?
 Dialogue: 0,0:16:42.34,0:16:44.46,Ryōko main,Jun,0,0,0,,That’s why he tried\Nto conceal the evidence.
 Dialogue: 0,0:16:44.46,0:16:46.25,Ryōko main,Ryo,0,0,0,,But he failed.
@@ -297,7 +296,7 @@ Dialogue: 0,0:16:46.25,0:16:48.68,Ryōko main,Jun,0,0,0,,Did Kimura Keiko\Nkill 
 Dialogue: 0,0:16:48.68,0:16:49.88,Ryōko main,Ryo,0,0,0,,No.
 Dialogue: 0,0:16:49.88,0:16:50.90,Ryōko main,Ryo,0,0,0,,Right?
 Dialogue: 0,0:17:00.83,0:17:05.85,Ryōko main,Kat,0,0,0,,Luckily, the police haven’t found out about you two yet.
-Dialogue: 0,0:17:05.85,0:17:07.79,Ryōko main,Kat,0,0,0,,Please hand that\Norganism over.
+Dialogue: 0,0:17:05.85,0:17:07.79,Ryōko main,Kat,0,0,0,,Please hand over\Nthat creature.
 Dialogue: 0,0:17:08.26,0:17:12.96,Ryōko main,Kat,0,0,0,,I’ll guarantee your survival if you stay quiet about all this.
 Dialogue: 0,0:17:12.96,0:17:16.19,Ryōko main,Kim,0,0,0,,Are you going to kill him?
 Dialogue: 0,0:17:16.19,0:17:19.38,Ryōko main,Kat,0,0,0,,It shouldn’t have been born.
