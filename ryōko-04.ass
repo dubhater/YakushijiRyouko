@@ -6,12 +6,12 @@ WrapStyle: 0
 PlayResX: 856
 PlayResY: 476
 Audio URI: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 04.mkv
-Scroll Position: 316
-Active Line: 319
+Scroll Position: 318
+Active Line: 320
 Video File: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 04.mkv
 YCbCr Matrix: TV.601
 Video Aspect Ratio: c1.79832
-Video Position: 31286
+Video Position: 33447
 ScaledBorderAndShadow: yes
 
 [V4+ Styles]
@@ -344,6 +344,8 @@ Dialogue: 0,0:21:07.52,0:21:08.71,Ryōko main,Ryo,0,0,0,,Probably.
 Dialogue: 0,0:21:10.04,0:21:13.54,Ryōko main,Yam,0,0,0,,Its cell tissues are fragile.
 Dialogue: 0,0:21:15.76,0:21:19.35,Ryōko main,Yam,0,0,0,,It won't live much longer.
 Dialogue: 0,0:21:44.85,0:21:50.04,Ryōko italic,Jun,0,0,0,,Yakushiji Ryouko never spoke of this case hereafter.
+Dialogue: 0,0:23:14.97,0:23:18.18,Ryōko main,,0,0,0,,{\bord7\blur5}The people and events in this work are purely fictional.{suddenly silent}
+Dialogue: 0,0:23:18.18,0:23:24.14,Ryōko main,,0,0,0,,{\bord7\blur5}Any resemblance to existing people or events is entirely coincidental.
 Dialogue: 0,0:23:25.85,0:23:27.67,Ryōko main,Nis,0,0,0,,Greetings, Oryou-sama.
 Dialogue: 0,0:23:27.67,0:23:29.30,Ryōko main,Ryo,0,0,0,,Here comes the fan of leotards.
 Dialogue: 0,0:23:29.30,0:23:32.08,Ryōko main,Nis,0,0,0,,Is Hayama Eri-chan, the voice actress, making an appearance in this episode?
