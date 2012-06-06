@@ -7,12 +7,12 @@ WrapStyle: 0
 PlayResX: 856
 PlayResY: 476
 Audio URI: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 05.mkv
-Scroll Position: 9
-Active Line: 10
+Scroll Position: 340
+Active Line: 342
 Video File: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 05.mkv
 YCbCr Matrix: TV.601
 Video Aspect Ratio: c1.79832
-Video Position: 3419
+Video Position: 33686
 ScaledBorderAndShadow: yes
 
 [V4+ Styles]
@@ -367,6 +367,8 @@ Dialogue: 0,0:21:45.59,0:21:48.18,Ryōko main,Ryo,0,0,0,,Before we do that, you 
 Dialogue: 0,0:21:48.18,0:21:50.96,Ryōko main,Jun,0,0,0,,That'll make me a manservant!
 Dialogue: 0,0:21:50.96,0:21:52.07,Ryōko main,Ryo,0,0,0,,No way!
 Dialogue: 0,0:21:52.07,0:21:53.79,Ryōko main,Ryo,0,0,0,,It's an honorable job, unworthy of you.
+Dialogue: 0,0:23:24.97,0:23:28.18,Ryōko main,,0,0,0,,{\bord7\blur5}The people and events in this work are purely fictional.
+Dialogue: 0,0:23:28.18,0:23:34.14,Ryōko main,,0,0,0,,{\bord7\blur5}Any resemblance to existing people or events is entirely coincidental.
 Dialogue: 0,0:23:35.73,0:23:37.76,Ryōko main,Ryo,0,0,0,,Chizumiru Indajuu.
 Dialogue: 0,0:23:37.76,0:23:39.21,Ryōko main,Jun,0,0,0,,What's that?
 Dialogue: 0,0:23:39.21,0:23:41.14,Ryōko main,Ryo,0,0,0,,I've rearranged your name, Izumida Jun'ichirou.
