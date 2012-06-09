@@ -6,12 +6,12 @@ WrapStyle: 0
 PlayResX: 856
 PlayResY: 476
 Audio URI: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 06.mkv
-Scroll Position: 7
-Active Line: 11
+Scroll Position: 279
+Active Line: 281
 Video File: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 06.mkv
 YCbCr Matrix: TV.601
 Video Aspect Ratio: c1.79832
-Video Position: 3542
+Video Position: 33446
 ScaledBorderAndShadow: yes
 
 [V4+ Styles]
@@ -305,6 +305,8 @@ Dialogue: 0,0:21:41.47,0:21:43.75,Ryōko main,Ryo,0,0,0,,Of course, treat them t
 Dialogue: 0,0:21:45.31,0:21:47.70,Ryōko main,Ryo,0,0,0,,Man, I'm starved.
 Dialogue: 0,0:21:47.70,0:21:49.76,Ryōko main,Two,0,0,0,,Yes, so are we!
 Dialogue: 0,0:21:49.76,0:21:54.88,Ryōko main,Two,0,0,0,,Since Izumida-kun's paying for this tonight, let's order the chef's special.
+Dialogue: 0,0:23:14.94,0:23:18.18,Ryōko main,,0,0,0,,{\bord7\blur5}The people and events in this work are purely fictional.
+Dialogue: 0,0:23:18.18,0:23:24.14,Ryōko main,,0,0,0,,{\bord7\blur5}Any resemblance to existing people or events is entirely coincidental.
 Dialogue: 0,0:23:25.50,0:23:26.41,Ryōko main,Mar,0,0,0,,Excuse me.
 Dialogue: 0,0:23:26.41,0:23:27.27,Ryōko main,Jun,0,0,0,,Inspector Maruoka!
 Dialogue: 0,0:23:27.27,0:23:29.29,Ryōko main,Mar,0,0,0,,How about we go for a drink? Let's keep it a secret from the Superintendent, okay?
