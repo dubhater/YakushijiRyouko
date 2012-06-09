@@ -6,12 +6,12 @@ WrapStyle: 0
 PlayResX: 856
 PlayResY: 476
 Audio URI: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 06.mkv
-Scroll Position: 279
-Active Line: 281
+Scroll Position: 0
+Active Line: 1
 Video File: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 06.mkv
 YCbCr Matrix: TV.601
 Video Aspect Ratio: c1.79832
-Video Position: 33446
+Video Position: 0
 ScaledBorderAndShadow: yes
 
 [V4+ Styles]
@@ -24,10 +24,12 @@ Style: Ryōko title,Exmouth,64,&H0000003A,&H000000FF,&H0000003A,&H00000000,-1,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:01:32.68,0:01:34.62,Ryōko italic,Jun,0,0,0,,My name is Izumida Jun'ichirou.
+Comment: 2,0:00:00.00,0:23:50.82,Ryōko italic,,1,0,1,,{\an7\bord1\3c&HFFFFFF&\p1}m 250 360 l 250 470 m 605 360 l 605 470{\p0}
+Comment: 1,0:00:00.00,0:23:50.82,Ryōko italic,,1,0,1,,{\an7\bord1\3c&H000000&\p1}m 249 360 l 249 470 m 606 360 l 606 470{\p0}
+Dialogue: 0,0:01:32.68,0:01:34.62,Ryōko italic,Jun,0,0,0,,My name is\NIzumida Jun'ichirou.
 Dialogue: 0,0:01:34.62,0:01:36.98,Ryōko italic,Jun,0,0,0,,I am Yakushiji Ryouko's confidant...
 Dialogue: 0,0:01:36.98,0:01:38.49,Ryōko italic,Jun,0,0,0,,... or so it seems.
-Dialogue: 0,0:01:39.09,0:01:42.33,Ryōko italic,Jun,0,0,0,,Today, I'm here with my boss at Narita Airport.
+Dialogue: 0,0:01:39.09,0:01:42.33,Ryōko italic,Jun,0,0,0,,Today, I'm here with\Nmy boss at Narita Airport.
 Dialogue: 0,0:01:42.33,0:01:43.70,Ryōko italic,Jun,0,0,0,,That's because—
 Dialogue: 0,0:02:08.19,0:02:10.18,Ryōko main,Ryo,0,0,0,,Marianne, Lucienne.
 Dialogue: 0,0:02:10.18,0:02:11.27,Ryōko main,Ryo,0,0,0,,Long time no see.
@@ -37,21 +39,21 @@ Dialogue: 0,0:02:18.31,0:02:20.87,Ryōko main,,0,0,0,,We missed you so much.
 Dialogue: 0,0:02:20.91,0:02:25.87,Ryōko title,,0,0,0,,{\blur0.6\fscx63\pos(194.3,88)\c&H0A1B6D&}Sixth File
 Dialogue: 0,0:02:27.69,0:02:31.96,Ryōko italic,Jun,0,0,0,,Marianne and Lucienne are two maids\Nwho work for Yakushiji Ryouko.
 Dialogue: 0,0:02:31.96,0:02:36.63,Ryōko italic,Jun,0,0,0,,Of course, being maids, they do household chores, but that's not everything they do.
-Dialogue: 0,0:02:37.21,0:02:39.47,Ryōko italic,Jun,0,0,0,,Marianne is an expert with weapons,
-Dialogue: 0,0:02:39.47,0:02:41.71,Ryōko italic,Jun,0,0,0,,and Lucienne is an expert with computers.
-Dialogue: 0,0:02:41.71,0:02:44.26,Ryōko italic,Jun,0,0,0,,She's a genius when it comes to hacking.
+Dialogue: 0,0:02:37.21,0:02:39.47,Ryōko italic,Jun,0,0,0,,Marianne is an expert\Nwith weapons,
+Dialogue: 0,0:02:39.47,0:02:41.71,Ryōko italic,Jun,0,0,0,,and Lucienne is an expert\Nwith computers.
+Dialogue: 0,0:02:41.71,0:02:44.26,Ryōko italic,Jun,0,0,0,,She's a genius when\Nit comes to hacking.
 Dialogue: 0,0:02:46.04,0:02:47.64,Ryōko main,Ryo,0,0,0,,Say, Izumida-kun.
-Dialogue: 0,0:02:48.31,0:02:51.35,Ryōko main,Ryo,0,0,0,,Why don't you stop dozing and join the conversation?
-Dialogue: 0,0:02:51.73,0:02:54.56,Ryōko main,Jun,0,0,0,,Unfortunately, I'm not good at speaking French.
-Dialogue: 0,0:02:56.63,0:02:59.02,Ryōko main,Jun,0,0,0,,This country sure doesn't change.
-Dialogue: 0,0:02:59.02,0:03:01.50,Ryōko main,Jun,0,0,0,,Corrupt politicians and bureaucratic scandals...
-Dialogue: 0,0:03:01.50,0:03:03.28,Ryōko main,Jun,0,0,0,,I'm surprised that this continues.
+Dialogue: 0,0:02:48.31,0:02:51.35,Ryōko main,Ryo,0,0,0,,Why don't you stop dozing\Nand join the conversation?
+Dialogue: 0,0:02:51.73,0:02:54.56,Ryōko main,Jun,0,0,0,,Unfortunately, I'm not\Ngood at speaking French.
+Dialogue: 0,0:02:56.63,0:02:59.02,Ryōko main,Jun,0,0,0,,This country sure\Ndoesn't change.
+Dialogue: 0,0:02:59.02,0:03:01.50,Ryōko main,Jun,0,0,0,,Corrupt politicians and\Nbureaucratic scandals...
+Dialogue: 0,0:03:01.50,0:03:03.28,Ryōko main,Jun,0,0,0,,I'm surprised that\Nthis continues.
 Dialogue: 0,0:03:03.28,0:03:05.16,Ryōko main,Ryo,0,0,0,,Of course it does.
 Dialogue: 0,0:03:05.16,0:03:08.33,Ryōko main,Ryo,0,0,0,,People just complain instead of doing something about it.
-Dialogue: 0,0:03:08.33,0:03:12.31,Ryōko main,Ryo,0,0,0,,People just stay in their territory and complain.
+Dialogue: 0,0:03:08.33,0:03:12.31,Ryōko main,Ryo,0,0,0,,People just stay in their\Nterritory and complain.
 Dialogue: 0,0:03:12.31,0:03:14.20,Ryōko main,Jun,0,0,0,,You're right about that, but...
 Dialogue: 0,0:03:14.20,0:03:15.50,Ryōko main,Ryo,0,0,0,,But what?
-Dialogue: 0,0:03:15.50,0:03:18.48,Ryōko main,Jun,0,0,0,,I believe you do {\i1}too much{\i0}, Superintendent.
+Dialogue: 0,0:03:15.50,0:03:18.48,Ryōko main,Jun,0,0,0,,I believe you do {\i1}too much{\i0},\NSuperintendent.
 Dialogue: 0,0:03:26.70,0:03:27.27,Ryōko main,Ryo,0,0,0,,What happened?
 Dialogue: 0,0:03:33.22,0:03:34.14,Ryōko main,Jun,0,0,0,,Superintendent!
 Dialogue: 0,0:03:38.82,0:03:39.53,Ryōko main,Jun,0,0,0,,That's...
@@ -64,33 +66,33 @@ Dialogue: 0,0:04:11.73,0:04:13.01,Ryōko main,Ryo,0,0,0,,Is that so?
 Dialogue: 0,0:04:13.01,0:04:18.11,Ryōko main,Ryo,0,0,0,,More importantly, what if the room next to us is red and has futons ready?
 Dialogue: 0,0:04:19.49,0:04:23.61,Ryōko main,Jun,0,0,0,,How appropriate of you to play the role of the evil deputy official.
 Dialogue: 0,0:04:23.61,0:04:25.18,Ryōko main,Ryo,0,0,0,,How rude.
-Dialogue: 0,0:04:25.18,0:04:28.78,Ryōko main,Ryo,0,0,0,,I'm the sweet city girl who was kidnapped.
-Dialogue: 0,0:04:33.31,0:04:35.33,Ryōko main,Ryo,0,0,0,,What do you think about the incident earlier?
+Dialogue: 0,0:04:25.18,0:04:28.78,Ryōko main,Ryo,0,0,0,,I'm the sweet city girl\Nwho was kidnapped.
+Dialogue: 0,0:04:33.31,0:04:35.33,Ryōko main,Ryo,0,0,0,,What do you think about\Nthe incident earlier?
 Dialogue: 0,0:04:35.33,0:04:37.32,Ryōko main,Jun,0,0,0,,I have no idea whatsoever.
 Dialogue: 0,0:04:37.32,0:04:41.64,Ryōko main,Jun,0,0,0,,One thing though. The victim may have had connections with the mafia.
 Dialogue: 0,0:04:41.64,0:04:42.70,Ryōko main,Ryo,0,0,0,,Why is that?
-Dialogue: 0,0:04:42.70,0:04:44.59,Ryōko main,Jun,0,0,0,,The gun he held was a Tokarev.
+Dialogue: 0,0:04:42.70,0:04:44.59,Ryōko main,Jun,0,0,0,,The gun he held\Nwas a Tokarev.
 Dialogue: 0,0:04:44.59,0:04:45.55,Ryōko main,Ryo,0,0,0,,Close.
 Dialogue: 0,0:04:45.55,0:04:50.38,Ryōko main,Ryo,0,0,0,,Even if it was a Tokarev, was it as crudely modified as the guns used by the mafia?
-Dialogue: 0,0:04:50.38,0:04:52.64,Ryōko main,Jun,0,0,0,,Let's let the Ginza police handle this for now.
+Dialogue: 0,0:04:50.38,0:04:52.64,Ryōko main,Jun,0,0,0,,Let's let the Ginza police\Nhandle this for now.
 Dialogue: 0,0:04:54.17,0:04:55.10,Ryōko main,Guy,0,0,0,,That's great.
 Dialogue: 0,0:04:55.91,0:04:59.44,Ryōko main,Guy,0,0,0,,I'm sure your Cabinet minister will be very happy once we settle this.
 Dialogue: 0,0:04:59.44,0:05:03.52,Ryōko main,Man,0,0,0,,Yes, he was pumped up about being able to use as much money as he wanted.
 Dialogue: 0,0:05:01.39,0:05:04.84,Ryōko overlap,Ryo,0,0,0,,Two elite bureaucrats up to no good.
 Dialogue: 0,0:05:04.84,0:05:06.34,Ryōko main,Jun,0,0,0,,Do you know them?
-Dialogue: 0,0:05:06.34,0:05:09.78,Ryōko main,Ryo,0,0,0,,Among bureaucrats, they're somewhat famous.
+Dialogue: 0,0:05:06.34,0:05:09.78,Ryōko main,Ryo,0,0,0,,Among bureaucrats,\Nthey're somewhat famous.
 Dialogue: 0,0:05:10.35,0:05:13.58,Ryōko main,Ryo,0,0,0,,This one's Aoyama from the Ministry of Defense. He's known as Mr. Dinner.
 Dialogue: 0,0:05:14.31,0:05:16.63,Ryōko main,Ryo,0,0,0,,That one is Isogai from the Ministry of Land, Infrastructure, Transport and Tourism.{This is long...}
 Dialogue: 0,0:05:16.63,0:05:18.57,Ryōko main,Ryo,0,0,0,,He's like the runner-up.
-Dialogue: 0,0:05:18.57,0:05:21.00,Ryōko main,Jun,0,0,0,,So they have a cozy relationship with their dealers
-Dialogue: 0,0:05:21.00,0:05:23.08,Ryōko main,Jun,0,0,0,,who then take them out to dinner.
+Dialogue: 0,0:05:18.57,0:05:21.00,Ryōko main,Jun,0,0,0,,So they have a cozy\Nrelationship with their dealers
+Dialogue: 0,0:05:21.00,0:05:23.08,Ryōko main,Jun,0,0,0,,who then take\Nthem out to dinner.
 Dialogue: 0,0:05:23.08,0:05:24.26,Ryōko main,Ryo,0,0,0,,It's the opposite.
-Dialogue: 0,0:05:25.24,0:05:28.36,Ryōko main,Ryo,0,0,0,,The saint's maids are quoting Latin.{What?}
+Dialogue: 0,0:05:25.24,0:05:28.36,Ryōko main,Ryo,0,0,0,,The saint's maids\Nare quoting Latin.{What?}
 Dialogue: 0,0:05:28.36,0:05:33.63,Ryōko main,Ryo,0,0,0,,After attending many dinners, they now\Nmanage dinners for various other people.
 Dialogue: 0,0:05:38.80,0:05:39.98,Ryōko main,Ryo,0,0,0,,Sorry to keep you waiting.
 Dialogue: 0,0:05:39.98,0:05:41.93,Ryōko main,Jun,0,0,0,,Where are those two?
 Dialogue: 0,0:05:41.93,0:05:43.11,Ryōko main,Ryo,0,0,0,,They went home ahead of us.
-Dialogue: 0,0:05:43.85,0:05:46.80,Ryōko main,Ryo,0,0,0,,They probably wanted to leave us alone.
+Dialogue: 0,0:05:43.85,0:05:46.80,Ryōko main,Ryo,0,0,0,,They probably wanted\Nto leave us alone.
 Dialogue: 0,0:05:48.10,0:05:49.63,Ryōko main,Guy,0,0,0,,Good night, Mistress.
 Dialogue: 0,0:05:49.63,0:05:51.00,Ryōko main,Guy,0,0,0,,We'll come again.
 Dialogue: 0,0:06:02.33,0:06:03.67,Ryōko main,Jun,0,0,0,,Good morning.
@@ -99,18 +101,18 @@ Dialogue: 0,0:06:03.67,0:06:05.30,Ryōko overlap,Old,0,0,0,,Izumida-kun!
 Dialogue: 0,0:06:05.30,0:06:06.34,Ryōko main,Jun,0,0,0,,What is it?
 Dialogue: 0,0:06:06.34,0:06:09.18,Ryōko main,Gal,0,0,0,,We've experienced it!
 Dialogue: 0,0:06:09.18,0:06:12.08,Ryōko main,Guy,0,0,0,,Oh Lord, protect us.
-Dialogue: 0,0:06:12.08,0:06:14.70,Ryōko main,Old,0,0,0,,It was a ghost's doing! I'm sure of it!
+Dialogue: 0,0:06:12.08,0:06:14.70,Ryōko main,Old,0,0,0,,It was a ghost's doing!\NI'm sure of it!
 Dialogue: 0,0:06:17.22,0:06:18.55,Ryōko main,,0,0,0,,What's wrong?
 Dialogue: 0,0:06:18.55,0:06:22.23,Ryōko main,Gal,0,0,0,,Last night, we were sorting material in the reference room downstairs
-Dialogue: 0,0:06:22.23,0:06:24.34,Ryōko main,Gal,0,0,0,,just like the superintendent instructed.
+Dialogue: 0,0:06:22.23,0:06:24.34,Ryōko main,Gal,0,0,0,,just like the\Nsuperintendent instructed.
 Dialogue: 0,0:06:26.79,0:06:28.20,Ryōko main,Gal,0,0,0,,Oh my, is it an earthquake?
-Dialogue: 0,0:06:34.12,0:06:36.44,Ryōko main,Guy,0,0,0,,That wasn't an earthquake just now, was it?
+Dialogue: 0,0:06:34.12,0:06:36.44,Ryōko main,Guy,0,0,0,,That wasn't an earthquake\Njust now, was it?
 Dialogue: 0,0:06:36.44,0:06:38.73,Ryōko main,Old,0,0,0,,Do you hear something?
 Dialogue: 0,0:06:43.98,0:06:45.71,Ryōko main,Jun,0,0,0,,So that's what happened?
-Dialogue: 0,0:06:45.71,0:06:47.72,Ryōko main,Ryo,0,0,0,,It wasn't just the Metropolitan Police Department.
+Dialogue: 0,0:06:45.71,0:06:47.72,Ryōko main,Ryo,0,0,0,,It wasn't just the\NMetropolitan Police Department.
 Dialogue: 0,0:06:47.72,0:06:50.63,Ryōko main,Ryo,0,0,0,,Jackie phoned me yesterday.
-Dialogue: 0,0:06:50.63,0:06:53.41,Ryōko main,Ryo,0,0,0,,It seems a similar incident occurred at the Ministry of Finance.
-Dialogue: 0,0:06:53.41,0:06:54.64,Ryōko main,Jun,0,0,0,,Wakabayashi-san experienced it too?
+Dialogue: 0,0:06:50.63,0:06:53.41,Ryōko main,Ryo,0,0,0,,It seems a similar incident\Noccurred at the Ministry of Finance.
+Dialogue: 0,0:06:53.41,0:06:54.64,Ryōko main,Jun,0,0,0,,Wakabayashi-san\Nexperienced it too?
 Dialogue: 0,0:06:55.60,0:06:57.71,Ryōko main,Man,0,0,0,,I think it's just a cold.
 Dialogue: 0,0:06:57.71,0:06:59.73,Ryōko main,Man,0,0,0,,I should be better tomorrow.
 Dialogue: 0,0:06:59.73,0:07:01.61,Ryōko main,Man,0,0,0,,Yes, I'm terribly sorry.
@@ -120,20 +122,20 @@ Dialogue: 0,0:07:27.50,0:07:29.38,Ryōko main,Guy,0,0,0,,They're waiting over th
 Dialogue: 0,0:07:33.52,0:07:34.46,Ryōko main,Mar,0,0,0,,Thank you.
 Dialogue: 0,0:07:34.46,0:07:36.18,Ryōko main,Guy,0,0,0,,Let's go somewhere else.
 Dialogue: 0,0:07:36.18,0:07:38.14,Ryōko main,Guy,0,0,0,,We stand out too much here.
-Dialogue: 0,0:07:41.85,0:07:44.50,Ryōko main,Yuk,0,0,0,,Just who are you calling a poikilothermic animal?{hurr durr big words}
+Dialogue: 0,0:07:41.85,0:07:44.50,Ryōko main,Yuk,0,0,0,,Just who are you calling\Na poikilothermic animal?{hurr durr big words}
 Dialogue: 0,0:07:44.50,0:07:45.39,Ryōko main,Yuk,0,0,0,,Just who?!
-Dialogue: 0,0:07:45.39,0:07:48.48,Ryōko main,Ryo,0,0,0,,But Oyuki, you said you get cold hands and feet easily.
-Dialogue: 0,0:07:48.48,0:07:52.12,Ryōko main,Ryo,0,0,0,,I wonder if your hands and feet are cold because you're cold inside.
+Dialogue: 0,0:07:45.39,0:07:48.48,Ryōko main,Ryo,0,0,0,,But Oyuki, you said you get\Ncold hands and feet easily.
+Dialogue: 0,0:07:48.48,0:07:52.12,Ryōko main,Ryo,0,0,0,,I wonder if your hands and feet\Nare cold because you're cold inside.
 Dialogue: 0,0:07:52.12,0:07:54.18,Ryōko main,Yuk,0,0,0,,If I'm a cold-blooded animal,
-Dialogue: 0,0:07:54.18,0:07:57.24,Ryōko main,Yuk,0,0,0,,you're a merciless cold-blooded animal!
+Dialogue: 0,0:07:54.18,0:07:57.24,Ryōko main,Yuk,0,0,0,,you're a merciless\Ncold-blooded animal!
 Dialogue: 0,0:07:57.24,0:08:01.36,Ryōko main,Ryo,0,0,0,,Oh my, there's no one as warm as me.
 Dialogue: 0,0:07:58.71,0:08:02.11,Ryōko overlap,Nis,0,0,0,,I'm surprised they don't run out of topics to argue about.
-Dialogue: 0,0:08:02.11,0:08:05.36,Ryōko main,Jun,0,0,0,,I'm sure it's like your hobby. They won't get tired of it.
+Dialogue: 0,0:08:02.11,0:08:05.36,Ryōko main,Jun,0,0,0,,I'm sure it's like your hobby.\NThey won't get tired of it.
 Dialogue: 0,0:08:05.36,0:08:08.38,Ryōko main,Nis,0,0,0,,Oh yeah, regarding my hobby, the leotard—
-Dialogue: 0,0:08:07.45,0:08:10.84,Ryōko overlap,Jun,0,0,0,,More importantly, let's continue our conversation.
+Dialogue: 0,0:08:07.45,0:08:10.84,Ryōko overlap,Jun,0,0,0,,More importantly,\Nlet's continue our conversation.
 Dialogue: 0,0:08:10.84,0:08:11.63,Ryōko main,Nis,0,0,0,,Yes, yes.
 Dialogue: 0,0:08:12.11,0:08:15.01,Ryōko main,Nis,0,0,0,,I may not look like it, but I'm a career bureaucrat, right?
-Dialogue: 0,0:08:15.01,0:08:16.97,Ryōko main,Jun,0,0,0,,Well sorry for being a non-career bureaucrat.
+Dialogue: 0,0:08:15.01,0:08:16.97,Ryōko main,Jun,0,0,0,,Well sorry for being\Na non-career bureaucrat.
 Dialogue: 0,0:08:16.97,0:08:18.02,Ryōko main,Nis,0,0,0,,Now, now.
 Dialogue: 0,0:08:18.50,0:08:21.75,Ryōko main,Nis,0,0,0,,Among us career bureaucrats,
 Dialogue: 0,0:08:21.75,0:08:25.56,Ryōko main,Nis,0,0,0,,there have been rumors recently of ghost sightings and poltergeist phenomena.
@@ -145,39 +147,39 @@ Dialogue: 0,0:08:35.49,0:08:36.63,Ryōko main,Jun,0,0,0,,The Metropolitan Police
 Dialogue: 0,0:08:36.63,0:08:37.79,Ryōko main,Jun,0,0,0,,the Ministry of Land, Infrastructure, Transport and Tourism,
 Dialogue: 0,0:08:37.79,0:08:38.54,Ryōko main,Jun,0,0,0,,the Ministry of Foreign Affairs,
 Dialogue: 0,0:08:39.09,0:08:39.97,Ryōko main,Jun,0,0,0,,the Ministry of Finance,
-Dialogue: 0,0:08:39.97,0:08:40.73,Ryōko main,Jun,0,0,0,,the Ministry of Agriculture, Forestry and Fisheries,
-Dialogue: 0,0:08:40.73,0:08:43.52,Ryōko main,Jun,0,0,0,,and the Ministry of Economy, Trade and Industry.
+Dialogue: 0,0:08:39.97,0:08:40.73,Ryōko main,Jun,0,0,0,,the Ministry of Agriculture,\NForestry and Fisheries,
+Dialogue: 0,0:08:40.73,0:08:43.52,Ryōko main,Jun,0,0,0,,and the Ministry of Economy,\NTrade and Industry.
 Dialogue: 0,0:08:43.52,0:08:44.54,Ryōko main,Ryo,0,0,0,,Thought so.
 Dialogue: 0,0:08:45.45,0:08:46.79,Ryōko main,Ryo,0,0,0,,The subway.
 Dialogue: 0,0:08:46.79,0:08:51.09,Ryōko main,Ryo,0,0,0,,The poltergeist causing the Kasumigaseki trouble is traveling via the subway.
 Dialogue: 0,0:08:51.57,0:08:54.29,Ryōko main,Jun,0,0,0,,The Hibiya Line?
 Dialogue: 0,0:08:54.29,0:08:55.68,Ryōko main,Ryo,0,0,0,,No.
 Dialogue: 0,0:08:56.33,0:09:02.85,Ryōko main,Ryo,60,60,0,,There's a line that connects Yurakucho Line's Sakuradamon Station with Chiyoda Line's Kasumigaseki Station. Like this.
-Dialogue: 0,0:09:02.85,0:09:06.77,Ryōko main,Ryo,0,0,0,,If it uses this line to travel every night...
+Dialogue: 0,0:09:02.85,0:09:06.77,Ryōko main,Ryo,0,0,0,,If it uses this line\Nto travel every night...
 Dialogue: 0,0:09:07.24,0:09:10.60,Ryōko main,Jun,90,90,0,,Yes, it does line up with the ministries and government offices where the ghost incidents occurred.
-Dialogue: 0,0:09:11.93,0:09:15.34,Ryōko main,Jun,0,0,0,,But you said "it". Do you mean...?
+Dialogue: 0,0:09:11.93,0:09:15.34,Ryōko main,Jun,0,0,0,,But you said "it".\NDo you mean...?
 Dialogue: 0,0:09:15.87,0:09:19.38,Ryōko main,Ryo,0,0,0,,That's right, the mysterious shadow we saw the other day.
-Dialogue: 0,0:09:19.38,0:09:22.04,Ryōko main,Ryo,0,0,0,,Its identity is probably...
+Dialogue: 0,0:09:19.38,0:09:22.04,Ryōko main,Ryo,0,0,0,,It is probably...
 Dialogue: 0,0:09:23.90,0:09:26.00,Ryōko main,Ryo,0,0,0,,... the Underground Monster, Teradtron.
 Dialogue: 0,0:09:27.23,0:09:30.46,Ryōko main,Jun,0,0,0,,Again with "Mystery, Thursday the Twelfth"?{lol}
-Dialogue: 0,0:09:41.57,0:09:43.95,Ryōko main,Gal,0,0,0,,This way please, Master.
+Dialogue: 0,0:09:41.57,0:09:43.95,Ryōko main,Gal,0,0,0,,This way, please, Master.
 Dialogue: 0,0:10:01.42,0:10:03.02,Ryōko main,Guy,0,0,0,,Oh, come in.
 Dialogue: 0,0:10:07.16,0:10:09.12,Ryōko main,Man,0,0,0,,Leave that there.
-Dialogue: 0,0:10:11.15,0:10:15.26,Ryōko main,Man,0,0,0,,Your men will regret it if they see their boss like this.
-Dialogue: 0,0:10:15.72,0:10:18.63,Ryōko main,Guy,0,0,0,,I don't understand this fetish either.
+Dialogue: 0,0:10:11.15,0:10:15.26,Ryōko main,Man,0,0,0,,Your men will regret it\Nif they see their boss like this.
+Dialogue: 0,0:10:15.72,0:10:18.63,Ryōko main,Guy,0,0,0,,I don't understand\Nthis fetish either.
 Dialogue: 0,0:10:18.63,0:10:19.53,Ryōko main,Man,0,0,0,,Good work.
 Dialogue: 0,0:10:19.53,0:10:20.82,Ryōko main,Man,0,0,0,,You may leave.
-Dialogue: 0,0:10:44.32,0:10:47.12,Ryōko main,Man,0,0,0,,Things will get out of hand if we don't finish it off quickly.
-Dialogue: 0,0:10:47.12,0:10:51.46,Ryōko main,Guy,0,0,0,,Even if we lied, blaming it on ghosts or poltergeists, there {\i1}is{\i0} still a limit to it.
-Dialogue: 0,0:10:51.46,0:10:54.09,Ryōko main,Guy,0,0,0,,That's why you want to mobilize my soldiers again?
+Dialogue: 0,0:10:44.32,0:10:47.12,Ryōko main,Man,0,0,0,,Things will get out of hand\Nif we don't finish it off quickly.
+Dialogue: 0,0:10:47.12,0:10:51.46,Ryōko main,Guy,0,0,0,,Even if we lied, blaming it on ghosts\Nor poltergeists, there {\i1}is{\i0} still a limit to it.
+Dialogue: 0,0:10:51.46,0:10:54.09,Ryōko main,Guy,0,0,0,,That's why you want to\Nmobilize my soldiers again?
 Dialogue: 0,0:10:56.23,0:10:57.85,Ryōko main,Ryo,0,0,0,,So that's how it is.
-Dialogue: 0,0:11:07.11,0:11:11.12,Ryōko main,Non,0,0,0,,I've talked with Tokyo Metro, via their head office.
-Dialogue: 0,0:11:11.72,0:11:15.76,Ryōko main,Ryo,0,0,0,,You didn't have to get their permission.
-Dialogue: 0,0:11:15.76,0:11:17.07,Ryōko main,Jun,0,0,0,,Please tell me, Superintendent.
-Dialogue: 0,0:11:17.54,0:11:20.92,Ryōko main,Jun,0,0,0,,What's here under Kasumigaseki?
+Dialogue: 0,0:11:07.11,0:11:11.12,Ryōko main,Non,0,0,0,,I've talked with Tokyo Metro,\Nvia their head office.
+Dialogue: 0,0:11:11.72,0:11:15.76,Ryōko main,Ryo,0,0,0,,You didn't have to\Nget their permission.
+Dialogue: 0,0:11:15.76,0:11:17.07,Ryōko main,Jun,0,0,0,,Please tell me,\NSuperintendent.
+Dialogue: 0,0:11:17.54,0:11:20.92,Ryōko main,Jun,0,0,0,,What's here\Nunder Kasumigaseki?
 Dialogue: 0,0:11:21.43,0:11:23.56,Ryōko main,Ryo,0,0,0,,Just wait until you see it.
-Dialogue: 0,0:11:25.66,0:11:27.54,Ryōko main,Non,0,0,0,,Izumida-san, please be careful.
-Dialogue: 0,0:11:28.53,0:11:31.83,Ryōko main,Jun,0,0,0,,I'm not worried since I'm with WTED Oryou.
+Dialogue: 0,0:11:25.66,0:11:27.54,Ryōko main,Non,0,0,0,,Izumida-san,\Nplease be careful.
+Dialogue: 0,0:11:28.53,0:11:31.83,Ryōko main,Jun,0,0,0,,I'm not worried since\NI'm with WTED Oryou.
 Dialogue: 0,0:11:32.18,0:11:35.12,Ryōko main,Non,0,0,0,,But she's also SLD Oryou.
 Dialogue: 0,0:11:36.24,0:11:37.13,Ryōko main,Jun,0,0,0,,Yes, I remember now.
 Dialogue: 0,0:11:54.25,0:11:55.13,Ryōko main,Ryo,0,0,0,,This way.
@@ -186,27 +188,27 @@ Dialogue: 0,0:12:11.47,0:12:14.09,Ryōko main,Ryo,0,0,0,,We're just about undern
 Dialogue: 0,0:12:19.58,0:12:21.55,Ryōko main,Jun,0,0,0,,Superintendent! Look at that!
 Dialogue: 0,0:12:30.89,0:12:32.10,Ryōko main,Ryo,0,0,0,,Don't attack it!
 Dialogue: 0,0:12:32.43,0:12:33.44,Ryōko main,Jun,0,0,0,,Why?
-Dialogue: 0,0:12:33.44,0:12:36.69,Ryōko main,Ryo,0,0,0,,Because it's Japan's natural treasure.
+Dialogue: 0,0:12:33.44,0:12:36.69,Ryōko main,Ryo,0,0,0,,Because it's Japan's\Nnatural treasure.
 Dialogue: 0,0:12:37.32,0:12:39.36,Ryōko main,Jun,0,0,0,,Is it the giant salamander?
 Dialogue: 0,0:12:41.52,0:12:44.28,Ryōko main,Jun,0,0,0,,Still, it's huge...
 Dialogue: 0,0:12:44.70,0:12:46.30,Ryōko main,Jun,0,0,0,,Is this...?
 Dialogue: 0,0:12:46.30,0:12:49.08,Ryōko main,Ryo,0,0,0,,Yes. This is the identity of Teradtron, the Underground Monster.
-Dialogue: 0,0:12:54.30,0:12:56.63,Ryōko main,Jun,0,0,0,,It doesn't look like it'll attack us.
+Dialogue: 0,0:12:54.30,0:12:56.63,Ryōko main,Jun,0,0,0,,It doesn't look\Nlike it'll attack us.
 Dialogue: 0,0:12:58.09,0:12:58.59,Ryōko main,Ryo,0,0,0,,Wait!
-Dialogue: 0,0:13:09.69,0:13:13.65,Ryōko main,Ryo,0,0,0,,Normally, it eats small fish and frogs, but it probably...
+Dialogue: 0,0:13:09.69,0:13:13.65,Ryōko main,Ryo,0,0,0,,Normally, it eats small fish\Nand frogs, but it probably...
 Dialogue: 0,0:13:18.49,0:13:19.36,Ryōko main,Ryo,0,0,0,,This way.
-Dialogue: 0,0:13:19.92,0:13:22.18,Ryōko main,Ryo,0,0,0,,It must have made this hole the other day.
+Dialogue: 0,0:13:19.92,0:13:22.18,Ryōko main,Ryo,0,0,0,,It must have made\Nthis hole the other day.
 Dialogue: 0,0:13:33.84,0:13:35.06,Ryōko main,Jun,0,0,0,,Where are we?
-Dialogue: 0,0:13:35.06,0:13:36.79,Ryōko main,Ryo,0,0,0,,The Hibiya Common Utility Duct.
+Dialogue: 0,0:13:35.06,0:13:36.79,Ryōko main,Ryo,0,0,0,,The Hibiya\NCommon Utility Duct.
 Dialogue: 0,0:13:36.79,0:13:39.96,Ryōko main,Ryo,0,0,0,,It's an underground facility to connect various utility lines together.
 Dialogue: 0,0:13:41.47,0:13:42.72,Ryōko main,Jun,0,0,0,,So this is it.
 Dialogue: 0,0:13:42.72,0:13:43.84,Ryōko main,Guy,0,0,0,,Who are you guys?
-Dialogue: 0,0:13:44.38,0:13:45.59,Ryōko main,Jun,0,0,0,,We're with the Metropolitan Police.
+Dialogue: 0,0:13:44.38,0:13:45.59,Ryōko main,Jun,0,0,0,,We're with the\NMetropolitan Police.
 Dialogue: 0,0:13:45.59,0:13:47.10,Ryōko main,Guy,0,0,0,,Police?
 Dialogue: 0,0:13:47.10,0:13:48.93,Ryōko main,Guy,0,0,0,,Get out of here.
 Dialogue: 0,0:13:49.75,0:13:52.99,Ryōko main,Ryo,0,0,0,,You guys are the soldiers hired by the Ministry of Finance, the Ministry of Defense,
 Dialogue: 0,0:13:52.99,0:13:55.31,Ryōko main,Ryo,0,0,0,,and the Ministry of Land, Infrastructure, Transport and Tourism, right?
-Dialogue: 0,0:13:55.31,0:13:57.27,Ryōko main,Guy,0,0,0,,Bitch! How the hell do you know about that?
+Dialogue: 0,0:13:55.31,0:13:57.27,Ryōko main,Guy,0,0,0,,Bitch! How the hell\Ndo you know about that?
 Dialogue: 0,0:13:57.61,0:13:59.36,Ryōko main,Ryo,0,0,0,,Heh, I wonder.
 Dialogue: 0,0:14:19.09,0:14:20.30,Ryōko main,Ryo,0,0,0,,It's the salamander!
 Dialogue: 0,0:14:24.23,0:14:25.55,Ryōko main,Ryo,0,0,0,,This way.
@@ -219,54 +221,54 @@ Dialogue: 0,0:14:47.95,0:14:48.81,Ryōko main,Ryo,0,0,0,,Why's that?
 Dialogue: 0,0:14:52.15,0:14:55.27,Ryōko main,Jun,0,0,0,,Well, I just thought it did.
 Dialogue: 0,0:14:57.56,0:14:58.88,Ryōko main,Jun,0,0,0,,What the hell is this place?
 Dialogue: 0,0:14:58.88,0:15:00.93,Ryōko main,Ryo,0,0,0,,The underground facility that was built by the Imperial Japanese Army
-Dialogue: 0,0:15:00.93,0:15:02.29,Ryōko main,Ryo,0,0,0,,in preparation for battles on the main island.
+Dialogue: 0,0:15:00.93,0:15:02.29,Ryōko main,Ryo,0,0,0,,in preparation for battles\Non the main island.
 Dialogue: 0,0:15:02.29,0:15:05.36,Ryōko main,Ryo,0,0,0,,It was discovered during the construction of the Hibiya Common Utility Duct.
 Dialogue: 0,0:15:05.36,0:15:07.01,Ryōko main,Jun,0,0,0,,But the streets are...
 Dialogue: 0,0:15:07.01,0:15:12.29,Ryōko main,Ryo,0,0,0,,They decided to build a giant resort that only bureaucrats could visit.
-Dialogue: 0,0:15:12.29,0:15:14.60,Ryōko main,Ryo,0,0,0,,The public's eyes can't reach the underground.
-Dialogue: 0,0:15:15.17,0:15:19.44,Ryōko main,Ryo,0,0,0,,Of course, it was built using the money embezzled by every ministry and government office.
+Dialogue: 0,0:15:12.29,0:15:14.60,Ryōko main,Ryo,0,0,0,,The public's eyes can't\Nreach the underground.
+Dialogue: 0,0:15:15.17,0:15:19.44,Ryōko main,Ryo,0,0,0,,Of course, it was built using money embezzled by every ministry and government office.
 Dialogue: 0,0:15:19.86,0:15:22.03,Ryōko main,Jun,0,0,0,,That's tax money.
-Dialogue: 0,0:15:22.03,0:15:24.60,Ryōko main,Ryo,0,0,0,,That's what it's called by the side who pays.
-Dialogue: 0,0:15:24.60,0:15:27.07,Ryōko main,Ryo,0,0,0,,The side that uses it doesn't think so.
+Dialogue: 0,0:15:22.03,0:15:24.60,Ryōko main,Ryo,0,0,0,,That's what it's called\Nby the side who pays.
+Dialogue: 0,0:15:24.60,0:15:27.07,Ryōko main,Ryo,0,0,0,,The side that uses it\Ndoesn't think so.
 Dialogue: 0,0:15:44.30,0:15:45.26,Ryōko main,Jun,0,0,0,,Superintendent!
-Dialogue: 0,0:15:50.26,0:15:52.91,Ryōko main,Jun,0,0,0,,There's no doubt about it. It's after you.
+Dialogue: 0,0:15:50.26,0:15:52.91,Ryōko main,Jun,0,0,0,,There's no doubt\Nabout it. It's after you.
 Dialogue: 0,0:15:52.91,0:15:54.63,Ryōko main,Ryo,0,0,0,,Why though?
 Dialogue: 0,0:16:15.74,0:16:17.00,Ryōko main,Jun,0,0,0,,Superintendent!
 Dialogue: 0,0:16:19.49,0:16:21.67,Ryōko main,Guy,0,0,0,,Come with us, Officer.
-Dialogue: 0,0:16:27.70,0:16:31.05,Ryōko main,Man,0,0,0,,If I remember correctly, you're Izumida-kun.
+Dialogue: 0,0:16:27.70,0:16:31.05,Ryōko main,Man,0,0,0,,If I remember correctly,\Nyou're Izumida-kun.
 Dialogue: 0,0:16:31.05,0:16:32.77,Ryōko main,Jun,0,0,0,,How do you know my name?
-Dialogue: 0,0:16:32.77,0:16:35.76,Ryōko main,Guy,0,0,0,,You're WTED Oryou's subordinate, aren't you?
-Dialogue: 0,0:16:36.27,0:16:39.15,Ryōko main,Man,0,0,0,,Actually, I have something to ask you...
+Dialogue: 0,0:16:32.77,0:16:35.76,Ryōko main,Guy,0,0,0,,You're WTED Oryou's\Nsubordinate, aren't you?
+Dialogue: 0,0:16:36.27,0:16:39.15,Ryōko main,Man,0,0,0,,Actually, I have\Nsomething to ask you...
 Dialogue: 0,0:16:39.15,0:16:41.56,Ryōko main,Man,0,0,0,,No, the two of you.
 Dialogue: 0,0:16:42.12,0:16:43.11,Ryōko main,Guy,0,0,0,,Over here!
 Dialogue: 0,0:16:57.39,0:17:02.29,Ryōko main,Man,0,0,0,,Our plan has suffered a setback due to the appearance of that monster.
 Dialogue: 0,0:17:02.79,0:17:06.73,Ryōko main,Man,0,0,0,,The two of you are well known, even within the Ministry of Defense.
-Dialogue: 0,0:17:06.73,0:17:11.05,Ryōko main,Man,0,0,0,,I hear the two of you are fairly strong.
-Dialogue: 0,0:17:11.59,0:17:13.68,Ryōko main,Man,0,0,0,,If you have confidence in your strength,
-Dialogue: 0,0:17:13.68,0:17:17.51,Ryōko main,Man,0,0,0,,I would like to ask you to exterminate that monster.
+Dialogue: 0,0:17:06.73,0:17:11.05,Ryōko main,Man,0,0,0,,I hear the two of you\Nare fairly strong.
+Dialogue: 0,0:17:11.59,0:17:13.68,Ryōko main,Man,0,0,0,,If you have confidence\Nin your strength,
+Dialogue: 0,0:17:13.68,0:17:17.51,Ryōko main,Man,0,0,0,,I would like to ask you to\Nexterminate that monster.
 Dialogue: 0,0:17:17.51,0:17:19.02,Ryōko main,Jun,0,0,0,,What did you say?
-Dialogue: 0,0:17:19.02,0:17:22.31,Ryōko main,Man,0,0,0,,Of course, I will guarantee a return worthy of its price.
-Dialogue: 0,0:17:22.31,0:17:25.76,Ryōko main,Man,0,0,0,,I don't want to say this, but you're a non-career bureaucrat.
+Dialogue: 0,0:17:19.02,0:17:22.31,Ryōko main,Man,0,0,0,,Of course, I will guarantee\Na return worthy of its price.
+Dialogue: 0,0:17:22.31,0:17:25.76,Ryōko main,Man,0,0,0,,I don't want to say this, but you're a non-career bureaucrat.{meeeh}
 Dialogue: 0,0:17:25.76,0:17:29.63,Ryōko main,Man,0,0,0,,The difference between you and the career bureaucrats will only grow bigger as you age.
 Dialogue: 0,0:17:31.02,0:17:31.95,Ryōko main,Man,0,0,0,,How about it?
 Dialogue: 0,0:17:31.95,0:17:37.03,Ryōko main,Man,0,0,0,,If you're going to live as a non-career bureaucrat, why not lend us a hand?
 Dialogue: 0,0:17:37.03,0:17:38.40,Ryōko main,Man,0,0,0,,You won't be sorry.
-Dialogue: 0,0:17:38.40,0:17:40.58,Ryōko main,Man,0,0,0,,I will also promise you success in life.
-Dialogue: 0,0:17:41.57,0:17:44.04,Ryōko main,Guy,0,0,0,,I don't think it's a bad deal for you.
+Dialogue: 0,0:17:38.40,0:17:40.58,Ryōko main,Man,0,0,0,,I will also promise you\Nsuccess in life.
+Dialogue: 0,0:17:41.57,0:17:44.04,Ryōko main,Guy,0,0,0,,I don't think\Nit's a bad deal for you.
 Dialogue: 0,0:17:45.88,0:17:47.13,Ryōko main,Jun,0,0,0,,I decline.
 Dialogue: 0,0:17:47.13,0:17:48.79,Ryōko main,Man,0,0,0,,But, listen...
 Dialogue: 0,0:17:48.79,0:17:53.44,Ryōko main,Jun,0,0,0,,I am satisfied with being Yakushiji Ryouko's subordinate.
 Dialogue: 0,0:17:53.44,0:17:54.05,Ryōko main,Guy,0,0,0,,Bastard!
 Dialogue: 0,0:17:54.05,0:17:56.77,Ryōko main,Guy,0,0,0,,Taking the upper hand just because we were being modest!
 Dialogue: 0,0:18:11.77,0:18:13.28,Ryōko main,Guy,0,0,0,,You bitch!
-Dialogue: 0,0:18:13.28,0:18:14.39,Ryōko main,Luc,0,0,0,,Bye bye!
+Dialogue: 0,0:18:13.28,0:18:14.39,Ryōko main,Luc,0,0,0,,Hello!
 Dialogue: 0,0:18:25.46,0:18:26.33,Ryōko main,Guy,0,0,0,,That's...
 Dialogue: 0,0:18:29.62,0:18:30.80,Ryōko main,Man,0,0,0,,What is this?
 Dialogue: 0,0:18:43.48,0:18:45.39,Ryōko main,Man,0,0,0,,Damn you! How dare you!
 Dialogue: 0,0:18:45.39,0:18:46.23,Ryōko main,Guy,0,0,0,,Above!
 Dialogue: 0,0:18:58.44,0:18:59.66,Ryōko main,Jun,0,0,0,,Superintendent!
 Dialogue: 0,0:19:03.38,0:19:04.20,Ryōko main,Ryo,0,0,0,,Wait.
-Dialogue: 0,0:19:18.46,0:19:20.87,Ryōko main,Jun,0,0,0,,I've asked Abe Jun-san for reinforcements.
+Dialogue: 0,0:19:18.46,0:19:20.87,Ryōko main,Jun,0,0,0,,I've asked Abe Jun-san\Nfor reinforcements.
 Dialogue: 0,0:19:20.87,0:19:22.98,Ryōko main,Jun,0,0,0,,He said he'll be here soon.
 Dialogue: 0,0:19:22.98,0:19:28.55,Ryōko main,Ryo,0,0,0,,They should just be locked up for life underground with the natural treasure.
 Dialogue: 0,0:19:32.37,0:19:34.07,Ryōko main,Ryo,0,0,0,,Okay. Start it.
@@ -275,26 +277,26 @@ Dialogue: 0,0:19:47.82,0:19:49.55,Ryōko main,Jun,0,0,0,,An underground water ve
 Dialogue: 0,0:19:49.55,0:19:52.17,Ryōko main,Ryo,0,0,0,,Lucienne found it using data from the Ministry of Land, Infrastructure, Transport and Tourism.
 Dialogue: 0,0:19:54.80,0:20:01.41,Ryōko main,Jun,0,0,0,,Maybe it knew you'd do this.
 Dialogue: 0,0:20:01.41,0:20:02.64,Ryōko main,Ryo,0,0,0,,Impossible.
-Dialogue: 0,0:20:20.67,0:20:23.97,Ryōko main,Gal,0,0,0,,Assistant Inspector Izumida, what are you reading?
+Dialogue: 0,0:20:20.67,0:20:23.97,Ryōko main,Gal,0,0,0,,Assistant Inspector Izumida,\Nwhat are you reading?
 Dialogue: 0,0:20:25.73,0:20:27.62,Ryōko main,Old,0,0,0,,Ibuse Masuji?
 Dialogue: 0,0:20:28.18,0:20:31.70,Ryōko tl notes,Note,0,0,0,,Note: "Sanshouuo" is Japanese for "salamander".
 Dialogue: 0,0:20:28.18,0:20:29.59,Ryōko main,Man,0,0,0,,"Sanshouuo".
 Dialogue: 0,0:20:29.59,0:20:31.70,Ryōko main,Gal,0,0,0,,What is it about?
 Dialogue: 0,0:20:31.70,0:20:36.48,Ryōko main,Old,0,0,0,,I believe it was about a salamander which became too big to get out of its den.
-Dialogue: 0,0:20:36.48,0:20:40.58,Ryōko main,Old,0,0,0,,It complained and gave excuses.
-Dialogue: 0,0:20:40.58,0:20:43.14,Ryōko main,Man,0,0,0,,I read it when I was a student too.
+Dialogue: 0,0:20:36.48,0:20:40.58,Ryōko main,Old,0,0,0,,It complained\Nand gave excuses.
+Dialogue: 0,0:20:40.58,0:20:43.14,Ryōko main,Man,0,0,0,,I read it when\NI was a student too.
 Dialogue: 0,0:20:43.14,0:20:45.12,Ryōko main,Man,0,0,0,,Yes, that's what it was about.
-Dialogue: 0,0:20:46.70,0:20:50.65,Ryōko italic,Ryo,0,0,0,,People just stay in their territory and complain.
+Dialogue: 0,0:20:46.70,0:20:50.65,Ryōko italic,Ryo,0,0,0,,People just stay in their\Nterritory and complain.
 Dialogue: 0,0:20:58.00,0:20:59.86,Ryōko main,Ryo,0,0,0,,I heard from the girls.
-Dialogue: 0,0:20:59.86,0:21:03.28,Ryōko main,Ryo,0,0,0,,You declined their offer, I hear?
+Dialogue: 0,0:20:59.86,0:21:03.28,Ryōko main,Ryo,0,0,0,,You declined\Ntheir offer, right?
 Dialogue: 0,0:21:03.28,0:21:04.22,Ryōko main,Jun,0,0,0,,Yes.
 Dialogue: 0,0:21:04.22,0:21:07.61,Ryōko main,Ryo,0,0,0,,You said you were satisfied with your current position, right?
 Dialogue: 0,0:21:07.61,0:21:08.87,Ryōko main,Jun,0,0,0,,Th-That's...
 Dialogue: 0,0:21:09.73,0:21:10.83,Ryōko main,Ryo,0,0,0,,You did say it, didn't you?
 Dialogue: 0,0:21:12.89,0:21:14.29,Ryōko main,Jun,0,0,0,,Yes, I did.
-Dialogue: 0,0:21:16.15,0:21:18.63,Ryōko main,Ryo,0,0,0,,Why did you say something so stupid?
+Dialogue: 0,0:21:16.15,0:21:18.63,Ryōko main,Ryo,0,0,0,,Why did you say\Nsomething so stupid?
 Dialogue: 0,0:21:18.63,0:21:19.77,Ryōko main,Jun,0,0,0,,What?
-Dialogue: 0,0:21:19.77,0:21:22.79,Ryōko main,Ryo,0,0,0,,If you brought the natural treasure under your control
+Dialogue: 0,0:21:19.77,0:21:22.79,Ryōko main,Ryo,0,0,0,,If you brought the natural\Ntreasure under your control
 Dialogue: 0,0:21:22.79,0:21:28.69,Ryōko main,Ryo,0,0,0,,and beat up Mr. Dinner, I could have been ruling his underground world.
 Dialogue: 0,0:21:29.45,0:21:31.86,Ryōko main,Ryo,0,0,0,,Man, what a waste.
 Dialogue: 0,0:21:31.86,0:21:33.66,Ryōko main,Jun,0,0,0,,Saying those things again...
@@ -311,9 +313,7 @@ Dialogue: 0,0:23:25.50,0:23:26.41,Ryōko main,Mar,0,0,0,,Excuse me.
 Dialogue: 0,0:23:26.41,0:23:27.27,Ryōko main,Jun,0,0,0,,Inspector Maruoka!
 Dialogue: 0,0:23:27.27,0:23:29.29,Ryōko main,Mar,0,0,0,,How about we go for a drink? Let's keep it a secret from the Superintendent, okay?
 Dialogue: 0,0:23:29.29,0:23:31.38,Ryōko main,Mar,0,0,0,,It's great to drink while complaining about your boss...
-Dialogue: 0,0:23:31.38,0:23:33.15,Ryōko main,Jun,0,0,0,,Yakushiji Ryouko's Supernatural Case File,
-Dialogue: 0,0:23:33.15,0:23:34.21,Ryōko main,,0,0,0,,File Number 07:
-Dialogue: 0,0:23:34.21,0:23:35.61,Ryōko main,Jun,0,0,0,,Okinawa, God's Island.
+Dialogue: 0,0:23:31.38,0:23:35.61,Ryōko main,Jun,0,0,0,,Yakushiji Ryouko's Supernatural Case File,\NFile Number 07: Okinawa, God's Island.
 Dialogue: 0,0:23:35.61,0:23:36.46,Ryōko main,Jun,0,0,0,,Please look forward to it.
-Dialogue: 0,0:23:36.46,0:23:38.20,Ryōko main,Ryo,0,0,0,,And? What were you going to do?
+Dialogue: 0,0:23:36.46,0:23:38.20,Ryōko main,Ryo,0,0,0,,And? What were\Nyou going to do?
 Dialogue: 0,0:23:38.20,0:23:39.18,Ryōko main,Mar,0,0,0,,Wh-What...
