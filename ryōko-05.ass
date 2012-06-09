@@ -7,12 +7,12 @@ WrapStyle: 0
 PlayResX: 856
 PlayResY: 476
 Audio URI: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 05.mkv
-Scroll Position: 1
-Active Line: 5
+Scroll Position: 101
+Active Line: 104
 Video File: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 05.mkv
 YCbCr Matrix: TV.601
 Video Aspect Ratio: c1.79832
-Video Position: 2615
+Video Position: 10986
 Keyframes File: ../avisynth/scxvid/ep05-scxvid.txt
 ScaledBorderAndShadow: yes
 
@@ -226,7 +226,7 @@ Dialogue: 0,0:13:11.78,0:13:14.52,Ryōko main,Guy,0,0,0,,We’ll go down now\Nan
 Dialogue: 0,0:13:14.52,0:13:16.40,Ryōko main,Guy,0,0,0,,We are confirming\Nyour identities.
 Dialogue: 0,0:13:16.40,0:13:19.90,Ryōko main,Guy,0,0,0,,If we find that you’re really from the Metropolitan Police Department, we’ll release you right away.
 Dialogue: 0,0:13:19.90,0:13:21.73,Ryōko main,Guy,0,0,0,,Stay quiet until we do.
-Dialogue: 0,0:13:22.29,0:13:25.38,Ryōko main,Ryo,0,0,0,,If you use the underground network of the Japan Private Police,
+Dialogue: 0,0:13:22.29,0:13:25.38,Ryōko main,Ryo,0,0,0,,If you use the underground network of the Japanese Private Police,
 Dialogue: 0,0:13:25.38,0:13:27.66,Ryōko main,Ryo,0,0,0,,I doubt the confirmation\Nwould even take a minute.
 Dialogue: 0,0:13:28.63,0:13:31.16,Ryōko main,Guy,0,0,0,,I don’t understand\Nwhat you’re saying.
 Dialogue: 0,0:13:31.16,0:13:35.41,Ryōko main,Ryo,0,0,0,,You intend to buy more time and erase all the evidence, right?
@@ -239,7 +239,7 @@ Dialogue: 0,0:13:54.83,0:13:56.07,Ryōko main,Guy,0,0,0,,The rest, come with me.
 Dialogue: 0,0:13:56.07,0:13:56.89,Ryōko main,Guy,0,0,0,,Yes, Sir!
 Dialogue: 0,0:14:04.51,0:14:06.20,Ryōko main,Ryo,0,0,0,,I’m sure she’s fine.
 Dialogue: 0,0:14:07.33,0:14:09.45,Ryōko main,Ryo,0,0,0,,That’s if my\Nassumption is correct.
-Dialogue: 0,0:14:11.21,0:14:15.20,Ryōko main,Ryo,0,0,0,,Rather, the ones in danger are the Japan Private Police.
+Dialogue: 0,0:14:11.21,0:14:15.20,Ryōko main,Ryo,0,0,0,,Rather, the ones in danger are the Japanese Private Police.
 Dialogue: 0,0:14:15.74,0:14:17.44,Ryōko main,Ryo,0,0,0,,They’re a security company.
 Dialogue: 0,0:14:17.44,0:14:20.97,Ryōko main,Ryo,0,0,0,,Yet, they enter wars and replace the military in war-torn regions behind the scene.
 Dialogue: 0,0:14:20.97,0:14:22.55,Ryōko main,Ryo,0,0,0,,They’re a dark organization.
@@ -271,12 +271,12 @@ Dialogue: 0,0:15:17.57,0:15:19.41,Ryōko main,Ryo,0,0,0,,You should leave the gu
 Dialogue: 0,0:15:20.16,0:15:20.69,Ryōko main,Jun,0,0,0,,But…
 Dialogue: 0,0:15:21.86,0:15:25.11,Ryōko main,Jun,0,0,0,,You know what that\Nmachine is, don’t you?
 Dialogue: 0,0:15:26.44,0:15:27.53,Ryōko main,Ryo,0,0,0,,Probably.
-Dialogue: 0,0:15:28.51,0:15:34.11,Ryōko main,Ryo,90,90,0,,The Japan Private Police were recently given complete control over the protection of nuclear power plants.
+Dialogue: 0,0:15:28.51,0:15:34.11,Ryōko main,Ryo,90,90,0,,The Japanese Private Police were recently given complete control over the protection of nuclear power plants.
 Dialogue: 0,0:15:34.11,0:15:39.45,Ryōko main,Ryo,0,0,0,,The decisive factor was the completely autonomous security robot they had secretly invented.
 Dialogue: 0,0:15:39.45,0:15:42.92,Ryōko main,Jun,0,0,0,,Why do you have such intimate knowledge about your rivals?
 Dialogue: 0,0:15:42.92,0:15:44.38,Ryōko main,Ryo,0,0,0,,It’s only natural.
 Dialogue: 0,0:15:45.03,0:15:47.13,Ryōko main,Ryo,0,0,0,,They probably got into an accident during the transfer or something like that.
-Dialogue: 0,0:15:47.34,0:15:50.22,Ryōko main,Ryo,0,0,0,,They evacuated it to this building guarded by the Japan Private Police.
+Dialogue: 0,0:15:47.34,0:15:50.22,Ryōko main,Ryo,0,0,0,,They evacuated it to this building guarded by the Japanese Private Police.
 Dialogue: 0,0:15:50.85,0:15:54.49,Ryōko main,Ryo,0,0,0,,But the robot malfunctioned due to the shock of the accident and went berserk.
 Dialogue: 0,0:15:54.49,0:15:56.45,Ryōko main,Ryo,0,0,0,,That’s probably\Nwhat happened.
 Dialogue: 0,0:15:58.92,0:16:00.76,Ryōko main,Ryo,0,0,0,,It seems like it\Nhas already started.
@@ -339,7 +339,7 @@ Dialogue: 0,0:19:49.72,0:19:54.13,Ryōko main,Man,0,0,0,,That robot was trying\N
 Dialogue: 0,0:19:54.58,0:19:57.70,Ryōko main,Jun,0,0,0,,Yes, I guess it was.
 Dialogue: 0,0:19:59.55,0:20:01.18,Ryōko italic,Jun,0,0,0,,Why does she have\Na smile on her face?
 Dialogue: 0,0:20:01.18,0:20:03.05,Ryōko italic,Jun,0,0,0,,I have a bad\Nfeeling about this.
-Dialogue: 0,0:20:04.63,0:20:08.80,Ryōko main,Ryo,0,0,0,,Now the Japan Private Police won’t be able to protect nuclear power plants.
+Dialogue: 0,0:20:04.63,0:20:08.80,Ryōko main,Ryo,0,0,0,,Now the Japanese Private Police won’t be able to protect nuclear power plants.
 Dialogue: 0,0:20:08.80,0:20:12.21,Ryōko main,Jun,0,0,0,,Don’t tell me that was your\Nplan from the beginning?
 Dialogue: 0,0:20:12.21,0:20:15.52,Ryōko main,Ryo,0,0,0,,Izumida-kun, the police inspector said he wanted to hear about the situation.
 Dialogue: 0,0:20:15.80,0:20:17.00,Ryōko main,Ryo,0,0,0,,Go.
