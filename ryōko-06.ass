@@ -6,12 +6,12 @@ WrapStyle: 0
 PlayResX: 856
 PlayResY: 476
 Audio URI: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 06.mkv
-Scroll Position: 285
-Active Line: 289
+Scroll Position: 7
+Active Line: 11
 Video File: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 06.mkv
 YCbCr Matrix: TV.601
 Video Aspect Ratio: c1.79832
-Video Position: 34064
+Video Position: 3542
 ScaledBorderAndShadow: yes
 
 [V4+ Styles]
@@ -34,6 +34,7 @@ Dialogue: 0,0:02:10.18,0:02:11.27,Ryōko main,Ryo,0,0,0,,Long time no see.
 Dialogue: 0,0:02:13.61,0:02:16.26,Ryōko main,,0,0,0,,Yes, it's been a while.{I think they say "une éternité".}
 Dialogue: 0,0:02:16.26,0:02:18.31,Ryōko main,,0,0,0,,It's great to see you again.
 Dialogue: 0,0:02:18.31,0:02:20.87,Ryōko main,,0,0,0,,We missed you so much.
+Dialogue: 0,0:02:20.91,0:02:25.87,Ryōko title,,0,0,0,,{\blur0.6\fscx63\pos(194.3,88)\c&H0A1B6D&}Sixth File
 Dialogue: 0,0:02:27.69,0:02:31.96,Ryōko italic,Jun,0,0,0,,Marianne and Lucienne are two maids\Nwho work for Yakushiji Ryouko.
 Dialogue: 0,0:02:31.96,0:02:36.63,Ryōko italic,Jun,0,0,0,,Of course, being maids, they do household chores, but that's not everything they do.
 Dialogue: 0,0:02:37.21,0:02:39.47,Ryōko italic,Jun,0,0,0,,Marianne is an expert with weapons,
