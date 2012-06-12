@@ -6,12 +6,12 @@ WrapStyle: 0
 PlayResX: 856
 PlayResY: 476
 Audio URI: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 09.mkv
-Scroll Position: 8
-Active Line: 7
+Scroll Position: 315
+Active Line: 317
 Video File: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 09.mkv
 YCbCr Matrix: TV.601
 Video Aspect Ratio: c1.79832
-Video Position: 3510
+Video Position: 33435
 ScaledBorderAndShadow: yes
 
 [V4+ Styles]
@@ -341,11 +341,13 @@ Dialogue: 0,0:21:14.95,0:21:17.21,Ryōko main,Jun,0,0,0,,She looks identical to 
 Dialogue: 0,0:21:19.05,0:21:20.58,Ryōko main,Ryo,0,0,0,,Why?
 Dialogue: 0,0:21:22.01,0:21:22.99,Ryōko main,Ryo,0,0,0,,Why?
 Dialogue: 0,0:21:24.61,0:21:26.52,Ryōko main,Ryo,0,0,0,,Why is she a kid?
-Dialogue: 0,0:23:15.72,0:23:18.31,Ryōko main,Jun,0,0,0,,What were you like when you were little, Superintendent?
-Dialogue: 0,0:23:18.31,0:23:19.44,Ryōko main,Ryo,0,0,0,,The same as I am now.
-Dialogue: 0,0:23:19.44,0:23:23.43,Ryōko main,Ryo,0,0,0,,Beautiful, pure, kindhearted, completely innocent, and loved by everyone...
-Dialogue: 0,0:23:23.43,0:23:25.22,Ryōko main,Jun,0,0,0,,Yakushiji Ryouko's Supernatural Case File,
-Dialogue: 0,0:23:25.22,0:23:26.68,Ryōko main,Jun,0,0,0,,File Number 09-B:
-Dialogue: 0,0:23:26.68,0:23:27.51,Ryōko main,Jun,0,0,0,,Trap in Azabu.
-Dialogue: 0,0:23:27.51,0:23:28.64,Ryōko main,Jun,0,0,0,,Please look forward to it.
-Dialogue: 0,0:23:28.64,0:23:29.22,Ryōko main,Jun,0,0,0,,And umm...
+Dialogue: 0,0:23:14.75,0:23:18.18,Ryōko main,,0,0,0,,{\bord7\blur5}The people and events in this work are purely fictional.
+Dialogue: 0,0:23:18.18,0:23:24.14,Ryōko main,,0,0,0,,{\bord7\blur5}Any resemblance to existing people or events is entirely coincidental.
+Dialogue: 0,0:23:25.72,0:23:28.31,Ryōko main,Jun,0,0,0,,What were you like when you were little, Superintendent?
+Dialogue: 0,0:23:28.31,0:23:29.44,Ryōko main,Ryo,0,0,0,,The same as I am now.
+Dialogue: 0,0:23:29.44,0:23:33.43,Ryōko main,Ryo,0,0,0,,Beautiful, pure, kindhearted, completely innocent, and loved by everyone...
+Dialogue: 0,0:23:33.43,0:23:35.22,Ryōko main,Jun,0,0,0,,Yakushiji Ryouko's Supernatural Case File,
+Dialogue: 0,0:23:35.22,0:23:36.68,Ryōko main,Jun,0,0,0,,File Number 09-B:
+Dialogue: 0,0:23:36.68,0:23:37.51,Ryōko main,Jun,0,0,0,,Trap in Azabu.
+Dialogue: 0,0:23:37.51,0:23:38.64,Ryōko main,Jun,0,0,0,,Please look forward to it.
+Dialogue: 0,0:23:38.64,0:23:39.22,Ryōko main,Jun,0,0,0,,And umm...
