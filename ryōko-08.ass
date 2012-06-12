@@ -6,12 +6,12 @@ WrapStyle: 0
 PlayResX: 856
 PlayResY: 476
 Audio URI: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 08.mkv
-Scroll Position: 0
-Active Line: 1
+Scroll Position: 321
+Active Line: 324
 Video File: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 08.mkv
 YCbCr Matrix: TV.601
 Video Aspect Ratio: c1.79832
-Video Position: 3033
+Video Position: 33745
 ScaledBorderAndShadow: yes
 
 [V4+ Styles]
@@ -347,12 +347,14 @@ Dialogue: 0,0:21:36.56,0:21:37.67,Ryōko main,Gal,0,0,0,,Yeah.
 Dialogue: 0,0:21:45.67,0:21:47.13,Ryōko main,Gal,0,0,0,,And...
 Dialogue: 0,0:21:48.21,0:21:49.45,Ryōko main,Gal,0,0,0,,That's right.
 Dialogue: 0,0:21:49.45,0:21:51.31,Ryōko main,Gal,0,0,0,,She was very noisy and...
-Dialogue: 0,0:23:15.67,0:23:18.42,Ryōko main,Jun,0,0,0,,Your older sister is your only sibling, right?
-Dialogue: 0,0:23:18.42,0:23:19.19,Ryōko main,Ryo,0,0,0,,Probably.
-Dialogue: 0,0:23:19.19,0:23:19.87,Ryōko main,Jun,0,0,0,,Probably?
-Dialogue: 0,0:23:19.87,0:23:22.21,Ryōko main,Ryo,0,0,0,,My father keeps many mistresses.
-Dialogue: 0,0:23:22.21,0:23:24.01,Ryōko main,Jun,0,0,0,,Yakushiji Ryouko's Supernatural Case File,
-Dialogue: 0,0:23:24.01,0:23:25.88,Ryōko main,Jun,0,0,0,,File Number 09A:
-Dialogue: 0,0:23:25.88,0:23:27.01,Ryōko main,Jun,0,0,0,,The Queen of Shiba.
-Dialogue: 0,0:23:27.01,0:23:27.80,Ryōko main,Jun,0,0,0,,Please look forward to it.
-Dialogue: 0,0:23:27.80,0:23:29.22,Ryōko main,Ryo,0,0,0,,Therefore, he may have illegitimate children somewh...
+Dialogue: 0,0:23:14.91,0:23:18.18,Ryōko main,,0,0,0,,{\bord7\blur5}The people and events in this work are purely fictional.
+Dialogue: 0,0:23:18.18,0:23:24.14,Ryōko main,,0,0,0,,{\bord7\blur5}Any resemblance to existing people or events is entirely coincidental.
+Dialogue: 0,0:23:25.67,0:23:28.42,Ryōko main,Jun,0,0,0,,Your older sister is your only sibling, right?
+Dialogue: 0,0:23:28.42,0:23:29.19,Ryōko main,Ryo,0,0,0,,Probably.
+Dialogue: 0,0:23:29.19,0:23:29.87,Ryōko main,Jun,0,0,0,,Probably?
+Dialogue: 0,0:23:29.87,0:23:32.21,Ryōko main,Ryo,0,0,0,,My father keeps many mistresses.
+Dialogue: 0,0:23:32.21,0:23:34.01,Ryōko main,Jun,0,0,0,,Yakushiji Ryouko's Supernatural Case File,
+Dialogue: 0,0:23:34.01,0:23:35.88,Ryōko main,Jun,0,0,0,,File Number 09A:
+Dialogue: 0,0:23:35.88,0:23:37.01,Ryōko main,Jun,0,0,0,,The Queen of Shiba.
+Dialogue: 0,0:23:37.01,0:23:37.80,Ryōko main,Jun,0,0,0,,Please look forward to it.
+Dialogue: 0,0:23:37.80,0:23:39.22,Ryōko main,Ryo,0,0,0,,Therefore, he may have illegitimate children somewh...
