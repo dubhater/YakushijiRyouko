@@ -5,13 +5,13 @@ ScriptType: v4.00+
 WrapStyle: 0
 PlayResX: 856
 PlayResY: 476
-Scroll Position: 1
-Active Line: 5
+Scroll Position: 254
+Active Line: 257
 Audio URI: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 07.mkv
 Video File: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 07.mkv
 YCbCr Matrix: TV.601
 Video Aspect Ratio: c1.79832
-Video Position: 3037
+Video Position: 30109
 Keyframes File: ../avisynth/scxvid/ep07-scxvid.txt
 ScaledBorderAndShadow: yes
 
@@ -281,8 +281,8 @@ Dialogue: 0,0:20:18.34,0:20:19.23,Ryōko main,Jun,0,0,0,,We’re running away.{S
 Dialogue: 0,0:20:25.06,0:20:26.82,Ryōko main,Nis,0,0,0,,Take that! Take that!
 Dialogue: 0,0:20:27.62,0:20:29.10,Ryōko main,Yuk,0,0,0,,Assistant Inspector Izumida!
 Dialogue: 0,0:20:29.10,0:20:31.07,Ryōko main,Nis,0,0,0,,Oryou-sama! Thank\Ngoodness you’re safe.
-Dialogue: 0,0:20:53.46,0:20:54.79,Ryōko main,Luc,0,0,0,,Target acquired.
-Dialogue: 0,0:20:55.46,0:20:57.46,Ryōko main,Luc,0,0,0,,The napalm is ready.
+Dialogue: 0,0:20:53.52,0:20:54.81,Ryōko main,Luc,0,0,0,,{\bord7\blur5}Target acquired.
+Dialogue: 0,0:20:55.48,0:20:57.48,Ryōko main,Luc,0,0,0,,{\bord7\blur5}The napalm is ready.
 Dialogue: 0,0:20:57.92,0:21:00.82,Ryōko main,Nis,0,0,0,,Did I just hear something\Nabout napalm?
 Dialogue: 0,0:21:01.89,0:21:02.90,Ryōko main,Gal,0,0,0,,Napalm?
 Dialogue: 0,0:21:04.04,0:21:05.57,Ryōko main,Ryo,0,0,0,,We’re going to burn it down.
