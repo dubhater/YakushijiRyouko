@@ -5,13 +5,13 @@ ScriptType: v4.00+
 WrapStyle: 0
 PlayResX: 856
 PlayResY: 476
-Scroll Position: 257
-Active Line: 260
+Scroll Position: 14
+Active Line: 15
 Audio URI: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 07.mkv
 Video File: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 07.mkv
 YCbCr Matrix: TV.601
 Video Aspect Ratio: c1.79832
-Video Position: 33550
+Video Position: 4508
 ScaledBorderAndShadow: yes
 
 [V4+ Styles]
@@ -39,6 +39,8 @@ Dialogue: 0,0:02:56.48,0:03:00.83,Ryōko main,Ryo,0,0,0,,if I had just "tripped"
 Dialogue: 0,0:03:00.83,0:03:01.78,Ryōko main,Ryo,0,0,0,,Too bad.
 Dialogue: 0,0:03:02.67,0:03:05.54,Ryōko main,Ryo,0,0,0,,You did this despite knowing that I'm Counselor Yakushiji Ryouko
 Dialogue: 0,0:03:05.54,0:03:08.00,Ryōko main,Ryo,0,0,0,,of the Metropolitan Police Department's Criminal Investigation Division?
+Dialogue: 0,0:03:08.00,0:03:13.00,Ryōko title,,0,0,0,,{\blur0.6\fscx63\pos(194.3,88)\c&H0A1B7E&}Seventh File
+Dialogue: 0,0:03:08.00,0:03:13.00,Ryōko title,,0,0,0,,{\blur0.7\fscx61\pos(306,281)\c&H05207A&}Okinawa, God's Island{Or, "Island of (the) gods"...?}
 Dialogue: 0,0:03:20.24,0:03:21.43,Ryōko main,Ryo,0,0,0,,Transformation Technique?
 Dialogue: 0,0:03:48.59,0:03:49.62,Ryōko main,Ryo,0,0,0,,Move!
 Dialogue: 0,0:03:50.56,0:03:51.41,Ryōko main,Jun,0,0,0,,Superintendent!
