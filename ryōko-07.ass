@@ -5,13 +5,13 @@ ScriptType: v4.00+
 WrapStyle: 0
 PlayResX: 856
 PlayResY: 476
-Scroll Position: 252
-Active Line: 265
+Scroll Position: 257
+Active Line: 260
 Audio URI: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 07.mkv
 Video File: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 07.mkv
 YCbCr Matrix: TV.601
 Video Aspect Ratio: c1.79832
-Video Position: 34064
+Video Position: 33550
 ScaledBorderAndShadow: yes
 
 [V4+ Styles]
@@ -283,6 +283,8 @@ Dialogue: 0,0:21:01.89,0:21:02.87,Ryōko main,Gal,0,0,0,,Napalm?
 Dialogue: 0,0:21:04.04,0:21:05.57,Ryōko main,Ryo,0,0,0,,We're going to burn it down.
 Dialogue: 0,0:21:05.57,0:21:06.83,Ryōko main,Ryo,0,0,0,,The entire forest.
 Dialogue: 0,0:21:07.55,0:21:09.79,Ryōko main,Ryo,0,0,0,,I don't intend to get permission for it.
+Dialogue: 0,0:23:14.97,0:23:18.18,Ryōko main,,0,0,0,,{\bord7\blur5}The people and events in this work are purely fictional.
+Dialogue: 0,0:23:18.18,0:23:24.14,Ryōko main,,0,0,0,,{\bord7\blur5}Any resemblance to existing people or events is entirely coincidental.
 Dialogue: 0,0:23:25.59,0:23:27.77,Ryōko main,Kin,0,0,0,,Thank you for always taking care of my little sister.
 Dialogue: 0,0:23:27.77,0:23:28.53,Ryōko main,Ryo,0,0,0,,Okinu!
 Dialogue: 0,0:23:28.53,0:23:30.69,Ryōko main,Kin,0,0,0,,Yes, I am Yakushiji Kinuko.
