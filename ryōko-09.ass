@@ -89,12 +89,12 @@ Dialogue: 0,0:04:58.46,0:05:01.15,Ryōko main,Man,0,0,0,,Okay, I’ve given it t
 Comment: 0,0:05:00.74,0:05:01.63,Ryōko overlap,Old,0,0,0,,{\be1\3a&H30&\fscx110\an8}I see.
 Comment: 0,0:05:01.63,0:05:03.24,Ryōko overlap,Old,0,0,0,,{\be1\3a&H30&\fscx110\an8}Leave the restaurant to me.
 Comment: 0,0:05:03.85,0:05:05.29,Ryōko overlap,sat,0,0,0,,{\be1\3a&H30&\fscx110\an8}I’m looking forward to it.
-Dialogue: 0,0:05:03.24,0:05:07.74,Ryōko signs,,40,0,0,,{\an1\fs28}Assistant inspector Izumida:\NThere is something I'd like\Nto discuss with you.\NPlease come to JACES Sports\Nin Yotsuya at noon today.\N\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hMuromachi
+Dialogue: 0,0:05:03.24,0:05:07.74,Ryōko signs,,40,0,0,,{\an1\fs28}Assistant inspector Izumida:\NThere is something I’d like\Nto discuss with you.\NPlease come to JACES Sports\Nin Yotsuya at noon today.\N\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hMuromachi
 Dialogue: 0,0:05:28.63,0:05:29.94,Ryōko main,Yuk,0,0,0,,Oh my, thank you!
 Dialogue: 0,0:05:31.76,0:05:33.61,Ryōko main,Yuk,0,0,0,,Assistant inspector Izumida?!
 Dialogue: 0,0:05:34.84,0:05:36.40,Ryōko main,Jun,0,0,0,,I’m very sorry.
 Dialogue: 0,0:05:36.40,0:05:40.24,Ryōko main,Jun,0,0,0,,Yakushiji makes me do this\Nevery time, so I just…
-Dialogue: 0,0:05:40.83,0:05:44.47,Ryōko main,Yuk,0,0,0,,That's not a job\Nfor a public servant!
+Dialogue: 0,0:05:40.83,0:05:44.47,Ryōko main,Yuk,0,0,0,,That’s not a job\Nfor a public servant!
 Dialogue: 0,0:05:44.47,0:05:46.20,Ryōko main,JUn,0,0,0,,I agree.
 Dialogue: 0,0:05:46.20,0:05:48.39,Ryōko main,Yuk,0,0,0,,Refrain from such\Nactions in the future.
 Dialogue: 0,0:05:48.39,0:05:49.93,Ryōko main,Jun,0,0,0,,I will keep that in mind.
@@ -163,7 +163,7 @@ Dialogue: 0,0:09:03.23,0:09:04.50,Ryōko main,Jun,0,0,0,,No.
 Dialogue: 0,0:09:04.50,0:09:08.24,Ryōko main,Jun,0,0,0,,I know how to state my opinions to a stubborn superior.
 Dialogue: 0,0:09:10.28,0:09:14.62,Ryōko main,Yuk,0,0,0,,Are you saying that\NI’m as stubborn as Oryou?
 Dialogue: 0,0:09:16.21,0:09:17.66,Ryōko main,Yuk,0,0,0,,Assistant Inspector Izumida!
-Dialogue: 0,0:09:17.66,0:09:19.49,Ryōko main,Yuk,0,0,0,,That perception of yours is wrong!{You're out of line!}
+Dialogue: 0,0:09:17.66,0:09:19.49,Ryōko main,Yuk,0,0,0,,You’re out of line!
 Dialogue: 0,0:09:19.49,0:09:20.37,Ryōko main,Jun,0,0,0,,I’m terribly sorry.
 Dialogue: 0,0:09:20.37,0:09:21.42,Ryōko main,Yuk,0,0,0,,Correct your\Nbehavior at once!
 Dialogue: 0,0:09:21.42,0:09:23.44,Ryōko main,Jun,0,0,0,,It was an inappropriate remark!
@@ -308,7 +308,7 @@ Dialogue: 0,0:17:28.06,0:17:32.56,Ryōko italic,Jun,0,0,0,,Her expression was un
 Dialogue: 0,0:17:32.56,0:17:35.45,Ryōko italic,Jun,0,0,0,,Could it be due to the Amakudari Regulation Bill and the stinging broadcasts?
 Dialogue: 0,0:17:36.83,0:17:41.46,Ryōko italic,Jun,0,0,0,,No, she’s looking at something…\Ncompletely different.
 Dialogue: 0,0:17:41.46,0:17:43.17,Ryōko italic,Jun,0,0,0,,That is what I felt.
-Dialogue: 0,0:17:43.68,0:17:44.39,Ryōko main,Lue,0,0,0,,Here.{lolz. It's not "tien" (yours) but "tiens" (imperative of "tenir", to hold)}
+Dialogue: 0,0:17:43.68,0:17:44.39,Ryōko main,Lue,0,0,0,,Here.{lolz. It’s not “tien” (yours) but “tiens” (imperative of “tenir”, to hold). They are both pronounced the same.}
 Dialogue: 0,0:17:48.15,0:17:50.14,Ryōko main,Jun,0,0,0,,Why are you giving me\Nsomething like this?
 Dialogue: 0,0:17:50.14,0:17:52.52,Ryōko main,Non,0,0,0,,It’s to protect yourself.
 Dialogue: 0,0:17:52.52,0:17:53.47,Ryōko main,Non,0,0,0,,Please take it.
