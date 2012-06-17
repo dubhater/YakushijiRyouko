@@ -6,12 +6,12 @@ WrapStyle: 0
 PlayResX: 856
 PlayResY: 476
 Audio URI: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 11.mkv
-Scroll Position: 277
-Active Line: 278
+Scroll Position: 17
+Active Line: 16
 Video File: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 11.mkv
 YCbCr Matrix: TV.601
 Video Aspect Ratio: c1.79832
-Video Position: 30775
+Video Position: 4333
 ScaledBorderAndShadow: yes
 
 [V4+ Styles]
@@ -39,6 +39,8 @@ Dialogue: 0,0:02:37.70,0:02:40.55,Ryōko main,Rur,0,0,0,,You were right, Uncle.
 Dialogue: 0,0:02:40.55,0:02:45.81,Ryōko main,Rur,0,0,0,,The Japanese Empire Security Service is now a global company called JACES.
 Dialogue: 0,0:02:47.59,0:02:51.52,Ryōko main,Rur,0,0,0,,But I haven't given up yet.
 Dialogue: 0,0:02:51.91,0:02:58.28,Ryōko main,Rur,0,0,0,,Please laugh at me for being a tenacious woman, Uncle Yakushiji.
+Dialogue: 0,0:03:00.70,0:03:05.70,Ryōko title,,0,0,0,,{\blur0.6\fscx63\pos(194.3,88)\c&H060FB1&}Eleventh File
+Dialogue: 0,0:03:00.70,0:03:05.70,Ryōko title,,0,0,0,,{\blur0.7\fscx61\pos(306,281)\c&H0612A7&}The Princess of Takanawa
 Dialogue: 0,0:03:15.83,0:03:17.80,Ryōko main,Yuk,0,0,0,,Is my usual seat open?
 Dialogue: 0,0:03:20.47,0:03:22.35,Ryōko main,Old,0,0,0,,It practically is.
 Dialogue: 0,0:03:46.24,0:03:48.74,Ryōko main,Old,0,0,0,,We are in the training region.
