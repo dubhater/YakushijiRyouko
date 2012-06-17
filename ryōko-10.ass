@@ -5,13 +5,13 @@ ScriptType: v4.00+
 WrapStyle: 0
 PlayResX: 856
 PlayResY: 476
-Scroll Position: 0
-Active Line: 1
+Scroll Position: 57
+Active Line: 61
 Audio URI: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 10.mkv
 Video File: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 10.mkv
 YCbCr Matrix: TV.601
 Video Aspect Ratio: c1.79832
-Video Position: 0
+Video Position: 8743
 Keyframes File: ../avisynth/scxvid/ep10-scxvid.txt
 ScaledBorderAndShadow: yes
 
@@ -86,7 +86,7 @@ Dialogue: 0,0:05:48.88,0:05:50.18,Ryōko main,Mon,0,0,0,,Boring.
 Dialogue: 0,0:05:50.18,0:05:52.44,Ryōko main,Jun,0,0,0,,So you can talk.
 Dialogue: 0,0:05:58.27,0:05:59.92,Ryōko main,Jun,0,0,0,,What’s your name?
 Dialogue: 0,0:06:01.33,0:06:02.25,Ryōko main,Mon,0,0,0,,I don’t know.
-Dialogue: 0,0:06:04.64,0:06:08.17,Ryōko italic,Ann,0,0,0,,{\be1\3a&H30&\fscx110\an8}We’re in the middle of a program, but breaking news has just arrived.
+Dialogue: 0,0:06:04.64,0:06:08.17,Ryōko italic,Ann,0,0,0,,{\an8}We’re in the middle of a program, but breaking news has just arrived.
 Dialogue: 0,0:06:08.17,0:06:13.26,Ryōko italic,Ann,0,0,0,,{\an8}Just now, there was an explosion at DK Pharmaceutical’s office-and-storage areas in Toyosu.
 Dialogue: 0,0:06:17.55,0:06:22.65,Ryōko main,Man,0,0,0,,Destroying evidence is fine and dandy, but that’s going too far, Ruriko-san.
 Dialogue: 0,0:06:24.73,0:06:27.99,Ryōko italic,Ann,0,0,0,,{\an8}We’ve just received more news.
