@@ -5,13 +5,13 @@ ScriptType: v4.00+
 WrapStyle: 0
 PlayResX: 856
 PlayResY: 476
-Scroll Position: 57
-Active Line: 61
+Scroll Position: 252
+Active Line: 256
 Audio URI: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 10.mkv
 Video File: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 10.mkv
 YCbCr Matrix: TV.601
 Video Aspect Ratio: c1.79832
-Video Position: 8743
+Video Position: 34007
 Keyframes File: ../avisynth/scxvid/ep10-scxvid.txt
 ScaledBorderAndShadow: yes
 
@@ -152,9 +152,9 @@ Dialogue: 0,0:11:29.50,0:11:31.31,Ryōko main,Jun,0,0,0,,But it’s a Japanese b
 Dialogue: 0,0:11:31.31,0:11:34.28,Ryōko main,Ryo,0,0,0,,Stop worrying\Nabout the details.
 Dialogue: 0,0:11:34.28,0:11:35.38,Ryōko main,Two,0,0,0,,Izumida.
 Dialogue: 0,0:12:08.19,0:12:09.08,Ryōko main,Jun,0,0,0,,Delicious!
-Dialogue: 0,0:12:18.25,0:12:21.25,Ryōko main,Mar,0,0,0,,Which clothes\Ndo you want, mon ami?{She's not a male, is she? Do the maids know something we don't?}
-Dialogue: 0,0:12:21.25,0:12:23.04,Ryōko main,Leu,0,0,0,,Please don’t be modest.
-Dialogue: 0,0:12:23.04,0:12:25.08,Ryōko main,Leu,0,0,0,,Choose what\Nyou like, mon ami.
+Dialogue: 0,0:12:18.63,0:12:21.30,Ryōko main,Mar,0,0,0,,{\bord7\blur5}Which clothes\Ndo you want, mon ami?{She's not a male, is she? Do the maids know something we don't?}
+Dialogue: 0,0:12:21.47,0:12:23.04,Ryōko main,Leu,0,0,0,,{\bord7\blur5}Please don’t be modest.
+Dialogue: 0,0:12:23.04,0:12:24.97,Ryōko main,Leu,0,0,0,,{\bord7\blur5}Choose what\Nyou like, mon ami.
 Dialogue: 0,0:12:29.13,0:12:32.49,Ryōko main,Jun,0,0,0,,So you decided to\Ncall her Monami-chan?{haha}
 Dialogue: 0,0:12:33.78,0:12:36.04,Ryōko main,Jun,0,0,0,,That’s what the two call her.
 Dialogue: 0,0:12:36.04,0:12:41.61,Ryōko main,Ryo,0,0,0,,Izumida-kun, I wouldn’t count on your French skills to begin with, but…
