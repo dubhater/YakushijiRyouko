@@ -5,13 +5,13 @@ ScriptType: v4.00+
 WrapStyle: 0
 PlayResX: 856
 PlayResY: 476
-Scroll Position: 114
-Active Line: 117
+Scroll Position: 0
+Active Line: 1
 Audio URI: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 10.mkv
 Video File: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 10.mkv
 YCbCr Matrix: TV.601
 Video Aspect Ratio: c1.79832
-Video Position: 16312
+Video Position: 0
 Keyframes File: ../avisynth/scxvid/ep10-scxvid.txt
 ScaledBorderAndShadow: yes
 
@@ -25,6 +25,8 @@ Style: Ryōko title,Exmouth,64,&H0000003A,&H000000FF,&H0000003A,&H00000000,-1,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Comment: 2,0:00:00.00,0:23:50.82,Ryōko italic,,1,0,1,,{\an7\bord1\3c&HFFFFFF&\p1}m 250 360 l 250 470 m 605 360 l 605 470{\p0}
+Comment: 1,0:00:00.00,0:23:50.82,Ryōko italic,,1,0,1,,{\an7\bord1\3c&H000000&\p1}m 249 360 l 249 470 m 606 360 l 606 470{\p0}
 Dialogue: 0,0:01:34.48,0:01:36.74,Ryōko main,Jun,0,0,0,,She looks just like you!
 Dialogue: 0,0:01:38.41,0:01:40.12,Ryōko main,Ryo,0,0,0,,Why?
 Dialogue: 0,0:01:40.12,0:01:41.30,Ryōko main,Ryo,0,0,0,,Why?
@@ -32,40 +34,40 @@ Dialogue: 0,0:01:42.85,0:01:44.15,Ryōko main,Ryo,0,0,0,,Why is she a kid?
 Dialogue: 0,0:02:07.06,0:02:12.02,Ryōko title,,0,0,0,,{\blur0.6\fscx63\pos(194.3,88)\c&H060F99&}Tenth File
 Dialogue: 0,0:02:07.06,0:02:12.02,Ryōko title,,0,0,0,,{\blur0.7\fscx61\pos(306,281)\c&H061295&}Trap in Azabu
 Dialogue: 0,0:02:30.58,0:02:31.25,Ryōko main,Man,0,0,0,,Ruriko-sama.
-Dialogue: 0,0:02:33.22,0:02:39.26,Ryōko main,Isu,0,0,0,,The centipede is programmed to not harm the girl.
-Dialogue: 0,0:02:39.69,0:02:42.18,Ryōko main,Isu,0,0,0,,Ryouko-san used that to her advantage.
-Dialogue: 0,0:02:42.18,0:02:44.51,Ryōko main,Man,0,0,0,,So she used the girl as a shield and escaped.
+Dialogue: 0,0:02:33.22,0:02:39.26,Ryōko main,Isu,0,0,0,,The centipede is programmed\Nto not harm the girl.
+Dialogue: 0,0:02:39.69,0:02:42.18,Ryōko main,Isu,0,0,0,,Ryouko-san used that\Nto her advantage.
+Dialogue: 0,0:02:42.18,0:02:44.51,Ryōko main,Man,0,0,0,,So she used the girl\Nas a shield and escaped.
 Dialogue: 0,0:02:45.15,0:02:46.52,Ryōko main,Man,0,0,0,,I’ll go after them.
 Dialogue: 0,0:02:46.52,0:02:48.59,Ryōko main,Isu,0,0,0,,There is no need.
 Dialogue: 0,0:02:48.59,0:02:49.85,Ryōko main,Man,0,0,0,,Ruriko-sama?
-Dialogue: 0,0:02:51.47,0:02:56.81,Ryōko main,Isu,0,0,0,,It’s also amusing to test out the power he mentioned.
+Dialogue: 0,0:02:51.47,0:02:56.81,Ryōko main,Isu,0,0,0,,It’s also amusing to test out\Nthe power he mentioned.
 Dialogue: 0,0:03:00.28,0:03:02.74,Ryōko main,Non,0,0,0,,They’re not coming after us.
 Dialogue: 0,0:03:03.06,0:03:04.43,Ryōko main,Ryo,0,0,0,,So it seems.
 Dialogue: 0,0:03:05.62,0:03:07.20,Ryōko main,Jun,0,0,0,,We’re okay now.
 Dialogue: 0,0:03:14.43,0:03:16.00,Ryōko main,Jun,0,0,0,,Hey, hang in there!
-Dialogue: 0,0:03:21.71,0:03:23.64,Ryōko main,Jun,0,0,0,,Superintendent, you know, don’t you?
+Dialogue: 0,0:03:21.71,0:03:23.64,Ryōko main,Jun,0,0,0,,Superintendent,\Nyou know, don’t you?
 Dialogue: 0,0:03:25.23,0:03:26.86,Ryōko main,Jun,0,0,0,,Please tell me.
 Dialogue: 0,0:03:26.86,0:03:28.17,Ryōko main,Jun,0,0,0,,Who exactly is she?
 Dialogue: 0,0:03:30.03,0:03:31.10,Ryōko main,Ryo,0,0,0,,I’ll tell you later.
-Dialogue: 0,0:03:31.75,0:03:34.20,Ryōko main,Ryo,0,0,0,,Nonagase-kun, head for my house.
+Dialogue: 0,0:03:31.75,0:03:34.20,Ryōko main,Ryo,0,0,0,,Nonagase-kun,\Nhead for my house.
 Dialogue: 0,0:03:34.20,0:03:35.86,Ryōko main,Non,0,0,0,,Understood.
 Dialogue: 0,0:03:49.03,0:03:50.87,Ryōko main,Jun,0,0,0,,Who exactly is she?
 Dialogue: 0,0:03:50.87,0:03:52.89,Ryōko main,Ryo,0,0,0,,Who do you think?
-Dialogue: 0,0:03:52.89,0:03:54.63,Ryōko main,Jun,0,0,0,,I’m the one asking the questions.
+Dialogue: 0,0:03:52.89,0:03:54.63,Ryōko main,Jun,0,0,0,,I’m the one asking\Nthe questions.
 Dialogue: 0,0:03:57.93,0:03:59.71,Ryōko main,Jun,0,0,0,,Then I’ll answer first.
-Dialogue: 0,0:04:00.69,0:04:03.01,Ryōko main,Jun,0,0,0,,Even though it’s a childish idea,
-Dialogue: 0,0:04:03.01,0:04:08.76,Ryōko main,Jun,0,0,0,,my first thought was that she was a clone.
+Dialogue: 0,0:04:00.69,0:04:03.01,Ryōko main,Jun,0,0,0,,Even though\Nit’s a childish idea,
+Dialogue: 0,0:04:03.01,0:04:08.76,Ryōko main,Jun,0,0,0,,my first thought was\Nthat she was a clone.
 Dialogue: 0,0:04:08.76,0:04:10.60,Ryōko main,Jun,0,0,0,,A SF-type theory.
 Dialogue: 0,0:04:12.07,0:04:18.07,Ryōko main,Jun,0,0,0,,But that’s impossible since the technology behind cloning isn’t that advanced yet.
-Dialogue: 0,0:04:19.84,0:04:24.96,Ryōko main,Jun,0,0,0,,Next, I thought she might be your illegitimate child.
-Dialogue: 0,0:04:26.40,0:04:29.18,Ryōko main,Jun,0,0,0,,But I shrugged that off right away.
+Dialogue: 0,0:04:19.84,0:04:24.96,Ryōko main,Jun,0,0,0,,Next, I thought she might\Nbe your illegitimate child.
+Dialogue: 0,0:04:26.40,0:04:29.18,Ryōko main,Jun,0,0,0,,But I shrugged\Nthat off right away.
 Dialogue: 0,0:04:29.18,0:04:31.29,Ryōko main,Ryo,0,0,0,,Of course.
-Dialogue: 0,0:04:31.89,0:04:34.79,Ryōko main,Jun,0,0,0,,That would leave only one possibility,
+Dialogue: 0,0:04:31.89,0:04:34.79,Ryōko main,Jun,0,0,0,,That would leave\Nonly one possibility,
 Dialogue: 0,0:04:35.35,0:04:39.80,Ryōko main,Jun,0,0,0,,that she is your sister.
 Dialogue: 0,0:04:39.80,0:04:40.80,Ryōko main,Ryo,0,0,0,,Continue.
-Dialogue: 0,0:04:41.12,0:04:44.38,Ryōko main,Jun,0,0,0,,I hear your father, Mr. Yakushiji Hiroki, is a ladies man.
+Dialogue: 0,0:04:41.12,0:04:44.38,Ryōko main,Jun,0,0,0,,I hear that your father,\NMr. Yakushiji Hiroki, is a ladies man.
 Dialogue: 0,0:04:44.38,0:04:50.18,Ryōko main,Jun,0,0,0,,Even though he’s already 60,\Nhe still keeps numerous mistresses.
-Dialogue: 0,0:04:50.18,0:04:52.14,Ryōko main,Ryo,0,0,0,,Although he’s in New York right now.
+Dialogue: 0,0:04:50.18,0:04:52.14,Ryōko main,Ryo,0,0,0,,Although he’s in\NNew York right now.
 Dialogue: 0,0:04:52.14,0:04:55.97,Ryōko main,Ryo,0,0,0,,Who did you hear that from?
 Dialogue: 0,0:04:55.97,0:04:57.92,Ryōko main,Jun,0,0,0,,You told me some time ago.
 Dialogue: 0,0:04:57.92,0:04:59.69,Ryōko main,Ryo,0,0,0,,Huh? Did I?
@@ -73,7 +75,7 @@ Dialogue: 0,0:05:00.31,0:05:04.70,Ryōko main,Jun,0,0,0,,Something about having 
 Dialogue: 0,0:05:05.43,0:05:07.09,Ryōko main,Ryo,0,0,0,,I see.
 Dialogue: 0,0:05:07.64,0:05:13.70,Ryōko main,Ryo,0,0,0,,You’ve come to the conclusion that she’s someone whom my father produced, eh?
 Dialogue: 0,0:05:13.70,0:05:17.99,Ryōko main,Jun,0,0,0,,Perhaps this was due to grudges against JACES or maybe it was for money.
-Dialogue: 0,0:05:17.99,0:05:20.96,Ryōko main,Jun,0,0,0,,Either way, someone confined her.
+Dialogue: 0,0:05:17.99,0:05:20.96,Ryōko main,Jun,0,0,0,,Either way,\Nsomeone confined her.
 Dialogue: 0,0:05:21.46,0:05:26.18,Ryōko main,Jun,0,0,0,,And after you found out, you rescued her and took her into protective custody.
 Dialogue: 0,0:05:29.25,0:05:31.01,Ryōko main,Jun,0,0,0,,So, what’s the real story?
 Dialogue: 0,0:05:31.01,0:05:32.39,Ryōko main,Two,0,0,0,,Mistress.
@@ -88,42 +90,42 @@ Dialogue: 0,0:06:04.64,0:06:08.17,Ryōko italic,Ann,0,0,0,,{\be1\3a&H30&\fscx110
 Dialogue: 0,0:06:08.17,0:06:13.26,Ryōko italic,Ann,0,0,0,,{\an8}Just now, there was an explosion at DK Pharmaceutical’s office-and-storage areas in Toyosu.
 Dialogue: 0,0:06:17.55,0:06:22.65,Ryōko main,Man,0,0,0,,Destroying evidence is fine and dandy, but that’s going too far, Ruriko-san.
 Dialogue: 0,0:06:24.73,0:06:27.99,Ryōko italic,Ann,0,0,0,,{\an8}We’ve just received more news.
-Dialogue: 0,0:06:27.99,0:06:31.96,Ryōko italic,Ann,0,0,0,,{\an8}It appears there was another explosion two minutes ago.
+Dialogue: 0,0:06:27.99,0:06:31.96,Ryōko italic,Ann,0,0,0,,{\an8}It appears there was another\Nexplosion two minutes ago.
 Dialogue: 0,0:06:31.96,0:06:33.53,Ryōko italic,Ann,0,0,0,,{\an8}I repeat.
 Dialogue: 0,0:06:33.53,0:06:39.88,Ryōko italic,Ann,0,0,0,,{\an8}Just now, there was an explosion at DK Pharmaceutical’s office-and-storage areas in Toyosu.
-Dialogue: 0,0:06:39.88,0:06:44.47,Ryōko italic,Ann,0,0,0,,{\an8}And we have reports that there was a second explosion as well.
+Dialogue: 0,0:06:39.88,0:06:44.47,Ryōko italic,Ann,0,0,0,,{\an8}And we have reports that\Nthere was a second explosion as well.
 Dialogue: 0,0:06:44.47,0:06:51.80,Ryōko italic,Ann,0,0,0,,{\an8}The police are investigating whether this explosion is due to the first explosion or a terrorist attack.
-Dialogue: 0,0:06:34.51,0:06:36.62,Ryōko main,Isu,0,0,0,,You have an interesting hobby.
+Dialogue: 0,0:06:34.51,0:06:36.62,Ryōko main,Isu,0,0,0,,You have an\Ninteresting hobby.
 Dialogue: 0,0:06:38.30,0:06:39.87,Ryōko main,Guy,0,0,0,,Oh, those.
-Dialogue: 0,0:06:40.60,0:06:43.06,Ryōko main,Guy,0,0,0,,They’re gods to protect me from fire.
-Dialogue: 0,0:06:43.06,0:06:44.70,Ryōko main,Guy,0,0,0,,Back when I worked for the Defense Agency,
+Dialogue: 0,0:06:40.60,0:06:43.06,Ryōko main,Guy,0,0,0,,They’re gods,\Nto protect me from fire.
+Dialogue: 0,0:06:43.06,0:06:44.70,Ryōko main,Guy,0,0,0,,Back when I worked\Nfor the Defense Agency,
 Dialogue: 0,0:06:44.70,0:06:47.59,Ryōko main,Guy,0,0,0,,there was a mysterious legend concerning a nearby lake.
 Dialogue: 0,0:06:49.00,0:06:51.80,Ryōko main,Isu,0,0,0,,The Azabu Toad Lake Legend, right?
 Dialogue: 0,0:06:51.80,0:06:53.29,Ryōko italic,Ann,0,0,0,,{\an8}These are images of the scene.
 Dialogue: 0,0:06:52.61,0:06:54.32,Ryōko main,Guy,0,0,0,,So you know.
-Dialogue: 0,0:06:53.82,0:06:56.40,Ryōko italic,Ann,0,0,0,,{\an8}There’s smoke rising from multiple locations.
-Dialogue: 0,0:06:56.40,0:06:58.64,Ryōko italic,Ann,0,0,0,,{\an8}It conveys the magnitude of the explosion to us.
-Dialogue: 0,0:06:54.32,0:06:56.40,Ryōko main,Guy,0,0,0,,I read about it in a book by Okamoto Kidou.
+Dialogue: 0,0:06:53.82,0:06:56.40,Ryōko italic,Ann,0,0,0,,{\an8}There’s smoke rising\Nfrom multiple locations.
+Dialogue: 0,0:06:56.40,0:06:58.64,Ryōko italic,Ann,0,0,0,,{\an8}It conveys the magnitude\Nof the explosion to us.
+Dialogue: 0,0:06:54.32,0:06:56.40,Ryōko main,Guy,0,0,0,,I read about it in a book\Nby Okamoto Kidou.
 Dialogue: 0,0:06:57.64,0:06:59.06,Ryōko main,Guy,0,0,0,,Regarding “that”.
-Dialogue: 0,0:07:00.03,0:07:02.59,Ryōko main,Guy,0,0,0,,I’ve talked to the mayor about it.
+Dialogue: 0,0:07:00.03,0:07:02.59,Ryōko main,Guy,0,0,0,,I’ve talked to\Nthe mayor about it.
 Dialogue: 0,0:07:03.27,0:07:04.27,Ryōko main,Guy,0,0,0,,All that’s left is…
 Dialogue: 0,0:07:04.99,0:07:07.17,Ryōko main,Iru,0,0,0,,I know.
 Dialogue: 0,0:07:07.17,0:07:12.26,Ryōko main,Isu,0,0,0,,Just like how the Metropolitan Police Department and JACES have strong ties,
 Dialogue: 0,0:07:12.26,0:07:17.79,Ryōko main,Isu,0,0,0,,the ties between NPP and the Ministry of Defense are also rock solid.
-Dialogue: 0,0:07:18.34,0:07:24.79,Ryōko main,Guy,0,0,0,,I feel relieved to hear that from you, the one who is essentially the owner of NPP.
-Dialogue: 0,0:07:25.54,0:07:29.41,Ryōko main,Isu,0,0,0,,As previously promised, once we complete all the tasks,
-Dialogue: 0,0:07:29.41,0:07:34.76,Ryōko main,Isu,0,0,0,,I will present you the Prime Minister’s seat.
-Dialogue: 0,0:07:38.08,0:07:41.48,Ryōko main,Guy,0,0,0,,But still, you lay down your plans really carefully.
-Dialogue: 0,0:07:42.11,0:07:47.68,Ryōko main,Guy,0,0,0,,To think that you’d go this far just to erase one person.
-Dialogue: 0,0:07:47.68,0:07:52.85,Ryōko main,Isu,0,0,0,,That woman, Yakushiji Ryouko, is worthy of it.
-Dialogue: 0,0:07:54.68,0:07:58.49,Ryōko italic,Jun,0,0,0,,I ended up staying at Yakushiji Ryouko’s house.
-Dialogue: 0,0:08:02.42,0:08:08.62,Ryōko italic,Jun,0,0,0,,In the end, she didn’t say a word about the girl.
-Dialogue: 0,0:08:09.46,0:08:15.73,Ryōko italic,Jun,0,0,0,,Judging from her mannerisms, she’ll probably never reveal the truth.
+Dialogue: 0,0:07:18.34,0:07:24.79,Ryōko main,Guy,0,0,0,,I feel relieved to hear that from you,\Nthe one who is essentially the owner of NPP.
+Dialogue: 0,0:07:25.54,0:07:29.41,Ryōko main,Isu,0,0,0,,As previously promised,\Nonce we complete all the tasks,
+Dialogue: 0,0:07:29.41,0:07:34.76,Ryōko main,Isu,0,0,0,,I will present you\Nthe Prime Minister’s seat.
+Dialogue: 0,0:07:38.08,0:07:41.48,Ryōko main,Guy,0,0,0,,But still, you lay down\Nyour plans really carefully.
+Dialogue: 0,0:07:42.11,0:07:47.68,Ryōko main,Guy,0,0,0,,To think that you’d go this far\Njust to erase one person.
+Dialogue: 0,0:07:47.68,0:07:52.85,Ryōko main,Isu,0,0,0,,That woman,\NYakushiji Ryouko, is worthy of it.
+Dialogue: 0,0:07:54.68,0:07:58.49,Ryōko italic,Jun,0,0,0,,I ended up staying at\NYakushiji Ryouko’s house.
+Dialogue: 0,0:08:02.42,0:08:08.62,Ryōko italic,Jun,0,0,0,,In the end, she didn’t say\Na word about the girl.
+Dialogue: 0,0:08:09.46,0:08:15.73,Ryōko italic,Jun,0,0,0,,Judging from her mannerisms,\Nshe’ll probably never reveal the truth.
 Dialogue: 0,0:08:18.89,0:08:20.49,Ryōko main,Jun,0,0,0,,Superintendent, is that you?
 Dialogue: 0,0:08:26.37,0:08:27.27,Ryōko main,Jun,0,0,0,,You’re…
 Dialogue: 0,0:08:38.74,0:08:41.30,Ryōko main,Jun,0,0,0,,You need to sleep soon or else you won’t be able to wake up tomorrow morning.
 Dialogue: 0,0:08:41.30,0:08:42.71,Ryōko main,Kid,0,0,0,,I’m not sleepy yet.
-Dialogue: 0,0:08:45.40,0:08:48.41,Ryōko main,Jun,0,0,0,,Close your eyes and try counting sheep.
+Dialogue: 0,0:08:45.40,0:08:48.41,Ryōko main,Jun,0,0,0,,Close your eyes and\Ntry counting sheep.
 Dialogue: 0,0:08:48.41,0:08:50.44,Ryōko main,Kid,0,0,0,,If I do that, can I sleep?
 Dialogue: 0,0:08:50.44,0:08:51.96,Ryōko main,Jun,0,0,0,,Yes.
 Dialogue: 0,0:08:55.67,0:08:57.84,Ryōko main,Kid,0,0,0,,One sheep.
@@ -142,100 +144,100 @@ Dialogue: 0,0:10:33.68,0:10:34.60,Ryōko main,Kid,0,0,0,,Pot.
 Dialogue: 0,0:11:07.21,0:11:08.81,Ryōko main,Kid,0,0,0,,Finished.
 Dialogue: 0,0:11:08.81,0:11:11.35,Ryōko main,Jun,0,0,0,,You made this?
 Dialogue: 0,0:11:16.18,0:11:17.11,Ryōko main,Ryo,0,0,0,,That’s…!
-Dialogue: 0,0:11:20.33,0:11:24.03,Ryōko main,Jun,0,0,0,,“100 Infallible Cooking Techniques For New Wives.”
-Dialogue: 0,0:11:24.03,0:11:25.65,Ryōko main,Ryo,0,0,0,,Oh that.
-Dialogue: 0,0:11:25.65,0:11:27.91,Ryōko main,Ryo,0,0,0,,It belongs to Marianne and Lucienne.
+Dialogue: 0,0:11:20.33,0:11:24.03,Ryōko main,Jun,0,0,0,,“100 Infallible Cooking\NTechniques For New Wives”
+Dialogue: 0,0:11:24.03,0:11:25.65,Ryōko main,Ryo,0,0,0,,Oh, that.
+Dialogue: 0,0:11:25.65,0:11:27.91,Ryōko main,Ryo,0,0,0,,It belongs to\NMarianne and Lucienne.
 Dialogue: 0,0:11:27.91,0:11:29.50,Ryōko main,Ryo,0,0,0,,Right?
 Dialogue: 0,0:11:29.50,0:11:31.31,Ryōko main,Jun,0,0,0,,But it’s a Japanese book…
-Dialogue: 0,0:11:31.31,0:11:34.28,Ryōko main,Ryo,0,0,0,,Stop worrying about the details.
+Dialogue: 0,0:11:31.31,0:11:34.28,Ryōko main,Ryo,0,0,0,,Stop worrying\Nabout the details.
 Dialogue: 0,0:11:34.28,0:11:35.38,Ryōko main,Two,0,0,0,,Izumida.
 Dialogue: 0,0:12:08.19,0:12:09.08,Ryōko main,Jun,0,0,0,,Delicious!
-Dialogue: 0,0:12:18.25,0:12:21.25,Ryōko main,Mar,0,0,0,,Which clothes do you want, mon ami?{She's not a male, is she? Do the maids know something we don't?}
+Dialogue: 0,0:12:18.25,0:12:21.25,Ryōko main,Mar,0,0,0,,Which clothes\Ndo you want, mon ami?{She's not a male, is she? Do the maids know something we don't?}
 Dialogue: 0,0:12:21.25,0:12:23.04,Ryōko main,Leu,0,0,0,,Please don’t be modest.
-Dialogue: 0,0:12:23.04,0:12:25.08,Ryōko main,Leu,0,0,0,,Choose what you like, mon ami.
-Dialogue: 0,0:12:29.13,0:12:32.49,Ryōko main,Jun,0,0,0,,So you decided to call her Monami-chan?{haha}
+Dialogue: 0,0:12:23.04,0:12:25.08,Ryōko main,Leu,0,0,0,,Choose what\Nyou like, mon ami.
+Dialogue: 0,0:12:29.13,0:12:32.49,Ryōko main,Jun,0,0,0,,So you decided to\Ncall her Monami-chan?{haha}
 Dialogue: 0,0:12:33.78,0:12:36.04,Ryōko main,Jun,0,0,0,,That’s what the two call her.
 Dialogue: 0,0:12:36.04,0:12:41.61,Ryōko main,Ryo,0,0,0,,Izumida-kun, I wouldn’t count on your French skills to begin with, but…
-Dialogue: 0,0:12:41.61,0:12:44.67,Ryōko main,Ryo,0,0,0,,… haven’t you at least read Agatha Christie?{more lolz}
+Dialogue: 0,0:12:41.61,0:12:44.67,Ryōko main,Ryo,0,0,0,,… haven’t you at least\Nread Agatha Christie?{more lolz}
 Dialogue: 0,0:12:47.97,0:12:50.27,Ryōko main,Ryo,0,0,0,,Monami isn’t a name.
-Dialogue: 0,0:12:50.27,0:12:53.91,Ryōko main,Ryo,0,0,0,,It means “my trusted friend” in French.
+Dialogue: 0,0:12:50.27,0:12:53.91,Ryōko main,Ryo,0,0,0,,It means “my trusted friend” in French.{"trusted" may be stretching it a bit...}
 Dialogue: 0,0:12:54.86,0:12:59.00,Ryōko main,Jun,0,0,0,,Poirot often used it when he called Hastings, his best friend.
 Dialogue: 0,0:13:02.13,0:13:03.47,Ryōko main,Ryo,0,0,0,,But I guess it works.
 Dialogue: 0,0:13:03.47,0:13:04.97,Ryōko main,Jun,0,0,0,,Huh?
 Dialogue: 0,0:13:04.97,0:13:08.06,Ryōko main,Ryo,0,0,0,,She needs a name anyway.
-Dialogue: 0,0:13:08.87,0:13:11.35,Ryōko main,Ryo,0,0,0,,You’re Monami starting today.
+Dialogue: 0,0:13:08.87,0:13:11.35,Ryōko main,Ryo,0,0,0,,Starting today,\Nyour name is Monami.
 Dialogue: 0,0:13:12.67,0:13:13.73,Ryōko main,Mon,0,0,0,,Monami?
-Dialogue: 0,0:13:14.15,0:13:17.85,Ryōko main,Ryo,0,0,0,,Izumida-kun chose the name, so no complaints, right?
+Dialogue: 0,0:13:14.15,0:13:17.85,Ryōko main,Ryo,0,0,0,,Izumida-kun chose the name,\Nso no complaints, okay?
 Dialogue: 0,0:13:22.06,0:13:22.94,Ryōko main,Mon,0,0,0,,Do I look good in it?
-Dialogue: 0,0:13:25.70,0:13:28.21,Ryōko main,Ryo,0,0,0,,If you don’t work, you don’t eat.
-Dialogue: 0,0:13:28.21,0:13:31.62,Ryōko main,Ryo,0,0,0,,Monami, that’s what you will be wearing.
+Dialogue: 0,0:13:25.70,0:13:28.21,Ryōko main,Ryo,0,0,0,,If you don’t work,\Nyou don’t eat.
+Dialogue: 0,0:13:28.21,0:13:31.62,Ryōko main,Ryo,0,0,0,,Monami, that’s what\Nyou will be wearing.
 Dialogue: 0,0:13:38.85,0:13:40.57,Ryōko main,Jun,0,0,0,,You look good in it.
 Dialogue: 0,0:13:58.87,0:14:00.15,Ryōko main,Ryo,0,0,0,,I see.
-Dialogue: 0,0:14:00.15,0:14:05.40,Ryōko main,Ryo,0,0,0,,So you don’t remember a thing before you woke up.
+Dialogue: 0,0:14:00.15,0:14:05.40,Ryōko main,Ryo,0,0,0,,So you don’t remember\Na thing before you woke up.
 Dialogue: 0,0:14:05.40,0:14:07.24,Ryōko main,Mon,0,0,0,,Yes, Mistress.
 Dialogue: 0,0:14:07.75,0:14:09.24,Ryōko main,Ryo,0,0,0,,Izumida-kun…
 Dialogue: 0,0:14:10.47,0:14:13.87,Ryōko main,Ryo,0,0,0,,… said you’re my sister.
 Dialogue: 0,0:14:13.87,0:14:15.43,Ryōko main,Mon,0,0,0,,Sister?
-Dialogue: 0,0:14:15.43,0:14:19.21,Ryōko main,Ryo,0,0,0,,It means a different child born from the same parent.
+Dialogue: 0,0:14:15.43,0:14:19.21,Ryōko main,Ryo,0,0,0,,It means a different child\Nborn from the same parent.
 Dialogue: 0,0:14:20.29,0:14:21.42,Ryōko main,Mon,0,0,0,,Parent?
 Dialogue: 0,0:14:22.15,0:14:24.04,Ryōko main,Ryo,0,0,0,,Listen…
 Dialogue: 0,0:14:24.04,0:14:28.69,Ryōko main,Ryo,0,0,0,,Oh yeah, you wouldn’t know.
 Dialogue: 0,0:14:29.31,0:14:30.43,Ryōko main,Ryo,0,0,0,,I’m sorry.
 Dialogue: 0,0:14:37.14,0:14:38.22,Ryōko main,Jun,0,0,0,,Superintendent.
 Dialogue: 0,0:14:38.22,0:14:40.06,Ryōko main,Ryo,0,0,0,,Hand me my bathrobe.
-Dialogue: 0,0:14:40.49,0:14:42.31,Ryōko main,Non,0,0,0,,I’ve brought what you requested.
+Dialogue: 0,0:14:40.49,0:14:42.31,Ryōko main,Non,0,0,0,,I’ve brought what\Nyou requested.
 Dialogue: 0,0:14:43.17,0:14:44.64,Ryōko main,Jun,0,0,0,,What is that?
 Dialogue: 0,0:14:44.64,0:14:47.07,Ryōko main,Ryo,0,0,0,,Her reward.
-Dialogue: 0,0:14:55.60,0:14:58.53,Ryōko main,Ryo,0,0,0,,Since you look like me, it looks good on you.
+Dialogue: 0,0:14:55.60,0:14:58.53,Ryōko main,Ryo,0,0,0,,Since you look like me,\Nit looks good on you.
 Dialogue: 0,0:14:58.53,0:15:00.17,Ryōko main,Mon,0,0,0,,Yes, Mistress.
 Dialogue: 0,0:15:00.17,0:15:01.46,Ryōko main,Ryo,0,0,0,,No.
 Dialogue: 0,0:15:01.46,0:15:02.76,Ryōko main,Ryo,0,0,0,,In a situation like this…
 Dialogue: 0,0:15:04.78,0:15:05.67,Ryōko main,Mon,0,0,0,,Merci.
 Dialogue: 0,0:15:05.67,0:15:07.59,Ryōko main,Ryo,0,0,0,,Good work.
-Dialogue: 0,0:15:09.36,0:15:11.09,Ryōko main,Old,0,0,0,,How many times do I have to explain?
-Dialogue: 0,0:15:11.41,0:15:14.89,Ryōko main,Old,0,0,0,,We don’t know where they went either.
-Dialogue: 0,0:15:15.70,0:15:18.02,Ryōko main,Sat,0,0,0,,Superintendent! Izumida-san!
+Dialogue: 0,0:15:09.36,0:15:11.09,Ryōko main,Old,0,0,0,,How many times\Ndo I have to explain?
+Dialogue: 0,0:15:11.41,0:15:14.89,Ryōko main,Old,0,0,0,,We don’t know where\Nthey went either.
+Dialogue: 0,0:15:15.70,0:15:18.02,Ryōko main,Sat,0,0,0,,Superintendent!\NIzumida-san!
 Dialogue: 0,0:15:18.02,0:15:19.82,Ryōko main,Sat,0,0,0,,Are you watching this?
-Dialogue: 0,0:15:19.82,0:15:22.27,Ryōko main,Old,0,0,0,,What have you been doing this past week?
+Dialogue: 0,0:15:19.82,0:15:22.27,Ryōko main,Old,0,0,0,,What have you been\Ndoing this past week?
 Dialogue: 0,0:15:22.27,0:15:26.09,Ryōko main,Sat,0,0,0,,Please hurry and come back!
-Dialogue: 0,0:15:26.09,0:15:28.24,Ryōko main,Jun,0,0,0,,When do you plan to go back to work?
+Dialogue: 0,0:15:26.09,0:15:28.24,Ryōko main,Jun,0,0,0,,When do you plan\Nto go back to work?
 Dialogue: 0,0:15:29.54,0:15:31.24,Ryōko main,Ryo,0,0,0,,When I feel like it.
-Dialogue: 0,0:15:38.62,0:15:41.32,Ryōko main,Kin,0,0,0,,I see. So she’s called Monami-chan.
+Dialogue: 0,0:15:38.62,0:15:41.32,Ryōko main,Kin,0,0,0,,I see. So she’s\Ncalled Monami-chan.
 Dialogue: 0,0:15:41.32,0:15:43.04,Ryōko main,Kin,0,0,0,,It’s a pretty name.
 Dialogue: 0,0:15:43.53,0:15:45.84,Ryōko main,Kin,0,0,0,,I wonder how it’s written.
 Dialogue: 0,0:15:45.84,0:15:47.63,Ryōko tl notes,TL Note,0,0,0,,Note: Mofuku is Japanese for funeral wear.
-Dialogue: 0,0:15:45.84,0:15:47.63,Ryōko main,Kin,0,0,0,,Mo as in mofuku.
+Dialogue: 0,0:15:45.84,0:15:47.63,Ryōko main,Kin,0,0,0,,{\i1}Mo{\i0} as in {\i1}mofuku{\i0}.
 Dialogue: 0,0:15:47.63,0:15:49.87,Ryōko tl notes,TL Note,0,0,0,,Note: Namuamidabutsu is a buddhist prayer.
-Dialogue: 0,0:15:47.63,0:15:49.87,Ryōko main,Kin,0,0,0,,Na as in namuamidabutsu.
-Dialogue: 0,0:15:49.90,0:15:54.01,Ryōko tl notes,TL Note,0,0,0,,Note: The kanji for beautiful can also be read as “mi”.
-Dialogue: 0,0:15:49.90,0:15:50.79,Ryōko main,Kin,0,0,0,,And beautiful…
-Dialogue: 0,0:15:50.79,0:15:54.01,Ryōko main,Ryo,0,0,0,,{\i1}More importantly,{\i0} what about my question?
-Dialogue: 0,0:15:54.72,0:15:57.14,Ryōko main,Kin,0,0,0,,Please give me a bit more time.
+Dialogue: 0,0:15:47.63,0:15:49.87,Ryōko main,Kin,0,0,0,,{\i1}Na{\i0} as in {\i1}namuamidabutsu{\i0}.
+Dialogue: 0,0:15:49.90,0:15:54.01,Ryōko tl notes,TL Note,0,0,0,,Note: The kanji for beautiful\Ncan also be read as “mi”.
+Dialogue: 0,0:15:49.90,0:15:50.79,Ryōko main,Kin,0,0,0,,And {\i1}beautiful{\i0}…
+Dialogue: 0,0:15:50.79,0:15:54.01,Ryōko main,Ryo,0,0,0,,{\i1}More importantly,{\i0}\Nwhat about my question?
+Dialogue: 0,0:15:54.72,0:15:57.14,Ryōko main,Kin,0,0,0,,Please give me\Na bit more time.
 Dialogue: 0,0:15:57.14,0:15:59.27,Ryōko main,Ryo,0,0,0,,Please hurry up!
-Dialogue: 0,0:15:59.27,0:16:02.35,Ryōko main,Ryo,0,0,0,,I can’t let her stay here much longer.
+Dialogue: 0,0:15:59.27,0:16:02.35,Ryōko main,Ryo,0,0,0,,I can’t let her stay\Nhere much longer.
 Dialogue: 0,0:16:02.98,0:16:04.73,Ryōko main,Ryo,0,0,0,,Yes, that’s right.
 Dialogue: 0,0:16:04.73,0:16:07.58,Ryōko main,Ryo,0,0,0,,That’s why we have no choice but to raise her somewhere far away
-Dialogue: 0,0:16:07.58,0:16:12.53,Ryōko main,Ryo,0,0,0,,where they won’t get her, even if it’s in Africa or South America.
+Dialogue: 0,0:16:07.58,0:16:12.53,Ryōko main,Ryo,0,0,0,,where they won’t get her,\Neven if it’s in Africa or South America.
 Dialogue: 0,0:16:14.65,0:16:15.99,Ryōko main,Ryo,0,0,0,,Monami disappeared?
-Dialogue: 0,0:16:20.55,0:16:22.04,Ryōko main,Jun,0,0,0,,She wasn’t on the rooftop either.
+Dialogue: 0,0:16:20.55,0:16:22.04,Ryōko main,Jun,0,0,0,,She wasn’t on\Nthe rooftop either.
 Dialogue: 0,0:16:24.47,0:16:25.61,Ryōko main,Ryo,0,0,0,,That means…
 Dialogue: 0,0:16:27.72,0:16:29.84,Ryōko main,Ryo,0,0,0,,Hello. Nonagase-kun?
 Dialogue: 0,0:16:31.86,0:16:33.14,Ryōko main,Non,0,0,0,,Understood.
-Dialogue: 0,0:16:33.14,0:16:35.26,Ryōko main,Non,0,0,0,,I’ll send the information to you.
+Dialogue: 0,0:16:33.14,0:16:35.26,Ryōko main,Non,0,0,0,,I’ll send the\Ninformation to you.
 Dialogue: 0,0:16:44.27,0:16:46.93,Ryōko main,Ryo,0,0,0,,She’s headed to Azabu.
-Dialogue: 0,0:16:46.93,0:16:48.26,Ryōko main,Jun,0,0,0,,How do you know her location?
+Dialogue: 0,0:16:46.93,0:16:48.26,Ryōko main,Jun,0,0,0,,How do you\Nknow her location?
 Dialogue: 0,0:16:55.61,0:16:56.57,Ryōko main,Ryo,0,0,0,,Move!
-Dialogue: 0,0:17:04.24,0:17:06.25,Ryōko main,Guy,0,0,0,,Yakushiji-san, we would like to speak with you.
-Dialogue: 0,0:17:06.25,0:17:07.92,Ryōko main,Ryo,0,0,0,,Oh shut up!
-Dialogue: 0,0:17:12.71,0:17:14.68,Ryōko main,Guy,0,0,0,,No violence please.
-Dialogue: 0,0:17:16.93,0:17:19.45,Ryōko main,Jun,0,0,0,,Superintendent, who are they?
-Dialogue: 0,0:17:19.45,0:17:21.72,Ryōko main,Ryo,0,0,0,,Probably former self defense forces.
+Dialogue: 0,0:17:04.24,0:17:06.25,Ryōko main,Guy,0,0,0,,Yakushiji-san, we would\Nlike to speak with you.
+Dialogue: 0,0:17:06.25,0:17:07.92,Ryōko main,Ryo,0,0,0,,Oh, shut up!
+Dialogue: 0,0:17:12.71,0:17:14.68,Ryōko main,Guy,0,0,0,,Please, no violence.
+Dialogue: 0,0:17:16.93,0:17:19.45,Ryōko main,Jun,0,0,0,,Superintendent,\Nwho are they?
+Dialogue: 0,0:17:19.45,0:17:21.72,Ryōko main,Ryo,0,0,0,,Probably former\Nself defense forces.
 Dialogue: 0,0:17:21.72,0:17:23.73,Ryōko main,Ryo,0,0,0,,They’re dogs for NPP now.
 Dialogue: 0,0:17:36.85,0:17:38.57,Ryōko main,Tax,0,0,0,,You can pay me next time.
 Dialogue: 0,0:17:39.72,0:17:40.84,Ryōko main,Mon,0,0,0,,Thank you.
 Dialogue: 0,0:17:45.77,0:17:48.67,Ryōko main,Tax,0,0,0,,This is NPP SP-5,
-Dialogue: 0,0:17:48.67,0:17:52.21,Ryōko main,Tax,0,0,0,,R-9 has arrived at the scene as planned.
-Dialogue: 0,0:18:14.46,0:18:17.32,Ryōko main,Man,0,0,0,,Yakushiji-san, we would like to speak with you.
+Dialogue: 0,0:17:48.67,0:17:52.21,Ryōko main,Tax,0,0,0,,R-9 has arrived at\Nthe scene as planned.
+Dialogue: 0,0:18:14.46,0:18:17.32,Ryōko main,Man,0,0,0,,Yakushiji-san, we would\Nlike to speak with you.
 Dialogue: 0,0:18:21.53,0:18:23.08,Ryōko main,Jun,0,0,0,,She’s stopped moving.
 Dialogue: 0,0:18:25.46,0:18:26.38,Ryōko main,Jun,0,0,0,,This is the police.
 Dialogue: 0,0:18:26.38,0:18:27.50,Ryōko main,Jun,0,0,0,,Please hurry.
@@ -248,18 +250,18 @@ Dialogue: 0,0:19:28.60,0:19:29.97,Ryōko main,Jun,0,0,0,,Stop!
 Dialogue: 0,0:20:05.55,0:20:08.15,Ryōko main,Man,0,0,0,,R-9 retrieval, complete.
 Dialogue: 0,0:20:08.15,0:20:09.52,Ryōko main,Man,0,0,0,,We will now head back.
 Dialogue: 0,0:20:16.15,0:20:17.90,Ryōko main,Jun,0,0,0,,I’m terribly sorry.
-Dialogue: 0,0:20:18.52,0:20:21.57,Ryōko main,Jun,0,0,0,,I was with her, yet it turned out like this…
+Dialogue: 0,0:20:18.52,0:20:21.57,Ryōko main,Jun,0,0,0,,I was with her,\Nyet it turned out like this…
 Dialogue: 0,0:20:22.22,0:20:24.82,Ryōko main,Ryo,0,0,0,,It’s not your fault.
 Dialogue: 0,0:20:24.82,0:20:30.58,Ryōko main,Ryo,0,0,0,,And the monster you saw is probably the toad that appears in the Azabu legends.
 Dialogue: 0,0:20:31.47,0:20:33.67,Ryōko main,Jun,0,0,0,,A toad?
 Dialogue: 0,0:20:33.67,0:20:35.96,Ryōko main,Ryo,0,0,0,,Toad and centipede?
-Dialogue: 0,0:20:35.96,0:20:37.89,Ryōko main,Ryo,0,0,0,,Is this an old ninja movie or something?
-Dialogue: 0,0:20:39.48,0:20:44.17,Ryōko main,Jun,0,0,0,,Maybe she has the same power you do.
+Dialogue: 0,0:20:35.96,0:20:37.89,Ryōko main,Ryo,0,0,0,,Is this an old ninja\Nmovie or something?
+Dialogue: 0,0:20:39.48,0:20:44.17,Ryōko main,Jun,0,0,0,,Maybe she has the\Nsame power you do.
 Dialogue: 0,0:20:44.17,0:20:44.97,Ryōko main,Ryo,0,0,0,,What do you mean?
 Dialogue: 0,0:20:45.33,0:20:50.63,Ryōko main,Jun,0,0,0,,You have the power to attract things not from this world.
 Dialogue: 0,0:20:50.63,0:20:53.41,Ryōko main,Ryo,0,0,0,,Who said that?
 Dialogue: 0,0:20:53.41,0:20:54.99,Ryōko main,Jun,0,0,0,,Nonagase-san.
-Dialogue: 0,0:21:04.00,0:21:07.87,Ryōko italic,Jun,0,0,0,,I hated myself for being powerless.
+Dialogue: 0,0:21:04.00,0:21:07.87,Ryōko italic,Jun,0,0,0,,I hated myself\Nfor being powerless.
 Dialogue: 0,0:21:11.83,0:21:13.60,Ryōko main,Isu,0,0,0,,Good work.
 Dialogue: 0,0:21:13.60,0:21:14.27,Ryōko main,Man,0,0,0,,Thank you.
 Dialogue: 0,0:21:21.64,0:21:27.74,Ryōko main,Isu,0,0,0,,The late Tatsumi-sensei will transform you from a larva into a butterfly.
@@ -271,12 +273,12 @@ Dialogue: 0,0:23:14.95,0:23:18.40,Ryōko main,,0,0,0,,{\bord7\blur5}The people a
 Dialogue: 0,0:23:18.40,0:23:24.36,Ryōko main,,0,0,0,,{\bord7\blur5}Any resemblance to existing people or events is entirely coincidental.
 Dialogue: 0,0:23:25.68,0:23:26.84,Ryōko main,Ryo,0,0,0,,Here’s a riddle.
 Dialogue: 0,0:23:26.84,0:23:27.85,Ryōko main,Jun,0,0,0,,Bring it on.
-Dialogue: 0,0:23:27.85,0:23:28.87,Ryōko main,Ryo,0,0,0,,What’s a sweet version of me?
+Dialogue: 0,0:23:27.85,0:23:28.87,Ryōko main,Ryo,0,0,0,,What’s a sweet\Nversion of me?
 Dialogue: 0,0:23:28.87,0:23:30.69,Ryōko tl notes,TL Note,0,0,0,,Note: Dorayaki is red bean paste sandwiched in between two small pancakes.
 Dialogue: 0,0:23:28.87,0:23:30.01,Ryōko main,Jun,0,0,0,,Dorayaki Oryou.
 Dialogue: 0,0:23:30.01,0:23:30.69,Ryōko main,Ryo,0,0,0,,What if I drove?
 Dialogue: 0,0:23:30.69,0:23:31.50,Ryōko main,Jun,0,0,0,,Drive Oryou.
-Dialogue: 0,0:23:31.50,0:23:33.22,Ryōko main,Ryo,0,0,0,,Then what if I’m in a world of swords and magic—
+Dialogue: 0,0:23:31.50,0:23:33.22,Ryōko main,Ryo,0,0,0,,Then what if I’m in a world\Nof swords and magic—
 Dialogue: 0,0:23:33.22,0:23:37.80,Ryōko main,Jun,0,0,0,,Yakushiji Ryouko’s Supernatural Case File,\NFile Number 09-C: Princess of Takanawa.
 Dialogue: 0,0:23:37.80,0:23:38.35,Ryōko main,Jun,0,0,0,,Please look forward to it.
 Dialogue: 0,0:23:38.35,0:23:39.33,Ryōko main,Ryo,0,0,0,,Then the future—
