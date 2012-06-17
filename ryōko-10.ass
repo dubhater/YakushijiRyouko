@@ -5,13 +5,13 @@ ScriptType: v4.00+
 WrapStyle: 0
 PlayResX: 856
 PlayResY: 476
-Scroll Position: 5
-Active Line: 4
+Scroll Position: 240
+Active Line: 243
 Audio URI: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 10.mkv
 Video File: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 10.mkv
 YCbCr Matrix: TV.601
 Video Aspect Ratio: c1.79832
-Video Position: 3047
+Video Position: 33684
 ScaledBorderAndShadow: yes
 
 [V4+ Styles]
@@ -266,6 +266,8 @@ Dialogue: 0,0:21:27.74,0:21:31.84,Ryōko main,Isu,0,0,0,,For now, sleep well.
 Dialogue: 0,0:21:31.84,0:21:33.36,Ryōko main,Isu,0,0,0,,Calmly.
 Dialogue: 0,0:21:46.97,0:21:49.58,Ryōko main,Mon,0,0,0,,One sheep...
 Dialogue: 0,0:21:50.62,0:21:53.68,Ryōko main,Mon,0,0,0,,{\t(1040,3080,\alpha&HFF&}Two sheep...
+Dialogue: 0,0:23:14.95,0:23:18.40,Ryōko main,,0,0,0,,{\bord7\blur5}The people and events in this work are purely fictional.
+Dialogue: 0,0:23:18.40,0:23:24.36,Ryōko main,,0,0,0,,{\bord7\blur5}Any resemblance to existing people or events is entirely coincidental.
 Dialogue: 0,0:23:25.68,0:23:26.84,Ryōko main,Ryo,0,0,0,,Here's a riddle.
 Dialogue: 0,0:23:26.84,0:23:27.85,Ryōko main,Jun,0,0,0,,Bring it on.
 Dialogue: 0,0:23:27.85,0:23:28.87,Ryōko main,Ryo,0,0,0,,What's a sweet version of me?
