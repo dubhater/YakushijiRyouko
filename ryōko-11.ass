@@ -6,12 +6,12 @@ WrapStyle: 0
 PlayResX: 856
 PlayResY: 476
 Audio URI: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 11.mkv
-Scroll Position: 17
-Active Line: 16
+Scroll Position: 283
+Active Line: 286
 Video File: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 11.mkv
 YCbCr Matrix: TV.601
 Video Aspect Ratio: c1.79832
-Video Position: 4333
+Video Position: 33529
 ScaledBorderAndShadow: yes
 
 [V4+ Styles]
@@ -309,6 +309,8 @@ Dialogue: 0,0:21:25.87,0:21:28.43,Ryōko main,Rur,0,0,0,,That's to be expected o
 Dialogue: 0,0:21:38.83,0:21:40.97,Ryōko main,Ryo,0,0,0,,Now that I'm unarmed,
 Dialogue: 0,0:21:40.97,0:21:42.65,Ryōko main,Ryo,0,0,0,,whether it be grilling me or torturing me,
 Dialogue: 0,0:21:45.51,0:21:48.12,Ryōko main,Ryo,0,0,0,,do whatever you want with me.
+Dialogue: 0,0:23:14.99,0:23:18.40,Ryōko main,,0,0,0,,{\bord7\blur5}The people and events in this work are purely fictional.
+Dialogue: 0,0:23:18.40,0:23:24.36,Ryōko main,,0,0,0,,{\bord7\blur5}Any resemblance to existing people or events is entirely coincidental.
 Dialogue: 0,0:23:25.95,0:23:27.87,Ryōko main,Ryo,0,0,0,,I'd like to ask this since we're on the topic.
 Dialogue: 0,0:23:27.87,0:23:28.41,Ryōko main,Jun,0,0,0,,What is it?
 Dialogue: 0,0:23:28.41,0:23:31.46,Ryōko main,Ryo,0,0,0,,Izumida-kun, you used to go out with a girlfriend whom you had the intention of marrying...
