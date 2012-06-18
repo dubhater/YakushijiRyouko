@@ -6,12 +6,12 @@ WrapStyle: 0
 PlayResX: 856
 PlayResY: 476
 Audio URI: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 13.mkv
-Scroll Position: 192
-Active Line: 193
+Scroll Position: 8
+Active Line: 12
 Video File: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 13.mkv
 YCbCr Matrix: TV.601
 Video Aspect Ratio: c1.79832
-Video Position: 26853
+Video Position: 1783
 ScaledBorderAndShadow: yes
 
 [V4+ Styles]
@@ -35,6 +35,8 @@ Dialogue: 0,0:01:04.50,0:01:06.89,Ryōko main,Jun,0,0,0,,I see now.
 Dialogue: 0,0:01:06.89,0:01:08.79,Ryōko main,Ryo,0,0,0,,Now the players are all set.
 Dialogue: 0,0:01:10.27,0:01:11.50,Ryōko main,Ryo,0,0,0,,Commence advance!
 Dialogue: 0,0:01:12.33,0:01:14.34,Ryōko main,Ryo,0,0,0,,Head for Shiba!
+Dialogue: 0,0:01:14.34,0:01:19.35,Ryōko title,,0,0,0,,{\blur0.6\fscx63\pos(172,88)\c&H0615BB&\3c&H0615BB&}Thirteenth File
+Dialogue: 0,0:01:14.34,0:01:19.35,Ryōko title,,0,0,0,,{\blur0.7\fscx61\pos(224,281)\c&H0612B6&\3c&H0612B6&}Tokyo. Dead  or Love (second part)
 Dialogue: 0,0:01:27.89,0:01:30.61,Ryōko main,Lad,0,0,0,,Target has seized a tank and breached the siege.
 Dialogue: 0,0:01:31.03,0:01:33.07,Ryōko main,Lad,0,0,0,,She's headed straight here.
 Dialogue: 0,0:01:39.88,0:01:40.95,Ryōko main,Ryo,0,0,0,,Fire!
