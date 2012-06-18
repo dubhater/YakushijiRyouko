@@ -6,12 +6,12 @@ WrapStyle: 0
 PlayResX: 856
 PlayResY: 476
 Audio URI: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 13.mkv
-Scroll Position: 8
-Active Line: 12
+Scroll Position: 241
+Active Line: 244
 Video File: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 13.mkv
 YCbCr Matrix: TV.601
 Video Aspect Ratio: c1.79832
-Video Position: 1783
+Video Position: 33768
 ScaledBorderAndShadow: yes
 
 [V4+ Styles]
@@ -267,6 +267,8 @@ Dialogue: 0,0:23:01.35,0:23:02.07,Ryōko main,Ryo,0,0,0,,Well done.
 Dialogue: 0,0:23:14.16,0:23:16.02,Ryōko italic,Jun,0,0,0,,My name is Izumida Jun'ichirou.
 Dialogue: 0,0:23:16.02,0:23:17.29,Ryōko italic,Jun,0,0,0,,Thirty-three years old.
 Dialogue: 0,0:23:18.24,0:23:20.58,Ryōko italic,Jun,0,0,0,,I am Yakushiji Ryouko's...
+Dialogue: 0,0:23:25.00,0:23:28.40,Ryōko main,,0,0,0,,{\bord7\blur5}The people and events in this work are purely fictional.
+Dialogue: 0,0:23:28.40,0:23:34.36,Ryōko main,,0,0,0,,{\bord7\blur5}Any resemblance to existing people or events is entirely coincidental.
 Comment: 0,0:23:25.89,0:23:28.03,Ryōko main,,0,0,0,,You've heard about it, haven't you?{This is an ad for another series, present only in the TV broadcast.}
 Comment: 0,0:23:28.03,0:23:30.47,Ryōko main,,0,0,0,,About corpses that still move, even after they die,
 Comment: 0,0:23:30.47,0:23:33.18,Ryōko main,,0,0,0,,that execrate the living.
