@@ -6,12 +6,12 @@ WrapStyle: 0
 PlayResX: 856
 PlayResY: 476
 Audio URI: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 09.mkv
-Scroll Position: 135
-Active Line: 136
+Scroll Position: 300
+Active Line: 304
 Video File: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 09.mkv
 YCbCr Matrix: TV.601
 Video Aspect Ratio: c1.79832
-Video Position: 13365
+Video Position: 28452
 Keyframes File: ../avisynth/scxvid/ep09-scxvid.txt
 Last Style Storage: ryōko
 ScaledBorderAndShadow: yes
@@ -329,9 +329,9 @@ Dialogue: 0,0:19:14.72,0:19:15.39,Ryōko main,Ryo,0,0,0,,Shh.
 Dialogue: 0,0:19:24.86,0:19:25.18,Ryōko main,Ryo,0,0,0,,Hide!
 Dialogue: 0,0:19:34.68,0:19:37.40,Ryōko main,Jun,0,0,0,,That’s the security robot\Nfor nuclear power plants!
 Dialogue: 0,0:19:38.02,0:19:39.82,Ryōko main,Jun,0,0,0,,They even have\Nthose things…
-Dialogue: 0,0:19:39.82,0:19:42.32,Ryōko main,Jun,0,0,0,,What exactly is stored here?
-Dialogue: 0,0:19:42.46,0:19:46.18,Ryōko main,Ryo,0,0,0,,Marianne, Lucienne, can you play with the dangerous kid there?
-Dialogue: 0,0:19:46.18,0:19:49.37,Ryōko main,Two,0,0,0,,Yes, Mistress, leave it to us!
+Dialogue: 0,0:19:39.82,0:19:42.20,Ryōko main,Jun,0,0,0,,What exactly is stored here?
+Dialogue: 0,0:19:42.20,0:19:45.95,Ryōko main,Ryo,0,0,0,,{\bord7\blur5}Marianne, Lucienne, can you play with the dangerous kid there?
+Dialogue: 0,0:19:47.08,0:19:49.29,Ryōko main,Two,0,0,0,,{\bord7\blur5}Yes, Mistress, leave it to us!
 Dialogue: 0,0:19:50.95,0:19:51.58,Ryōko main,Jun,0,0,0,,Wait!
 Dialogue: 0,0:20:02.74,0:20:04.09,Ryōko main,Jun,0,0,0,,S-Superintendent!
 Dialogue: 0,0:20:06.22,0:20:07.14,Ryōko main,Ryo,0,0,0,,Open it.
