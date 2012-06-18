@@ -6,12 +6,13 @@ WrapStyle: 0
 PlayResX: 856
 PlayResY: 476
 Audio URI: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 12.mkv
-Scroll Position: 194
-Active Line: 195
+Scroll Position: 9
+Active Line: 8
 Video File: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 12.mkv
 YCbCr Matrix: TV.601
 Video Aspect Ratio: c1.79832
-Video Position: 31310
+Video Position: 3509
+Last Style Storage: Default
 ScaledBorderAndShadow: yes
 
 [V4+ Styles]
@@ -32,6 +33,8 @@ Dialogue: 0,0:01:59.40,0:02:01.72,Ryōko main,Rur,0,0,0,,I will make you disappe
 Dialogue: 0,0:02:01.72,0:02:02.97,Ryōko main,Jun,0,0,0,,Superintendent!
 Dialogue: 0,0:02:05.87,0:02:06.77,Ryōko main,Mon,0,0,0,,Izumida!
 Dialogue: 0,0:02:09.38,0:02:11.00,Ryōko main,Ryo,0,0,0,,Izumida-kun, behind you!
+Dialogue: 0,0:02:26.33,0:02:31.33,Ryōko title,,0,0,0,,{\blur0.6\fscx63\pos(172,88)\c&H060FB7&\3c&H060FB1&}Twelfth File
+Dialogue: 0,0:02:26.33,0:02:31.33,Ryōko title,,0,0,0,,{\blur0.7\fscx61\pos(224,281)\c&H0612B6&\3c&H0612B6&}Tokyo. Dead or Love (first part)
 Dialogue: 0,0:02:38.11,0:02:41.37,Ryōko main,Rur,0,0,0,,That's your friend.
 Dialogue: 0,0:02:44.16,0:02:45.43,Ryōko main,Mon,0,0,0,,What do you mean?
 Dialogue: 0,0:02:45.43,0:02:46.93,Ryōko main,Ryo,0,0,0,,Monami, don't listen to what she says!
