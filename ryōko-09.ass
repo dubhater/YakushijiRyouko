@@ -6,12 +6,12 @@ WrapStyle: 0
 PlayResX: 856
 PlayResY: 476
 Audio URI: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 09.mkv
-Scroll Position: 63
-Active Line: 67
+Scroll Position: 135
+Active Line: 136
 Video File: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 09.mkv
 YCbCr Matrix: TV.601
 Video Aspect Ratio: c1.79832
-Video Position: 8166
+Video Position: 13365
 Keyframes File: ../avisynth/scxvid/ep09-scxvid.txt
 Last Style Storage: ryōko
 ScaledBorderAndShadow: yes
@@ -163,7 +163,7 @@ Dialogue: 0,0:09:03.39,0:09:04.66,Ryōko main,Jun,0,0,0,,No.
 Dialogue: 0,0:09:04.66,0:09:08.40,Ryōko main,Jun,0,0,0,,I know how to state my opinions to a stubborn superior.
 Dialogue: 0,0:09:10.44,0:09:14.78,Ryōko main,Yuk,0,0,0,,Are you saying that\NI’m as stubborn as Oryou?
 Dialogue: 0,0:09:16.37,0:09:17.82,Ryōko main,Yuk,0,0,0,,Assistant Inspector Izumida!
-Dialogue: 0,0:09:17.82,0:09:19.65,Ryōko main,Yuk,0,0,0,,That perception of yours is wrong!{You're out of line!}
+Dialogue: 0,0:09:17.82,0:09:19.65,Ryōko main,Yuk,0,0,0,,You’re out of line!
 Dialogue: 0,0:09:19.65,0:09:20.53,Ryōko main,Jun,0,0,0,,I’m terribly sorry.
 Dialogue: 0,0:09:20.53,0:09:21.58,Ryōko main,Yuk,0,0,0,,Correct your\Nbehavior at once!
 Dialogue: 0,0:09:21.58,0:09:23.60,Ryōko main,Jun,0,0,0,,It was an inappropriate remark!
