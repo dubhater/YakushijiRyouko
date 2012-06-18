@@ -6,12 +6,12 @@ WrapStyle: 0
 PlayResX: 856
 PlayResY: 476
 Audio URI: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 09.mkv
-Scroll Position: 218
-Active Line: 222
+Scroll Position: 63
+Active Line: 67
 Video File: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 09.mkv
 YCbCr Matrix: TV.601
 Video Aspect Ratio: c1.79832
-Video Position: 20882
+Video Position: 8166
 Keyframes File: ../avisynth/scxvid/ep09-scxvid.txt
 Last Style Storage: ryōko
 ScaledBorderAndShadow: yes
@@ -89,12 +89,12 @@ Dialogue: 0,0:04:58.46,0:05:01.15,Ryōko main,Man,0,0,0,,Okay, I’ve given it t
 Comment: 0,0:05:00.74,0:05:01.63,Ryōko overlap,Old,0,0,0,,{\be1\3a&H30&\fscx110\an8}I see.
 Comment: 0,0:05:01.63,0:05:03.24,Ryōko overlap,Old,0,0,0,,{\be1\3a&H30&\fscx110\an8}Leave the restaurant to me.
 Comment: 0,0:05:03.85,0:05:05.29,Ryōko overlap,sat,0,0,0,,{\be1\3a&H30&\fscx110\an8}I’m looking forward to it.
-Dialogue: 0,0:05:03.24,0:05:07.74,Ryōko signs,,40,0,0,,{\an1\fs28}Assistant inspector Izumida:\NThere is something I'd like\Nto discuss with you.\NPlease come to JACES Sports\Nin Yotsuya at noon today.\N\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hMuromachi
+Dialogue: 0,0:05:03.24,0:05:07.74,Ryōko signs,,40,0,0,,{\an1\fs28}Assistant inspector Izumida:\NThere is something I’d like\Nto discuss with you.\NPlease come to JACES Sports\Nin Yotsuya at noon today.\N\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hMuromachi
 Dialogue: 0,0:05:28.79,0:05:30.10,Ryōko main,Yuk,0,0,0,,Oh my, thank you!
 Dialogue: 0,0:05:31.92,0:05:33.77,Ryōko main,Yuk,0,0,0,,Assistant inspector Izumida?!
 Dialogue: 0,0:05:35.00,0:05:36.56,Ryōko main,Jun,0,0,0,,I’m very sorry.
 Dialogue: 0,0:05:36.56,0:05:40.40,Ryōko main,Jun,0,0,0,,Yakushiji makes me do this\Nevery time, so I just…
-Dialogue: 0,0:05:40.99,0:05:44.63,Ryōko main,Yuk,0,0,0,,That's not a job\Nfor a public servant!
+Dialogue: 0,0:05:40.99,0:05:44.63,Ryōko main,Yuk,0,0,0,,That’s not a job\Nfor a public servant!
 Dialogue: 0,0:05:44.63,0:05:46.36,Ryōko main,JUn,0,0,0,,I agree.
 Dialogue: 0,0:05:46.36,0:05:48.55,Ryōko main,Yuk,0,0,0,,Refrain from such\Nactions in the future.
 Dialogue: 0,0:05:48.55,0:05:50.09,Ryōko main,Jun,0,0,0,,I will keep that in mind.
