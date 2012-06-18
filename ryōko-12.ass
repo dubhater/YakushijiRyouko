@@ -6,12 +6,12 @@ WrapStyle: 0
 PlayResX: 856
 PlayResY: 476
 Audio URI: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 12.mkv
-Scroll Position: 9
-Active Line: 8
+Scroll Position: 198
+Active Line: 201
 Video File: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 12.mkv
 YCbCr Matrix: TV.601
 Video Aspect Ratio: c1.79832
-Video Position: 3509
+Video Position: 33688
 Last Style Storage: Default
 ScaledBorderAndShadow: yes
 
@@ -225,6 +225,8 @@ Dialogue: 0,0:21:36.76,0:21:38.21,Ryōko main,Ryo,0,0,0,,That's my...
 Dialogue: 0,0:21:45.87,0:21:47.18,Ryōko main,Ryo,0,0,0,,It's nothing.
 Dialogue: 0,0:21:47.18,0:21:49.17,Ryōko main,Ryo,0,0,0,,You're right.
 Dialogue: 0,0:21:49.17,0:21:52.59,Ryōko main,Ryo,0,0,0,,I'll stop a tank with the wink of an eye.
+Dialogue: 0,0:23:14.95,0:23:18.40,Ryōko main,,0,0,0,,{\bord7\blur5}The people and events in this work are purely fictional.
+Dialogue: 0,0:23:18.40,0:23:24.36,Ryōko main,,0,0,0,,{\bord7\blur5}Any resemblance to existing people or events is entirely coincidental.
 Dialogue: 0,0:23:25.68,0:23:26.97,Ryōko main,Ryo,0,0,0,,I hear that they're going to construct
 Dialogue: 0,0:23:26.97,0:23:28.46,Ryōko main,Ryo,0,0,0,,a new Tokyo Tower in the Sumida District.
 Dialogue: 0,0:23:28.46,0:23:31.75,Ryōko main,Jun,0,0,0,,It's the Tokyo Sky Tree that's planned for completion in 2011.
