@@ -5,13 +5,14 @@ ScriptType: v4.00+
 WrapStyle: 0
 PlayResX: 856
 PlayResY: 476
-Scroll Position: 19
-Active Line: 18
+Scroll Position: 267
+Active Line: 271
 Video File: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 07.mkv
 YCbCr Matrix: TV.601
 Video Aspect Ratio: c1.79832
-Video Position: 4508
+Video Position: 34064
 Keyframes File: ../avisynth/scxvid/ep07-scxvid.txt
+Audio URI: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 07.mkv
 ScaledBorderAndShadow: yes
 
 [V4+ Styles]
@@ -27,7 +28,7 @@ Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 2,0:00:00.00,0:23:50.82,Ryōko italic,,1,0,1,,{\an7\bord1\3c&HFFFFFF&\p1}m 250 360 l 250 470 m 605 360 l 605 470{\p0}
 Comment: 1,0:00:00.00,0:23:50.82,Ryōko italic,,1,0,1,,{\an7\bord1\3c&H000000&\p1}m 249 360 l 249 470 m 606 360 l 606 470{\p0}
 Dialogue: 0,0:01:39.95,0:01:43.90,Ryōko tl notes,Note,0,0,0,,{\t(2984,3985,\alphaff}The song being sung in the background\Nis an Okinawan folk song.
-Dialogue: 0,0:01:51.62,0:01:55.05,Ryōko main,Ryo,0,0,0,,Why is Sanpin Tea the only tea all those vending machines are carrying?
+Dialogue: 0,0:01:51.62,0:01:55.05,Ryōko main,Ryo,0,0,0,,Why is Sanpin Tea the only tea all these vending machines are carrying?
 Dialogue: 0,0:01:56.06,0:01:57.38,Ryōko main,Ryo,0,0,0,,Izumida-kun!
 Dialogue: 0,0:02:02.05,0:02:05.51,Ryōko main,Ryo,0,0,0,,Geez, where did\Nhe wander off?
 Dialogue: 0,0:02:19.04,0:02:21.39,Ryōko italic,Jun,0,0,0,,My name is\NIzumida Jun’ichirou.
@@ -61,7 +62,7 @@ Dialogue: 0,0:04:42.94,0:04:47.10,Ryōko main,Jun,0,0,0,,It’s not that. Wouldn
 Dialogue: 0,0:04:47.88,0:04:48.91,Ryōko main,Ryo,0,0,0,,My.
 Dialogue: 0,0:04:48.91,0:04:53.06,Ryōko main,Ryo,0,0,0,,Isn’t ensuring your boss’s safety during a vacation part of your job description?
 Dialogue: 0,0:05:00.23,0:05:02.11,Ryōko main,Jun,0,0,0,,So this is the mangrove.
-Dialogue: 0,0:05:02.11,0:05:04.36,Ryōko main,Jun,0,0,0,,It sure does come\Nin various shapes.
+Dialogue: 0,0:05:02.11,0:05:04.53,Ryōko main,Jun,0,0,0,,It sure does come\Nin a lot of shapes.
 Dialogue: 0,0:05:04.89,0:05:09.19,Ryōko main,Ryo,0,0,0,,Mangrove is a general term used to describe the plants and vegetation that grow in brackish water.
 Dialogue: 0,0:05:09.19,0:05:11.76,Ryōko main,Ryo,0,0,0,,This water, for example,\Nexists in the mouths of rivers
 Dialogue: 0,0:05:11.76,0:05:13.54,Ryōko main,Ryo,0,0,0,,where the fresh water from swamps mixes with salt water.
@@ -93,13 +94,13 @@ Dialogue: 0,0:06:17.86,0:06:19.63,Ryōko main,,0,0,0,,Take us to Mr. Tadomura!
 Dialogue: 0,0:06:19.63,0:06:20.44,Ryōko main,,0,0,0,,Take us to him!
 Dialogue: 0,0:06:31.76,0:06:33.46,Ryōko main,Jun,0,0,0,,What are you doing?
 Dialogue: 0,0:06:33.46,0:06:34.91,Ryōko main,Jun,0,0,0,,That was just too rough!
-Dialogue: 0,0:06:34.91,0:06:35.64,Ryōko main,Man,0,0,0,,He’s right! It was rough!
-Dialogue: 0,0:06:35.64,0:06:36.71,Ryōko main,Guy,0,0,0,,A tourist?
+Comment: 0,0:06:34.91,0:06:35.64,Ryōko main,Man,0,0,0,,He’s right! It was rough!
+Dialogue: 0,0:06:34.91,0:06:36.71,Ryōko main,Guy,0,0,0,,A tourist?
 Dialogue: 0,0:06:38.01,0:06:41.39,Ryōko main,Jun,0,0,0,,You’re… um…
 Dialogue: 0,0:06:41.39,0:06:44.34,Ryōko main,Ryo,0,0,0,,We met at\NAoyama Broadway.
 Dialogue: 0,0:06:44.34,0:06:44.88,Ryōko main,Jun,0,0,0,,What?
 Dialogue: 0,0:06:54.90,0:06:56.93,Ryōko main,Jun,0,0,0,,You’re still alive?
-Dialogue: 0,0:06:59.58,0:06:59.90,Ryōko main,Guy,0,0,0,,Hey.
+Dialogue: 0,0:06:59.39,0:06:59.90,Ryōko main,Guy,0,0,0,,Hey.
 Dialogue: 0,0:07:04.47,0:07:07.61,Ryōko main,Ryo,0,0,0,,He’s the one who\Nattacked me on the ferry.
 Dialogue: 0,0:07:07.61,0:07:08.40,Ryōko main,Jun,0,0,0,,No way!
 Comment: 0,0:07:08.96,0:07:15.10,Ryōko tl notes,Note,0,0,0,,Note: The N in NPP stands for Nippon, another word for Japan.
@@ -121,10 +122,10 @@ Dialogue: 0,0:08:08.15,0:08:11.13,Ryōko italic,Ryo,0,0,0,,we might get our hand
 Dialogue: 0,0:08:11.49,0:08:13.23,Ryōko italic,Sis,0,0,0,,Oh my. You’re scary.
 Dialogue: 0,0:08:13.23,0:08:15.85,Ryōko italic,Sis,0,0,0,,I didn’t even think of that.
 Dialogue: 0,0:08:17.81,0:08:23.09,Ryōko main,Ryo,0,0,0,,That said, I get the feeling Okinu is just using me to her advantage.
-Dialogue: 0,0:08:23.09,0:08:26.90,Ryōko main,Ryo,0,0,0,,But yes, this is a good opportunity to get our hands on NPP’s weakness.
+Dialogue: 0,0:08:23.09,0:08:26.90,Ryōko main,Ryo,0,0,0,,But yes, this is a good opportunity\Nto get our hands on NPP’s weakness.
 Dialogue: 0,0:08:33.44,0:08:34.81,Ryōko main,Yuk,0,0,0,,Oryou!
 Dialogue: 0,0:08:34.81,0:08:35.74,Ryōko main,Nis,0,0,0,,Oryou-sama!
-Dialogue: 0,0:08:35.74,0:08:38.02,Ryōko main,Ryo,0,0,0,,Oh my Oyuki,
+Dialogue: 0,0:08:35.74,0:08:38.02,Ryōko main,Ryo,0,0,0,,Oh my, Oyuki,
 Dialogue: 0,0:08:38.02,0:08:41.84,Ryōko main,Ryo,0,0,0,,did you get transferred to\Nthe Okinawa Police Station
 Dialogue: 0,0:08:41.84,0:08:44.58,Ryōko main,Ryo,0,0,0,,because you became useless in the Metropolitan Police Department’s Security Division?
 Dialogue: 0,0:08:45.13,0:08:46.68,Ryōko main,Yuk,0,0,0,,Unfortunately not.
@@ -163,7 +164,7 @@ Dialogue: 0,0:10:54.39,0:10:54.96,Ryōko main,Jun,0,0,0,,You’re…!
 Dialogue: 0,0:10:59.21,0:11:01.01,Ryōko main,Jun,0,0,0,,Hey, you!
 Dialogue: 0,0:11:18.40,0:11:20.33,Ryōko main,Jun,0,0,0,,Wh-Why are you\Nrunning away?
 Dialogue: 0,0:11:20.33,0:11:22.01,Ryōko main,Gal,0,0,0,,For before…
-Dialogue: 0,0:11:22.01,0:11:23.89,Ryōko main,Gal,0,0,0,,Thank you.
+Dialogue: 0,0:11:22.01,0:11:23.89,Ryōko main,Gal,0,0,0,,… thank you.
 Dialogue: 0,0:11:23.89,0:11:25.37,Ryōko main,Jun,0,0,0,,No, it’s okay.
 Dialogue: 0,0:11:27.60,0:11:29.01,Ryōko main,Gal,0,0,0,,I’m embarrassed.
 Dialogue: 0,0:11:29.01,0:11:31.34,Ryōko main,Gal,0,0,0,,I take part in environmental\Nconservation activities,
@@ -181,7 +182,7 @@ Dialogue: 0,0:12:09.50,0:12:13.12,Ryōko italic,Jun,0,0,0,,What good can come fr
 Dialogue: 0,0:12:17.24,0:12:21.38,Ryōko italic,Jun,0,0,0,,To NPP, the organization the police approached, it would have been…
 Dialogue: 0,0:12:26.64,0:12:28.16,Ryōko main,Jun,0,0,0,,What’s this?
 Dialogue: 0,0:12:28.16,0:12:29.84,Ryōko main,Gal,0,0,0,,How uncommon.
-Dialogue: 0,0:12:29.87,0:12:31.39,Ryōko tl notes,Note,0,0,0,,A {\i1}kyouzuka{\i0} is a stone with\Nsomething scriptural written on it.
+Dialogue: 0,0:12:29.87,0:12:33.39,Ryōko tl notes,Note,0,0,0,,A {\i1}kyouzuka{\i0} is a stone with\Nsomething scriptural written on it.
 Dialogue: 0,0:12:29.84,0:12:31.39,Ryōko main,Gal,0,0,0,,I think it’s a kyouzuka.
 Dialogue: 0,0:12:33.97,0:12:39.36,Ryōko main,Ryo,0,0,0,,There are legends of a monk from Kouya who was cast ashore from Fudarakutokai.
 Dialogue: 0,0:12:40.21,0:12:41.25,Ryōko main,Jun,0,0,0,,Superintendent.
@@ -189,7 +190,7 @@ Dialogue: 0,0:12:43.02,0:12:43.81,Ryōko main,Gal,0,0,0,,Yes.
 Dialogue: 0,0:12:44.33,0:12:47.51,Ryōko main,Gal,0,0,0,,And it is said that he planted stones with scripture written on them in the streets.
 Dialogue: 0,0:12:47.51,0:12:51.84,Ryōko main,Gal,0,0,0,,He sealed away the monsters and dragons that made people suffer.
 Dialogue: 0,0:12:51.84,0:12:55.08,Ryōko main,Gal,0,0,0,,The actual stones have been unearthed from that time.
-Dialogue: 0,0:12:55.61,0:12:59.09,Ryōko main,Jun,0,0,0,,Okinawa deserves\Nsuch legends.
+Dialogue: 0,0:12:55.61,0:12:59.09,Ryōko main,Jun,0,0,0,,A legend fitting of Okinawa.{Okinawa deserves\Nsuch legends.}
 Dialogue: 0,0:13:00.03,0:13:04.66,Ryōko main,Gal,0,0,0,,It is said that a spirit, by the name of Kijimuna, lives in the mangrove.
 Dialogue: 0,0:13:04.66,0:13:07.22,Ryōko main,Gal,0,0,0,,I don’t know\Nif it really exists.
 Dialogue: 0,0:13:07.22,0:13:12.03,Ryōko main,Gal,0,0,0,,But there are times when\Nnature itself feels like God.
@@ -260,7 +261,7 @@ Dialogue: 0,0:18:34.62,0:18:39.86,Ryōko main,Ryo,0,0,0,,It looks like Tadomura 
 Dialogue: 0,0:18:39.86,0:18:41.68,Ryōko main,Jun,0,0,0,,This isn’t Tadomura’s will.
 Dialogue: 0,0:18:42.12,0:18:45.23,Ryōko main,Jun,0,0,0,,It’s probably the vivipary seed’s doing, the one stuck in him.
 Dialogue: 0,0:18:45.23,0:18:46.14,Ryōko main,Gal,0,0,0,,This can’t be.
-Dialogue: 0,0:18:47.23,0:18:51.42,Ryōko main,Ryo,0,0,0,,At first, NPP may have done genetic experiments to the mangrove.
+Dialogue: 0,0:18:47.23,0:18:51.42,Ryōko main,Ryo,0,0,0,,At first, NPP may have done genetic experiments on the mangrove.
 Dialogue: 0,0:18:51.42,0:18:56.07,Ryōko main,Ryo,0,0,0,,Either way, a mangrove parasitic on humans was born one day.
 Dialogue: 0,0:18:58.10,0:19:03.74,Ryōko main,Ryo,0,0,0,,While killing off the nuisance, the mangrove used Tadomura’s mouth and started its move.
 Dialogue: 0,0:19:04.64,0:19:06.64,Ryōko main,Ryo,0,0,0,,So it can thrive.
@@ -295,4 +296,4 @@ Dialogue: 0,0:23:28.55,0:23:30.69,Ryōko main,Kin,0,0,0,,Yes, I am Yakushiji Kin
 Dialogue: 0,0:23:30.69,0:23:32.80,Ryōko main,Kin,0,0,0,,It’s been 29 years since I was born as the family’s eldest daughter.
 Dialogue: 0,0:23:32.80,0:23:37.17,Ryōko main,Jun,0,0,0,,Yakushiji Ryouko’s Supernatural Case File,\NFile Number 08: Tamagawa Suicide.
 Dialogue: 0,0:23:37.17,0:23:38.48,Ryōko main,Jun,0,0,0,,Please look forward to it.
-Dialogue: 0,0:23:37.89,0:23:39.30,Ryōko overlap,Kin,0,0,0,,And with fallen leaves, I almost…
+Dialogue: 0,0:23:37.89,0:23:39.30,Ryōko overlap,Kin,0,0,0,,And with fallen leaves, I almost—
