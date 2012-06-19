@@ -89,9 +89,9 @@ Dialogue: 0,0:04:58.46,0:05:01.15,Ryōko main,Man,0,0,0,,Okay, I’ve given it t
 Comment: 0,0:05:00.74,0:05:01.63,Ryōko overlap,Old,0,0,0,,{\be1\3a&H30&\fscx110\an8}I see.
 Comment: 0,0:05:01.63,0:05:03.24,Ryōko overlap,Old,0,0,0,,{\be1\3a&H30&\fscx110\an8}Leave the restaurant to me.
 Comment: 0,0:05:03.85,0:05:05.29,Ryōko overlap,sat,0,0,0,,{\be1\3a&H30&\fscx110\an8}I’m looking forward to it.
-Dialogue: 0,0:05:03.24,0:05:07.74,Ryōko signs,,40,0,0,,{\an1\fs28}Assistant inspector Izumida:\NThere is something I’d like\Nto discuss with you.\NPlease come to JACES Sports\Nin Yotsuya at noon today.\N\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hMuromachi
+Dialogue: 0,0:05:03.24,0:05:07.74,Ryōko signs,,40,0,0,,{\an1\fs28}Assistant Inspector Izumida:\NThere is something I’d like\Nto discuss with you.\NPlease come to JACES Sports\Nin Yotsuya at noon today.\N\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hMuromachi
 Dialogue: 0,0:05:28.79,0:05:30.10,Ryōko main,Yuk,0,0,0,,Oh my, thank you!
-Dialogue: 0,0:05:31.92,0:05:33.77,Ryōko main,Yuk,0,0,0,,Assistant inspector Izumida?!
+Dialogue: 0,0:05:31.92,0:05:33.77,Ryōko main,Yuk,0,0,0,,Assistant Inspector Izumida?!
 Dialogue: 0,0:05:35.00,0:05:36.56,Ryōko main,Jun,0,0,0,,I’m very sorry.
 Dialogue: 0,0:05:36.56,0:05:40.40,Ryōko main,Jun,0,0,0,,Yakushiji makes me do this\Nevery time, so I just…
 Dialogue: 0,0:05:40.99,0:05:44.63,Ryōko main,Yuk,0,0,0,,That’s not a job\Nfor a public servant!
@@ -195,7 +195,7 @@ Dialogue: 0,0:11:21.63,0:11:25.45,Ryōko main,Old,0,0,0,,Well there’s that too
 Dialogue: 0,0:11:25.45,0:11:28.57,Ryōko main,Jun,0,0,0,,About 90% of the Metropolitan\NPolice Department’s bureaucrats
 Dialogue: 0,0:11:28.57,0:11:33.15,Ryōko main,Jun,0,0,0,,go amakudari to JACES or one of its\Nassociated companies after they retire, right?
 Dialogue: 0,0:11:33.15,0:11:34.41,Ryōko main,Sat,0,0,0,,I see!
-Dialogue: 0,0:11:34.41,0:11:38.09,Ryōko main,Sat,0,0,0,,If they go up against the Superintendent, they’ll lose their jobs when they retire.
+Dialogue: 0,0:11:34.41,0:11:38.09,Ryōko main,Sat,0,0,0,,If they go up against the superintendent, they’ll lose their jobs when they retire.
 Dialogue: 0,0:11:38.09,0:11:40.14,Ryōko main,Old,0,0,0,,That’s how it is.
 Dialogue: 0,0:11:40.14,0:11:45.93,Ryōko main,Old,0,0,0,,It’s because of this amakudari “bait” that Yakushiji Ryouko can do whatever she wants.
 Dialogue: 0,0:11:45.93,0:11:51.27,Ryōko main,Old,0,0,0,,If this bill is passed and amakudari itself is forbidden, then…
