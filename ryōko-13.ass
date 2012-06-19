@@ -5,13 +5,14 @@ ScriptType: v4.00+
 WrapStyle: 0
 PlayResX: 856
 PlayResY: 476
-Scroll Position: 171
-Active Line: 174
+Scroll Position: 199
+Active Line: 202
 Video File: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 13.mkv
 YCbCr Matrix: TV.601
 Video Aspect Ratio: c1.79832
-Video Position: 23684
+Video Position: 27535
 Keyframes File: ../avisynth/scxvid/ep13-scxvid.txt
+Last Style Storage: ryōko
 ScaledBorderAndShadow: yes
 
 [V4+ Styles]
@@ -21,6 +22,7 @@ Style: Ryōko italic,Fansub,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,
 Style: Ryōko overlap,Fansub,32,&H00FFCCCC,&H000000FF,&H00000000,&H00000000,0,0,0,0,83,100,0,0,1,2.5,0,2,100,100,40,0
 Style: Ryōko tl notes,Arno Pro,36,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,83,100,0,0,1,2.5,0,8,50,50,40,0
 Style: Ryōko title,Exmouth,64,&H0000003A,&H000000FF,&H0000003A,&H00000000,-1,0,0,0,83,100,0,0,1,0.1,0,4,100,100,40,0
+Style: Ryōko signs,Fansub,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,83,100,0,0,1,2.5,0,2,100,100,40,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
@@ -223,8 +225,10 @@ Dialogue: 0,0:18:19.86,0:18:24.58,Ryōko italic,Jun,0,0,0,,For some reason, in t
 Dialogue: 0,0:18:24.58,0:18:27.12,Ryōko italic,Jun,0,0,0,,Yakushiji Ryouko looked like\Nshe was enjoying herself.
 Dialogue: 0,0:18:40.01,0:18:45.97,Ryōko italic,Jun,0,0,0,,Yakushiji Ryouko’s violent actions were reported as an unfortunate accident during the practice.
 Dialogue: 0,0:18:45.97,0:18:51.40,Ryōko italic,Jun,0,0,0,,I’m sure my boss, who has a talent for deception,\Ndid the spadework behind the scenes.
+Dialogue: 0,0:18:52.73,0:18:54.36,Ryōko signs,,0,0,0,,{\an8\fs28}“Police Department Amakudari Restriction Bill” cancelled\NA result of the opposition parties’ breakdown
 Dialogue: 0,0:19:03.31,0:19:05.08,Ryōko main,Guy,0,0,0,,Holy night.
 Dialogue: 0,0:19:05.08,0:19:08.25,Ryōko main,Guy,0,0,0,,It is the calm before a storm.
+Dialogue: 0,0:19:08.41,0:19:09.25,Ryōko signs,,80,0,0,,{\an4\c&H000000&\bord0\blur0.6\fs40}Storm
 Dialogue: 0,0:19:10.31,0:19:14.52,Ryōko main,Ryo,0,0,0,,Various rumors have been mentioned in the media: that I am resigning from duty,
 Dialogue: 0,0:19:14.52,0:19:19.32,Ryōko main,Ryo,0,0,0,,or that I will officially assume the office of president of JACES,
 Dialogue: 0,0:19:19.32,0:19:22.11,Ryōko main,Ryo,0,0,0,,or that I am\Ngetting engaged.
