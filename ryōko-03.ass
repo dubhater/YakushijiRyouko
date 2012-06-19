@@ -5,12 +5,12 @@ ScriptType: v4.00+
 WrapStyle: 0
 PlayResX: 856
 PlayResY: 476
-Scroll Position: 8
-Active Line: 9
+Scroll Position: 300
+Active Line: 303
 Video File: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 03.mkv
 Video Colorspace: BT.601
 Video Aspect Ratio: c1.79832
-Video Position: 3739
+Video Position: 33938
 YCbCr Matrix: TV.601
 Keyframes File: ../avisynth/scxvid/ep03-scxvid.txt
 Last Style Storage: ryōko
@@ -330,5 +330,5 @@ Dialogue: 0,0:23:25.93,0:23:27.25,Ryōko main,Gal,0,0,0,,Have some tea,\NSuperin
 Dialogue: 0,0:23:27.25,0:23:27.82,Ryōko main,Ryo,0,0,0,,What’s this?
 Dialogue: 0,0:23:27.82,0:23:30.63,Ryōko main,Gal,0,0,0,,It’s Yuanyang, tea from the\Ncountry I love, Hong Kong.
 Dialogue: 0,0:23:30.63,0:23:32.60,Ryōko main,Gal,0,0,0,,You mix coffee and tea—
-Dialogue: 0,0:23:32.60,0:23:38.02,Ryōko main,Jun,0,0,0,,Yakushiji Ryouko’s Supernatural Case File, File Number 04: Musashino Twilight{Technically "Violet Time" isn't incorrect, I guess. But I like "Twilight" better. This is also what they used in the next episode.}.
+Dialogue: 0,0:23:32.60,0:23:38.02,Ryōko main,Jun,0,0,0,,Yakushiji Ryouko’s Supernatural Case File,\NFile Number 04: Musashino Twilight{Technically "Violet Time" isn't incorrect, I guess. But I like "Twilight" better. This is also what they used in the next episode.}.
 Dialogue: 0,0:23:38.02,0:23:39.36,Ryōko main,Gal,0,0,0,,You can also add—
