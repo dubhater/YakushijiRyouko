@@ -5,12 +5,12 @@ ScriptType: v4.00+
 WrapStyle: 0
 PlayResX: 856
 PlayResY: 476
-Scroll Position: 261
-Active Line: 265
+Scroll Position: 19
+Active Line: 18
 Video File: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 11.mkv
 YCbCr Matrix: TV.601
 Video Aspect Ratio: c1.79832
-Video Position: 28884
+Video Position: 4333
 Keyframes File: ../avisynth/scxvid/ep11-scxvid.txt
 ScaledBorderAndShadow: yes
 
@@ -41,8 +41,8 @@ Dialogue: 0,0:02:37.70,0:02:40.55,Ryōko main,Rur,0,0,0,,You were right, Uncle.
 Dialogue: 0,0:02:40.55,0:02:45.81,Ryōko main,Rur,0,0,0,,The Japanese Empire Security Service is now a global company called JACES.
 Dialogue: 0,0:02:47.59,0:02:51.48,Ryōko main,Rur,0,0,0,,But I haven’t given up yet.
 Dialogue: 0,0:02:51.91,0:02:58.24,Ryōko main,Rur,0,0,0,,Please laugh at me for being a tenacious woman, Uncle Yakushiji.
-Dialogue: 0,0:03:00.70,0:03:05.70,Ryōko title,,0,0,0,,{\blur0.6\fscx63\pos(194.3,88)\c&H060FB1&}Eleventh File
-Dialogue: 0,0:03:00.70,0:03:05.70,Ryōko title,,0,0,0,,{\blur0.7\fscx61\pos(306,281)\c&H0612A7&}The Princess of Takanawa
+Dialogue: 0,0:03:00.70,0:03:05.70,Ryōko title,,0,0,0,,{\blur0.6\fscx63\pos(194.3,88)\c&H060D9F&\3c&H060FB1&}Eleventh File
+Dialogue: 0,0:03:00.70,0:03:05.70,Ryōko title,,0,0,0,,{\blur0.7\fscx61\pos(306,281)\c&H0611A5&\3c&H0612A7&}The Princess of Takanawa
 Dialogue: 0,0:03:15.83,0:03:17.80,Ryōko main,Yuk,0,0,0,,Is my usual seat open?
 Dialogue: 0,0:03:20.43,0:03:22.35,Ryōko main,Old,0,0,0,,It practically is.
 Dialogue: 0,0:03:46.24,0:03:48.70,Ryōko main,Old,0,0,0,,We are in the training region.

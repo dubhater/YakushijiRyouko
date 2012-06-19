@@ -5,12 +5,12 @@ ScriptType: v4.00+
 WrapStyle: 0
 PlayResX: 856
 PlayResY: 476
-Scroll Position: 0
-Active Line: 2
+Scroll Position: 11
+Active Line: 10
 Video File: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 09.mkv
 YCbCr Matrix: TV.601
 Video Aspect Ratio: c1.79832
-Video Position: 2676
+Video Position: 3510
 Keyframes File: ../avisynth/scxvid/ep09-scxvid.txt
 Last Style Storage: ryōko
 ScaledBorderAndShadow: yes
@@ -35,8 +35,8 @@ Dialogue: 0,0:02:02.95,0:02:04.32,Ryōko main,Ryo,0,0,0,,Dubois?
 Dialogue: 0,0:02:04.32,0:02:05.64,Ryōko main,Ryo,0,0,0,,The Metropolitan Police Department?
 Dialogue: 0,0:02:05.64,0:02:09.59,Ryōko main,Ryo,70,70,0,,What business does the Paris district police department’s perverted vice-chief of bureau have with me?
 Dialogue: 0,0:02:15.27,0:02:19.51,Ryōko main,Ryo,0,0,0,,So that woman…\Nhas started to make her move.
-Dialogue: 0,0:02:26.37,0:02:31.33,Ryōko title,,0,0,0,,{\blur0.6\fscx63\pos(194.3,88)\c&H060F91&}Ninth File
-Dialogue: 0,0:02:26.37,0:02:31.33,Ryōko title,,0,0,0,,{\blur0.7\fscx61\pos(306,281)\c&H091288&}The Queen of Shiba
+Dialogue: 0,0:02:26.37,0:02:31.33,Ryōko title,,0,0,0,,{\blur0.6\fscx63\pos(194.3,88)\c&H0A137F&\3c&H060F91&}Ninth File
+Dialogue: 0,0:02:26.37,0:02:31.33,Ryōko title,,0,0,0,,{\blur0.7\fscx61\pos(306,281)\c&H0B1A7A&\3c&H091288&}The Queen of Shiba
 Dialogue: 0,0:02:51.41,0:02:52.73,Ryōko main,Ryo,0,0,0,,Izumida-kun.
 Dialogue: 0,0:02:52.73,0:02:54.75,Ryōko main,Jun,0,0,0,,S-Superintendent!
 Dialogue: 0,0:02:54.75,0:02:56.11,Ryōko main,Jun,0,0,0,,I thought you were dead!

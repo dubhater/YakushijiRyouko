@@ -5,12 +5,12 @@ ScriptType: v4.00+
 WrapStyle: 0
 PlayResX: 856
 PlayResY: 476
-Scroll Position: 248
-Active Line: 249
+Scroll Position: 8
+Active Line: 7
 Video File: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 10.mkv
 YCbCr Matrix: TV.601
 Video Aspect Ratio: c1.79832
-Video Position: 33780
+Video Position: 3047
 Keyframes File: ../avisynth/scxvid/ep10-scxvid.txt
 ScaledBorderAndShadow: yes
 
@@ -30,8 +30,8 @@ Dialogue: 0,0:01:34.48,0:01:36.74,Ryōko main,Jun,0,0,0,,She looks just like you
 Dialogue: 0,0:01:38.41,0:01:40.12,Ryōko main,Ryo,0,0,0,,Why?
 Dialogue: 0,0:01:40.12,0:01:41.30,Ryōko main,Ryo,0,0,0,,Why?
 Dialogue: 0,0:01:42.85,0:01:44.15,Ryōko main,Ryo,0,0,0,,Why is she a kid?
-Dialogue: 0,0:02:07.06,0:02:12.02,Ryōko title,,0,0,0,,{\blur0.6\fscx63\pos(194.3,88)\c&H060F99&}Tenth File
-Dialogue: 0,0:02:07.06,0:02:12.02,Ryōko title,,0,0,0,,{\blur0.7\fscx61\pos(306,281)\c&H061295&}Trap in Azabu
+Dialogue: 0,0:02:07.06,0:02:12.02,Ryōko title,,0,0,0,,{\blur0.6\fscx63\pos(194.3,88)\c&H050B86&\3c&H060F99&}Tenth File
+Dialogue: 0,0:02:07.06,0:02:12.02,Ryōko title,,0,0,0,,{\blur0.7\fscx61\pos(306,281)\c&H040D81&\3c&H061295&}Trap in Azabu
 Dialogue: 0,0:02:30.58,0:02:31.25,Ryōko main,Man,0,0,0,,Ruriko-sama.
 Dialogue: 0,0:02:33.22,0:02:39.26,Ryōko main,Isu,0,0,0,,The centipede is programmed\Nto not harm the girl.
 Dialogue: 0,0:02:39.69,0:02:42.18,Ryōko main,Isu,0,0,0,,Ryouko-san used that\Nto her advantage.

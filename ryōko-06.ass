@@ -5,12 +5,12 @@ ScriptType: v4.00+
 WrapStyle: 0
 PlayResX: 856
 PlayResY: 476
-Scroll Position: 251
-Active Line: 255
+Scroll Position: 13
+Active Line: 12
 Video File: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 06.mkv
 YCbCr Matrix: TV.601
 Video Aspect Ratio: c1.79832
-Video Position: 29447
+Video Position: 3379
 Keyframes File: ../avisynth/scxvid/ep06-scxvid.txt
 ScaledBorderAndShadow: yes
 
@@ -36,7 +36,7 @@ Dialogue: 0,0:02:10.31,0:02:11.27,Ryōko main,Ryo,0,0,0,,{\bord7\blur5}Long time
 Dialogue: 0,0:02:13.78,0:02:16.26,Ryōko main,,0,0,0,,{\bord7\blur5}Yes, it’s been a while.{I think they say "une éternité".}
 Dialogue: 0,0:02:16.26,0:02:18.49,Ryōko main,,0,0,0,,{\bord7\blur5}It’s great to see you again.
 Dialogue: 0,0:02:18.49,0:02:20.91,Ryōko main,,0,0,0,,{\bord7\blur5}We missed you so much.
-Dialogue: 0,0:02:20.91,0:02:25.87,Ryōko title,,0,0,0,,{\blur0.6\fscx63\pos(194.3,88)\c&H0A1B6D&}Sixth File
+Dialogue: 0,0:02:20.91,0:02:25.87,Ryōko title,,0,0,0,,{\blur0.6\fscx63\pos(194.3,88)\c&H0A1B6D&\3c&H0A1B6D&}Sixth File
 Dialogue: 0,0:02:27.69,0:02:31.96,Ryōko italic,Jun,0,0,0,,Marianne and Lucienne are two maids\Nwho work for Yakushiji Ryouko.
 Dialogue: 0,0:02:31.96,0:02:36.67,Ryōko italic,Jun,0,0,0,,Of course, being maids, they do household chores, but that’s not everything they do.
 Dialogue: 0,0:02:37.21,0:02:39.51,Ryōko italic,Jun,0,0,0,,Marianne is an expert\Nwith weapons,
