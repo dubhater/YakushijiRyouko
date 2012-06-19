@@ -5,13 +5,12 @@ ScriptType: v4.00+
 WrapStyle: 0
 PlayResX: 856
 PlayResY: 476
-Audio URI: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 09.mkv
-Scroll Position: 300
-Active Line: 304
+Scroll Position: 0
+Active Line: 2
 Video File: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 09.mkv
 YCbCr Matrix: TV.601
 Video Aspect Ratio: c1.79832
-Video Position: 28452
+Video Position: 2676
 Keyframes File: ../avisynth/scxvid/ep09-scxvid.txt
 Last Style Storage: ryōko
 ScaledBorderAndShadow: yes
@@ -29,7 +28,7 @@ Style: Ryōko signs,Fansub,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 2,0:00:00.00,0:23:50.82,Ryōko italic,,1,0,1,,{\an7\bord1\3c&HFFFFFF&\p1}m 250 360 l 250 470 m 605 360 l 605 470{\p0}
 Comment: 1,0:00:00.00,0:23:50.82,Ryōko italic,,1,0,1,,{\an7\bord1\3c&H000000&\p1}m 249 360 l 249 470 m 606 360 l 606 470{\p0}
-Dialogue: 0,0:01:51.58,0:01:59.95,Ryōko tl notes,Lad,0,0,0,,Note: This is a poem by Saigyou Houshi.
+Dialogue: 0,0:01:51.58,0:01:59.95,Ryōko tl notes,Lad,0,0,0,,This is a poem by Saigyou Houshi.
 Dialogue: 0,0:01:51.58,0:01:56.09,Ryōko main,Lad,0,0,0,,I wish to die in spring,\Nunder the blossoming trees,
 Dialogue: 0,0:01:56.73,0:01:59.95,Ryōko main,Lad,0,0,0,,on full moon’s day\Nduring the month of February.
 Dialogue: 0,0:02:02.95,0:02:04.32,Ryōko main,Ryo,0,0,0,,Dubois?

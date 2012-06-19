@@ -5,13 +5,12 @@ ScriptType: v4.00+
 WrapStyle: 0
 PlayResX: 856
 PlayResY: 476
-Audio URI: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 11.mkv
-Scroll Position: 290
-Active Line: 294
+Scroll Position: 261
+Active Line: 265
 Video File: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 11.mkv
 YCbCr Matrix: TV.601
 Video Aspect Ratio: c1.79832
-Video Position: 34005
+Video Position: 28884
 Keyframes File: ../avisynth/scxvid/ep11-scxvid.txt
 ScaledBorderAndShadow: yes
 
@@ -279,7 +278,7 @@ Dialogue: 0,0:19:17.01,0:19:19.96,Ryōko main,Non,0,0,0,,We call it the living d
 Dialogue: 0,0:19:22.54,0:19:25.30,Ryōko main,Non,0,0,0,,Gather the bones of the dead,
 Dialogue: 0,0:19:25.30,0:19:29.72,Ryōko main,Non,0,0,0,,line them up in order\Nfrom head to toe.
 Dialogue: 0,0:19:29.72,0:19:32.40,Ryōko main,Non,0,0,0,,Apply medicine by the name\Nof Hisou to the bones.
-Dialogue: 0,0:19:29.72,0:19:32.40,Ryōko tl notes,TL Note,0,0,0,,Note: Hisou is Arsenic Trioxide.
+Dialogue: 0,0:19:29.72,0:19:32.40,Ryōko tl notes,TL Note,0,0,0,,{\i1}Hisou{\i0} is Arsenic Trioxide.
 Dialogue: 0,0:19:33.04,0:19:36.15,Ryōko main,Non,0,0,0,,After mixing with strawberry\Nand chickweed leaves,
 Dialogue: 0,0:19:36.53,0:19:40.11,Ryōko main,Non,0,0,0,,tie up the bones with strings\Nfrom young Wisteria leaves,
 Dialogue: 0,0:19:40.11,0:19:42.83,Ryōko main,Non,0,0,0,,and wash them\Nthoroughly with water.
@@ -290,7 +289,7 @@ Dialogue: 0,0:19:56.06,0:19:58.05,Ryōko main,Non,0,0,0,,and organize them\Nbefo
 Dialogue: 0,0:19:58.05,0:20:00.38,Ryōko main,Non,0,0,0,,After 27 days have passed,
 Dialogue: 0,0:20:00.38,0:20:04.70,Ryōko main,Non,0,0,0,,go and burn\Naloes and incense,
 Dialogue: 0,0:20:04.70,0:20:07.22,Ryōko main,Non,0,0,0,,and conduct the\Nsecret art of Hangon.
-Dialogue: 0,0:20:04.70,0:20:07.22,Ryōko tl notes,TL Note,0,0,0,,Note: Hangon is the\Nrevitalization of the dead.
+Dialogue: 0,0:20:04.70,0:20:07.22,Ryōko tl notes,TL Note,0,0,0,,{\i1}Hangon{\i0} is the\Nrevitalization of the dead.
 Dialogue: 0,0:20:07.83,0:20:09.52,Ryōko main,Jun,0,0,0,,The secret art of Hangon?
 Dialogue: 0,0:20:09.52,0:20:14.45,Ryōko main,Jun,0,0,0,,The secret formula to create man from corpses. It’s said that Saigyou Houshi had performed it.
 Dialogue: 0,0:20:14.45,0:20:16.23,Ryōko main,Non,0,0,0,,As expected of Izumida-san.

@@ -5,13 +5,12 @@ ScriptType: v4.00+
 WrapStyle: 0
 PlayResX: 856
 PlayResY: 476
-Scroll Position: 252
-Active Line: 256
-Audio URI: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 10.mkv
+Scroll Position: 248
+Active Line: 249
 Video File: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 10.mkv
 YCbCr Matrix: TV.601
 Video Aspect Ratio: c1.79832
-Video Position: 34007
+Video Position: 33780
 Keyframes File: ../avisynth/scxvid/ep10-scxvid.txt
 ScaledBorderAndShadow: yes
 
@@ -205,11 +204,11 @@ Dialogue: 0,0:15:29.54,0:15:31.24,Ryōko main,Ryo,0,0,0,,When I feel like it.
 Dialogue: 0,0:15:38.62,0:15:41.32,Ryōko main,Kin,0,0,0,,I see. So she’s\Ncalled Monami-chan.
 Dialogue: 0,0:15:41.32,0:15:43.04,Ryōko main,Kin,0,0,0,,It’s a pretty name.
 Dialogue: 0,0:15:43.53,0:15:45.84,Ryōko main,Kin,0,0,0,,I wonder how it’s written.
-Dialogue: 0,0:15:45.84,0:15:47.63,Ryōko tl notes,TL Note,0,0,0,,Note: Mofuku is Japanese for funeral wear.
+Dialogue: 0,0:15:45.84,0:15:47.63,Ryōko tl notes,TL Note,0,0,0,,{\i1}Mofuku{\i0} is Japanese for {\i1}funeral wear{\i0}.
 Dialogue: 0,0:15:45.84,0:15:47.63,Ryōko main,Kin,0,0,0,,{\i1}Mo{\i0} as in {\i1}mofuku{\i0}.
-Dialogue: 0,0:15:47.63,0:15:49.87,Ryōko tl notes,TL Note,0,0,0,,Note: Namuamidabutsu is a buddhist prayer.
+Dialogue: 0,0:15:47.63,0:15:49.87,Ryōko tl notes,TL Note,0,0,0,,{\i1}Namuamidabutsu{\i0} is a buddhist prayer.
 Dialogue: 0,0:15:47.63,0:15:49.87,Ryōko main,Kin,0,0,0,,{\i1}Na{\i0} as in {\i1}namuamidabutsu{\i0}.
-Dialogue: 0,0:15:49.90,0:15:54.01,Ryōko tl notes,TL Note,0,0,0,,Note: The kanji for beautiful\Ncan also be read as “mi”.
+Dialogue: 0,0:15:49.90,0:15:54.01,Ryōko tl notes,TL Note,0,0,0,,The kanji for {\i1}beautiful{\i0}\Ncan also be read as {\i1}mi{\i0}.
 Dialogue: 0,0:15:49.90,0:15:50.79,Ryōko main,Kin,0,0,0,,And {\i1}beautiful{\i0}…
 Dialogue: 0,0:15:50.79,0:15:54.01,Ryōko main,Ryo,0,0,0,,{\i1}More importantly,{\i0}\Nwhat about my question?
 Dialogue: 0,0:15:54.72,0:15:57.14,Ryōko main,Kin,0,0,0,,Please give me\Na bit more time.
@@ -274,7 +273,7 @@ Dialogue: 0,0:23:18.40,0:23:24.36,Ryōko main,,0,0,0,,{\bord7\blur5}Any resembla
 Dialogue: 0,0:23:25.68,0:23:26.84,Ryōko main,Ryo,0,0,0,,Here’s a riddle.
 Dialogue: 0,0:23:26.84,0:23:27.85,Ryōko main,Jun,0,0,0,,Bring it on.
 Dialogue: 0,0:23:27.85,0:23:28.87,Ryōko main,Ryo,0,0,0,,What’s a sweet\Nversion of me?
-Dialogue: 0,0:23:28.87,0:23:30.69,Ryōko tl notes,TL Note,0,0,0,,Note: Dorayaki is red bean paste sandwiched in between two small pancakes.
+Dialogue: 0,0:23:28.87,0:23:30.69,Ryōko tl notes,TL Note,0,0,0,,{\i1}Dorayaki{\i0} is red bean paste sandwiched in between two small pancakes.
 Dialogue: 0,0:23:28.87,0:23:30.01,Ryōko main,Jun,0,0,0,,Dorayaki Oryou.
 Dialogue: 0,0:23:30.01,0:23:30.69,Ryōko main,Ryo,0,0,0,,What if I drove?
 Dialogue: 0,0:23:30.69,0:23:31.50,Ryōko main,Jun,0,0,0,,Drive Oryou.

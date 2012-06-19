@@ -5,13 +5,12 @@ ScriptType: v4.00+
 WrapStyle: 0
 PlayResX: 856
 PlayResY: 476
-Audio URI: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 13.mkv
-Scroll Position: 141
-Active Line: 142
+Scroll Position: 171
+Active Line: 174
 Video File: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 13.mkv
 YCbCr Matrix: TV.601
 Video Aspect Ratio: c1.79832
-Video Position: 19691
+Video Position: 23684
 Keyframes File: ../avisynth/scxvid/ep13-scxvid.txt
 ScaledBorderAndShadow: yes
 
@@ -199,7 +198,7 @@ Dialogue: 0,0:16:19.35,0:16:22.36,Ryōko main,Ryo,0,0,0,,Created one and creator
 Dialogue: 0,0:16:22.36,0:16:23.96,Ryōko main,Ryo,0,0,0,,if one does not seek to melt,
 Dialogue: 0,0:16:23.96,0:16:26.64,Ryōko main,Ryo,0,0,0,,keep the secret.
 Dialogue: 0,0:16:26.64,0:16:27.81,Ryōko main,Jun,0,0,0,,What is…?
-Dialogue: 0,0:16:27.81,0:16:31.09,Ryōko tl notes,Note,0,0,0,,Note: Senjuushou is a collection of fairy tales and legends attributed to Saigyou Houshi.
+Dialogue: 0,0:16:27.81,0:16:31.09,Ryōko tl notes,Note,0,0,0,,{\i1}Senjuushou{\i0} is a collection of fairy tales and legends attributed to Saigyou Houshi.
 Dialogue: 0,0:16:27.81,0:16:31.09,Ryōko main,Ryo,0,0,0,,A verse from the Senjuushou written by Saigyou Houshi.
 Dialogue: 0,0:16:31.55,0:16:37.10,Ryōko main,Ryo,0,0,0,,Saigyou Houshi made a mistake when he tested the secret arts of Hangon.
 Dialogue: 0,0:16:37.10,0:16:40.21,Ryōko main,Ryo,0,0,0,,It was because he burned a certain kind of incense that wasn’t supposed to be burnt.
