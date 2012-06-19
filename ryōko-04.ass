@@ -5,12 +5,12 @@ ScriptType: v4.00+
 WrapStyle: 0
 PlayResX: 856
 PlayResY: 476
-Scroll Position: 29
-Active Line: 33
+Scroll Position: 0
+Active Line: 4
 Video File: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 04.mkv
 YCbCr Matrix: TV.601
 Video Aspect Ratio: c1.79832
-Video Position: 5123
+Video Position: 2649
 ScaledBorderAndShadow: yes
 
 [V4+ Styles]
@@ -27,7 +27,7 @@ Comment: 2,0:00:00.00,0:23:50.82,Ryōko italic,,1,0,1,,{\an7\bord1\3c&HFFFFFF&\p
 Comment: 1,0:00:00.00,0:23:50.82,Ryōko italic,,1,0,1,,{\an7\bord1\3c&H000000&\p1}m 249 360 l 249 470 m 606 360 l 606 470{\p0}
 Dialogue: 0,0:01:41.66,0:01:43.69,Ryōko main,Guy,0,0,0,,Cell fusion complete.
 Dialogue: 0,0:01:50.46,0:01:54.92,Ryōko title,,0,0,0,,{\blur0.6\fscx63\pos(194.3,88)\c&H09135C&}Fourth File
-Dialogue: 0,0:01:50.46,0:01:54.92,Ryōko title,,0,0,0,,{\blur0.7\fscx63\pos(306,281)\c&H000B4C&}Musashino Twilight
+Dialogue: 0,0:01:50.46,0:01:54.92,Ryōko title,,0,0,0,,{\blur0.7\fscx63\pos(306,281)\c&H000B4C&}Musashino Twilight{武蔵野 - Musashino, すみれいろどき - sumireirodoki. Exactly what he says in the previous episode, where it's translated as "Musashino Violet Time".}
 Dialogue: 0,0:02:01.61,0:02:03.14,Ryōko main,Ryo,0,0,0,,Turn left at the\Nnext intersection.
 Dialogue: 0,0:02:03.79,0:02:08.19,Ryōko main,Jun,0,0,0,,Superintendent,\Nplease take over {the }driving.
 Dialogue: 0,0:02:10.38,0:02:12.44,Ryōko main,Jun,0,0,0,,At least add a navigation\Nsystem to the car.
