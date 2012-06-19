@@ -5,14 +5,15 @@ ScriptType: v4.00+
 WrapStyle: 0
 PlayResX: 856
 PlayResY: 476
-Scroll Position: 11
-Active Line: 10
+Scroll Position: 209
+Active Line: 211
 Video File: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 09.mkv
 YCbCr Matrix: TV.601
 Video Aspect Ratio: c1.79832
-Video Position: 3510
+Video Position: 19930
 Keyframes File: ../avisynth/scxvid/ep09-scxvid.txt
 Last Style Storage: ryōko
+Audio URI: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 09.mkv
 ScaledBorderAndShadow: yes
 
 [V4+ Styles]
@@ -49,7 +50,7 @@ Dialogue: 0,0:03:14.04,0:03:16.46,Ryōko main,Sat,0,0,0,,Both of you, may your d
 Dialogue: 0,0:03:16.46,0:03:18.85,Ryōko main,Old,0,0,0,,Make sure you rest in peace.
 Dialogue: 0,0:03:18.85,0:03:21.93,Ryōko main,Kis,0,0,0,,Senpai, you can leave\Nthe rest to me.
 Dialogue: 0,0:03:21.93,0:03:23.31,Ryōko main,Jun,0,0,0,,Wait a second!
-Dialogue: 0,0:03:23.31,0:03:26.74,Ryōko main,Yuk,0,0,0,,Keep a close eye on her so she won’t come back to haunt us.
+Dialogue: 0,0:03:23.31,0:03:26.74,Ryōko main,Yuk,0,0,0,,Keep a close eye on her so she doesn’t come back to haunt us.
 Dialogue: 0,0:03:26.74,0:03:28.19,Ryōko main,Jun,0,0,0,,This can’t be!
 Dialogue: 0,0:03:31.80,0:03:33.89,Ryōko main,Jun,0,0,0,,W-Wait! Hey!
 Dialogue: 0,0:03:33.89,0:03:35.52,Ryōko main,Jun,0,0,0,,Wait!
@@ -120,7 +121,7 @@ Dialogue: 0,0:06:42.58,0:06:44.38,Ryōko main,Yuk,0,0,0,,I hear she’s out of t
 Dialogue: 0,0:06:45.16,0:06:47.04,Ryōko main,Jun,0,0,0,,So you knew.
 Dialogue: 0,0:06:47.04,0:06:50.94,Ryōko main,Jun,0,0,0,,Yes, my boss’s whims\Nare troublesome.
 Dialogue: 0,0:06:52.26,0:06:52.92,Ryōko main,Jun,0,0,0,,And?
-Dialogue: 0,0:06:52.92,0:06:54.29,Ryōko main,Jun,0,0,0,,Did you want to discuss it?
+Dialogue: 0,0:06:52.92,0:06:54.29,Ryōko main,Jun,0,0,0,,What did you\Nwant to discuss?
 Dialogue: 0,0:06:56.73,0:06:58.99,Ryōko main,Yuk,0,0,0,,Do you know this woman?
 Dialogue: 0,0:07:01.04,0:07:03.36,Ryōko main,Jun,0,0,0,,No, I don’t.
 Dialogue: 0,0:07:04.22,0:07:04.86,Ryōko main,,0,0,0,,I see.
@@ -213,6 +214,7 @@ Dialogue: 0,0:12:20.05,0:12:21.59,Ryōko main,Sat,0,0,0,,I’ll get a double Bai
 Dialogue: 0,0:12:22.16,0:12:23.50,Ryōko main,Guy,0,0,0,,Two coarse teas and a Baibai.
 Dialogue: 0,0:12:23.50,0:12:24.68,Ryōko main,Guy,0,0,0,,Understood!
 Dialogue: 0,0:12:26.25,0:12:30.90,Ryōko italic,Jun,0,0,0,,But one week later,\Nthe impossible happened.
+Dialogue: 0,0:12:31.56,0:12:33.52,Ryōko signs,,80,80,0,,{\an8}Abnormally fast voting\NGovernment basically agrees with the opposition party
 Dialogue: 0,0:12:32.71,0:12:40.08,Ryōko italic,Jun,0,0,0,,Is Yakushiji Ryouko seeing the news that could endanger her position?
 Dialogue: 0,0:12:48.59,0:12:50.44,Ryōko main,Jac,0,0,0,,Oh, what time is it right now?
 Dialogue: 0,0:12:50.44,0:12:52.92,Ryōko main,Jac,0,0,0,,My head hurts.
@@ -232,11 +234,11 @@ Dialogue: 0,0:13:22.32,0:13:24.66,Ryōko italic,Ann,0,0,0,,The article also stat
 Dialogue: 0,0:13:24.66,0:13:26.78,Ryōko italic,Ann,0,0,0,,her selfishness is also well-known within the Metropolitan Police Department.
 Dialogue: 0,0:13:26.78,0:13:29.52,Ryōko main,Jac,0,0,0,,They wrote an article\Non Oryou-chan?
 Dialogue: 0,0:13:29.52,0:13:32.58,Ryōko main,Jac,0,0,0,,I don’t want to hear anything\Nbad about Oryou-chan!
-Dialogue: 0,0:13:28.75,0:13:35.16,Ryōko italic,Ann,0,0,0,,{\an8}It also states that, according to witnesses,\NSuperintendent Yakushiji’s selfishness was incomparable.
+Comment: 0,0:13:28.75,0:13:35.16,Ryōko italic,Ann,80,80,0,,{\an8}It also states that, according to witnesses,\NSuperintendent Yakushiji’s selfishness is incomparable.
 Dialogue: 0,0:13:35.21,0:13:43.23,Ryōko italic,Guy,0,0,0,,She thinks that the police organizations that exist for the country’s safety belong to her.
 Dialogue: 0,0:13:43.23,0:13:46.82,Ryōko italic,Guy,0,0,0,,Letting a woman with no respect for the country\Nwhatsoever stay in the Metropolitan Police Department
 Dialogue: 0,0:13:46.82,0:13:51.01,Ryōko italic,Guy,0,0,0,,is very dangerous,\Neven if she’s in management.
-Dialogue: 0,0:13:51.65,0:13:53.89,Ryōko italic,Guy,0,0,0,,Besides, around us are…
+Dialogue: 0,0:13:51.65,0:13:53.89,Ryōko italic,Guy,0,0,0,,Besides, around us are—
 Dialogue: 0,0:13:54.42,0:13:58.47,Ryōko italic,Lad,0,0,0,,{\an8}There have been numerous bureaucratic scandals in the past,
 Dialogue: 0,0:13:58.47,0:14:04.18,Ryōko italic,Lad,0,0,0,,{\an8}so I don’t believe the citizens will be content until she provides an explanation.
 Dialogue: 0,0:14:04.18,0:14:08.32,Ryōko italic,Lad,0,0,0,,{\an8}And the government’s\Nresponse is nothing but poor.
