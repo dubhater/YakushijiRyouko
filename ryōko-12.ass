@@ -38,7 +38,7 @@ Dialogue: 0,0:02:05.87,0:02:06.81,Ryōko main,Mon,0,0,0,,Izumida!
 Dialogue: 0,0:02:09.38,0:02:11.00,Ryōko main,Ryo,0,0,0,,Izumida-kun, behind you!
 Dialogue: 0,0:02:26.33,0:02:31.33,Ryōko title,,0,0,0,,{\blur0.6\fscx63\pos(172,88)\c&H060FB7&\3c&H060FB1&}Twelfth File
 Dialogue: 0,0:02:26.33,0:02:31.33,Ryōko title,,0,0,0,,{\blur0.7\fscx61\pos(224,281)\c&H0612B6&\3c&H0612B6&}Tokyo. Dead  or Love (first part){Jeez, what's with that narrow space between "Dead" and "or"?}
-Dialogue: 0,0:02:38.11,0:02:41.37,Ryōko main,Rur,0,0,0,,That’s your friend.
+Dialogue: 0,0:02:38.11,0:02:41.37,Ryōko main,Rur,0,0,0,,That’s your sister{nakama - stretching it a bit...}.
 Dialogue: 0,0:02:44.16,0:02:45.43,Ryōko main,Mon,0,0,0,,What do you mean?
 Dialogue: 0,0:02:45.43,0:02:46.93,Ryōko main,Ryo,0,0,0,,Monami, don’t listen\Nto what she says!
 Dialogue: 0,0:02:47.80,0:02:50.77,Ryōko main,Rur,0,0,0,,I made your first\Nversion in France.
@@ -111,7 +111,7 @@ Dialogue: 0,0:09:47.45,0:09:48.99,Ryōko main,Ryo,0,0,0,,You must be punished.
 Dialogue: 0,0:09:55.38,0:09:59.12,Ryōko main,Ryo,0,0,0,,On second thought, I’ll punish you after I defeat Ruriko.
 Dialogue: 0,0:09:59.92,0:10:02.08,Ryōko main,Ryo,0,0,0,,Wait here quietly.
 Dialogue: 0,0:10:12.88,0:10:15.76,Ryōko main,Jac,0,0,0,,Well, it’s normal\Nto be surprised.
-Dialogue: 0,0:10:15.76,0:10:20.22,Ryōko main,Jac,0,0,0,,You were called and told up front that people are after your life.
+Dialogue: 0,0:10:15.76,0:10:20.22,Ryōko main,Jac,0,0,0,,You were called and told up-front that people are after your life.
 Dialogue: 0,0:10:20.86,0:10:23.31,Ryōko main,Ryo,0,0,0,,Shiba will start its operations\Nby going after you.
 Dialogue: 0,0:10:23.31,0:10:25.40,Ryōko main,Abe,0,0,0,,The Shiba government building?
 Dialogue: 0,0:10:25.40,0:10:27.00,Ryōko main,Sat,0,0,0,,Why is that?
@@ -132,7 +132,7 @@ Dialogue: 0,0:11:07.58,0:11:10.04,Ryōko main,Kis,0,0,0,,Oryou-sama, what exactl
 Dialogue: 0,0:11:09.38,0:11:11.06,Ryōko overlap,Yuk,0,0,0,,I’m not convinced either.
 Dialogue: 0,0:11:12.79,0:11:16.35,Ryōko main,Yuk,0,0,0,,Yes, I was investigating Shiba,
 Dialogue: 0,0:11:16.35,0:11:19.28,Ryōko main,Yuk,0,0,0,,but it doesn’t seem\Nlike they’ve noticed at all.
-Dialogue: 0,0:11:19.77,0:11:20.76,Ryōko main,Yuk,0,0,0,,Why is that?
+Dialogue: 0,0:11:19.77,0:11:20.76,Ryōko main,Yuk,0,0,0,,Why then?
 Dialogue: 0,0:11:20.76,0:11:23.49,Ryōko main,Ryo,0,0,0,,Oyuki, do you remember\NNonagase-kun?
 Dialogue: 0,0:11:23.49,0:11:25.47,Ryōko main,Yuk,0,0,0,,Nonagase-kun?
 Dialogue: 0,0:11:25.47,0:11:28.37,Ryōko main,Yuk,0,0,0,,Oh, the man who drove us\Nto Nerima the other day?
@@ -163,7 +163,7 @@ Dialogue: 0,0:13:09.49,0:13:10.97,Ryōko main,Ryo,0,0,0,,I’ll be back.
 Dialogue: 0,0:13:18.61,0:13:20.17,Ryōko main,Man,0,0,0,,Reporting from the\NMain Observatory.
 Dialogue: 0,0:13:20.17,0:13:22.48,Ryōko main,Man,0,0,0,,We’ve completed\Nthe connection.
 Dialogue: 0,0:13:22.48,0:13:23.40,Ryōko main,Guy,0,0,0,,All right.
-Dialogue: 0,0:13:23.40,0:13:27.49,Ryōko main,Guy,0,0,0,,Then evacuate everyone in the tower and secure the front entrance.
+Dialogue: 0,0:13:23.40,0:13:27.49,Ryōko main,Guy,0,0,0,,Then evacuate everyone from the\Ntower and secure the front entrance.
 Dialogue: 0,0:13:27.49,0:13:28.65,Ryōko main,Man,0,0,0,,Roger that.
 Dialogue: 0,0:13:30.30,0:13:32.41,Ryōko main,Non,0,0,0,,We’re not going to leave\Nanyone at the scene?
 Dialogue: 0,0:13:33.53,0:13:37.96,Ryōko main,Man,0,0,0,,If someone’s nearby, it apparently causes the system to malfunction.
