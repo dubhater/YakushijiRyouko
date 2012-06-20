@@ -5,13 +5,14 @@ ScriptType: v4.00+
 WrapStyle: 0
 PlayResX: 856
 PlayResY: 476
-Scroll Position: 19
-Active Line: 18
+Scroll Position: 186
+Active Line: 190
 Video File: ../Yakushiji Ryouko no kaiki jikenbo [jackoneill]/[jackoneill] Yakushiji Ryouko no kaiki jikenbo 11.mkv
 YCbCr Matrix: TV.601
 Video Aspect Ratio: c1.79832
-Video Position: 4333
+Video Position: 20857
 Keyframes File: ../avisynth/scxvid/ep11-scxvid.txt
+Last Style Storage: ryōko
 ScaledBorderAndShadow: yes
 
 [V4+ Styles]
@@ -21,11 +22,15 @@ Style: Ryōko italic,Fansub,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,-1,
 Style: Ryōko overlap,Fansub,32,&H00FFCCCC,&H000000FF,&H00000000,&H00000000,0,0,0,0,83,100,0,0,1,2.5,0,2,100,100,40,0
 Style: Ryōko tl notes,Arno Pro,36,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,-1,0,0,0,83,100,0,0,1,2.5,0,8,50,50,40,0
 Style: Ryōko title,Exmouth,64,&H0000003A,&H000000FF,&H0000003A,&H00000000,-1,0,0,0,83,100,0,0,1,0.1,0,4,100,100,40,0
+Style: Ryōko signs arno pro semibold,ArnoPro-Smbd,60,&H00000000,&H000000FF,&H00EFEFEF,&H00000000,0,0,0,0,83,100,0,0,1,2.5,0,2,100,100,40,0
+Style: Ryōko signs,Fansub,32,&H00FFFFFF,&H000000FF,&H00000000,&H00000000,0,0,0,0,83,100,0,0,1,2.5,0,2,100,100,40,0
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Comment: 2,0:00:00.00,0:23:50.82,Ryōko italic,,1,0,1,,{\an7\bord1\3c&HFFFFFF&\p1}m 250 360 l 250 470 m 605 360 l 605 470{\p0}
 Comment: 1,0:00:00.00,0:23:50.82,Ryōko italic,,1,0,1,,{\an7\bord1\3c&H000000&\p1}m 249 360 l 249 470 m 606 360 l 606 470{\p0}
+Dialogue: 0,0:01:31.82,0:01:36.28,Ryōko signs arno pro semibold,,0,0,0,,{\blur0.8\alpha&HFF&\pos(428,473)\t(0,397,\alpha&H00&)}Summer, 1946
+Dialogue: 0,0:01:36.28,0:01:36.74,Ryōko signs arno pro semibold,,0,0,0,,{\blur0.8\alpha&H00&\pos(428,473)\t(66,,\alpha&HFF&)}Summer, 1946
 Dialogue: 0,0:01:39.43,0:01:41.34,Ryōko italic,Man,0,0,0,,Japan lost the war.
 Dialogue: 0,0:01:41.99,0:01:43.86,Ryōko italic,Man,0,0,0,,But humanity is strong.
 Dialogue: 0,0:01:43.86,0:01:49.38,Ryōko italic,Man,0,0,0,,I’m sure a city will be built over this burnt-down field and it’ll be bustling with people.
@@ -43,8 +48,8 @@ Dialogue: 0,0:02:47.59,0:02:51.48,Ryōko main,Rur,0,0,0,,But I haven’t given u
 Dialogue: 0,0:02:51.91,0:02:58.24,Ryōko main,Rur,0,0,0,,Please laugh at me for being a tenacious woman, Uncle Yakushiji.
 Dialogue: 0,0:03:00.70,0:03:05.70,Ryōko title,,0,0,0,,{\blur0.6\fscx63\pos(194.3,88)\c&H060D9F&\3c&H060FB1&}Eleventh File
 Dialogue: 0,0:03:00.70,0:03:05.70,Ryōko title,,0,0,0,,{\blur0.7\fscx61\pos(306,281)\c&H0611A5&\3c&H0612A7&}The Princess of Takanawa
-Dialogue: 0,0:03:15.83,0:03:17.80,Ryōko main,Yuk,0,0,0,,Is my usual seat open?
-Dialogue: 0,0:03:20.43,0:03:22.35,Ryōko main,Old,0,0,0,,It practically is.
+Dialogue: 0,0:03:15.83,0:03:17.80,Ryōko main,Yuk,0,0,0,,Is my usual seat free?
+Dialogue: 0,0:03:20.43,0:03:22.35,Ryōko main,Old,0,0,0,,Of course{Probably not exactly what he says, but whatever.}.
 Dialogue: 0,0:03:46.24,0:03:48.70,Ryōko main,Old,0,0,0,,We are in the training region.
 Dialogue: 0,0:03:49.27,0:03:54.24,Ryōko main,Yuk,0,0,0,,Is it true that if your house is in a designated training region, no one can stay there anymore?
 Dialogue: 0,0:03:54.24,0:03:55.15,Ryōko main,Old,0,0,0,,Yes.
@@ -55,7 +60,7 @@ Dialogue: 0,0:04:51.33,0:04:53.94,Ryōko main,Yuk,0,0,0,,I’d like to speak\Nto
 Dialogue: 0,0:04:53.94,0:04:54.91,Ryōko main,Yuk,0,0,0,,Can we meet?
 Dialogue: 0,0:04:54.91,0:04:56.44,Ryōko main,Jun,0,0,0,,What? Right now?
 Dialogue: 0,0:04:56.44,0:04:58.58,Ryōko main,Yuk,0,0,0,,I’ll go over there.
-Dialogue: 0,0:04:58.58,0:05:01.18,Ryōko main,Yuk,0,0,0,,I’d like to report the results from my investigation so far.
+Dialogue: 0,0:04:58.58,0:05:01.18,Ryōko main,Yuk,0,0,0,,I’d like to report the results\Nof my investigation so far.
 Dialogue: 0,0:05:01.18,0:05:02.29,Ryōko main,Jun,0,0,0,,But…
 Dialogue: 0,0:05:03.86,0:05:05.05,Ryōko main,Yuk,0,0,0,,Oryou!
 Dialogue: 0,0:05:05.05,0:05:06.57,Ryōko main,Yuk,0,0,0,,Why are you here?
@@ -111,7 +116,7 @@ Dialogue: 0,0:08:13.96,0:08:15.05,Ryōko main,Yuk,0,0,0,,It’s strange…
 Dialogue: 0,0:08:15.05,0:08:16.46,Ryōko main,Ryo,0,0,0,,Your face?
 Dialogue: 0,0:08:16.46,0:08:17.68,Ryōko main,Yuk,0,0,0,,Isn’t it?
 Dialogue: 0,0:08:18.00,0:08:23.27,Ryōko main,Yuk,0,0,0,,You said “right after the war”… how old does that make Ruriko?
-Dialogue: 0,0:08:23.89,0:08:26.52,Ryōko main,Ryo,0,0,0,,I found this in the main house on Kamakura Mountain.
+Dialogue: 0,0:08:23.89,0:08:26.52,Ryōko main,Ryo,0,0,0,,I found this in the main house\Non Kamakura Mountain.
 Dialogue: 0,0:08:27.21,0:08:30.42,Ryōko main,Yuk,0,0,0,,There are no traces of the photograph being altered at all.
 Comment: 0,0:08:36.17,0:08:36.95,Ryōko main,Jun,0,0,0,,Oh,
 Dialogue: 0,0:08:37.62,0:08:39.30,Ryōko main,Jun,0,0,0,,I completely forgot about it.
@@ -212,6 +217,7 @@ Dialogue: 0,0:14:15.74,0:14:20.33,Ryōko main,Jun,0,0,0,,What is she planning to
 Dialogue: 0,0:14:20.33,0:14:23.40,Ryōko main,Jun,0,0,0,,The third is\NMonami-chan herself.
 Dialogue: 0,0:14:23.40,0:14:25.67,Ryōko main,Jun,0,0,0,,Who exactly is she?
 Dialogue: 0,0:14:26.17,0:14:27.93,Ryōko main,Ryo,0,0,0,,And the fourth mystery.
+Dialogue: 0,0:14:27.93,0:14:29.93,Ryōko signs,,0,0,0,,{\an8}Someone is listening in on us.{誰か - dareka, に - ni; 盗聴 - touchou, されてる - sareteru}
 Dialogue: 0,0:14:34.58,0:14:35.62,Ryōko main,Jun,0,0,0,,Superintendent!
 Dialogue: 0,0:14:35.62,0:14:37.42,Ryōko main,Ryo,0,0,0,,Bear with it for a bit.
 Dialogue: 0,0:14:37.42,0:14:40.53,Ryōko main,Ryo,0,0,0,,This is the only place\Nthey’re not bugging.
@@ -232,7 +238,7 @@ Dialogue: 0,0:15:16.37,0:15:17.18,Ryōko main,Mon,0,0,0,,What are you doing?
 Dialogue: 0,0:15:17.18,0:15:21.19,Ryōko main,Ryo,0,0,0,,J-Just… something…
 Dialogue: 0,0:15:29.68,0:15:31.07,Ryōko main,Non,0,0,0,,So this is where you were.
 Dialogue: 0,0:15:32.32,0:15:34.05,Ryōko main,Non,0,0,0,,You don’t seem too happy.
-Dialogue: 0,0:15:34.05,0:15:36.72,Ryōko main,Non,0,0,0,,Is this regarding\NIzumida-san?
+Dialogue: 0,0:15:34.05,0:15:36.72,Ryōko main,Non,0,0,0,,Is it because of\NIzumida-san?
 Dialogue: 0,0:15:39.10,0:15:41.17,Ryōko main,Non,0,0,0,,You can consult\Nme if you like.
 Dialogue: 0,0:15:41.79,0:15:42.74,Ryōko main,Mon,0,0,0,,Really?
 Dialogue: 0,0:15:42.74,0:15:43.83,Ryōko main,Non,0,0,0,,Of course you can.
